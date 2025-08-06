@@ -1,0 +1,3477 @@
+{
+    "records": [
+        {
+            "id": "reckAjLJfYacigZLE",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Human+Tech Week",
+                "Full Name": "Nichol Bradford",
+                "PFP Image": "nicholheadshot.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/flc5RzMxjC65_HDE4swCoA/-edk7JSTCklXpDTwy0EYftS-jGhtEDm3Y8JhQGClC0rFFrImE2jhB1oHoYA2Zsfhnv3ez0irSg314Dj-m6hyMdZm0izSEu1IKY2BSv_P1se9Cq38J_Wx-tBLAGXIiszlvlvem3IDX-ReRsAM2g9VgRS8qhUuwWQliMdKQ0pohW8/98I_nkrCMJgePmzmVVRWjo2WoSpBEcofa14lDESqL2E)",
+                "H+T Sort": "1"
+            },
+            "createdTime": "2025-03-17T06:02:15Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recxSm8FhNS0vUz15",
+            "fields": {
+                "Role": "Author",
+                "": "",
+                "Organization": "Term Limits",
+                "Full Name": "Esther Dyson",
+                "PFP Image": "DysonEsther.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/yD2GQyaZX58GjAD2B_UIfg/BFCbvnbvYSu0Lkyeauyo3rizk0BozsCI0-_LEK3t4GUY9K8RppSuxoE1wTzL9SKIYn5BQHLEkfQ0OJ7SF_lO5QbGYNj9VO0RS6Um8LoNTv4HeYH4XsxEMqaFybPO0eMe50KUBXci0N44CqTI1zCu3A/1Yx4CPJd6p33zQUFo1-yzt6bSryI3cbSBm_4GXuEzzo)",
+                "H+T Sort": "1--1"
+            },
+            "createdTime": "2025-05-11T19:14:04Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recAfFjV0F6mAgx8f",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Reinvent Futures",
+                "Full Name": "Peter Leyden",
+                "PFP Image": "1742326954205 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TZPYRTHleUzGM_KQbP19tQ/dG_60jnCGYimvKvvuyzxcg_3KReHDAlRX00cGOcaSAN09fH0Q7ukovsg2t6pC_tB6Y4HxGEF7zih4oHCrQgzQoSxZEYj4-EAK7Yw4Qjdz19goAeyDTgkyeV5Xre2xSgej2qahEGlvfAXzqZ0WcP_CA/-jN-leryJ_SuicRIEzul3ubJp8pe8dGfMqkyFFbIKrA)",
+                "H+T Sort": "1--4"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recYQizJODDMXVaUC",
+            "fields": {
+                "Role": "VP of Health, Education, and Consumer Industries",
+                "": "",
+                "Organization": "Intel Corporation",
+                "Full Name": "Stacey Shulman",
+                "PFP Image": "staceyshulman.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/x1_TtjK43M0cX78gKUmeYw/eajCnBlkoHckITE6fIx9RoU93jwQIUdOs98Uw7qTcjZMKoKsyB_YLGFBt0BdL3ytFTPQM28FUQTJSjjsOez7nbaIighHvRaMRZEX4BXbJEUdZtXmHtDOgXHcmmwcTmBfqOD3MezJRfo4_rnZFliDCj3jxq8bOafq30iwbpGt188/IBPE9IvL84YvJwdcgK74BJOvV4Qrv0jqxHCtsPkR1Ck)",
+                "H+T Sort": "1--11"
+            },
+            "createdTime": "2025-04-08T18:04:29Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recjHAwQhdlBxcOVK",
+            "fields": {
+                "Role": "Founding CEO",
+                "": "",
+                "Organization": "Transhuman",
+                "Full Name": "Amanda Johnstone",
+                "PFP Image": "Amanda Johnstone Headshot 2025.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/PU41BaSAuOPL1n6y0oJrlw/kgHmHMGvlXeVJvi6pMTlJd8bLeVGe0HGkmdOaFB-IAMnkwXf8E87GbCvnQwvo_34c8J_OfRKWnU1aWwmDCeybysKvm8hSoTeaDRG8A7mEM3Wk7I_xbOWCqZNa3geL7H1pSWt-44EiJs5s9mjJ1-NBTh6krVDhlid22lr9_VCkxLOEVFbLJjs-a3ASNVn6Drt/C1Kg8XHF-gJV8tK5CAbGKYZuHh_v791J690G08p8RK4)",
+                "H+T Sort": "1--12_3-15"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recmjk0B10kxi3haf",
+            "fields": {
+                "Role": "Founder and CEO",
+                "": "",
+                "Organization": "Upgrade Labs",
+                "Full Name": "Dave Asprey",
+                "PFP Image": "1695660705887 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/GdECo3daAHwgdXftY5tVxw/2IJ1T-Bm6_7rgimWpnZzv-OoBqBgBySV8FewDkiX04iZwrxPpHi33NltVXqBNs-N6bZEcuTEQ1wqgi7LZBH6IiULDIVku3fDE_ZQ_I8XxRrK0z7VgsQWf6kvqbuDnc0hVXQGE841OZ2YmhfPnJhnjA/qZsdM6NG7n3QfWcC3KK-gcq2yGE_Uw-cbzP0ZenBJOY)",
+                "H+T Sort": "1--13_1-5"
+            },
+            "createdTime": "2025-05-07T00:20:38Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec7bKMADQVpTtVz1",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "Superpower",
+                "Full Name": "Jacob Peters",
+                "PFP Image": "1716258694853 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/5VV67vchRRsBCfDG8O5aEA/0D3AgLGsasFzKX6DPH0yILZRIB0PaVzCt_oLFwtpht43SNjjSm3zCYbalT0gWQFfjJEF87TDKw1SzU9kiKLvUn8QBnq9-yFmpm1uEnF5GwdKem3dQ7lVZlz8OLuS10eClJBNBs4cvzPavKv_IvqjmQ/W0CJnx7lnMhpqqbSMlAqKcTf4x8qItu44dWlAJsqOqg)",
+                "H+T Sort": "1--14_1-7"
+            },
+            "createdTime": "2025-05-07T00:14:08Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recDalS7ohJ9jsqWr",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "The Future of Now",
+                "Full Name": "Elatia Abate",
+                "PFP Image": "1590965253945 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/PJwqtz0htjalM5a2cL1UYg/EXlXuLP8Rxf6ZNRaz2X50ZAhuOHa83ukFB8azpVjylhav4lAksmM-NSu7R4Ei2MgB2RoVR8foD-8aWCk6MZOSAB7SfLtdlGvYoME7pcGScpTCOnJ72k7X1T3TDvgx35r2Urp9SEvMPFzYYQDmcnWtQ/5bnCgCQRGLdadZ2zaLx_-ax_MpSn1BZFt1ZBtoE0WeM)",
+                "H+T Sort": "1--15_3-1"
+            },
+            "createdTime": "2025-05-06T16:46:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqqOmYBe1sC4XKs",
+            "fields": {
+                "Role": "Author and Co-Founder",
+                "": "",
+                "Organization": "Stellar World Foundation",
+                "Full Name": "Tony Seba",
+                "PFP Image": "Tony_Seba-1617 copy.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Mt2syWNPXrZyGYZ1gvokfg/6qaX3PHbpx5U8clFrqu0vpu9lRvLcUWHehKTFOkuxmxN__MKjdvKtjj_f4tq1rYGWEsvo-WzULT-TGo99yikXO8Aw5KQlsFaZsyKET_Fly0YBHLjOwoXdZ0P-cOUke0Dq53i4qDd5RSbYEtm7dWvZpd-s7Zj8DeuOwb4YUI7dkg/rbvopE3bKh40nrTxFEPA8ujLgBgEltTyFluJvy_KcRo)",
+                "H+T Sort": "1--16_2"
+            },
+            "createdTime": "2025-05-01T13:56:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4CarccpEJX2aWR",
+            "fields": {
+                "Role": "President & Founder",
+                "": "",
+                "Organization": "Giant Step Capital/Stanford University/Goby Technologies",
+                "Full Name": "Poppy Crum",
+                "PFP Image": "1713523758691 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/mdcQjJBZKwPAwZQAGmARow/aJutOQfZuPwcBlVUAUTZbjMWD-sRO7ZAKXi_cloxGdbGI6yGXIDkcxLl1e-aBAOFGIcmbaxAGkCvXfJyTbraSqlbcOL6No7Si38AK2Mp0ma_aU9VdFmr9aWSoJ-2UEVdZcOgXgrbdmbUp2jgo1d54w/gKAqUQAeoGeRKBZgRnxVetFt1Ys6YWzssmyM5MbvKxI)",
+                "H+T Sort": "1--16_2-2"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recJvwBU2d4gI9fin",
+            "fields": {
+                "Role": "Managing Director, Upwork Research Institute",
+                "": "",
+                "Organization": "Upwork",
+                "Full Name": "Kelly Monahan",
+                "PFP Image": "Dr. Kelly Monahan.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/xBeE4vci1MgN5VEcxbSeKg/U7CdRTOx6bcuGNAivW92-18wbpxhalsubn7x2Vg3QW3VKeOLjbideboJ9CQaaowYicbDUtoFBGx68FjCZ5PRXOFyCiokBjOdcxLgkNGdK9hpXYo8QaxfuD9I6fXeDC3WJMOeci-wGI62ijaUXmAipG2vrzVEC-HkEL18TqBLos4/CHm5862GOafDDtgDP0dFWPOXr3W1N8501Vq4rFl7Nao)",
+                "H+T Sort": "1--17_2-"
+            },
+            "createdTime": "2025-04-30T20:47:36Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recVUeVrhk2wosXS1",
+            "fields": {
+                "Role": "President and Chief Evangelist",
+                "": "",
+                "Organization": "GliaNet Alliance",
+                "Full Name": "Richard Whitt",
+                "PFP Image": "richardwhitt.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/iUe04zBfnIQts4K3YnX7Tw/yDmRI4ItMDBs7wKzwwNg9U9dM1FAU9m4XDB-G-xZMErchVunAlRiN5HJZW8Zcnw6bNTM27WDXFYx7QWXGjE5ZTyc8emV0YAZ8TuKMg2cCQoC7OXXlEWhi_ETDKxsnrg0GFlefs1I0hcpEHjobB5w-wGVl0Dv-n1AiY3t7OqYVKs/etCMGamFskukbMI-3vCADOsgiX4yJ5111Wxwkyn7pos)",
+                "H+T Sort": "1--18_2-2"
+            },
+            "createdTime": "2025-04-22T17:30:30Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4xgd1EXO4gTak4",
+            "fields": {
+                "Role": "Co-Founder & President",
+                "": "",
+                "Organization": "AdvocateMH",
+                "Full Name": "Thomas Insel",
+                "PFP Image": "1641442215049-1.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Zaux7JXeUrNL6oR_CSG0Lg/o8o75F0RsepV2aQi6439kJLM1yN33pbIFJ6Ry90FmmqzvRlpG0UQUGLri9LB4JwJSPFHJbdqIfZivW3ESPtJU_FKuwVB54s9vID3siLEXag4-o6mlsrCT4B3rBCtJbqjj1TcCGAM7Q9BxRAZRcEHrOP-GM3lSzuBZ6wzjPMJx5k/VzGnewtcfzTHTVwo85I2Qf14EUpQGLD3nK3xkxt2WRQ)",
+                "H+T Sort": "1--19_1-1b"
+            },
+            "createdTime": "2025-04-17T23:18:46Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recW2omL7lcPfbKCP",
+            "fields": {
+                "Role": "Founder & Chair",
+                "": "",
+                "Organization": "NextMed Health",
+                "Full Name": "Daniel Kraft",
+                "PFP Image": "1539483937631.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/PN6VbnkiqKPQ0UhZJLYoUw/ibK5yOONQJHrPadbRFysw7yqFawxiIp3LO4kTNgpf3PxLUeU8H3p_foG8x8Mh8VuoA6Cxs7ONDzuXk0L3q3X-_I-ILpnAp4e8zpWeWiKD9Tk4Gkom25I0NaqSoua3niP661N94hlmKEiPtXtmTfT0AQrWZ1tZ_QrqgIRTNe93FU/ZhB2ywXvAJTJVr1P2syO28TQavWwrMeY2FkSbUb7iYw)",
+                "H+T Sort": "1--20_1-1b"
+            },
+            "createdTime": "2025-04-17T23:03:52Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recrEyYAR7VXxHRU8",
+            "fields": {
+                "Role": "Founder and President",
+                "": "",
+                "Organization": "Immersion Neuroscience",
+                "Full Name": "Dr. Paul J. Zak",
+                "PFP Image": "paul-zak-cns-11-tedtalk.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/p5VcNjXGayemipgyA-SXpg/iZaUjvlHGqz08ipzFiUEYF3VNAeiOvswg55HgpQqDhSVEDesZM5pc51sV6EX4zxmzA7DXDmTCLomBZ6Vh8O11iNxEEB2Vg8qW4DkHBZFe9jCycnYrPyrAdpSQnlvz2dkXcQsuQDYHOyrD9WO9hFeSDjtavZP5GXg6gfTblNHl7IsZ7P75G0V4DpjDTnkfMfv/-0MRpLT8CL-jsBUG1fJfFTS_FtFECrEI4BjWslbN8kc)",
+                "H+T Sort": "1--21_1-1"
+            },
+            "createdTime": "2025-04-11T15:35:28Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnTrDpRmjPcYjEZ",
+            "fields": {
+                "Role": "Executive Director",
+                "": "",
+                "Organization": "Flow Research Collective",
+                "Full Name": "Steven Kotler",
+                "PFP Image": "Steve_400x400.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/BosZZH1aqQVV3syHtXRdEg/HKZTERiMU3ckBgwTjwV8V443C-lgG6KHDtozoUWzZA4q_JB-u4WVx_P9E5DYivDKjHp-4eGL0cfc8gYIIibAKtxA4xjkv6GRIgGtepcm6wQ-yD4q5v8ayr0EDyUI-ggjdNL8-lhAx1BHsmuoCVeCGO1Zl4bpG3vJ4a-ZTJ5ZJJI/kcTTPIu2JNt7OQ3FFhgKk1Nd42573kriTROzxp1sBbY)",
+                "H+T Sort": "1--22_1-2"
+            },
+            "createdTime": "2025-03-26T00:27:46Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reclPBqgolLE5pcim",
+            "fields": {
+                "Role": "Founder & General Partner",
+                "": "",
+                "Organization": "Good Trouble Ventures",
+                "Full Name": "AJ Thomas",
+                "PFP Image": "AJ Thomas.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/8UCaJkPQxf1YBUp_6SeJUw/wN0_gwb6bDkRhmipuk3TCcLo6XkyPHvj5ukzX4FRjuBQxgp-MTT7GxpQC6_XhqbAn1OaoEaq41C1_Ju-caN6sRzm0rXtJaWSs-JUlbultJbGgtpYzKXnRCvzotFHR5wNSPsbT17fvfFxQI9vp-DNrrO1-qyr6JP_DYO0KiMOrmY/z7QHvDnnR6T0xOQWgQiSplvNpcVzlvhBia8Q3fFWtJI)",
+                "H+T Sort": "1--23_2-4"
+            },
+            "createdTime": "2025-03-24T10:58:20Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec5oRx2E7rOPRAMy",
+            "fields": {
+                "Role": "Chairman",
+                "": "",
+                "Organization": "Advanced Human Technologies Group",
+                "Full Name": "Ross Dawson",
+                "PFP Image": "Ross Dawson.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/MGM8Nk6867LmHKYUlNMTxA/Yq3QOgFb4zCQVZjGbkBVVNwtbn4jRsh0BR9adj3iI0OyDEM_s3LnBT3bTVWM9on2xB_sHNXLrlqzRAvMhYrUTbCqvIxxWDdDAUbNsnk00Jo8LBe6audEhRfFkjAtMzSU02BZIZc2cpX5sWibVwXUnQmFv-at8c2gJVPgKEJJ-3Q/4MX-adFa6g3kDiUorogeEjJ0uoVYYRV3ruFDwNz-6KY)",
+                "H+T Sort": "1--24_2-10"
+            },
+            "createdTime": "2025-03-24T10:44:50Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recKg3eyfO5RDuSV0",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "Magic, Inc",
+                "Full Name": "Aaron Kemmer",
+                "PFP Image": "aaronkemmer.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/8kvH-2O4_A1b8DAq7Ekflg/RKF8t1mK15RzbcS7R2fBwNMYSy-_TaYCCf1shX5BUmhFCaJpBmggHyejThq-W7AyrhrXfr3ERkj9pS1xRHyHTMsy4NWrYQd88-Zwjl4Vlf-mGJLoRYaDlVl_iVBJFz-Pmy-yku2Q0Lvi9Q9o-fs_rWY4-xn298U2cWEsicFaR6w/DaJeeC2qVQqxaHzwWrTc3M_0iPGBIYlMnA7M-Rt6w5M)",
+                "H+T Sort": "1--25_3-10"
+            },
+            "createdTime": "2025-05-08T20:08:41Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recBtqOSWK4k5Apm5",
+            "fields": {
+                "Role": "Chief Science Officer",
+                "": "",
+                "Organization": "X, the moonshot factory",
+                "Full Name": "Dave Andre",
+                "PFP Image": "david-andre-bw-ok.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/0Zl0CcliwH0XdDAS_5_ZFQ/ZYhYCXKm5EJvwcgzxY2W2h45VfLBFVvpkgI4VFBWHFldarwx8Vm-HcPPTkqHayPdxWHY735hp5Pns7gF1TOCriopqE4xcNJhstQ1XPaRolP3nNB1eJDJNA-Z612LBK2mY7MQhPQD8hyz_I7KZnMTsQ/X4VZhwj5YQs_Z_-JZUkytvHOKKd26882zrXBvgqnHVU)",
+                "H+T Sort": "1--26"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recxyldMz9bS81iik",
+            "fields": {
+                "Role": "Professor",
+                "": "",
+                "Organization": "UCSF",
+                "Full Name": "Elissa Epel",
+                "PFP Image": "643c7f59a6582915e0491fde_Elissa-Epel-423-portrait.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/UhJohjQvYxkQy_n_AdZuFA/CChsSE4sqwqIhS8N01rgKUZFxhcyxXxoVXVA_whBRo5nbueghO2KadG8WK8kOLPHdo3qwJ4bmrYK3HhauJumKunKdMw6jDNMsZgV6c4LUDtum25cm_hxJRKZQ3VNgtI9ubpd6aEgt3GuJgJTxUFvxQ/EzrQcWTtsdOdSW_bq4zLgSSp4z5ZXlEPC3mCxCSmzQg)",
+                "H+T Sort": "1--27"
+            },
+            "createdTime": "2025-05-08T20:36:52Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recTIUZcog5Uk8kpy",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Thrive AI Health",
+                "Full Name": "DeCarlos Love",
+                "PFP Image": "decarloslove.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wdWSBTXk9NRIt_FPM94sPg/S1mlBDEnlAdTs9AHHOYzApA5hKjUK7AsuOZZWZFHgFt37mG_8ANAqfdUXicRchnLU-MdUSKw6_LGnOieDBQgurxyxc8dxq0_5aM-AG379dyVoLycY5EbjfC-Fg3mEWtYk4hOwEg4bZdwIETtoNDb7As2_ax2lxKC1ZEBKNcqc0A/htF66kcUCGVsYd3YGgIolIAwkCNm4PdBpg749BljD7E)",
+                "H+T Sort": "1-1"
+            },
+            "createdTime": "2025-04-08T04:23:12Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recim9vLRFkMXeTBc",
+            "fields": {
+                "Role": "President & Board Chair",
+                "": "",
+                "Organization": "The Roddenberry Foundation",
+                "Full Name": "Heidi Roddenberry",
+                "PFP Image": "heidiroddenberry.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/acZRb9PX3OfZfa8TA5S-Nw/PEED50Pa-PyPYYvordLltqdSPLZyQxdghzXKlxCl0RLD58LJa5qzGEXAsrUoCP3m0eHMDxM9Vu2jOrbjopoB0gH0ooVUIoMUK6asb1BWeldmqLexqX09IeR0VznD3pAMz-LGkLekQBnrcQxbud1TRPyjX0eqt85UfPBUjC11Ys8/WatzhLGCwsSXTiwOhRl90R1JOKw2OjRC3xHEyurpRGw)",
+                "H+T Sort": "1-1"
+            },
+            "createdTime": "2025-04-08T18:05:42Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recXm2nZs1DJQpjE5",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Inflection AI",
+                "Full Name": "Sean White",
+                "PFP Image": "seanwhite.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/FdLu8zi5OK5ksfGk-P6kLg/gHuvR2VhJzRhx4ZRIiPgnBKYG9EIfn2i-LHXJoSsiOfxuSbZGXVaqmQrvKGakTZx_rmshLjjA3F5H0V8QEuYO_IEGU-RMRb79FGaVV1lIaCOf4ZbqIE27wG4Q3KiaijlU6gyvR8qOnlTe_oy7sv68TCdVG7Ar_jC-keG6ElI0T8/lRiJRH2Y3wFhuYipS0ViX41GWdpeTxP-omYmJHcfOC8)",
+                "H+T Sort": "1-1"
+            },
+            "createdTime": "2025-04-30T22:50:30Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recuHn5tbzLhSfuFn",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Quantum AI",
+                "Full Name": "Kwiri Yang",
+                "PFP Image": "1714874789602 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/gRorrvdsK4WsrdOzREoA5g/UT44Ta3hYBZkqAA0x-z1E1noxQhLG2shSqF28_i6moUdLBqguetCCWpfsNFMc-2QIhfgLXERk55KRsyIjGg59SmHZPLzd08BXWYLZ0nq0w80wSdZVjPnEZ2T8DEDTY5nG5z3kQhX402OQcZBKo3Uyw/IkSMG-oo64lNuJpOzwRycXHNUJQoJfvxq9e6xalnvXM)",
+                "H+T Sort": "1-1"
+            },
+            "createdTime": "2025-05-26T18:44:01Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recTbZMtt5d0tBHDb",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Compassion 2.0",
+                "Full Name": "Carson Kelly",
+                "PFP Image": "Carson Kelly (LInkedIn).jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/JkazsqTXfOGtiycqfAtPBA/isd6ifTu-kK5jJKqRAozz7Hfj-DxaT6Y7_Hz7W0Sp4FHCeXPy3qECkeLYe8VzKxXkjAFCmkaHv4vOhpTBNkdldqO9ipwpOwHSgqK6556TfGho9NYYbc_CIsdxpaqDCnMvf0IMER_Vc3y0UL4rJL11PiPw-TqsV-I4G94S4meP5I/7h0DGGOjjDQtWr4cQwNoBEwvfaUjJXZSeoxd0652StM)",
+                "H+T Sort": "1-1a"
+            },
+            "createdTime": "2025-03-24T20:49:38Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recdSQOvDewGzsTe5",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "CosmicBrain AI",
+                "Full Name": "Anto Patrex",
+                "PFP Image": "Anto Patrex_360px.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/_ecuuVkb3TB1tK6K7PBftw/8ouQ5plx-cF0L2GvLUFX5RdS27pZ9c-1E2mWO2ekQ3JOqR7FEUbYrhWORQZnjdahNQpQZSHFa_XRZJtQTQfT-08m5dqFAiKQQGxI_FK6cihnv4iHVlJYFVTaT3jwjb8qPfaiB063E7eC-8ZGsIrr-vBkxN7Lpov9-wIFNzyK6z8/oCH4piv1AQ9ffmOyYLl4F7MEsHKh6ikC_jCyOssNn3k)",
+                "H+T Sort": "1-1a"
+            },
+            "createdTime": "2025-03-24T23:48:00Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recSXC7D7eYix5efF",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "TRIPP, Inc.",
+                "Full Name": "Nanea Reeves",
+                "PFP Image": "Reeves-Nanea.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/iFY3bg6L2-V7TOs57-Us9w/IQafpaL39gjGc0ssCm1V9a51QW_VJIsaDYr_QoU-veAN-ohRB4SsgegFKUGehUM6i8mfl2dZ3wFrVfccXx91oJJBlvGt55AKyENV617WBLWTxMj5XSy4KkxrX9dVRYGqeDLvY5CJbbdFQxEo1KqmKNIpQZ2JauMJqRPzcZZvdfU/W_q5OYPo2FZV7XYcFuUSITf7WLIqwVt5M84HbZKeLrI)",
+                "H+T Sort": "1-1b"
+            },
+            "createdTime": "2025-03-25T23:18:46Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqSsSrP0DQy2Gmy",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Share Ventures",
+                "Full Name": "Hamet Watt ",
+                "PFP Image": "Hamet Watt.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/2hzfBhwuHwaiVbKsEB345A/my0OnYtnZVWdj29eKiNKDLUY7bvOYU6jw5CRdvHCiGba_vtnoaYzjPWWeBkoNPKvuwrRx3SV5RKTBBkboslGcdCmo1dGKbCDEsihoEEKbMxdanlMZW3XsZVE6QgxPormG4hspTVZwOVOg7Pa47HVwAt5sc2njppoFuEPNoLOQGc/koGR5njLv646og4M6mVRT2NRqH5ASDPwXxVGNxbG5qw)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-03-24T11:05:47Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0orZfNtvvNxlLK",
+            "fields": {
+                "Role": "Founder & President",
+                "": "",
+                "Organization": "VERSES AI",
+                "Full Name": "Dan Mapes",
+                "PFP Image": "danmapes.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/2Rdp408j5MtVTb5K4q7vCA/ELrIvStkNJXzWZ_D38P0mo_oAiLIDr4APYmds0deq0DWhMYMebGp6uQUNvDHdzp3eocDX_vpR6CXzDp2M6iG6bX26xmSU-GXhGYc3Gv7h7GIUJyexyrZV3CZQ__NkqVGSG4QE7zqIijo8Q6c1hebcrr3BINXCePfx3U2NMdF6Ts/ef1Saydbv9MI0K_U7UMXGUcujjKFWBQ0B0s1njGKJSg)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-04-08T04:12:31Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recohbPQ9vjBnFUSY",
+            "fields": {
+                "Role": "Principal",
+                "": "",
+                "Organization": "Bill Duane and Associates",
+                "Full Name": "Bill Duane",
+                "PFP Image": "BillDuane7863-hi.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/d9epCNJwgh-MEWfOB16Qcg/4k5DYlrYkyJdK3jHS3o2ZVJCwHoC4yYkxo_XitgO2ZnwdTc62aWB7VMsA5klmIdO0BWbEMj1TaF__6sjTtFcxqTJdjLnLuCbW4aKS-WBV9M6UqByYJYHeix_7k9o2hsxxG72c-LqowMVQHzlP2IaklZohC7WG8WEfQGXILEj7Rg/f2kVZ2OyNI50pIf8rp6I1ZnlYpYgAPNqxVq9qusoAws)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-04-16T17:03:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4P1lHYbW6wGs6E",
+            "fields": {
+                "Role": "Managing Director",
+                "": "",
+                "Organization": "RAINMAKERS GLOBAL",
+                "Full Name": "Bonnie Lin",
+                "PFP Image": "unnamed.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/xYML5IhXqBMU7LvWc7B7XA/HegEDfTw5H3lB3hF5NaGpcmts-95o8kIvLSvLVM4dT_IarepgLthRmVCNYNjzdp7K1hasMCHCdkDui7Wm-0CayvcdZwkKh_xYKOopJA76G88Jo_DogW3_QKTalJvSmQ-wxHRMFw89muQ1RuW4mSSNJcEA2obnKEFCxmfTvSDbh0/kHOjUwZx_BeEEE3WnKRTgX8nRwP7zNb6Cxdd447R-xg)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-04-17T21:00:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recPbmmnSvbqreyTj",
+            "fields": {
+                "Role": "CEO & Chief Scientist",
+                "": "",
+                "Organization": "Unanimous AI",
+                "Full Name": "Louis Rosenberg",
+                "PFP Image": "louisrosenberg.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/VCjFMoGw5mc-1BPfQktHqg/Rb9Z5NTVJiEDAHIOCfskqWykDNYKJuHiAmm9ciovsyyz1HOdRG7u0Z6ZHoBNhZVoDV3y7ncX7aqYfwF_NG4bB2AI8_-RAC5VYK2qsYT4eyzzUEzAWiN0zgEcM8_weuZt1c8G8Vi-UTFs8sVC_H-c032XUwKzSxqGiq8SiZbdS-o/rcUKUtrSV0QF37DmQEV4ohO1TRk6dwQqQy3VbWKT1ek)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-04-22T17:46:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recri0S5yUCJ5LmxB",
+            "fields": {
+                "Role": "Founding Fellow",
+                "": "",
+                "Organization": "Creative Destruction Lab",
+                "Full Name": "Barney Pell",
+                "PFP Image": "barney-pell.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/jyFmXli33FmSex5Xhe3FYg/yyT-8A2sFIylob9Owpbqyg6oqJt-0eLSaRV8Q-1_VBqORJC7TrJyWXroURSIqfcB6vuWTpgmkH842_79QdoG_oxcIXynvgPzbdjujtrdpdIEMSkG0_ztOfhYiATr776cPbpvGI4hxtFYUT4SiFzB7Q/ETT_yFNqX5GKPJOLLU0UVxD_rblgppk6H-iMJ7KAQfQ)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recL0P6u12dc95vo9",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "LifeGuides",
+                "Full Name": "Mark Donohue",
+                "PFP Image": "1552350279190 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/nRKJIuU_Ox4MAUpMQQclLQ/LNHXR3uVMm2wBj56qPtbAtNZYU8bLTxFMhR6nPzxx2o566RY82mwDfUuJMOlhxaVzCqmFqI-bpbaolXbFUDExOIq55dPzvE6vX1oChHpoc8JjPyYbP02pwuFOvk3weqSZ_PY0rGjdvU-xqreThWleg/uhmBiLZtKsjiR8HvC42y-l44KbzLZ6B0Y3YmUk6AHMU)",
+                "H+T Sort": "1-2"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recw9U1TAPAj4Mh7S",
+            "fields": {
+                "Role": "Y Eva Tan Professor",
+                "": "",
+                "Organization": "MIT",
+                "Full Name": "Ed Boyden",
+                "PFP Image": "0068_8626-1280x1920 credit Justin Knight.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Lx0qKjcVQhodCsuuQElwYw/nUs_rGNkbWQ4VB5Y_kSSyMbZPg0YTwKcuQiSaEdyHIPmnKJyFjTeuY1pkpVCX070zNys8mRlGPnaYQhea4ol2oF7iGVuKoTsVXgXnR8FDm0CViAbdyz20PRimoNA9c74TB9S4DPRY791CIWXcFeUTx1xrUZVr-Mt6XZt5oSTdrK6KIZwqFxbt-Pljovly6sW/nJ2xlunKkxVv8CktIrvQQ5E4ipcOeCtnHa1a0ashojI)",
+                "H+T Sort": "1-2a"
+            },
+            "createdTime": "2025-04-17T09:41:52Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqK8xPnGvmx8h5x",
+            "fields": {
+                "Role": "Director of Culture & People Development",
+                "": "",
+                "Organization": "Ex Google X",
+                "Full Name": "Maya Amaro Rudan",
+                "PFP Image": "Maya Jaguar.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/gKuPuaq7b0MjE5O_Apc7Xg/R_BibFaRee-9uf-QBAt_vNoYHxMwk-sF3hMlqi6wHzu3FKtzqIlhWYxlqCzyLSSrClFkTFj4Uso4dDoj-OymIrp3p6hPhNbzh_RUgL1p-0Nhz-ZkSwSOiZi5KiTgkWTa5jk_dER9RxmCM2hBa-NyNbrXW9gepBpgRWX1hHzb66w/okrxj3oGH7NGLkgQ4Ty7T4XMDPjIQ5_LFhtMv1G-LTU)",
+                "H+T Sort": "1-3"
+            },
+            "createdTime": "2025-03-24T10:51:55Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqVFkTr1jRW0X9N",
+            "fields": {
+                "Role": "Co-Founder & Chief Gardener",
+                "": "",
+                "Organization": "The Flourishing Systems Foundation",
+                "Full Name": "Mingzhu He 赫明珠",
+                "PFP Image": "Ming.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/9KEWn51B8swJC9bi-wunxw/uCjxSG9BqQ9iaLWO_qI1DRsUd17ftfh_UgN610Fh99OHncHCltoFzmN5FesV4NcC7UDtV6XA2yE2IYrklv70gJGgTfsLX_wVsK5V_6_3r48fCF9FIdtcwp5bEhGgOsWZ4-ZJz5WXHZCKL0LFwGXt5A/t5CIqj-4EoQ6NWmRUXxfQsy3CuQ5WY6jIja1NKDTo4Q)",
+                "H+T Sort": "1-3"
+            },
+            "createdTime": "2025-03-25T23:51:29Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recS9hKQc5xtAa3cI",
+            "fields": {
+                "Role": "Venture Partner",
+                "": "",
+                "Organization": "Mayfield Fund",
+                "Full Name": "Tim Chang",
+                "PFP Image": "Tim Chang.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ygrAaxdEwMBpUxwJAxyGVw/d5qkSItpfGK2cLzyLW8RP1x-pxjUdDTCfO88-khj9wLgT7A9YiJm_geg_mvWAT_iNP-snjyI5TLobBO-kwhJnfFkIQfHGFSQ3_-y_RkLo-9XiY3vz0BC-CIfTGnhXvHyLLtZfFXCh-ZgkpRZUkEyKlw6gDf5MUcQMA7pB0n-KA4/r7GiddTItCzUJwHNihRq2Uq5LbkwYuHUFigDgNqQw1A)",
+                "H+T Sort": "1-3"
+            },
+            "createdTime": "2025-03-26T00:33:43Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recIoqWbai2NbQWCd",
+            "fields": {
+                "Role": "Former Chief of Business",
+                "": "",
+                "Organization": "Roblox",
+                "Full Name": "Craig Donato",
+                "PFP Image": "Craig-Donato.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/4iHDD8ii5jqXXBhabIqE9g/308-y-to6ozTq3inCalGi3rdvhCwV3jfbCjgB_xiVBGB1B1Mw-_LCLRMOXFGCUg3AS0qitUnYLRZAMss9nBwlylp4IMeIGNoxroNwCJpuNpbk5l1WXdSFWyJYF-cTroUR6Uo-LAE0yKDGAKd9BIT5w/5LpsDePeHEB7HYAOTez9yU4sfLnOwXC1mrbJ8-ZeDLo)",
+                "H+T Sort": "1-3"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recojQe3IWPkjxiau",
+            "fields": {
+                "Role": "Chair",
+                "": "",
+                "Organization": "BCG Henderson Institute",
+                "Full Name": "Martin Reeves",
+                "PFP Image": "4LfxkuoS.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/-lYNJg7vYt0uKLFTRKKrWg/C4EVPjzvxSiK3sRKzWJ4cN4VF-c1LNxiqafkNTkSPrF58o_s_JW8tDSc3kkE-rOFho5KG67CJ40uD7WBnlzY0F-q4Ax8yn-7mHLbKLDdrW4y8Byovy8ijA64g7dFS7koKQh68aiJTTvRQ-HnuClkMTjyGeojD2ZqmoHOGATS0uk/hAPjY-f5sKRLWsw89wj7WxanBG1JKJxAPGMxplb6NIo)",
+                "H+T Sort": "1-5"
+            },
+            "createdTime": "2025-05-05T20:28:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec9xJFVVCaijijH6",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Quantum Networks Group",
+                "Full Name": "Charlene Li",
+                "PFP Image": "1741117054264 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/PLkmu3uDduw-VVD2Lnp5jQ/CZe6REGi4dJgOX9Q01kiFoSZeBHcW5NsWdf8Y_QIEMSn_nAitbk6yJSoMqGZyh7CN2k_tzyQ-pPSBcd9tRfTd1nZEaexfMQB-5KQE_DzxcqTMRjIagNUlIu5sfk9N8rMQxVEVN6la90bg9KXRRfpTQ/3KiP8zs7PM_N0jKhXtj4u_7pTL5yYjqU2JmXzEAOIWo)",
+                "H+T Sort": "1-5"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recPGDc1hhKUoWKPY",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Beyond Our Edge LLC",
+                "Full Name": "​John Hagel",
+                "PFP Image": "1617046312457 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/FhrVrA_sUXnbJDO6q3oZqQ/VCi4hhOheZYtBNvp0f2sU9a1QQEQ6Y7Rlx9BRYS2yqfp0KaFJwjQUQ7N2cTTXxkbU6enN6EzF9e1W0ZGcqlnyt6ROdINwyNSGTC3d7SmEEH9jLKH5y281y2vHxdSuD4u8mXvNQW_X_ev9SPGTQ_XuA/glvO2Zar6rKZJLII28_T6WpT7jBL26zj71aCGuIx7zc)",
+                "H+T Sort": "1-5"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec8tPGNHRTdb9Pix",
+            "fields": {
+                "Role": "AIML Manager",
+                "": "",
+                "Organization": "Apple",
+                "Full Name": "Babak Rasolzadeh",
+                "PFP Image": "IMG_2132.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/dv3GPaF7XNTxh-yJZmkxfA/4J2VhJldt9fPqYjie1k7JV-F4RuTGXhBudIpuZCwjhhxsIz_jN_01uE_stbmD93qHwK2gWfPbLwLfstwdet_fAmkpFWrnA0Qjt0dKnMvkKqfOOK93jKheA42Q-3PN5C6zOZcCpCIrw5ctshvGDGYOBYb0sG1kP7SGpmi4jZs3Eg/TeuwSYjAM8iObU2xk1wfOi0CfWrYobKEUaJhwRJqQXw)",
+                "H+T Sort": "1-7"
+            },
+            "createdTime": "2025-04-29T07:38:38Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recoGTO0SIxzxEfui",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "FIELD Neurotech",
+                "Full Name": "Devon White",
+                "PFP Image": "1516309827804 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/0xrZ_RpedgJsGnGNyCv9OA/utmkk5SQb1enV_n_cW64jtdeZtpmVfe4-fbF6WKZlw2ubS3cjf33Oi1JhkWc-NCQhMqhTXroZLuwv4sHBD-475XplSGbE8PyDk4dLeY_kwUo6MZFKFbM5XgI20RX5z5GVxO1bkFifa1iZ43jeUFwEQ/Uu08aKMd4LJXqWXCnlApxT4JXKl7eXnyABLOrp76wak)",
+                "H+T Sort": "1-15"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recuQqvQYX8uwFnVu",
+            "fields": {
+                "Role": "Senior Distinguished Researcher",
+                "": "",
+                "Organization": "NTT Laboratories",
+                "Full Name": "Dr. Junji Watanabe",
+                "PFP Image": "ph_watanabe_dtl.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Yem1TnV_U_9BN2eFvOgmqg/Q5e370BheZ3r5JrEa5wjgPwAlbLxKzmjFoKuUkePpV2A14GlBayVOSQ7ima5hJ0hZh2xmF7wQvvSTkS6CFaWaaiGZ-dEgJZaYRHtmV4x77iathvzRNS_ALTfmWD6WMidLJPGLN0whEm4MC-wNUlZ6qkqLohqnoYORqimu8D1QJ4/VchUJEkdls6s-48eceN6H4hcLIxHszidGLEUqxPdz_o)",
+                "H+T Sort": "1-17"
+            },
+            "createdTime": "2025-03-26T02:39:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recvXJKFr4sj67sdr",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "Open Droids",
+                "Full Name": "Jack Jesionowski",
+                "PFP Image": "1739591125321 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/_bcGa1NpsCO6kOw8N_EKbw/7qtnqxUdfyFhb5fes1BpdjHBRcRyixnb-t6Gy7Saz72vFG6dK6LdwF-EorGAr3j8BGo92nmvbXggpBjvOWeayRZpfRSZaQLPx5tu0jmN3WAciqdd6Z26gdJHzvKoeB5WyRACPoSB9Gh9PDLeT_ncMg/2Vmb2ZkaXW1UhJSg6yGmrT5-kyBHGfkLfocrkX685NE)",
+                "H+T Sort": "1-20"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec1dsSoMRAytOoTX",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Aiify.io ",
+                "Full Name": "Steven Echtman",
+                "PFP Image": "SE_Steven Echtman_PFP_Crop_adj.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/XlxkxoLetOlPcLScLS7sRw/7xP9fADecvIyItEehb0Exv3LoOj9ZJI4DOenMHFjGGvXXAuLvQ0qGgOvlQihdhzERDtTZPw9y-AoRF_F2vmZEZaLz09Lb6BczC05mzkkQVne8W5kO-OMt9iERgmzmV3D63y-4veGIUPGOVb4N_lUrKWgWsO1ZZbJOIWEcI3Qj803nv4EAq7IkKxnmSx7Ciaf/3ejJw96s8yqi-NjaJcmXCBKtqm1ySsb4pOIZXz64B70)",
+                "H+T Sort": "1-22"
+            },
+            "createdTime": "2025-03-17T06:01:32Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recPn2EFANH8N3uDt",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Founders Space",
+                "Full Name": "Steven Hoffman",
+                "PFP Image": "Hoffman Best 01.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/QsOIKXtGk5oRYMgqvTxbNw/jWfPw7Kck5tjnZLAvnyQZZ27kLVJdnE6r6NFLe4TleDXBsGHBUjjJh4aIfY_fdnzQUAKYPa3PvGag3QZwle4vlOa_CBdqep3kRoZJlZJAtGcfCwuQrP8f34iP7GczwKmBk59ow1ZBSXYVUr0EwnrqwfdH4gi0jjSlTg8YF2doQU/IRR2tiRCLmgG9xZsywUjOUTR2CW9DOZqhTh1iycv1V8)",
+                "H+T Sort": "1-22"
+            },
+            "createdTime": "2025-04-26T20:52:10Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recyWiqnhJvl1cAyl",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Bios Vitalium",
+                "Full Name": "Albert Chen",
+                "PFP Image": "IMG_1388.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/x5pj_PzYzA1b8SYJbGA-Yg/lUS_g81jJkCSoANkKkhcL7pGpgqYFDGwZBX012TEc5VgM0vXXL4Ngb4YmfBacMGSO0gWa_Rv3RG-ezWC5tcMxBNZ2q8Fii-ai3j7bQkUaIZjfHyiQI7Gd2md_sxLN6WP65NZQcT8erA7r0p2O3GOQZi1dy9qo91oRhTieK_AmkE/gy0m6VZ0ROtGFQwfk8b5AqvkQJ7pXcvmDredbI4yTK0)",
+                "H+T Sort": "1-22"
+            },
+            "createdTime": "2025-06-12T18:27:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recDq9PV1zkavzYec",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Held",
+                "Full Name": "Andrew Chomer",
+                "PFP Image": "1571100191891.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/uV0xkbluW3SkC_-bonhq4w/m0bsVqLR55b7VIIdtvY6Pq4y7BdOhlt96Q0uNeNvh4BF7vNXO3kFf_ME4uUCrSNysm_hAIKpxTVRO9wIgThz8TsbuJgCxsPv_5pDUgR1pKXqIXCqBLJBeSENYY5VKKf4dpOiXzO4ARmy28F8ZhUqNAKcsp0107C5_bsmSb0p3jg/RiaKnDM-iponYEQ9bRGuEK4NlHU6tCPDT2I-IUS3AG0)",
+                "H+T Sort": "1-30"
+            },
+            "createdTime": "2025-04-09T17:47:58Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec8wC9rCOf9vFskP",
+            "fields": {
+                "Role": "CEO & Co-Founder",
+                "": "",
+                "Organization": "Cognigenics",
+                "Full Name": "Tracy Brandmeyer",
+                "PFP Image": "tracybrandmeyer.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/oKOekFhdaNQMQfrUnvI-mw/-QOstURj151h9FMD70V7d6XKSyM--iLtUBPX3rQp3zyByjsZ59J8eJ6YLNh4PC2nYnc36JXIZ8WGMRzTCXujL-zqNZG9hFEMEkSEb9EgWqPN-87cM6y-_j2JLdg8SM8rPy7NLBwK5vhSZ8yr-mxx1PkcmCrBrWt1x-QO6DAVtgA/E142UIspGpUA4fiS3O3TAw9BUuF0vAfv1ka8eGe9mdM)",
+                "H+T Sort": "1-33"
+            },
+            "createdTime": "2025-03-31T19:30:05Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQLa5kqt1DBWmWP",
+            "fields": {
+                "Role": "Senior Advisor",
+                "": "",
+                "Organization": "Machani Robotics",
+                "Full Name": "Dr. Natalie Petouhoff",
+                "PFP Image": "Dr. Natalie Petouhoff Empathy headshot.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wUdX6DzgrQzticjQeYLj9w/D03dOel5vPCKTHrjqEyE1D3UfswnCYMILZw2_9fRmG8s4Qtlov0ybBjVCppHmol6oXWKoxNuG8aULhoN4hDlOlZw4Bsx5Vw0UJO6S_8-_7ERT7Ew0zVeFBEqvtim1XzIOtdb6sIZdlrfSDoOsZTqoVnSHtXSvvcmOkDzYl90bT1ohPipRhvnBb2Wb-Z4arAb/0xJJXXuvPxnFC0QFikNHZAcGGUPvw7oltyTzuYUWUsQ)",
+                "H+T Sort": "1-44"
+            },
+            "createdTime": "2025-03-31T19:49:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recOaL4JlJAak9WW3",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "A Practice of Freedom",
+                "Full Name": "Dr. Nick Brüss",
+                "PFP Image": "1627157619397.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/zREbZGs4m--bcrtEXgpmyg/bAq6khhcMGeCUmEFb_-U1QxGCcHqLi4_YVH0LndqOU8EiIR6Wlx-xnDGDtFyQPIlp7Goxs8YnYCIscucWJA55BeUO509S34bS1GGRSlYImhqWdHKf0ABsSTPvrFPTt4KUZYNX6h9RCyh1r-1Qn5ZuFaTCFTzkNo-Hply0MJB2kk/cuUxAeq89ujw8GoEDbVke2SchZniBcPB9wkVDR74GVo)",
+                "H+T Sort": "1-50"
+            },
+            "createdTime": "2025-04-17T23:10:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recZHo5YkP72sc7nJ",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "MindWise",
+                "Full Name": "Caitlin Krause",
+                "PFP Image": "caitlinkrause.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/EtqRm5VYiHMpWROGF0UvBQ/Ncxp-57Spkziu4ti93S1V3hJcBkVw53l4yiBGYsBoWg4axL12Hd5O-GAk8f9Ztc-MDuN2hkmdmCSwANJmflanr0m5QEvXlQcDfQWFuZINQRzyjNaNguzyLtzjODe2hvfdoGw8KECX0Zn-YaFEQK80lIkvi0Jru9myJB1oBGHbFY/0zOYib3YpYM4fnCL9heFqiBtY65n-Dv5tTrPcSkPDmU)",
+                "H+T Sort": "1-55"
+            },
+            "createdTime": "2025-03-31T19:51:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recdHVF1z2ESvZL0v",
+            "fields": {
+                "Role": "CEO & Founder",
+                "": "",
+                "Organization": "Onpodia",
+                "Full Name": "Emma Hendry",
+                "PFP Image": "emmahendry.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/bWFetuSR4qirRDeY0MKg6w/E9ZPj261vajgbAcAi0F5T404eog7odNeUIkyXyiAsipFY9qXK2dZO7wwkHf9jMaW-KJYVFlgau-xR9-BV372iq536caOXMG39IDF5Dn2f7AczoL2KSg3j6NCwnTBRO1IrpAVnA_zpdgchAFrgHNrfAMpEmbI58Klcaq62uZVTmQ/xS3MtL_U2naOBSqbs6EoRBTmA0XBivMHWeJBRAUAYDc)",
+                "H+T Sort": "1-66"
+            },
+            "createdTime": "2025-04-07T23:51:41Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4s36d9AuGSnryw",
+            "fields": {
+                "Role": "Founder and CEO",
+                "": "",
+                "Organization": "AWEAR",
+                "Full Name": "Antonio Forenza",
+                "PFP Image": "antonio.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/k8u2-x7tKaFR3AeXBBvqLg/Dl0ioGtY_bVBQuIbCdX3VT0QtxRA7QaErERrCH1DhitpUaubUgdzr1r3w1_EKoZQm2fysW7BvJv_kKrMvpyUOEuOKbLDTnX-e32GfTPFdc-DHUY9SW-v8EFm7D1sZ_z9xJWIZnQwVzfoOJNLgNOvn1V_HfhLH7BnEhGp9tAfSC8/UC39rYaH_Wz5V0sXoE84ZDX5fQqvW9qrK06F7E2zTEQ)",
+                "H+T Sort": "1-70"
+            },
+            "createdTime": "2025-04-11T05:05:30Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recyiNqLXueNChnmI",
+            "fields": {
+                "Role": "Author and Co-Founder",
+                "": "",
+                "Organization": "Stellar World Foundation",
+                "Full Name": "James Arbib",
+                "PFP Image": "James_Arbib-1585 copy.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/jgDHJfy6opBeZA8XF5dQPg/IjoMK81tNIJuhly36nLRO0knbLjtvXZzVpVUNzPbMmX5ZdXtDKKe-TwHKegj7c8KzmT2FPwouF6m6gAq1RJ--q6xlTPlLSVXbQ-v9twNQxzRSahsfND84NiVb8fSMUu5JmdeMQD4M9cr2qaEAo_19b6PYdfk178j8JY4UP8CjeU/SkN5hJvWbUBkFWwZP7Da8sMmE8nLDF580WCFsA3KFMA)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-01T13:59:08Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recRT3uwJeUyS7RaO",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "HOURS",
+                "Full Name": "Jesh de Rox",
+                "PFP Image": "1729559553730 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/nzSiu5Fx-baX7DUqj0PxmA/3vn9AdBBioYYSPurlklEp40HMfGq-wJOiz7wxi1fBG-ZutlooAeL4Se3tso6X6IrvrVe8RUngWi7ZzgABFX9d1ntiaFjtAFNUqTq9_DOhi3VtaOkzCAApwxf89DKULm7cOl4rZA4hBawCRmXFOMP8g/HKXB7RZ1ZutaooHgaRxEV4Ye-ImiYz3qOz5bLZIpqKs)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQxIEfT1XV8LZ8Q",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "OUR(OS)",
+                "Full Name": "Pablo Quiroga",
+                "PFP Image": "Pablo-Quiroga-scaled-1978x1978-1.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/MCsx0HDpVtSzaNBxEuCYVw/tsYu0vkcs97VRqXhqINfZBjgGlHutcw3V_TFO2kZ-i99cBRGEbpIQBzV5VNcN8bnltG4v6eElEpGcIK7J6KH3PRawHODWfo6anJwhq2P4ze-r14f1jNgisjwOW2f7hOKwa8J0eeRlXRErGXplrGewg/_lgLZHyR4e8aF28MlWLfYRmPe6fCjzlWdxf5qOrjgvs)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-11T20:27:42Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recoXPxOAQsLEPHMv",
+            "fields": {
+                "Role": "Chief Operating Officer",
+                "": "",
+                "Organization": "Worker Solutions",
+                "Full Name": "Anne Havard",
+                "PFP Image": "Anne Havard-Headshot.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wmKgQz4FqPjmXI7-rZmung/fcQKs7umgUL_ibM8QDFzLoX172hPBrQXdQzhXRSzCRZhltVRH2lDn5dYHC1shY079fdL2xhxvQEqxQeZJ4TWHgoNKeHaeaBdi7VGaLWmWSm8qjtu4H4uW_zQdO6ZKylqT6OIkclk1ZFUVQJQZrm2Tl4YkvGv3JC2S6LlYM7_85o/flygtsY9PpTpFn_B42s8OijXMI5KTrOHYT9-JdyLFQo)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-23T18:57:00Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recm4nxs9gJRVoAr2",
+            "fields": {
+                "Role": "Founder and General Partner",
+                "": "",
+                "Organization": "Black Lab X",
+                "Full Name": "Jean-Paul O'Brien",
+                "PFP Image": "1689110972329 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/FbSXX3XlbrGVj6ElZEb1vQ/3_t7OnNMxwu7tmmjQ8jTzF4tlJSYlEpke_XyY0avLTLnwx4Nuj3WzAZtfFaD4SsQmdV0vag3J-dDfB3s3KtLrSjIdzTXjen5CgZG0PNxRaMwHvgoXRY28XznPaZepp67yn6Mjebn7hXEqc6lbfbSRg/jMKnIxC1K4gRy6nQCHxsVtwpIcPe8j941yGmgAoo870)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-29T20:37:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recpmHY48RIhHMRaw",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Svexa",
+                "Full Name": "Mikael Mattsson",
+                "PFP Image": "1574794010090 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/_UlivQukrxyd5Cerqm5OMg/Ez6q-pB4STogtMmxsq4gKXOe4gsUQqxb0STdIZ_iZhBTn7_jWLmAkczKCEhGmdrHIumClg7XYZ8j172EsVABAgva8GvNt8Z5Fjvz9BIrQd9-MMjId0sb35xKXraAvY_jfpAhV3H5Cgzxaf5bkaVMow/wZkhaL6FOvhDrUyyJ_4DtzMCcdqjcvJqCChD6LQ0Woo)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-29T20:37:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recOae5mU6yNL7UQ3",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Learning Cortex",
+                "Full Name": "James Anibal",
+                "PFP Image": "1725661218085 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/hqR69j7xSwDUo2KEKHdszg/PGvDrockmZ0SwdAEIlsk4Ze88bNzw1YfLtYvVQp7C_GvYql5B2ZN_KD2R_KnQfVTs84RQhNFJbw5K--AIrmq2CVKynXtBMpI26xcu_8_YvKdHbV96I1LLFzfFa3Vos1IZXu8P1w9590HQqSd8yhN0w/DvXGqGigxV89SNf0_URiJjLE04l2JgnqjDJTyyZtjhA)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-05-29T20:37:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recufHc8W6baUXNsj",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "Pandia Health",
+                "Full Name": "Dr. Sophia Yen",
+                "PFP Image": "sophiayen.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/BSI66F3sJTEeRWVahlL1uA/WnlgNlrtIxf6e08h_UWvBMVgAT8mTz9ZebtmS8iFCMC5d0uCwYm8Qzud_s8ISXY-IzXFPjp5yXdssD1PITuY21cCDn6x25Z5fuMLoLtU8FRgVErJONkGKf9SYdDp9QN_W5KboYzks8SYVfVQLnEN7KhBlm9TYcaFgKxievdAAYE/EisWGqlKLBePDVjHFZhw7IuPCGeMJ92jPXuAURar6VQ)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-06-04T16:34:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recJuRmi76VaRZ4bk",
+            "fields": {
+                "Role": "Master Trainer",
+                "": "",
+                "Organization": "Paragon Performance",
+                "Full Name": "Erin Toppenberg",
+                "PFP Image": "unnamed.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TA-2Mk4B209HqsR2tWeASg/m50REkLd3U4p0wH_ScS84VgKU6pc4hUnDjYOXb7wcv3JZ25JIt1CoLBTGmYixYnkKZX4nKSvbOJljaXpvzlTF0iiUiw0a6h04_BP0XeNZ2IFJjn_w7uJJaJ-8LbyucebUr8GtZAic2k7_F3PGuoFBQ/_Mc4V8cXctglvC3WNZXpX5xwKXscp6SAo9RkuDwmTTw)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recCCepCs3TS91SAz",
+            "fields": {
+                "Role": "Co-founder & CEO",
+                "": "",
+                "Organization": "Integrated AI Labs ",
+                "Full Name": "Yuan Zhang",
+                "PFP Image": "1703791914041 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Rca-zYdE7wR4X6V0In1MJg/rRwiDONe-k6IIPScrUMz7FW2GrPA1WTSiwEn_hATvhiumWE9DENv5DE188Qpcv7xjseEVHKh2j6Zoqu8WMJnYqTKbp2GxGmcGLt_K650JrXVoMzQH13BYp3UhtQAeQU48cgmrNVkI_UzjEVLB-2beg/3JDECTpVUqSnelUjmW7D7EPIIx38M2GSPsVcmpXFIUs)",
+                "H+T Sort": "2"
+            },
+            "createdTime": "2025-06-15T22:55:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec5142i907ZueW4v",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "The One Device",
+                "Full Name": "Dmitri Leonov",
+                "PFP Image": "Demitri_htw Medium.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/3MTuy3Zs-HdPBudcaka0Aw/1n5wUbo1obEZ-Ex75wYU05gjMKGiO7XuYOTkUO7N_EA2o15zbG0hUQKjIWJZsmRZT-IzAx-l_JPcxjlOYsRlEgCKjDY2t1-YVJQP6Z45pCn31WIiKH979MBOJ5LtbAFMcOMLJLJhDmPk3MYKWwLT4ODV4xTXm9KLfCg3uxEWc2g/mJXHqICEfbIBcG7WyboSkW0XXM_-u1zEMyXDvixd3iE)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-20T17:22:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rect3Y41j4diGPFYb",
+            "fields": {
+                "Role": "Founder & Project Lead",
+                "": "",
+                "Organization": "Spirit Tech Collective",
+                "Full Name": "Edward Vaisberg",
+                "PFP Image": "Edward.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/CNm2J7kos7uPUdjBKjHOWw/T9umEvV2oS3wIdT9znKo3JPTtabalY8roZui1liXHPQq2KHztTgt_RAE-ZPmaOv9iWvHt-31tSt167UKBBvMJVR2tJ2W_foLUQ0XFuC7y7fJLEASSQyYfYntsXcqNGSMthHIwTTDZ7Zx0RdFXustQ99ElFfwrV3ktWmlzhbpaGU/SEPGE8Iw8Wd6wjYOPSgAq1PxehK6OJeWKL7mDXRC7ao)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-24T10:30:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recWfROQX2OEJiiPn",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "CTR.COM",
+                "Full Name": "Gordy Bal",
+                "PFP Image": "Gordy.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ivwiI0by1qknKOcFZ4juPg/MIfrB1TFhi5GCTu62oEFMjMc7tOtGmdg0McSU5FLa6OAXghvHYkCXP5kYWnITwS5z6HSxaru7lafTFe656kT27546CCivthmbYXfnP5_IxqS8zQLS5owC_lUQkWeiMF-bcN3D1NQ0ER5uml_k9nfQX_tFkj99HKyTV1a98aEndQ/59U3KNEGcazkkESTMNUw9F4Tnals_FLJw-Qzi3qZSJ0)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-24T10:30:31Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec1aoRuLltYPuwM6",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Paragon Performance Evolution",
+                "Full Name": "Jeffrey Benton",
+                "PFP Image": "Jeff Robert.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/njWP18cY9JG34F-YwjsnDA/vRkfkvlCDi3ZlIZcTlkDMYb9vt2H68fbluWZJqHVD38RVdMzFc01M6XB5d6lxrmXA6Dk1Jx9h4DmWgZsnSr0jX3NiNNaodN0b_wiC-tlgt7LXsn3NBgsj13SYHd1NTizl2X0f49Er437yTL1tm6hupcKEC6kUPgaCY2xEMsYvIo/Lk-7NcAMbcoiOl018pXnwfM_PlNZ4isMogB9gF7z0f4)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-24T10:31:35Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recrAi4j1kOFNrsfo",
+            "fields": {
+                "Role": "Founder & Managing Partner",
+                "": "",
+                "Organization": "NIREMIA Collective",
+                "Full Name": "Naoko Okumoto",
+                "PFP Image": "Naoko.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wxIK1esWtQku6op4U7Traw/K66mLaFYLpOXPyILNmd_0Swf8X4KrvRBgjo8uK5ZRNNIZuB1LRvRBYfvFsP-hZc0nU6zC5umWEuFk0RT1RhJigpvSiaBDjT9axjkitgEBGnSbvGjyMwRYGVLEjhnDzc3D7LaYNkur6Ge01ES6B1uScTTrBO_1LCmhix_e_qfrDE/MOSIBE0GU_gG7KSSmFoBUQodQLZm5yf7Mfz6OodJraw)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-24T11:02:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec9B7nDBwrQBelXc",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "rhythmental & LLMental",
+                "Full Name": "Matt Lewis",
+                "PFP Image": "Matt Lewis.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/1yU5neT9lJ1dm0KpXFvO5Q/l2n2UzjwAqJPBsS-haLmCahdH84TeDgwd7PcvAwtom8nAdVuWFMY4bJVEEXm2Ik7IsdJU2aKSKEfLKCLELgJOPcAlRfLrceWXUukFrT08BNyK8sxT-kQlkjL_oiBnvVNFCOVc9ZtOCNx8wADET7o9KhTDc2YzyYQ1hhXrvW5A3g/3By5DCB9bC3HLDGWRoKTJKjA-QPW_DNWjjYsoVtVO6I)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-24T11:11:59Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQcw4mjpUFbD8qb",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "ComplexChaos",
+                "Full Name": "Tomy Lorsch",
+                "PFP Image": "tomylorsch.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/f4v0BYWJgax9Wc6imDGS4Q/WRx03Ay5ZVQF4np6TulnTVMte1fsnv2BdEoFB2o20DsbHLIM92mk7HDOlnf8pom7zBptBCM_kV50IrzN42Yz9LpBUTbHvdmM2XzwmpwCUOLgT_EalB-xKzwHQ4SqbLWKNpO5naBK8djnnhzqFQVQxzIOcOM_9CHVj3Z9U3JrTQA/REaHs-JDbb2nevNZvMn0jUSvRY9H00hFY4geK4MjSi0)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-26T00:50:45Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reclb5WXlAKADqkEM",
+            "fields": {
+                "Role": "Co-founder, COO",
+                "": "",
+                "Organization": "ComplexChaos",
+                "Full Name": "Maya (Keidar) Ben Dror, PhD",
+                "PFP Image": "Maya Ben Dror.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/CQ127O-XOO-t8y7q-q9Ewg/oe1Frqq2SxBDUHGfXyatIq-_1ClPlED4fXv-of2A1m--Yp6FZ9h5hKz4tgtC1DYk-vofiu98f58kI1x_EyWPbUreLjdp0t4KzgR0fibVuoDHJJP79uDsox3vN4mqqb5jD2sYA7PvjwFeyC_MZrYn-imfFX4pIMPLwl5AVoG2DNI/3mBBs4idFrHXhjld-jIxj3Y6txPk_i5cIq3jEfX6wk8)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-03-26T02:18:09Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recI7PR3OzwZePYR1",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Lucid",
+                "Full Name": "Indy Sanders",
+                "PFP Image": "[1] black background headshot_ Indy Sanders Lucid.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/0DHV4Eiv3EsbuEkCOALadg/qM7MIsiIiGyynwT6gTgswRgTVo7---IeVxJ3hGC4Ub7VgzDzn9qHopkXYRvaNkSU-_49yW-_q6XVE625HRm6WdzYcwhawc2pJMnr1_rc1njbQ62QXdB1pHi703vuT6kkMQsbyGmIr9iCIyU4CtXuSg0bhZbtgSLfQ7DAQ6B1zFD0yrg_RT4psOns2GDMFoPlocrX18ngFyrioynTr723OQ/aAnTpzhTutF3-UE_HFvZajja82uRanA2gw6gVvAesP4)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-04-17T15:14:45Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recTh2ojYkoi3QHdP",
+            "fields": {
+                "Role": "CEO and Founder",
+                "": "",
+                "Organization": "Global Institute for the Learning Society",
+                "Full Name": "Donald Martin, Jr.",
+                "PFP Image": "Headshot - DonaldMartin979Cropped.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/vRmk3bUXJ2ruEcX5IogLaw/Xve1yAuzKdC9VZktgNvNsQDU_RK4zETzc9nma3_twO73pNzCUPoKBhHLITLp-cVr4lSze-oWEYBjYMxDdPQv2pOHUfEfjFLWNUIcY8SJF48wWVOJIdhLgoQ7bcj0YKsWGjQeniQILdnYVaC6cwKmEs2W1SWbWXWNwsLFy9MCAp0uOQZ_CF7XHvRgeBC0JKWa/qrpN894UZ5QvjdCQx-Pv7oV4TsdWA0iK8lvH26H7EfU)",
+                "H+T Sort": "2-1"
+            },
+            "createdTime": "2025-05-12T16:35:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recCuXm1isPassn4k",
+            "fields": {
+                "Role": "Co-Founder, Chief Advocacy & Engagement Officer",
+                "": "",
+                "Organization": "One Mind",
+                "Full Name": "Brandon Staglin",
+                "PFP Image": "1667798049368.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/PCc3xpuoThCZwIe22_N1IA/YBQnqvlPmIbUYdD3YJjCydW9F7shEduSP9k9u8xIYTnl3H3X3FFxmvj72K_PxdkCq8iWIAUkcWOp6GMWM4gs7ajD_i0_6mHLnNz6BkRvjHhvKcPwEkYs2QoNNFWYlw6K9FNoOn-ZYtp6au3n0r3bP_2X02yBvWAM6IKsn8WABII/e7vw_KO5EbVD87bT6D9VoMPtzHH2XRbNm_dP6Pq8xx4)",
+                "H+T Sort": "2-1a"
+            },
+            "createdTime": "2025-04-17T23:23:08Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recxvjB58ojXUdFZ1",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Grateful Labs",
+                "Full Name": "Max Marine",
+                "PFP Image": "1714425746081 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/1WdqRlGvcRZRhJvcf0GOWg/-EXTxUz_Iaa2VL6MyhB28ofY0MdIU0aJ7KtSOzZFgvhe1A7DrT-Q__TBUxU2q4rcavp892vcPSsXILj16J4qkIn7xW4BRAAyfMZvDrPGrsRxnXY5weBT0AOvmTMn6JtyHKUjbRoPQCtDykerXyGyXA/TROrg9BuDR198BZIcDp3-FOqo0vrj8463gtMJHgQMVA)",
+                "H+T Sort": "2-1b"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recYbV9wT7CMSgFvl",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "Sol",
+                "Full Name": "Nazar Yasin",
+                "PFP Image": "nazaryasin.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/W6h58sowOUJ5Xg_VhOusWw/_-46G5DxdI6If1AA_GVYEgYaZMnHETvOzMmZa5AZ-195KvDjMsA7KErTpjZ0KaNf3DuzNMmEbCgcyxnhfYkDrQWQ3RmwnH1wa1f1hH9rcUtQQursxCMuJABdZZG-mnvbUWVJlfh8WW-9Spw_7KwkRkGz4fVCda1CpvhWCZz7pSs/QG6S7bOK7dcoNWu2qKeyCkszxI4NPqdF7ARAzMsCNao)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-04-09T21:24:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recsZMI5XM32A7PYp",
+            "fields": {
+                "Role": "CEO & Founder",
+                "": "",
+                "Organization": "The Thrive Shift",
+                "Full Name": "Linea Johnson",
+                "PFP Image": "LJ_STUDIO-96 (1).jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/8tH1smoy8QqgoGamjwQncQ/eOy0BMggk2QqS3XwFY1nW_Wp4IojAwAzX18FKxE1N48F2kIgQR9dz8SEsDoccR1SSewErTJdmW0rG1xoBMIzN5MCu4wwJtUBQAG0q1l-h1gDB5nGRx7J6cUrWgO9UfdmltVUkX2300S9Lagl6TEDaaMV8OCBhQIUFJ6dKqzq_kU/gIhvko5FqQFuMYRwR9XzF9vg4cxQ0ftupsZ0BIpjLy4)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-04-16T17:33:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnUEEDL8mkqq2v4",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "FlowInLife.ai",
+                "Full Name": "Mohammad Shehata",
+                "PFP Image": "1609531875876.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/o7rXUoaGbFOfsTycssbLag/r4lPLyeIlFhmlOrEqBZ1dBpMLszo7fGBpTxPi-EW4uZXUEmBnNEotjsL_jRPbCXYL4ipfTsWb4-wpZ8H6RiXuEM5xsyVm7vhy4Ynxsg0D2acTiuAKHIrAzghoVUPIvDzEMG28WiImLn-V1FHZ_AZql_-ni-nsYX5V4a-MddX42I/hWxCO050uSban_46ykxfIqpKj6QMHw4xMtcApeteWFk)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-04-17T00:05:12Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recpBUz9XaNufmZfq",
+            "fields": {
+                "Role": "Producer & Director",
+                "": "",
+                "Organization": "HEAL ",
+                "Full Name": "Kelly Noonan Gores",
+                "PFP Image": "kellygores.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/KbQpeN4sFeOp-VSUV7uYEw/_6KEAqkD11x6q3b0gH2h3vzR-t3QEDGU49THA6jk6B1QKrCaME-SxA6xL5Kq2cc3vbTP2i5I-usJIjolH9_QFkA5WfcVQXorHEYeWilnBBfvncgTWAXeoAstrK2aX7OTvM0lmrF1GUzn2suA0Vn7KeT3Ll9osjs7449KBMDAib0/IySrDwgFxUPJqQyaS-7PUxwitEW1pttypHnZRmdm3Pw)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-04-17T19:08:36Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recMjJavHm1MJYG8q",
+            "fields": {
+                "Role": "Founder & Lead Neuroscientist",
+                "": "",
+                "Organization": "NeuroLeap, HALE",
+                "Full Name": "Kumaar Bagrodia ",
+                "PFP Image": "1715491089260 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/rtFYMsrN8aUUHCqbbyBMgA/2FnlX0w8GxVcUPAu_nPmvS7O4tnjtYs2DfIxhcGirpz1Od37kICJTaoBsrihvAyI3d9VgJSTs48nzC8sU5kb9ukx8sriVV73FOKqNIz0VJ8X4nDYhBi3v22aA-Esj-WjJ2GDVMXyB-j9ghGb-SSWMQ/6O_gZ55ZBZMG7DnyluRTCo_efizD1GIMfRkxoPc2_ks)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-04-24T02:43:34Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recIdQxjAGdHX8GLx",
+            "fields": {
+                "Role": "CEO & Founder",
+                "": "",
+                "Organization": "Spark Interaction, The Future Lab",
+                "Full Name": "Leif Hansen",
+                "PFP Image": "liefhansen.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/c2aha6x5Xe6GGye2CSAYrQ/nhE4_j4zeWOYz7q48LcWBltt20Sowzf0vaX5DBh-u-XtZB8K6wIdf2f1NjOD99z9QrCJArgbJpFD8LMVCnyyzUoozWKNXH6zSRAByeCf6_Xk_uQ1IiNXKnlo1nVDH9RGZVjXt4DxrU5DgnJMqagfjOrGgZv1FezNaEFCWLeFSro/AXk2oGDH5V3gU1wXZPltVafDTldKjoZP_3MVvuDOwFk)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-04-28T18:54:43Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recYlYCoKesBDzP36",
+            "fields": {
+                "Role": "Managing Partner",
+                "": "",
+                "Organization": "Nfluence Partners",
+                "Full Name": "Gary Moon",
+                "PFP Image": "1516070710185 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/5LnbwnYC42zJ5TlSqDKQ0A/yFvpYYodBhYGMeK1gv36y_QhYJfyHtj2LTiwnNse0zjeWvxRzfEbjUSOMnlhaOZaIz2T_uUvXRRdaEkJrhF9yQkY2GvaFeXlHAkCt_O5zq_CF3bhqHcfCAzrd7YY_8ZHCwxHMCNsMyAIfHlTvC1BQw/1UsT115g0JlsrpVEfDk0dC6ahojB_eMU70pR0sla0sE)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-05-02T18:57:51Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqRcupaWW6b1Ovw",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "Feno",
+                "Full Name": "Kenny Brown",
+                "PFP Image": "1677861130097 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/gGojy19NRlKlcrdZ5yBwuQ/6gdvmU3sNaRDbQDlAm3cJg_-Oh0M5SjuaawunxSJ2GVxJ7e8ViP3hbzoaEpJ9ej8G-yAl-UUeQeuu1WVvyK3XIqBfH_xvVHTQf9NjxC6YY4nS1VNm8LtRA4xLxz2cnyzpRatA31Bw8MW2bXA2OGzBA/Aekb6s8hWgiiR0EJvsZwmjkLApgDNXHWf9PLb2wcBwA)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recbvQN9npWfeC9ez",
+            "fields": {
+                "Role": "Co-Founder, CTO & CEO",
+                "": "",
+                "Organization": "Ozlo",
+                "Full Name": "N.B. Patil",
+                "PFP Image": "1721421894138 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/xGeYhuQzJ6DJ41WtlaM_kw/8XHz-qxESwb9zEk6KACNoOld7dvQt2npedtxNw3xcm_lR9d3GRzsBvA3nieObz3FXlv-lfhO-hifOrD06HkVeoYKmYvCYY2UUkHiON3bX9Ou78BELo_wwgo0h_5we6DbA3nNNWUz3v56ZbNLFuN6vA/yO0jixIcLafDu2VMsSnCROvu02-4h2qiPeqMBekltA0)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recg4T97MfckX1NJk",
+            "fields": {
+                "Role": "Chief Ethical and Humane Use Officer & EVP, Product",
+                "": "",
+                "Organization": "Salesforce",
+                "Full Name": "Paula Goldman",
+                "PFP Image": "1667865898806 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/xHsSGklxsiYx9CgHAowCxQ/X7trfmQlWo0A953yNldSZbbq3cHjoJ6aNfQZqZpcCy1P4lwPv_f_156FaK3ybNshVWbZkQaosoNllE1gjhF7Wf0gr_a9HVkREf7W47JSys3Snq2axg5mtdE0FCRxid-FSmYI6W7NE8JYJsHXZkQBUA/b32ix8-IISr1UJ73SVDQX09CnUm3CYJEmKuXRkIL570)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-05-06T16:46:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recfwt48cKYT6g6nB",
+            "fields": {
+                "Role": "Founder and CEO",
+                "": "",
+                "Organization": "The Human OS",
+                "Full Name": "Eric Solomon",
+                "PFP Image": "1594411012-EricHeadshot-small.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/j1X3bus-ZTKXbeQUc7k5og/Zhq19ktNijtZ91f6OvGbYrrLS46Lq5lptpXkKaNC5Nan-r4UkApBwvdHN7EoaqWK5CF913qtwJxCQcDFaPThZ8E_FLSYbmkW8t8QzwZEDk9LChouCDWa1e0gdSSmuuJ1eWpPddJCoo9z8BW5hB1TMA/dhQq89FuGXZHCj3GVqhgjnhqOHiDwNbDzbHScSiQQE4)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-05-08T20:50:14Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recbIi08TfXlCH8TC",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "SuperHuman Society",
+                "Full Name": "Banu Kellner",
+                "PFP Image": "1741907479692 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/K12aMBhHJUeclave_4_onQ/acuU2OJQEUmIAXigVrR57C2aPk1RQaa9GpHzh6yYdkVZPxpoD4HKi0FkmF-ME4J7oS9JC75XI_7bKCHN47hKpErRbF2MTfuXxVgnnBGXabela7BzO-1BRRSSu6uefPaRs54gpCdhWDh33bj-gUHxvg/BeBykHjRT99-ltOBGmY4HuS8mcBlNs4C06uCnEJ7E-g)",
+                "H+T Sort": "2-2"
+            },
+            "createdTime": "2025-05-09T03:31:31Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recT0YGQdynCRhj4s",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Sensate",
+                "Full Name": "Anna Gudmundson",
+                "PFP Image": "1666381920591.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/EjH_DQPOB6c2rvo2oEJTZQ/Q0ihtiJMKXHaUxGwjeE5UTagCi_o90tsmJqBN8w-M2FWo8sNkmx5WlHh31muk0puLvbUXV0S1zDs48f47dOoCrCYYvr-pRgeppaconEQOSBgoZbQ2Qiw5zzFdJQ_hKF9Xlp1iPK0jMKqQjFD-ZXJlB3ifUH0WdpyQvNMzF4x7ZA/2VWQXNriWKbQnrNlJSEUGG6l86iz79ooS14KfE8PpUM)",
+                "H+T Sort": "2-2b"
+            },
+            "createdTime": "2025-04-10T03:01:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec5XKwFKyvrdUlx0",
+            "fields": {
+                "Role": "Distinguished Engineer",
+                "": "",
+                "Organization": "Google Cloud",
+                "Full Name": "Alon Halevy",
+                "PFP Image": "facebook glamour shot1.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/X2c-Y9VPiB0la_lxfnpybA/v-ewVh6gT_Yg2wCCrDMjfOTVal06HGxNAvgzG7w0MDcXMirm4fMj0P3alMJJgdlSODQomzMWq8dD0nxFF_Bj2KFAjrE_66BAwbQuH65U1KusQsuk3YHIKBvj0VJArRRTQX1EJtj7CEkQ2f1UwFvf6s7QqF4iSjU19QEhvov-wbQ/qYqSqVOw7sZ5pBC7gmRELRtUjNay6ttxGp_30sQI4d0)",
+                "H+T Sort": "2-3"
+            },
+            "createdTime": "2025-04-18T03:57:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recI4vur65flpdUdY",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Humantelligence",
+                "Full Name": "Juan Betancourt",
+                "PFP Image": "Juan - Hiking.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/7w3q_TbsSnKhR4O07osK2A/180Y4DWmNhvmP5ktJVWOg8KlXqGbAm9u2bMO1SZuISZnex5buj04B0XDDDeZ2KguQYQy-QR6JOukXYQg1c69ZZYhbT2uQaSoveC5lP-7-VqVB2HeLJeiPbNvxgJF0KcvEL4Dh8tU956HSe-C0-cN4-1T2jFlxNytlHQ0yaWRU8Y/PDpY_RVBeC3nHvxPAp7po0ErvWvT2Jw1UDMcSX-aotw)",
+                "H+T Sort": "2-3"
+            },
+            "createdTime": "2025-04-21T23:20:57Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnX7aNj5bYaP5Fu",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Psych Hub",
+                "Full Name": "Marjorie Morrison",
+                "PFP Image": "1572380185357 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/4ReXhFeZd1IqeY8Hw2xcGQ/ljwvJKffGT7BTfGYPkU0XDf48FSJZ6BgAcJJKnE-zeiwP-vidEK9LTH4LVjBfp-_ho0lYaAAN1b0qOTTjWh6MEaEUDPDVzSyKwr84n8-zf26xABWNutPsAsrDeSYJN22JQo9I9boT1oHTPl14pR7PQ/COzK7k9PQbJ6OderjkZh_J1scHjgBzI3F4JWBkPqmfg)",
+                "H+T Sort": "2-4"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0l9ORu4gYR7sDp",
+            "fields": {
+                "Role": "Founding Director",
+                "": "",
+                "Organization": "Metabolic Psychiatry",
+                "Full Name": "Shebani Sethi",
+                "PFP Image": "1730514404361 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/CST0Pyk5p_y3k75wyaOAJA/pK4XOB0y8ytGjDaKS64kbgGhZhP23Hg3fuZVo56nsJ4qbhMIa8q3zxwBwIKlkO15wL0SI1zufPGLOqfQg3bodIWj6agrVxIrXJ7V-PBqqDygybbAuMYoijugxPszcjwdeAA9sdX4NPple-5mqT6RvA/PhxAm88jSQMQV0iNo-PeNMc67dOxVsn5E1M6ckkBLj0)",
+                "H+T Sort": "2-4"
+            },
+            "createdTime": "2025-05-07T00:56:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recEruccnJheqr0dU",
+            "fields": {
+                "Role": "Managing Director",
+                "": "",
+                "Organization": "Founders Institute",
+                "Full Name": "Jeni Chang",
+                "PFP Image": "jenichang.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/gKbKDXLK4snXGyH8efes1g/ILzy6omlVHdcIxOQTzTxc8nM12ocX2dJs4Od7RdU7GUJBKBNiR-CeRZR3fED2wHP0YDKVC5iOmUzarwNeD3KxjMLu4SYxkZQ2HgUOIdEeFZ6i-D7Yp_ZOl-VAQAnU_7jZOIVRzz7J83tFlwv7Ns6xCw4OP1F-UzU8tdr9msckPE/PjRprsDm_1jBU9ogo_MOfBEwwC8oSmY6XnG5giNfNRU)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-04-16T18:43:43Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recutP1xiQvTP2OCM",
+            "fields": {
+                "Role": "Co-founder & Chief Empathy Officer",
+                "": "",
+                "Organization": "CoGo",
+                "Full Name": "Andy Swindler",
+                "PFP Image": "Andy Swindler 2025 headshot (IMG_8136)-800x800.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/0DtOPO7XYlVREWDCUFX63w/NjVAJP04L0VrkSOtwvmuLHWjx4DM-IIoNW8szkMpG5xIE8O_KZYPNzM6T69MgRN6JHP2VZsYk7lB57cLxHiLB_0RdBJaEoiIkMMl-o_tRK2u7M2Q9KH6gB2SlUzIiMHOgcgd6LYp8-uml155wHeZWvFkEU4fzmamFdWorMiMULWXb8wbPkePZvjZ-hq1ZhtiAHuFvsRuuzq6jPP3kT1Tew/lpWcnrnhaXXpDJAN6MSR837wV7vAXtQL2-Y43cLHprg)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-04-19T02:30:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec6Cgu3DkLs6r3Et",
+            "fields": {
+                "Role": "Co-CEO & Co-Founder",
+                "": "",
+                "Organization": "Apollo Neuroscience",
+                "Full Name": "Dr. David Rabin, MD, PhD",
+                "PFP Image": "APOLLO_Day24149-2a.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ZDbn82Iyf0WrxWVNwn9aPQ/CunYmLdaMgGFEL6H6S1tqLqFgzmoi-y0w0wuiHyAsvhautTuXEX6QohPG3Z88eo7eNB_nmoFcCtyM1Pbl2fUWCuuoXGHvM21PcN2QZGlRil0wD-NhwbGEBOIMExLRt8xDP_A-BXyjwR4TR8FcA3GKakL93JMt5KKUUcX1wtEn64/1IZ9JELX7-5AvOeUueXBy92PW-yOCG1c8uvCX2nXa3c)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-04-26T00:41:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec1YNzGtdCuDVYpP",
+            "fields": {
+                "Role": "Co-Founder & Co-CEO",
+                "": "",
+                "Organization": "Syneurgy",
+                "Full Name": "Michael Mannino",
+                "PFP Image": "_MGL8258.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TPZ9E481N8-54aaVhAivDA/9j63MtXyYrxW_q23rIij-YcGiepgCIyMfeJ0oWqmlMrq1_1Ni_Rx7BzBYIWdNyfCUgchFztERph52HXGXsuc3ywQZb9mkjxP5FqVNon5kDFTQitHhzGhQYepKyW7Lzof7yF6159KZaVo8CbX84vT8fooS3ojU-fostXioQsGddE/JjRRnhFzIepfQbsxraKL6Xu-n6qARDB6XNtrqqnlLhQ)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-04-29T16:01:30Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recNYuZkGQRNwPsTU",
+            "fields": {
+                "Role": "Co-CEO",
+                "": "",
+                "Organization": "VUCA MAX",
+                "Full Name": "Chris Nolan",
+                "PFP Image": "1516269075460 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/IH81ywI1ekOf1bI_lXgg4g/BbIeui9Aqrd6GN5MBrv3g2_dFQqXrNh13Roo370L7wVCegp7Bmo3smjRCJsTamxGdEwO0PVNGMkWUExv4On0nwkEF_Yt32a39lsa8biWTM8N-S4yu9HmYzEoYkssCHpQWpS2pN2arptcrIU5j0hqhw/-cis8YuhA3tGHSNUgLgf8D2UdNGDWlPhSnqqFnxy57g)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-02T18:57:51Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recc6E9M2pwZ6cLyf",
+            "fields": {
+                "Role": "Professor",
+                "": "",
+                "Organization": "Stanford",
+                "Full Name": "Alex Pentland",
+                "PFP Image": "1629302894383 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/0BDZedoCBXq61mN8zoxywg/whBApjxmaXwFIjSEPaMN9x_26I9QBzS31NZt8VUzNf9Yz-v8OFYEHcakZwijb5bVrHqm9vnz0yqXb6hBQ2cGo9VLYozGx_RESfYFwMcdALICkmO6ROH1qEgIGIB_pRChkcQ6A--Dm-a8Rsjpdl9LXw/TuO0W0ZXgFS2apWZ-HDpsHEyJk92SFeVe8yBvACMttk)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-03T03:05:32Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recM80RnK9nYR3k8v",
+            "fields": {
+                "Role": "EVP of Human Capital and Executive Partnerships",
+                "": "",
+                "Organization": "Randstad Enterprise",
+                "Full Name": "Frank Congiu",
+                "PFP Image": "1740858297955 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/fkGtCEgaRY_21Vky3zVXUg/drs4F0zpl63G5FdC7ocOdALh6FG9obX2WSfRVQi1xfhE-SSa-_0c9U-5Jfy2amYIUqq_YT_wRX8Nj5qxNXSuNISz5yFmzTWnhywAzhAwavMEIuhh4EsG4zrgV459HJpJM3M47hvF9ZI97SPc78-XWA/KxLgAPdkZlxlJTQP3Pgkv3fvFMINhTDsY9JhYTSSnPU)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recaFIJTTngq0h2nf",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Artificial Integrity",
+                "Full Name": "James Francis",
+                "PFP Image": "1706572447401 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/hBd9PUu06j4sDc2EgN7ycA/TaZEyNHiDBgTGyxp_e7tCqSbqVgJLdLVpBI-J6oxPprjRyyNChWMNV4HrKG7qZgT6FLagC6tFmMFB8dVrUDTff-MoC9_PzjNuIUhM489pNWpUH-sjZEf_lESOMJcRQ666Hf8b4n6fXt1TMa9-fzk-w/Z2FK4-clS5B07_7SIM8HS8C32bvDha8RdETVxZpA260)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-11T19:20:17Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnchhnFoCk34qiW",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Angel Club",
+                "Full Name": "Angel Gambino",
+                "PFP Image": "1738201187591 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/OTDi8Vw9p69a7Aty1ENM4g/ogDO79J-l_Nlu-IbF_dRo4OQors-evlC5yhOQzGkLVNzCQ-SdhMiRo8Z9F7lXTvW6Rr_unPtNi3iecQzbEljxC2piso_OPEVZznIUiDJDLM8ISi7LJg6dE_IhPjjZJxvNoBtkNoW3wwKVD1BLb0ssg/CrJglbVAuoJaUODpB-aEF61iTgMoX-1As_MYCOVvYzw)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-26T17:55:27Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recn5WjFGByBnW8OZ",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Master Brand Institute",
+                "Full Name": "Jennifer Kem",
+                "PFP Image": "Jen-Kem_Human-Tech-Week_Headshot.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/HPNnb0UMWsvMf4D3ZGNcGA/9yc8vQ11YUs1P0CW6SrZAPengRVO0CjqNRUE3kG0XqWUz3zduFP3my_GVXA14hELyx9zGFKhlNMQAL8p76VWulNjqOaXE489DUvKKdk5hf37rYzRD9AtXXt_hzPLZYea1HohCYykdQ3P8omIVwzn6EQgkemzUKHHJfeyJQfTWZjxBdMKu3VAumqjYy_EXwPF/ZD2juxzj9-DO9T_Kc_4atwjyfaIe-BcQmPhBjJxOwuI)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-26T18:31:23Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec6x6cZDirEeKgFh",
+            "fields": {
+                "Role": "General Partner & Chief Investment Officer",
+                "": "",
+                "Organization": "Satori Neuro",
+                "Full Name": "Amy Kruse",
+                "PFP Image": "1516821552319 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/HMXtwqbnaXh1_bbCM9ltwg/yiail7Sghw-783Asga3kzqnLSyn9JUgzbTauACSNzION24r0x1KbE6-HZYh5fRAX3x_0liRZYthe7mdK2zbAAo0mNSY8TUfhKp0T0-6X1La3H2HYRjnx92C81fm8S01PEfw4F5k0Ng-3-oI_689Dlw/FUlmJ9lCu4Nw1hTr2kS6rHC8n2s33SgOwgiEm9qiwXw)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-26T21:55:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec7bWUnmtE8O48e6",
+            "fields": {
+                "Role": "Founder, CEO, Research Director",
+                "": "",
+                "Organization": "Intheon",
+                "Full Name": "Tim Mullen",
+                "PFP Image": "1516358066253 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/5NE30REAPC2l34jzS0AZVQ/OK_RnYzMYVz3he18aEuJPkCkBd2YHjsuYYdAwrBtRFSiC7cCiFlpLy9ty6h9vN58ns8H03Xg7DGhFk8gzS5qIFju6uzb7M4C9o5PnfHHDOENwcMqAlt5mz0i1QomgYxlrODrhR0FkQvOPbA_bS6VIA/iKNJvWI0TRAiKLdFTs0d2uGd1aUTDeKC1R05YrSROtI)",
+                "H+T Sort": "2-5"
+            },
+            "createdTime": "2025-05-26T21:55:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recPuQ8BFhMNbbNva",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Miri",
+                "Full Name": "Amy Kelly",
+                "PFP Image": "IMG_1819.JPG (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ZgAlZJe3Ru1Nh-eEb2AsHg/W5F7Mt17tom3LG8K-YdLqMhh-pwLwZc1OC8hLvG17NR-B98PPlsS6T20btlCoBUR3H2EufXJaL0PHtKyYtRnuVBQO5sSDm0o5ZXR61V5WtOMYI-R-CP50087Kxg4ntxk0srurQW4fCXQeDgBY_WCnvLuDuQSln9wBCJianJ2kLg/2QJlCD1rm7BmhyyiJlPUYzcjNcB1qVNoFobdnaeSPfg)",
+                "H+T Sort": "2-5b"
+            },
+            "createdTime": "2025-04-24T16:01:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recq35W5alxEMxntb",
+            "fields": {
+                "Role": "CEO & Founder",
+                "": "",
+                "Organization": "Pangeam ",
+                "Full Name": "Jeremy Moultrup",
+                "PFP Image": "Jeremy Moultrup-light .jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/qP7Ebxk7uZP1wDUFRdoZNQ/Ci4oI2W-U4WF1oBp2mjjYrUVPEP0AdWV1DmZwxCDhR8YthQzsTBUACqDsz8LAr27ApIkr2QXAXtlWAxJ8c66P5AuET35r2w343jwllBDBKTv6URAk5VwEAzBOvh_AafYHY_hyUcWC9Gq2vGxsH19hYrDwP4gIMT2noozRmWinMc/0loVosrbn-qgFCMY2fxpyKmW65def9dbSO_Q7kBHdms)",
+                "H+T Sort": "2-7"
+            },
+            "createdTime": "2025-04-09T18:11:15Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recBgnOxpWfB18I4O",
+            "fields": {
+                "Role": "Co-Founder & Chief Emergence Officer",
+                "": "",
+                "Organization": "The Wisdom Beyond",
+                "Full Name": "Dr. Raiya Kind",
+                "PFP Image": "1721858315552.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/y-1o9JXjnLE7Ar0371yi_g/mCwErG0-tfso120XcOmOabvaa3rDe__AttfmjizCdRbqmNjWXj_-vkGZOrDttxkWkVcuY1lpiypHdXdycbRhMfpMFf25OKouKTmet_qxRerpt5EKlgaj-K5cdzP412L8qy2yB3Z8LocR-V4zCRUBDaCS8mfnshBtn_AHzJ-btjY/a9PMT_kf-EBxe3vPFaHi1r8I6W62tsUPKKbcrHmUBK0)",
+                "H+T Sort": "2-7"
+            },
+            "createdTime": "2025-04-16T04:41:49Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4z1WWeJyAWCvqZ",
+            "fields": {
+                "Role": "Founder, Investor, Author",
+                "": "",
+                "Organization": "The Awakening Fund",
+                "Full Name": "Dor Konforty",
+                "PFP Image": "dor-relaxing-e1730940630117-828x720.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TkVSUSgYbyh1ZwodZh09Qg/ZY9qR-fYltytmtcjAYGwUiDnudewNI3VFSylrTxfS2u0Okny96ou78pLYrNoZKdINh2aTNEQ1dBsLwjtI8lNkszCluLTNffCpmmH7vRb5aqJzhRAIruelHebQmYN_2QHnvcuyKMzKx_WvCJLiMWP7m_MQ-2MtS-l6jV-PRkRqw4nh82GaBu36cHCVRdfcMJS/AQTXHHmR0FdurK2NCJMP-NriwmwJcK0tgOZRAIEDpHI)",
+                "H+T Sort": "2-7"
+            },
+            "createdTime": "2025-04-16T04:46:34Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0spJjAhw1NFAxd",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Holistic Technology Project",
+                "Full Name": "Larry Muhlstein",
+                "PFP Image": "1727154441658 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/5zQmdEtrr520QJTsEu2Jbg/BhllKgeZAAncgJ3pHZty16FClWeUVoada0VSLW-yxWCdKZX0qXaAELZE4kwV9Jz582qN0hWt0AmH-BAivkzC4S0m9NkrrjGDWvIv6ziIJCsOmLGvoeSvDszY8ZRyYP4YkCluFBUUsTP8Yo6wQFPXvg/4U-apc89MXWSZrk1qRFjnj9aypkGR0blf4DTx4fROD8)",
+                "H+T Sort": "2-7"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQ3dWGopxB0jJlu",
+            "fields": {
+                "Role": "Chief Possibility Officer",
+                "": "",
+                "Organization": "Ex JFF Labs",
+                "Full Name": "Kristina Francis",
+                "PFP Image": "kristinafrancis.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/tE7GFjxgPUL9fiOLUi-Jdg/HTND8MGj7WTxT8WoEzYU6GjgVqTJkKWUCNv6e2bSpy2INmDUAdFiVtjDNQxB6Fs3caCWhzExx7iucoKaJb5Tqmq1L3AcUOA8hHUs7V2lyT1pmWKvt9ku0jhdsygXEnGCIwzHAaXgGObHqAXurSOgOMei63Xj8kv_3DOZnPH3AxA/CBbxljxfsyvZOXfaHJ79xCRhKqIxcD7ZCXe8UOTZk9s)",
+                "H+T Sort": "2-8"
+            },
+            "createdTime": "2025-04-13T01:21:26Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recIOgrXXtOzYJP4x",
+            "fields": {
+                "Role": "CEO & Co-Founder",
+                "": "",
+                "Organization": "Vibrant Practice",
+                "Full Name": "Sunita Mohanty",
+                "PFP Image": "profile.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/7bbDJeV5BXzw__x0pWvu_g/UNZwBjJj5-CH10m50NpeytZ-2nonhGgEd4EqR93lb0qK5VdyY8XeJagXWlxN3SqCPCkqSGaucElpkhfkSmfA-vCHanH-hFKwEZsvsjFpiFHwDg54CBjSGVcJdmiSb9dBlxdW594TZzY5mxptla1ckueG4DBWgx9aU_w65gnuLR4/rwTAFkuVLTTX1SREdUdomWtEUOxHxVdb7cczXiPdfYQ)",
+                "H+T Sort": "2-8"
+            },
+            "createdTime": "2025-04-17T21:31:57Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recuJtyjGShQloU5u",
+            "fields": {
+                "Role": " Founder, CEO, Creative Director, Live Performer",
+                "": "",
+                "Organization": "Chambers of AWE",
+                "Full Name": "Laura Inserra",
+                "PFP Image": "1605227854319.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/J0b-pHL7VlvRjyIp75raOQ/eAxNdwZMlpgh2pJq7Dh6OZ9skyJWYRGaw6USB0meJGOSmLLtNgUgE8Q7wwO8ZPjtIObLLz0p_UZHIMKDE7sgYRZSxd6A_yzJ98vnzq37GUtcguQiYovDb6ujM_3pY2OupigPHswbkzAZsY-axnMDBTLI-f1FHoZpzdZtCMeVIYw/KfXtldDavvlYDHEGjcyW5zwCdfGJYRsoca3cvJdRnYE)",
+                "H+T Sort": "2-8"
+            },
+            "createdTime": "2025-04-17T23:08:41Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recDCHipNu6yXpFT3",
+            "fields": {
+                "Role": "Chief Medical Officer",
+                "": "",
+                "Organization": "Enara Health",
+                "Full Name": "Lydia Alexander",
+                "PFP Image": "1739498019541 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/KEZLpxF_JcePMWS6uj157Q/CNFqys5vpHU2agfEgLa8rSFD8GHPBApNsYxWROgL0l0yWjv20GROhdFUkDpKqRguVQ0mTqO_haMwchHaJnatHmGlQS2b6y3-PMwf9UdyYqGmCtIbj9mMa4V4sIGbGjiJ2qGYZe1NZVmiMSSgRwCFuA/sOTO-PwBwijNUy8QUo5dUhXGCNDxeSg7hgkIZ-OOR2Y)",
+                "H+T Sort": "2-8"
+            },
+            "createdTime": "2025-05-07T02:06:16Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reczZeqSGSjeDILJc",
+            "fields": {
+                "Role": "Chief Data Scientist",
+                "": "",
+                "Organization": "HireVue",
+                "Full Name": "Lindsey Zuloaga",
+                "PFP Image": "1740677609606.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wVYlKvlR0oVlRsRutk5gMg/qkq9gwWVMifyh5ke_NSvN6dg6_foldUKevCBlsSZ_PtaJgwPLChOeHyAV9fbIvvY3sEp0fUMJolstsudqTINyoLygEnS5n55MEKpRFxEWRWgFv3qEAtMfEP_PAf2dkYjlnRmGaTjWf3vNnYi8KsqOrxXfe-QFmr7Vrn08SJekOk/Jd9r-pEIoWMW5zpnCqN-2dUuvtkCw6sEVDSGAJlU3hc)",
+                "H+T Sort": "2-8"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recaO4lZ7leNbF9tF",
+            "fields": {
+                "Role": "Director & Founder",
+                "": "",
+                "Organization": "ARIGAMI",
+                "Full Name": "Ari Peralta",
+                "PFP Image": "2A2A4B67-7191-4812-B0C8-1E1C0D17C246.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/stKmiXlKqBI0OLyNiDXw3g/eJ_b5WfVaujhUU7AwZX1c3isf3t6Enxvc0bZThoELtl6Oofc1RH84sRvMp_RyrRZANG6duxzKNrqKDSVtZZuTsO8-vmaBJsMqHDhyDo365574bcDa9rgyY_-nGVFmUXS4txLBMfj247rQ5v_6b2vPg/JjEmAfV5PMzqkFhHTOeG-l8F-NJ2sSaQA0Ojd8rhem4)",
+                "H+T Sort": "2-9"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recbOs5pJZX0c2bxr",
+            "fields": {
+                "Role": "Co-Director",
+                "": "",
+                "Organization": "Science Enhanced Mindful Awareness (SEMA) Lab",
+                "Full Name": "Shinzen Young",
+                "PFP Image": "Shinzen-SofE-Headshot-20160212-EricH-38-2-copy.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/XnaySfnG3F2WAQXCB31KpQ/4tQwNfOjGH4g1MCJ7Qxb3YF_Qk78_LbGgOgSSyuMa7lqWzVZL70rHD0i1n6089tq5lQarm7crYlrYyIKN4QszzWBkJGPMfPpIGC8xDwY4DsOpVI66fYOjsG79iRB2map3CP-FcKfddPHXk5RCseq82j-LnGIPpjM2CpB6PHY8vSLJ-vW0n0AlQKQxusYWWFPGIp8UII2XXigHZHYFI6gMQ/TeIjP3Nzbdur4Qc2wRnMNRVlBtFtIMKmAK5M5xF5wP4)",
+                "H+T Sort": "2-10"
+            },
+            "createdTime": "2025-04-10T03:04:14Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rechPiGl5u1M1d4pv",
+            "fields": {
+                "Role": "AI Professor & Author",
+                "": "",
+                "Organization": "Raising AI",
+                "Full Name": "De Kai",
+                "PFP Image": "De_Kai_profile_square.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TD1I3B5Sv8ivMfmeEWvmxA/tUZyif3N0Dx6G2moYj3iItHMt5A1JmKI2Ykt5WXq5PPO7GVvFOEAl4iDptUi-J8TUgQs7NyFihQ1WxeQWdA4W7L-vJHuoUVF3XDR5-Uv2Z8UTC-CFpAb4uUY1i2dTwqreepo3YPoqvtV_W8TcremKvhlQZgAjD1TPZAJkcUWH0w/xPEkqhxtpe-6o_7eMoMyy0ezJck0tOXRdC5E9TlxvrA)",
+                "H+T Sort": "2-10"
+            },
+            "createdTime": "2025-04-11T12:49:05Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reca4ortYpzJVa7du",
+            "fields": {
+                "Role": "CEO and Co-founder",
+                "": "",
+                "Organization": "Holobiome",
+                "Full Name": "Philip Strandwitz",
+                "PFP Image": "Phil_Headshot.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ekI1VfwEOKWAdSn_qjvPqg/3ISRZLyeQhQfyPIuWBJ_zqrWQRfkVbzJzTwRmxfhxUnBU0TUN3ONSwGeAuzYz0yWqEUZWR3O7_zpeDuPE18TeW1gSZVa5VoDZyfaZHYOB2Ywz7-7FvkLeAaZl2EJn8pPday2ix0UrM25cpJB-dWwEIwOzWU96xB0WJlE7hex9P8/R1nIact1Rqwbjwwl4_-h0P1iu7-zJ6kGrr3w1o0Sw6w)",
+                "H+T Sort": "2-10"
+            },
+            "createdTime": "2025-04-23T13:13:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recG2tAo4YLbnrCI3",
+            "fields": {
+                "Role": "Co-Founder, Chief Scientist, CEO",
+                "": "",
+                "Organization": "CrowdSmart",
+                "Full Name": "Thomas Kehler",
+                "PFP Image": "TKstarkSquare.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/kFgwgVSLS3MZRyDTHdyjAA/q91leRXT_gcdGRcRhiZog0bUSi00UG95VVlT_6Xg3DGXwUPF7gv0kkfoken10loBZDnzGs9WX59Q4vsxEPg305rBfzkewfZ2Hnhxfbi5hqjT8XCjyeqluCEd2sffbVwkMsDFZ3pO9sCxleGk7jYDVe3R8CScGpXZKhilK1i5q40/od9aX6iceh2u4aHKJNto4gCzXk6fwcG1SFNla7VuyK0)",
+                "H+T Sort": "2-10"
+            },
+            "createdTime": "2025-04-28T22:54:30Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recDxal3gJDzRfuge",
+            "fields": {
+                "Role": "Director",
+                "": "",
+                "Organization": "Brain and Memory Care Lab",
+                "Full Name": "Julia Scott",
+                "PFP Image": "077copy.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/R8mOb85EU_wjbrUgQT5Ndg/gWalePWPwnDOVv92hzoA6smQrlOoO8SthMUNV0Mgx2_ZO7M0jGE2uOCVZOpHVw3lp3U5jztHT0VEYYk8QdESaj0zebuAXZ5uf2csmaJ-QAHYWZmi64rdynwUBjDx67mzreRJfli-in2A-U_jk_oPAipnJ5ZOQbjThrxDX09etfM/5B8QwHMeOi6s2mR1t4mv8B0GkJYY31f1dRbJiSrHLnc)",
+                "H+T Sort": "2-12"
+            },
+            "createdTime": "2025-04-11T17:12:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recBEkAXej3SoXz3h",
+            "fields": {
+                "Role": "General Manager",
+                "": "",
+                "Organization": "Instill Labs",
+                "Full Name": "Dan Kasper",
+                "PFP Image": "1565987171581.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/vMJ9HrG4qM_DR8xg2tM-vQ/vQQyBsBHlhR7CCzWYJy7pDK39qRD3V5Shh6uacNDnmMtDalNgPG-aDEmMHv3U6zeiW_ilCRsSOJ8r3HRaAzXW84RciY0tRt75kHG8NSjqgTPyMDeNKHj7Ew-SHdSMRU-MW0OXqWtKDJZdUJcl93PP3Za9FNoff-LkWHqQkwF19E/3zLFhVh8-Zm6Of-HHy2MQ_lwiNkMnjsYbjmuBSeCHGQ)",
+                "H+T Sort": "2-15"
+            },
+            "createdTime": "2025-04-17T22:29:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec3gElb9xyrGA5jf",
+            "fields": {
+                "Role": "Research Director ",
+                "": "",
+                "Organization": "HeartMath Institute ",
+                "Full Name": "Rollin McCraty ",
+                "PFP Image": "Rollin McCraty_ exc 904x1250px_3-2024.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/4ez8uEa5dH-kiw51--tJDw/PlltAaAljEwg9U2RWt5IlQzznchQj3YLBaj7h9P4u9n4SyE-tMNrOr-nNpsR3tuxEXKGgHHTWoFnFjy3Ive3ghog4oKOeHcd_lBX31Dd1J_Rl2n2wGwzU7TaJPDNWLp1-uewKyAx_uvhPXliS3WRvs8rq3cpr0Qb1LIXPopeKKaYqacalDg-ZqID88xu315r/mi52Aj9tJS2wN2Tdp4MyWPeMAFz004R5kNal_Gd4z1M)",
+                "H+T Sort": "2-15"
+            },
+            "createdTime": "2025-04-22T17:50:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnQJld7Hqz4ACwg",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "Scienza Health",
+                "Full Name": "David Kaiser",
+                "PFP Image": "1743879112591 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/kd5zmeCLaoLij08JflByCQ/5quuZbmE9PCo0bYkerMeRocgM9cBsk_ZGXB1F3KhRPoPA61Yd9gdEjD5Loa4aBnXNGf0s5dnikIN4s12iHFI5HruWjNmDsyUXr_1MCEoDfMvykSY1Ugr3chtJXr22NphwwBJOtHtqsRrjZi5DQDmkQ/liUmv9cIdqRuiAJhBF1qmn61106aIhoN5RUaKC78b_Y)",
+                "H+T Sort": "2-17"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recybpFZLrm0DGRoG",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Consciousness Hacking",
+                "Full Name": "Mikey Siegel",
+                "PFP Image": "mikeysiegel.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/smKSmgQfnHvqn01IEqUf4g/LYsD296qVGsFDGCg7MGr1soXZSnFGI1FS5lASWQIbEZI-iLYkDjp1-4o1FpkJE2oRNAtR4s7e9NhUXkZZvBpgRKXttOWkDBH3VSSmtU3Y4OAyZBWcdOgMgzEd_wIK5MyjbTXrfaHNf0T-MEUTk_CTfd8GbidDgv6BfvtznBA24o/79dxx25Tb_hT-mh1nnfZfWhGsNtLP-_EYcHz50hTjFY)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-04-10T03:08:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recHfNpxyJHjR7bsp",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "OffyO ",
+                "Full Name": "Blake Beltram ",
+                "PFP Image": "IMG_6731.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TtgvWrJ6FLZ1RklQxo4uug/Ab4f3UMvIt9fjJRfSSIzKURHRtJEzMn0qkTtCieJxaK9x7tUTmLJeDPZQa9xSaWlRQiulRz7TUfq81ODY0HHnS1b6HKQYG--y4SVIE7eVN9EEAcODQWuWZwYovce2gTgkcOvb-9lFhNPIQqjMqsAvTYjgF1GpGxXWA6TbT3esqU/iss20AlqRFTOOFKtSs8WnsxGUhRMMlUExFr-WtjL2H4)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-04-18T14:07:19Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recfSjt5zR3wNqznC",
+            "fields": {
+                "Role": "Director",
+                "": "",
+                "Organization": "Integrative Counseling Services",
+                "Full Name": "Sanjay Manchanda",
+                "PFP Image": "Sanjay 2023.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/_rcZ7FvyUJdGtxJYSJnWaw/XIcxOwTIQtX4SG0rXKwsmHpbRnP5_g_QOAoULcMe7cFtQWxHJzSJrJ7KrTB8dOS9Q73yxyijPq5v3kqT1KY_9a50Mk8Fzk0w6fbEZ3QkJCWE4lTh4rKjttd5zrhV2nyAURDOHiGYQZ45Sr44bdI3ugdTPU8ecvk4m2IP75X_zB8/daJxFE7otKqoipec-0rtEpwauwBbRzLeG60JUPuiHX8)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-04-25T04:12:45Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec54lTwNQGlN0FtC",
+            "fields": {
+                "Role": "Founder & Behavioral Scientist",
+                "": "",
+                "Organization": "Body Mind Method",
+                "Full Name": "Yana Nakhimova",
+                "PFP Image": "yananakhimov.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/BME6qWpmnBDd3flolLYluA/iRpc_7sI5GP3BEPmwjBLJz2FKQ_XvJjTcn3K-TdhOFkg4dFORdNg3VMrqkrXrm9D1aDVcDK7tShUSkXgpQ9bvahob5u8_Hit351P7-PEdeUYREjXCf4D1zC8diUxzDZwuhQf7b4EDODvbKD62q4_kf_HA2sFjhC7GHyzutCImDY/kpemHDs9cNv8O4dr5pCuv2TNHRsHKAnE8HvjF_5sBdU)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-04-29T05:09:43Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recXJEaFVlzhTSxc0",
+            "fields": {
+                "Role": "Chief Pulverize Officer ",
+                "": "",
+                "Organization": "Pulverize The Stigma ",
+                "Full Name": "Jon Nelson ",
+                "PFP Image": "240403_240324_Associates_Fitlow_Fitlow_004.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/QLHOgA_FRTVyHcAWkAEtCw/gZYabn_OclSn-pwAov8bKN2lKCo7X-OvRAdBOP_o0csyb4m6EeFZxaWewaJ9VwCqOuhTkKzQHbB3LT629jwgHi1xEOQN1QIxSUxl2pfDmse35FZn3frvvDHOA-7yrtm_xWiMHHJb4iBzGjM57EN6Cl6eOhaFcQYOAVh4xJcyVss2CVQEAEU7e9Vp5da4VxElDvmEsTo7Wl_-QrzUO3puCQ/YNnC-Sxxb1-mHx2KyBGOhY09WvMs3Jglm8-ajoSlANk)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-04-29T16:59:18Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recUSuK4aSpf34ONT",
+            "fields": {
+                "Role": "CEO & Founder",
+                "": "",
+                "Organization": "ProjectUs.ai",
+                "Full Name": "Camilo Rojas",
+                "PFP Image": "headshot_sxsw_full_crop.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/iBLPnoqpHNtG1e9cNMIJUg/3zN-GJEwEsAXhTo9JR9ipou0ar8Y8w3IXHqoUJJ8rMkYXoNeneBgkCc5ndjxssaFZoW5IMpV_iNt3dMVbOCdPhSIXCA3f9_mgwhS95w-9uCPCvztEAnRbhMEh2IW75P_rVTpWTntzdgpz8FFiEF_vOUIl9GS6ixJBLzfxb7MUC8GV0sPkkO2ZRE5LAvwp5db/jO8OAFzCr1Uyk5BFj3OazLF7GyPOo4-GR-_Wpxs3fQI)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-04-30T12:52:54Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recUuBlr0mMrulCH8",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "Hymn Studio",
+                "Full Name": "Grace Kay Matelich",
+                "PFP Image": "1745441851800 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/mxk78sFnEXFccm9wezwX_Q/EFzEzBc0RZ9pe_azPrvQnD0UAIuvjUpmuAXbUzILR2fpz7_TTccCtniih1HOdr7ptm5WSmbF7F6fxnIRT-kwmLZtXoD27vw-ALJmtJ4lct06Kx7wDQEHjq96_yefGsAkGpNaEvItKQI40XdLGLJO-A/DNtaM6g0etvCNjrgt4cILtYhIrAvcCQSOUcoNW34UrM)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-02T18:57:51Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recIH3dNIM7VlTyTf",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Lighthouse.one",
+                "Full Name": "Peter Hirshberg",
+                "PFP Image": "1516244034349 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/_avNKlmTpoQ7kIa3i8BYUQ/M4t1LifsYarCCFhLN7GemKC-w0qkPU5QntjXR3T1iq9vBAVixJdLJRL4H5e7Pii9F6MxBZzIv8dyoVxn4N-KWFucbt0rorEjYAiuG5cP6rLdElJNkp5bIX9itY9MeOkVkFFR3pO6DQZGy6lqszw1ag/EcPd8rfkscpfFXtNBMZEzIAB9h16eAS1O_jb76K5pLs)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-02T18:57:51Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recTLOXTDoZmBLdmR",
+            "fields": {
+                "Role": "Fellow",
+                "": "",
+                "Organization": "Brookings Institution",
+                "Full Name": "Jacob Taylor",
+                "PFP Image": "1613186061397 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/aQp1GEsmq0eC8zjJJSp21w/LDx95pffehdK5gVNm_WJU7q7bZM8g2joDdiFVQXdz262rojqQKMDzVlUEfXwNROFS0f666iKznH5pEhwpqgKKtZ6xlSVfDPoWyUpp8BhJ72ZIF4mHAxSgjtQLPlqswxp6EC_2FYNE6UgXGzptqKZHg/IhHwJ1ykSA1dFtuurydgqYTS1JB7Bm97-Zepv_qnbxw)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-02T21:22:50Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recW3Zu5xaocYR55p",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "SoundSelf",
+                "Full Name": "Robin Arnott",
+                "PFP Image": "1746208548462 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/UV0g-dimSRExcBtVITvjfA/NQfR_-42NNX8uf_a8cxSh7qFgmJQvMfH4M5tYPT4eQ8ZaeWz_Vn4eI8281gUxWvi166ejasuPp70zUabWBRfusg1GkudHCZBk0iSTRjlw99oiU3Skgp26IJcykX-rR2Q82FNvRc3NSKJ_PoAsdpShA/I_xEOkIgtFXW-xZ1kBdDAaFNf9HdHc3BMMlIpSy8lKs)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0jiE6bc7T06qPT",
+            "fields": {
+                "Role": "Associate Director",
+                "": "",
+                "Organization": "Blue Sky Leaders, CIIS",
+                "Full Name": "Bruce Alderman",
+                "PFP Image": "1651171777206 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Lk9Oc2DXAJNdQBzwaLxgbQ/_r1T3JRG502IbC6brI1Kn8QFuFZuB7Cc8UqiLbqcBFhzqX1DaKMRXzBze963BxwOExfPMngVX-09sfFarF8eeqq7P9o0yL1CVWB2hr79dcaRhOtyZASkkqBNmUN5rnM68yYrEsnq47JXZWaJfl8-Yw/yWUv25CYyPt_NXfjQ4hXuW-3xp54VBfXcs9RmT0IIbo)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recD9D0Dfq2uVJ1ZI",
+            "fields": {
+                "Role": "Managing Partner",
+                "": "",
+                "Organization": "Subtle Energy Funders Collective",
+                "Full Name": "David Leibsohn",
+                "PFP Image": "david-leibsohn-3d8a2e61 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/bRnqbiqhNWKptxap6Qb8Gw/KUqSilqwi4YN1IjB6lYyPb5LeKqoVo0Bl0X5_W3LJ7urjLw-ApJMogl_4OtkGhiIQG2PF25ADQk2wmNO0Jgdgo8CRL10p8-s3Io3Okt9RKDLdSPcOsWE_iipSZhOagtGNwPbHTR9G_a4P6bAAWZSTQ/zsYiohLl7C0_mE7FX4iBDuUOxDv0jOOR732EEcTD0Xk)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recDMrQTZdGwqRjko",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Passage Collective",
+                "Full Name": "Jared Angaza",
+                "PFP Image": "1700166466014 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/KJ4a5TdPJRcqce6uT_lCag/ogFXPUPhLgo82abefE7cpNPKHfLCiinDghXFODJSIPbpTiJaBcWY1NvK9nMFbeoYC5xAD_AP-ATZr7e8kTZBT69_r3kaFbj2_ENieedkf3XgVAk6pKd9AJXYZ1OTtThsqrogeEFdmUplWEpKPvcMrg/XLQEK3ycTQvA8y0N-9XY5bttSzDnOwIxc9cZCFZjL7E)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQ4R5B2DSh1CHgI",
+            "fields": {
+                "Role": "Co-founder",
+                "": "",
+                "Organization": "CoGo",
+                "Full Name": "Rachel Zargo",
+                "PFP Image": "1746200483969 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/opPTaUTYbLSRAYKP8iy8Cw/sZIwsZgDj0ADfedvyiQd1hY200w1pE9rujan0RxDYXQH615WMiUhqeg1-uakH6Ks2KR9kxlQk7WmvT7H0NjMYtlhfTrRt7DNrPS_sYF3doqOtDoFiicB_LiLozGGm18j_ASRfcWFG5lBuXmOE8lwpQ/1Gn6SVWE7lmVjrtQ__nWOULZywTtAN7dlHIuyyfy28Q)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec9qdzZkqUsr7YI9",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Lief Therapeutics",
+                "Full Name": "Rohan Dixit",
+                "PFP Image": "Headshot_Rohan-Dixit_6.17.2019-scaled.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/UlY75szsT39PK0gErrK1Mg/uLyF0PiL6wkp40e5AMhvNcLJa9RJrCxK_EBHXj6GIph6fFY_JpDPiJVEoymlsbw6G1roK0kLwDzsUaOQtdDBM2QMy2ADwgHBp7RgYFIZdUw0N94i3ghK9Dil4u4B4VeVDPMeccIOtypwlYM_A1Jr-w/qH2YJrOnj1e7PEU0_DzGY_6p1WTLjQjUcrFUefm172Y)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recxu8JqzvtOpLPr6",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "The VUCA Principle",
+                "Full Name": "Michael Schindler",
+                "PFP Image": "MichaelSchindler-Headshot 2024.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/BMhZw0lRkqh8445mavxdYQ/E1P1jXt_5jfn_JPZIImCIKNno6H4GC6beRKUTNnp4ObYJCGeGnjciNyjcZrVPV8iMSXfoANDcuZvpEF5cmLGDHipEhBPir8CQ9nKf2c4CFGTXDtQDobcv19cXfAinqZQTodU5B9iZ8vjuz-irZ6JJWwti-dOhZEOm8AwouvrGArnqrD26JunKZIRW6MZU4wF/1DH-VNJpFyizFFQakrKlzOyQUyHBtG9SlrrZvy6Sh6s)",
+                "H+T Sort": "2-20"
+            },
+            "createdTime": "2025-05-19T21:25:26Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recn0uYo44qO4ZgrX",
+            "fields": {
+                "Role": "Founder and President",
+                "": "",
+                "Organization": "Consciousness and Healing Initiative",
+                "Full Name": "Shamini Jain",
+                "PFP Image": "1719043453264 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/AHxhL39kZavM2sc6Kw1WQw/9Wnxux1qphgnGL0HaSaXbYgExkRF14LKy4lHBxt3zWJkqyqjmdh-u5k1fJ5GEj5YBYwvL8Yl9I0zvYxVerI1lUQFQC0jjTKdLLbo4QdR_9ngwdreh182dlIz3l8QaYlMpAIJZBf4zCZp6t4JfP_KuA/xc5wS98IofMny_ikYX8G8mIU82sxqENqyv8Ql41kiGY)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recE0yxCLqAATLFRN",
+            "fields": {
+                "Role": "Artist & Designer",
+                "": "",
+                "Organization": "www.amykarle.com",
+                "Full Name": "Amy Karle",
+                "PFP Image": "AmyKarle.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/G9I7EcLI94-rIcR8oSevpA/dJW_MfT3_SPGREgBIKbT_ZMuyycW8TBY6znIBQrk8pXYXCgz4cftkvIT_nsFzlFbt6paPa2pDZ2cCNX7-_KYZa3zD0862U35vr2v0ScA4tV_9OnzkZ7J9Xd_byPUx3Dz-GNOLCfgHsEmOpcoo7I79Q/MUbOFcHEXUgfjGLo6tqgFPkFlw6j0WJq-RsmaWnoIvA)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-06T16:46:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqAFckwlIpSw7tn",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Sarla Ventures",
+                "Full Name": "Anita Motwani",
+                "PFP Image": "002-5E1j4LJdDcY.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/YAH1iOFP6hHNTnR7NAZHng/8XOeeBa4Kls1cBWenM_5kWca-_5MefDfi_HoU9_NdXlLwBB9zDBKJ5fK2FzDQUwVa2ACp93Yv6ofTqXS-XBs4XRIfOYm6QKgtpa_Cz5avoVnCTzKaVfNC8BkbIu9TQvMJ2BGJiqGvoLJSIav0iCHTOt0RZJZqHGjWVn9d9fevqI/mK2UPBodxHKMlqlCZvwHfp3eX3kX3puQKtx4Gx1HdjQ)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-24T21:04:59Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recYKUNOYPDoNWcF1",
+            "fields": {
+                "Role": "Founder, CEO",
+                "": "",
+                "Organization": "U4U",
+                "Full Name": "Ila Panik Marchetta",
+                "PFP Image": "ila headshot.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/dUEOAmZFXT37HKzPzOvxnA/6URwH0jJaQhU1jHRfuDHKod4jpH9OwFnscGVskVFCc3_WAyim4ikul5hdhCxSLfXWXmOD-x4Vyv3BnTFfq6uVmbliOCTs-7W38D4S7AHmS4Lntd-Q4h9wZl1YMuo4UeXHBNytXXvLMyFOD41HUDX7krXq49LoBK2nLb9WMDwOhE/YgoqeJcksWg9cXQhXPb6CoTu-ZIjNh0XrGVlNe8JuzE)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-25T00:31:53Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "receq0t71tZJMp917",
+            "fields": {
+                "Role": "Co-Founder, General Partner",
+                "": "",
+                "Organization": "Emmeline Ventures",
+                "Full Name": "Azin Radsan van Alebeek",
+                "PFP Image": "1644553270366 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ciVcJil6BGeSo3LEi2LLgA/yL-ytoU7j17JHNEU_YhwXL_yNAc_kDL7nzaOXupb2s55vJi2EGJf4c1q8DuHPZ81bosBznrHMSm-jiZkU6ukq_JYgTAzS3i5MMJibV32SEcagZb0wwIWbj5G6ovZSQipZaRj6NJmxFWVrOd4aLhGww/taSlHUR-8IfnReYkRNer9a80BpyFiFzStH_qGgL5PDo)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-26T17:08:12Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqXhB5IOu0tfXpT",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Holon",
+                "Full Name": "Dr. Amy Albright",
+                "PFP Image": "amyalbright.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/-TGZ4WPY3uiU2zMQYKlxvw/i5aLaAKCHpkh6aE_hV8qZrmxkDnDTMafpLvTXxGsN7O3-MaiZ25VawnVlP9aPb6I4IDL0SniLqTs13Ovy3atdm-p2hmegHlkD05rQzm5gNnqqxNN7S71N3rQXb--rLENkqN6Nl5hbhV7zs1QUcpSyS1PqFMZv47lIrgOgz0EPQ4/RFDNJwrFdHvHgiWyjOWS5q6-DOw3vAPWenNWQ82SXfg)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-26T21:55:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recDADIdpCRLLdVjK",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Lucidify",
+                "Full Name": "Divya Chander",
+                "PFP Image": "1675098681087 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/VMPXo1KelY1-469vfjBE1g/ro7_oomAqrMacgYXb4qLqtnlfUHwG8DsCrQ9RI-I7fzfgAgq_Q-gVhe50Kphz3f0yKXOFjnpj82xiQRuVfdRNmwbiHe0vxD85wwxC-ix0ujCPPY_bDewUC3ZE6IAn26b7IKLg_BzIdopuFepiguujA/SwcApOtusZvWDMpb4JqwKTb40g7h5AINfCmBZlFv8i4)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-26T21:55:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recXJ85USt2gkG18j",
+            "fields": {
+                "Role": "General Partner",
+                "": "",
+                "Organization": "PORTAL Venture Partners ",
+                "Full Name": "Mika Onishi",
+                "PFP Image": "Mika Onishi.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/JJ2Rnmiqt2qvtgq7EEoCqA/qmuWoVkera-iNquoR5pHKOQyUfsQbdVQjYYIzgbCtxhAczCMEiQs9Yq8S2-RF7rsPO1gy-gcPH5SkCyvByJA780PGKvFmGKkE6LCgDi37Bx4bamJ41A_lG_PgzLgTJng9HaQAJZuauxwzpVTdH1hKDj5D42wRBa_y7fTPc6CDgA/YDQ5fM6G2i1pE_GxtqfhiXfA6aexjrKuT2bJchGsppI)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-26T22:39:57Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recPvM3YBdmrAtP5o",
+            "fields": {
+                "Role": "Co-Director",
+                "": "",
+                "Organization": "The Cyberdelic Nexus",
+                "Full Name": "Melissa Warner",
+                "PFP Image": "MelissaNature.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/cFiMlcPxfyJLdZdW4fKioA/8EC1UO6mJQhjaqynREeY9r-buRCgl82CS6MvIhOd7rgK7McFEDpB7RDfTm2LQ__alBclelC0ZtQb1XIhJWRguRaR57TE3s3sng7x7wzUE20e0B8Mx6spz8Di3LHehDk3rBeDFbADxU618JWbRoiP5Q/Ou1TxDozCH5CPG2ZmacEg6My7SiiXsKRkZYaorVK-Nc)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-28T17:46:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recXw2iWCs7jyV7uX",
+            "fields": {
+                "Role": "Co-Director & CEO",
+                "": "",
+                "Organization": "The Cyberdelic Nexus",
+                "Full Name": "Jose Montemayor Alba ",
+                "PFP Image": "JEMA_Headshot_Color_2.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/810QL-t2NEqfYr5DRE0liw/YooYjc3PDdX-dpiHuRhnUOFucb_WieARnDcvYw8PmcCgQ2ouvmD9kbScwzzlokfDLA1G_y21Hz0hy79Ee0lVL79RoXIwWOGAHwcB-cOJrQL5EzrOXcuMIBkbU8-zCdka6irp4bwMRkIFNvJYuIEITw/mITnBPlJSQGkcfpQpqaksF1jrq_OnwbyrVd-5nVjRMw)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-28T17:51:00Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recUBRcVTemLPx1QP",
+            "fields": {
+                "Role": "Director & Founder",
+                "": "",
+                "Organization": "Impact Genius",
+                "Full Name": "Nabila Elassar",
+                "PFP Image": "1747441189750 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/XF6ub6NhiF-SQ5RRIEdR-w/AlOOAUL1uaWmZz4MSUGiKvVmlIfth6A2v4R1U1Ubz1w5Ek0Ebt583BpVShpJaG8_a0R_podjxRwpf72onh4y8vNKy4IovlNIwKzJtYtTQtzPyeTsCVE_lk_TZtQ7X3D-pt_WcpBtBI3AA450QqwlAg/_kBL5kh0owqp9IZD6s23pF09T-8I9mhtQhznp42yWL4)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-05-30T18:48:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reciRJA9q2sWuC74s",
+            "fields": {
+                "Role": "Photographer/Cinematographer",
+                "": "",
+                "Organization": "",
+                "Full Name": "Alton Sun",
+                "PFP Image": "i-Zj8Rgcr-L.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/iIjJG7e4-OGBdumac1pC9A/xgHIlwh1nun9IsmrFxRwjcRHIZ0of-KyZBJ64HPtJwdWxoN-ZWFu732Ejebp6VTauqzec_ipeX9gb4ks_jVpCFAPHXoO9QemmBvNIabutw3abJsapT3kpNRq5YUcvVv1il-TvMavObeH1T2yrQURrQ/w9NjvtrUdkinuGzl816vZksrVR0ilmF7Oo-LAJNmq4s)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-02T22:24:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec49wLOSpwZQzt7Q",
+            "fields": {
+                "Role": "Founder / CEO",
+                "": "",
+                "Organization": "Future Self Institute",
+                "Full Name": "Peter Oppermann",
+                "PFP Image": "Peter, portrait.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/V5Rc6pp3QsrqhqC2PTVLGg/KKy4q0Nujpb0W3ULqfmBE5wOqos3rrgaNnhm5ygYR0I1d8ci6w8nkzGCeVPT3upEgSJlb1LV1Ii2rlwNHXDq-veXwuCb4nkoXpqEpn6meN78cTbySKp8BbYczTo0aIDzaWzKM9pufKzKyP8JxwCFpMDu0Va485x9w--6a_L9Zm0/r69mnQUmVyi2os5u-1G191EBerlGIHihFc2IfWeau78)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-04T06:53:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0OO53EbsyMankg",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "BestYet for Women",
+                "Full Name": "Leslie Taylor",
+                "PFP Image": "leslietaylor.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/RZaXTStUKp0UA7SI_DkZfA/yhqcaZaX4mhVAxZDbCABZ7ih7YJBQuJSRXrSsd_b6rCmeiraU1PMP4dTSgW4HiqUpfXsWn_uXhIsl9JqgWqScqu1-PtMGP5tlt6PaD7Dh7_keF_J8mcsJOfZnsuk6Xl5PIYYUqnsE06NIeDD1TcQy0YuWlgl8j4GrnPffG0fGoE/DHlY69zyxLxbIvVGBoQ9HwmlSmEKjf8B9126gB4G0Lc)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4GRPPB34PyCRtM",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Amira",
+                "Full Name": "Loewen Cavill",
+                "PFP Image": "loewen.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/P5BQWqG_FfVti4iCicQrIA/0BwQMnO5DeT5wDTPhScUb8KBWOFtnPvM6U0oEB69aTtqNiWbmo0_ltIX8nPFGfjpahjYetj7voX4w_dyin1h_T70Scbisno_GXZNdy41LhTbwr3cMdP5fDTSV-O8RkTVGHFbaF1FIwx4GCRpUbiAqtIO5hfQF5IFpv5G0CswWsw/K1hQye_BtCABU1lZ3lp3O7wL14gxVUplVaXqoI1brOc)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec741XdPYcr1AVOH",
+            "fields": {
+                "Role": "Co-Founder and Director",
+                "": "",
+                "Organization": "Global Consortium for Reproductive Longevity and Equality",
+                "Full Name": "Jennifer Garrison, PhD",
+                "PFP Image": "jengarrison.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/mS7badgiGa8rvIIaXLM_0w/kNAnT_WzAqYLrV5gmq2XR-OkjOv9HyQBSaTZF-gM1zBBoccYgIx8tVo5aTYsO5lyZcM2o2nTNNgIwhS4bybpnB-Zlh2-ECnQfS6VQ4ve9Q3i5LZkkpf9oo6mXXKE5kxD4UfkRhCsIuUYkvpSdxW3KT34-S8MobGp5NPrMaS7QTQ/ZZQ2TIDIxRoFErRWYIHS2kQtpBGz4b0SJ1q2noK2Fhs)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recwil8J6JODE14TB",
+            "fields": {
+                "Role": "Co-Founder & CEO",
+                "": "",
+                "Organization": "Mira",
+                "Full Name": "Sylvia Kang",
+                "PFP Image": "sylviakang.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ogRNZqgxwe5oOKYjj8sMJQ/MlwJEmAeCyQDutdfLPYLopHQgvk_Jzn3oZM8daR-KdwtxePG6rPdSXhd-QJlXTOJK2ByAuLy09jtgRMrEi2H2w4Kqq6epOUhT81LJz73elZNjt8Br0H55apKcCc9mgjtyL22Qhx_sHkz9pmnaPV7Ape4qMekvr4gg4X_wn2ADuw/qSCo7Zv40HnvWkGTJPBn0td24xLeKJBfOOEgQfDrH00)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recNZ7fgseSGBsx7G",
+            "fields": {
+                "Role": "Host & Founder",
+                "": "",
+                "Organization": "The Jen Marples Show, The Jen Marples Agency",
+                "Full Name": "Jen Marples",
+                "PFP Image": "JEN MARPLES MAY 2025.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/hSoPwwdvS-0QEmHy_LMZQA/z69KN0aiJaxX7trvRJfiNbrnmLNNXeOAqHn2lssAUoXPSNTmg3a7oMsZaPrxs-LBcBUEATd1ZsLoIEW73KaLdLLeyVwSTu1odgaDQ6KxPKgR0mZJd6PpeX84ikKEKm7gBEjdI3sT510wWwpJf6jeyjWXExq6ObStSuDIp3ew_6M/i_ptg5Zv_k6nLFrb7N8q4LOhIodRSOX530JimO9vkNc)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-04T20:45:07Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reca9EPqB8mK0SkwR",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "The Hivery",
+                "Full Name": "Grace Kraaijvanger",
+                "PFP Image": "gracejenkem.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/rpNFLK2F2Q0XF4Ew8-rG7Q/Br4vjxT0fH3jHCCxmmOc3w3tCynp6drt73fmED3bVigDrdrAgGObnZ5lvkg8XMQjI03UfLqIcfgbxTMy0eNv74GMRVYJSnE6G3Yx-bbDCCW0ZF9il-Ww2EWPV9RgV2ymTpwKy0EmD3N3aZFx2JGh4MTO7WiQHhkDEMDqD0N9Nrs/ansPtop3sd2wHymnD_hOdBQjWxJeoJt1IRwZwi_Mayo)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recaakHrrNfA1WGu7",
+            "fields": {
+                "Role": "Chief Visionary Officer, CMO, Speaker, Author",
+                "": "",
+                "Organization": "Global Leaders Collective",
+                "Full Name": "Lee Richter",
+                "PFP Image": "e362b538-47a5-42c6-9278-4abe6fe1d86b.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Kx9FSEf0Ud-tu023sPEucw/Y9yKeE_QzdnCGxkprf1oxgcIld_4RuZXd1Q0cPEFk_Ra9MEX2w3ARub99Q6_s1at2_OxjihBef1i8gyt97gIUtHwy5aa2nb20nRAOceoSLxP92HOXxg7xN9yB_5bFC9GaCAUcyt8fDsasDjgwDEknA/-iha15AbexIAal9uL2gNru9KnxSjK7tVOGL5Z80WS5g)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recV5UOltb1enl85y",
+            "fields": {
+                "Role": "Co-Founder and CTO",
+                "": "",
+                "Organization": "Feel Therapeutics",
+                "Full Name": "Haris Tsirmpas",
+                "PFP Image": "1516840971366 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/XovKV7_gigZ8owfQE727qw/yz3uenDPA541_6rybGZC3tMVTF890Gvvhv0q8XpY14i1ofcEafbkFQLgukr2-_WA67rHFTZ8YMJbWWYGd8ERr1uUQDK8yNrdl0XkpoMtyZCTPBGznS_loav_40Fx8BCIngOJE2EGyrFBIIKUOY9c-A/XT3GM8UwYK86h_s48AuEPPrd4tnwZGdK40gxgqEdoKg)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-10T20:08:20Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recrrhkwp6BbxlSmQ",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "CosmopolisApp",
+                "Full Name": "Paula Schwarz",
+                "PFP Image": "f1300.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/i29zgja9sM6rU3DiVjsJ4Q/LRLp2OETgIRD2pvQep7tIApMKBJgxPZufAdWDaH9bJoAD5FHzCzzPQv1hJ-Ysy2YfZABhVg17_hwWlVwO_L2ZCzhS6SXMnM5HtSClSn-Laranvank1dWmtblwQW2X0GDDsBkh3I5u3FoNV9OEXau3Q/sqD010dL6nM5MazjFtfsEo5sWypnWgsHuVLk5VaVkSw)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-12T10:53:50Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0IcLDoauLPRiF2",
+            "fields": {
+                "Role": "Author",
+                "": "",
+                "Organization": "Vow of Aliveness",
+                "Full Name": "Ravi Baikei Mishra",
+                "PFP Image": "1739216649963 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/7E9oYLww0MOPUDIlHZx1cg/lrOjCn9iooEk1fljNl_xpK_TM-XUbLQ4hEvpEd3X1iFkoRpthvfKxVrqVGNFEsmCzRn-s2dP325MF-EJgmFXJv5E6CooPgOhTXPaMa9gGh4ka8JmxSje1fPwhSYICMaRXaFdcaddv8AwDLDfRL0zNg/l9TI9nmrEKM8PPeV2wT8X-NZCKNPo0Mn-fgb6Vcu8KQ)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-12T21:21:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec8gZLqLHPZg3p4Z",
+            "fields": {
+                "Role": "",
+                "": "",
+                "Organization": "The Stargate Experience",
+                "Full Name": "Prageet Harris",
+                "PFP Image": "ffee7d-8ed5-acc2-b34d-3f1bc04c6c6_Prageet.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/koJd9p6y6Zb1HNJyuzcxiQ/7e9t6bBfmSPHiLbtb3aeVfJ1pqPRs79oCTMz7PrJ2NAUS97FYeoR8GEDyT55f8bpIAfnDQjNujNuevvxQbmSU2yUl5FM5tOCVVhIZyV7U1x0O2ClDWGg7Q_zVOsyJGTk7Iii5y_-DwP6KamHWcUq6Q/vtHtwQLvGbfZdmayOY72HC3yXxrr9jeNMl4aPQLqJMY)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-12T23:31:51Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recNJ8qUclpgNZzDV",
+            "fields": {
+                "Role": "",
+                "": "",
+                "Organization": "The Stargate Experience",
+                "Full Name": "Julieanne Conard",
+                "PFP Image": "1d67da1-b2cc-23ee-5838-3e3a701aa41_Jules.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/G2eu1m78COx5xsXkp7ijVA/O2sZ6PuPjLDc6mv1zZ5Ns8d6OXwUDyaZW1dmEdngnLnz_0VeS7PzzLJOZTnLMiiJEj2DqojuleymS6YIZO23SuYNdOHCdzm6UeH83DK6XkZBq95Bqt94hAWX41w2Z_qFK9zlImuKs7-RV43gaxrhHA/qVDZpHx-8X5ySoWp-6AD5hbdAO7MUleRvXm3PK6RXio)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-12T23:32:16Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec6nDTdECMTnIlPR",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Thyself.ai",
+                "Full Name": "Lawrence Wang",
+                "PFP Image": "1693345724426 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/GXcKNQjOtuVRmUH1JIi1iw/_BxzYzxta-dYlb_OLVBdBb6b-gSg0osiG_oy3SrKMOo8RJDbyiCl7g55g-_OhQYjEChF-x_WMrN8LVEn2OHAsi8Fjkiz7gM7sesTbzswZ0rIwjker0vpSQDGH2NZePjkFp8-2ET1XXJA8_eSXj3nWg/z3TZ6oKHQkG7RYoDiLvCTgLOfXpsqGhST3p6skIAFmM)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-13T00:58:19Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec9QieNhjAZtQes9",
+            "fields": {
+                "Role": "Engineering Manager",
+                "": "",
+                "Organization": "Wave Mobile Money",
+                "Full Name": "Justyna Janczyszyn",
+                "PFP Image": "1517415183606 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/mednUktO5AtHfyWDVCeHhA/qYrWU2KU1kykzN58sthoF5wunYsH185NfzkgBMirsTw_P41ikpPaZ1g03Tyis5pnIikePH4lOpxyJahXK7ZTqNKCKnIEuhn1f3J08-rQVKnvHZEOpJphLV0s2bN4_c619jXgX0oTeKQfGBs6QsaW4Q/bzg20WjNFkLnT0y_Z3qOnpTiSaDDg_RhJfINHQ3pnhw)",
+                "H+T Sort": "3"
+            },
+            "createdTime": "2025-06-13T18:22:42Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recRlQkTRyxZvp4am",
+            "fields": {
+                "Role": "Poet, speaker, AI designer ",
+                "": "",
+                "Organization": "Lauren Ducrey Co. ",
+                "Full Name": "Lauren Ducrey",
+                "PFP Image": "Etienne Boulanger - Lauren Ducrey 2 - 3 - DSC04800.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/SPnZD0sXJ1QZhacEIu3b1A/yl_xc1soq9VHorSmkx-HKS7AAkCeXH5HCO_p-eL1FZLxlCIWkxCEcwA25bTgxcRENdIhvpkqaawtHVaYtITu4LrYAx3CPpjFVRxuo64M3PjC25FUa3Hc_fgpNXXve3NhncqSLlF4JPVLMAWyjxh827xYfgGbShElNNVC9i-69oqoe8sZixlZsZdRY8EgZ5nSHXI-FKLfBPw9_b-EN7FrKQ/DKHB3eHFruHAizYNTmqIBj1NbrgVSJvJU4HFEba-pK4)",
+                "H+T Sort": "3-1"
+            },
+            "createdTime": "2025-04-23T15:17:03Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recGthCk5VwDzLZUB",
+            "fields": {
+                "Role": "Co-Director",
+                "": "",
+                "Organization": "Stanford Institute for HAI",
+                "Full Name": "James Landay",
+                "PFP Image": "1706049351212 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/lRoa6zl7BtHzu9aE9vnj7A/Zs5shuQA7ecNpstb_NPm-w39rcJNcRVCQh1rv2q9xWTg4M0_KTnY91MLo4-O9c3_QZm5py0X7edlaATsYreU1KHzT84b9FHy8KYp9YX5AZLvoMmlZqCd-mqAy7jb9uOBAm-5FAzReq5t3DtTz7f4UQ/KLjGrFoQgxgs30MWZmfmZNPmnvwJ7xTQjywWqZhARcI)",
+                "H+T Sort": "3-1"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec5gjeNGeEcqifRL",
+            "fields": {
+                "Role": "VP of Labs",
+                "": "",
+                "Organization": "BetterUp",
+                "Full Name": "Kate Niederhoffer",
+                "PFP Image": "1517667831592 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/_OfDcA3ysqaCKUh9uwgjYA/0TwLiOi5l3wjSgDgF3U9Ou8HpGk41jibksDs-_EnKqCR_tXWIoqNGYjTev8N3QoDRExtrMh81zbun0z3Es48jLzgeI4UGgndTJFPFrkU8eWe6MCA3OfRnwsUEV0Q2jDh2CBhFDfM6_n3ExE6qPGcmg/eM9FAKIuKbee6elc0FTsvbojI13zJmnc_Q4qNbyvbxA)",
+                "H+T Sort": "3-1"
+            },
+            "createdTime": "2025-05-06T16:46:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recMnTrfh274TLn2i",
+            "fields": {
+                "Role": "Enterprise AI at Massive Scale",
+                "": "",
+                "Organization": "Inflection AI",
+                "Full Name": "Lei Pan",
+                "PFP Image": "leipan.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/KQ82CAUwMHHfvU99Y_NwLQ/d6mTGU9nDLGsAQo1qyvFvFuWLTFpIs76tl8tKWSPtCIbZc4mKxWsSaY9JX45cs3JTw96c8xiHJhQik7j0KRZV8_saqYC3Uspusv0Kod4E4mgtmFnxHjJ3BjFoRNxVMoUgIXN4SExmyY1OQxyuaJBwSHEl8tHF1wErjutwsGjn4M/J3H-2_xZ-xWmW-ODQ378GxeoTuzMIrLcZV9sWwY4MGM)",
+                "H+T Sort": "3-1"
+            },
+            "createdTime": "2025-05-21T22:44:29Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recuDAZrKWyQt55L0",
+            "fields": {
+                "Role": "Managing Director",
+                "": "",
+                "Organization": "OM Impact Fund",
+                "Full Name": "Tiffany Joy Basse ",
+                "PFP Image": "isadora.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/CRMuPIDc7eun1J4pS4w5gg/cr-potzZ-IU6KvjnpDTuoFr5ZBJz7miCd5zmA1tkVP9ecv2XBnAh-0P32CYvnbUP28mH_4tES5AghWifgj8kjnULzBuuv4lrt9461hiZHaWmj_k1s-bsrV84sMYQ2AXWdnjgR_oaSt3RxkqZX4nA_-jmsVuDhd-LxLaonygkuWQ/dhONKL4aGd8mn_2AhO-2yq6WpB1SCitdKuf6h3Uvins)",
+                "H+T Sort": "3-2"
+            },
+            "createdTime": "2025-04-16T07:19:03Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recvb5hKQYxN0sFvt",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Vibes AI",
+                "Full Name": "Joanna Peña-Bickley",
+                "PFP Image": "00-JPB-IMAGE.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/-4GxeRcXJpgZuIMWyTahFw/gMbiun1mYlc4bJk5dbEiRHJ1XxNUcnefk2GzIbhJNfKvnjNWwrJFzSAH454uar4bZoBCEOlv5O8Fey3gV05h_ZVifp9u8ZBUbZHsXpZyuPl4cVbg7shRWSOO1vVTvKfv0zPD3h-ed118AAMHiAAEFi4DNw5yeDIA9kHuQ-fpm_M/3_s5j9S_IDGG3vRjEtCQ5s83-5yq1_JUp3YAfwCPwKk)",
+                "H+T Sort": "3-2"
+            },
+            "createdTime": "2025-05-08T12:24:54Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recpZ5BPqAUxkw7OK",
+            "fields": {
+                "Role": "Senior Research Specialist (Data and AI)",
+                "": "",
+                "Organization": "Sync, ITHRA",
+                "Full Name": "Mamun Rashid",
+                "PFP Image": "1673878224714 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/0rsYtRQ79OfehHQugXff7g/Vy3nLivoPsQhqU8DfLwM-h9QcfdRVu1aRgbAJ6bZ_tSw5nxwk3gNJzaHEm5T3Vg4VAxd9kWTSzeKj7_5FG9pln3OUx7YmZrulBMcZlcmxLqqoXDKXwUeSBBP83pJagN6yvLhRr5GwGb0sA6Tf1JkiQ/QFEX42adApVykETvT25sTEdGRSjphDdiIZd4rToLBeI)",
+                "H+T Sort": "3-2"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recbMngt5R5CT9VD3",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "Light DAO",
+                "Full Name": "Ruby Yeh",
+                "PFP Image": "1678093495160 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wfbb6dNtxhx-9SOslTCNnA/uhe6PlsGn5g7eR_HTznekd76CqcI_iSCMLv2HPgiIQDizU5lAI0tbXkNgLuqTZm5LR-LuIwaCpRp4DkXaxA7uxg4XF25rNnz4xbdwuLZ7ESjAWwDJp9WmG_8_a6gydc4EWrZI5Z0odgwPWz57mLvyQ/nTCP_W_yEyqlAuzD-gmjl8OUo8Km7pBZ0J_xfHAgOnU)",
+                "H+T Sort": "3-2"
+            },
+            "createdTime": "2025-05-10T17:38:57Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec3hRVaB0Cw16CIA",
+            "fields": {
+                "Role": "Co-Founder & Partner",
+                "": "",
+                "Organization": "Liminal Collective",
+                "Full Name": "Andy Walshe",
+                "PFP Image": "1700255475383 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/BOFidPtIZp4a0bc89Oy4QQ/gDBy_hAqIZhxCCFPMx6T8sPhK0xtsExi8N1qIpghLLqWPscwwWPfbD3rJMtyDBRKhETPLP7EP2bGSYZUT9br7e3EkziUrdT4x1STneaUTx0XO-smwMauIBH6CG8pU0hSoqVHPF1KMkKaqu8SnfSqqw/zB8CYcv4ErT8miu9bmg992RE-3idUc2MnHz6x61eQ0I)",
+                "H+T Sort": "3-3"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recv3H6zxKhOQTBHE",
+            "fields": {
+                "Role": "Author",
+                "": "",
+                "Organization": "The Compassion Remedy",
+                "Full Name": "Catherine Schweikert",
+                "PFP Image": "1742880791614 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/nS6Dd0PwZPrGEfgU5_m6zQ/oOeklJT2ZKx3KnIG3L3mNSlOow8ioXJ8DtTIhk_qJAk6wsmdcIENBjhAl8Yi2t7YWJANrSl1wPRSx7uz_bRw5lQ54OLu6tI8TAAWfrDFOPI5TGfhcZo8SyN8M7QYSUVu_uHtaJ6NWcDoqYCpZkIgUg/qZNtbyxDJXaXD5gKIvJFJtFyQwvEtHszdAPBQjP341A)",
+                "H+T Sort": "3-3"
+            },
+            "createdTime": "2025-05-08T20:52:41Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recR8AlP6sZzeuAC7",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "True REST Franchising",
+                "Full Name": "Nick Janicki",
+                "PFP Image": "NickJanicki-16_websize.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Z02NlwcJFsTKK35llewpWA/Li6-Wequ3c_DlsteDlaB232RQXDfKq-aZ6YFCYvNcfoxt007b8OLQgHozdT2HxJoTODtcWRjlCP6BIevZgf2zn-7r9SlxTBbBJJaLMGGzs81PtmWoiIRt7daSAXmZYx6-NPJ5QITXgZMlwZlr4DbKs0AQ1WdDCUqB1GNDas8RIwaH80Vp_DfVTM4vjh6WnsX/eP_ZbW-dvzu34fmTOpgmV5Ia6Zk3i4UO1HwhBTnf64c)",
+                "H+T Sort": "3-3"
+            },
+            "createdTime": "2025-05-19T20:49:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recmcXhQ3r15wNpeX",
+            "fields": {
+                "Role": "Chief Insight & Impact Officer",
+                "": "",
+                "Organization": "Conscious Impact Collective",
+                "Full Name": "Ajay Dahiya",
+                "PFP Image": "Ajay-Dahiya-e1629769455802.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/xj2bpCg2-ZGleYqckMVosA/WU2IAhDJmIOnctE9FAkFzYosBgKPJKlF22yoHUCnsW4OkahuSwvfeh-mbymRHEZSxKVFNRX0gEfRs4IbslaVcvuLjNc3qIvV5WgJUvFOvUTwIncHK-LprI-XpO9-A74QPyaTZrnPvL60oIW1tdcsnA/4tIRqL33aKfrATLk046ihUyD4ibV_kQ6vDjtW9UQ9vo)",
+                "H+T Sort": "3-5"
+            },
+            "createdTime": "2025-05-03T18:35:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recRfyXab4N9OVRNE",
+            "fields": {
+                "Role": "Researcher, Head of Social Engagement",
+                "": "",
+                "Organization": "Stanford University",
+                "Full Name": "Steven Crane",
+                "PFP Image": "1687472549236 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/SfdkOtNsrxRA2tIo8t-fRg/ZjMAVo0krsKLA33AOd4kIHhk7Ay3F7H6GsSMxE-RZICoi3bWRG9t19w6xvPRqIuzFr1QwRheYgFDMVyrXASZ-CjRpMKquBAp4cxUqWpzzcPQVAg2qSTVvxMN0GD2lBIwv-3cXeZCw5kIleezobbzrQ/fSyYs53jZ32QealCxXqAYv8kCtfgFvN_RfVjIB2sj5o)",
+                "H+T Sort": "3-7"
+            },
+            "createdTime": "2025-05-08T20:17:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec6L9BKh3G7V2ikN",
+            "fields": {
+                "Role": "CTO",
+                "": "",
+                "Organization": "FonesLife",
+                "Full Name": "Iwao Waga",
+                "PFP Image": "IwaoWagaProfileImg-web.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/uiItPXXjWvVbf4_fveWeXw/AVKjo21DY2bJQxL6E4fTiEtrMeDLmQ2CAH6rh4Tezm4zwZ7uUNIKA792x5J_-0NjoenHokvpTzW6NXcjlDT_nTVmuqbvO_EIslpEqLJtgmrBb_dIl3rOGWTSIyTkfFprjCXt4RthC2kT_OX1eW7gNA/bgcOXPs9LBHfocSrM-vSijk6-9YHgJLWtnT2CfjUQ9A)",
+                "H+T Sort": "3-7"
+            },
+            "createdTime": "2025-05-26T18:44:01Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recJW74BxTSaoWwYw",
+            "fields": {
+                "Role": "Executive Vice President",
+                "": "",
+                "Organization": "NEC Solution Innovators",
+                "Full Name": "Masahiko Ishii",
+                "PFP Image": "d551f809c4d7c0697cd042b6a23dde49-20230906173158.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Un1660lye5l1QESjhrboLg/n7-wMqaaRh_RseSh8r5zF61N8hbnJF0A8EK4ybJ9OjMFGC5pIuqlyr2jiMCpo-5rHDa02vTlEPZo7ZPf9qHhdHL6VSnWw1l2754sQKirJkEFNp0Enz7s45gVTO5siEjGx-yQ_VBqfqckuZmasZPxOg/NS4OE4Zq_7CauJRRMxVYtHR_lGo-51UN1kHt7oDvrHw)",
+                "H+T Sort": "3-7"
+            },
+            "createdTime": "2025-05-26T18:44:01Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reckKMZqkV2zPHlVy",
+            "fields": {
+                "Role": "Philosopher",
+                "": "",
+                "Organization": "Cosmic Diamonds",
+                "Full Name": "Chad Woodford",
+                "PFP Image": "078+%281%29.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/i5Ajp86tDmdep3nngemtGQ/SKqe2Fdo2QGcruXSUT-0y37arh0wjvAUfAc9GaYBBRxXAcdvZYhxIWMy3rzlfCHp-fO_iPPxv3w6q2PkeJ-9rpWfzHaLOXRVZIafMVBLpgKfehqw4bpbmxlcNRYarhCv0nxIxScCnNZdNxIL5sJVzQ/9ixTH6aANZf6LF81PIPEvPemOgyzdQfXCigvBhFU7as)",
+                "H+T Sort": "3-10"
+            },
+            "createdTime": "2025-05-03T18:46:19Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec9tzSfUAiGX2Xch",
+            "fields": {
+                "Role": "Founder & Managing Partner",
+                "": "",
+                "Organization": "IMAGINE",
+                "Full Name": "Ani Chahal Honan",
+                "PFP Image": "IMG_3719.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Rg52FRBThB6hzmzl76wy_Q/WtHrzmlM1_GAQW4fHxyUAYosDyxxZ0RM3wyU2khAJ4t6dDIKPQqyHwi21P-Gg_hLcD_H_sTTDnPOm37o2aG4KM9KXn91sT1BWiZ9ubuWJecw2xxt_RqgRmqRGCDK5_kTQhz64zPKaQGxHyZMVIohkjw8q2uPBdB0q7LGl3JB80Y/IJgjaM2VqVZHTivgFuBRnMfwGkAtkYIgpGe4QjA1MuQ)",
+                "H+T Sort": "3-10"
+            },
+            "createdTime": "2025-05-23T00:42:58Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recvXWWWatt4fNrtC",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Untold",
+                "Full Name": "Ashwath Rajan",
+                "PFP Image": "1646772032011 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/OD81nmHOKefqU3Ep5vncUA/M6dMn4bSAMsJR6LV8M22kFjOgw-agpFEuAi8GOA3feb4gM28XK2HLRYO7oQLHSdAkKYn_67jnXh246kyFr-wSn1rMEqBVzF6NBBZ4dbjFkVtpHaDhUodu1NazNG1w0ExPx5iqgwFyUm20TM6PTJepA/6vzvYOxhYyi_lukM6EtQSX15d2hCxf-YbSefv7Jzx8M)",
+                "H+T Sort": "3-14"
+            },
+            "createdTime": "2025-05-11T20:27:42Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recpMr6sj0Hg5X8p5",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Sevenn",
+                "Full Name": "Tim Wagner",
+                "PFP Image": "1695254982333 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/VgcdFSzb-FS5n38Y7uZ8yw/aJSTvY-Y-hWJABVUJOPYzYzBLGsHWbOHwoz8_VvkDtub7qPmnTmOL2M0C7TQscthVYj28iCMx-T7E59cLq3jc8QaR5ryWhonN7hfFhg3sXjNqN7qBZTaXAbloNgqBse6bjmPNZ0VkcHyKuFHKxmXUw/MaxBV_AN_5VNkWLpQk6aXyAKoR5KYiNwDpe2uLLmcCs)",
+                "H+T Sort": "3-15"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recqeVax8qUqpt22b",
+            "fields": {
+                "Role": "Founder & Principle",
+                "": "",
+                "Organization": "Belonging by Design",
+                "Full Name": "Wendy Verba",
+                "PFP Image": "1664946699417 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/eIDzavBFp6vuNiyn6l1fWA/4dB_ueUOJyec7FoPXnH-JO1skI3H2y5WxBNwOOPFATYL-DBBH04I52OceDMVFptVGkOCswB5y2HJX-d2j9_-MDUPi436NGPLUq2EpWEdB5cAqTqeSSbUTIUp_bbLu5Rr9mCc7KLoBUK-udGg_6q2zA/LosvhI7543DDH7X3yflm7n2jI8bt4rQ81cmjwmCnP2Q)",
+                "H+T Sort": "3-15"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recwL5AUahY2TcbDd",
+            "fields": {
+                "Role": "Chair of Design",
+                "": "",
+                "Organization": "OSMED",
+                "Full Name": "Phnam Bagley",
+                "PFP Image": "1701458891200 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/HExbx_0xs9IDoE9A5jpWYw/yVbyYE3bpqEcngBAeZgDqNuvaFGNoVDAG_lN3l5YPRH9W_P1meh6TrS9Q3pg9TXOV_qGFgPjEpZYmH-wkA5Y6szz7Idr6zK7yXZHs3KcKns6C2ISYL34TCsBHkv2Rv2hGd5y2U7a8FB6kypI9nyL9g/nlMmdv94vVJeBrNUK-iBlPZcOdw_8BX-L4VNiychTVA)",
+                "H+T Sort": "3-15"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recBS7fdlrhCExBuE",
+            "fields": {
+                "Role": "Scientist in Residence",
+                "": "",
+                "Organization": "Second Nature AI",
+                "Full Name": "Joel Lehman",
+                "PFP Image": "joel-lehman.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/nV6DTh0pXUx9gyZURAsd1Q/iO4RsUTfrSkx0VvgBKB3S7D6c2Re34WzX0EjFrdPAukYYYysb4zJyBNQTIz2FVERjl6ew97HGpb5xTe3LQkoSEtRztY3uvEy_GKUY63Jh9ZDgReiu03AGLtBupSWtROt_f109CgXrLAelFDiPzFRWQ/NMNjZopk-7-8qeoctAa3KS4kvUoNUStOxj3x3LcKNLw)",
+                "H+T Sort": "3-15"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec8nNnKwJJhDvcw7",
+            "fields": {
+                "Role": "CEO & President",
+                "": "",
+                "Organization": "Sanmai Technologies",
+                "Full Name": "Jay Sanguinetti",
+                "PFP Image": "Jay Sanguinetti.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Wg0utg-eBqaXFqw0VfRhog/D-QexcgQocGJRe3DJSv9LzTOzIVx82e2oeNiF3TXxFa_GjOxMKhXSoCwKhvWetuEAdQfkftJ3HQ5I8k_Ih0FV6mmt8tkyqUE1VKNqs14BTx-I_z7_aFp1da5yUkmkTqpMUoBSdyObZ6iSbC-VvLWexYrnEhMSw3ZmAnf169dEHs/c9hqhxZ3VWCo7uqekMJDmVHjKwZjxcBn_p-mhShF8Ic)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-03-24T11:08:10Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recP8SDndh0cojGfg",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Wakefully",
+                "Full Name": "Sansan Fibri",
+                "PFP Image": "1731791582522.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/QL1QCfxw3HNHSKeBxYLoYw/DobQhwHibYoN08hDysff2gg4wRhrvhJkK21FVNgeoKhGm0ofHZYzZ2uzCk5g3TzrEWznFIeE09yZgACRHn6oI00WDfmo60DFaOf8A5F55HONN8PAKHWzjkR24VKct6Q-QmdwbqPtMR9EKXFqRYqV_JHma5Sz0x0bASzLe20oiIM/bqe6hnI69_qroc0otAFInQ7CV6HtIIA8ko_VnrJ8dcM)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnELcb7jh6bKoLN",
+            "fields": {
+                "Role": "CEO & Founder",
+                "": "",
+                "Organization": "Luminara",
+                "Full Name": "Romain Daumont",
+                "PFP Image": "Romain Station F 2019 - Copy-centered.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/WCOzzQ5BuElocPml96MLFQ/62188ME3d0spkLe8CglKDyjOMcClGMiRxLF0bHSM3IjFkA2I9d1VGoGis1jY5YORdfJRv_JitXa6WEvkgnBCjtoENvO84rpxsi8PmJxMLFUxcE0saWkxu6h4kgiQoUhrwLUSwjKR9bpUkpA_lpQrwC1Y9OjI4XvYenPI8SWAFnvyK98xuf5bVGtHXO6zB4UV/JK8X4jO_ciI0ygWRQscDzHXfBwZfEPrQp2N3ezKWHDI)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-22T14:52:22Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recYK6PWMDwdskEf0",
+            "fields": {
+                "Role": "Partner",
+                "": "",
+                "Organization": "Portal Venture Partners",
+                "Full Name": "Peter Louikianoff",
+                "PFP Image": "1602014960102.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/I6M_VUItX7V-HLKv43Oq3A/gn6OxZX0RIvpHlq0HFikpBbF6G0v0GNPqwYB776TsD5dGDPv_PdkWWGXkbs0gDy70ZLjzn-c1Fj-TIqnfQ3JVx4LiuXyAdfMdyTK2V-yrcKhZIEyEw3Vi7yjehngeiD3wYtNPpqH382arQMfM2PH6M8pxP6XtyrIwRS8zWq1KTI/vsAMRffegu4aX-KDMdUTHFNnxjGrzfOGb48LacEAmx8)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-23T06:30:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec0XGMfq6xD7er3I",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Pause Breathwork",
+                "Full Name": "Samantha Skelly",
+                "PFP Image": "1708017612115 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/2o-HJtS-4gQ5KEW90L29wQ/60mfgnn4AMcOvkM-ljGVXm6IVKkVvkCzrBT7GEBe88UHowY8QNlMbV5rW8xdq1gm4-L9jtiNS4_JrEE5nLNoAQPD6XrLpIzZ8Q4vqeXSRqGTWfVeSm_fiZeJS2nivMCugxn9cqTH6ANaIoHsakCwKA/UL4-_GpqCqiBi1Yuxk3z7bv6RMbR3iYh7JAsDA8mWrw)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-26T21:55:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recgYWRpeR2sbYPbc",
+            "fields": {
+                "Role": "Founder & Executive Director",
+                "": "",
+                "Organization": "Neuroscape at UCSF",
+                "Full Name": "Adam Gazzaley",
+                "PFP Image": "1605142318558 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/rmxeRxI9EcxY7K4DHppFbA/s6qWlK0awSObGDvVfwe-20wEqI1UKRWD_WwZt9P2FYT0VTS66f3Q5-rZOnIrXwnN_Or6lEMCqaR85K4ekMrFybZKyUYtbOppyz1h_jbyAmi42oEQvkEGah4YFN-lPuCoGgbRW-ayRghfMSxzBJTKDw/shB53dJ7mR3MkzZWEdI9RmYBRj5RWWrKS5SitnBUR9Y)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-26T21:55:06Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recSqy9AyMOW6Rdq2",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "VuuMD Peformance and Longevity",
+                "Full Name": "Dr. Kien Vuu",
+                "PFP Image": "1589515526792 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/v0k3cQRREusLNpEaAH2qDQ/xOyPhO65FcKWQOFmX-U_Mo0FUz99Dk1wYDnvarTHYTD2-RiF-8dyHe7nBD9uTtcZYxviIxLd_kphe6PwfJhqaAVJnqDpkBultT2khASEsA5NBDf8vTsWtXkoAw5YxU9AsTAlIumJ5JK9nIeLUSqbcw/79Hxoxdm1UBZzhO18LJpJEsxYwxChdQj7W5hkhiReIY)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-27T02:59:02Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recnaXC51MZDD500L",
+            "fields": {
+                "Role": "Co-founder and CEO",
+                "": "",
+                "Organization": "Uvita",
+                "Full Name": "Ming Fu",
+                "PFP Image": "wownelen00183 copy.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/I7RQYLCvBZ-OfeM7V01eOA/B9nTUrJiEZ5fTPTxvJ_AGV_g2Fcfj0ivS8bQFmW1H1QshG-9oEYFhLL6iHIWugvomD5MOWFGfbfqnjtHMXXceh-c3TeOkT3lEV5CmMFvJ2JdlriE3aZSUlrsuSqqOAvN3_DntHRmC2nHCwfGujlASUsaNXwBBtS2A2ePbD_Avwc/9-09h7q57YIKlsPkgx6mCemDwkYgCwI1aCGpqZhzrio)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T15:22:40Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec4edyHktN6xlADN",
+            "fields": {
+                "Role": "Director",
+                "": "",
+                "Organization": "MIT City Science",
+                "Full Name": "Kent Larsen",
+                "PFP Image": "1722613905988 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/wZnDSu3JXbX0Lwm6EeHUqw/IJ-zKwBtwtJccXA8NQgh2BedJlVi4eTdKSdTYJQ4LBg-pXrXlLA18EbjCFTlRc6833Uan_b_NJk9HFN3lCX6tMPQfV7Wfe7Z80feYNXGCccrZo3sbfPqwv_TI19wzGzeg3K7s75hp_LDWOKvrJOmGg/mISy35cG5yZEItOR5kqM2HzBgdnafYl35Qna-mx-iMM)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T21:04:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recgSS08ffyFwhp09",
+            "fields": {
+                "Role": "Historian and Senior Advisor",
+                "": "",
+                "Organization": "Telosa Community Foundation",
+                "Full Name": "Tom Rossman",
+                "PFP Image": "tomrossman.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/33E0y85HbwG5OMgHs2FlPg/JGSz5uOHlsdhXGy4j70o_c8h74gNlceG-AZTOHhK981NbEflyD_RwiNHztSugiYyIY5iSveaxQ-edmWTRFTk4gxWEG4k5mwsrH564oeg-Q3Yb0m868LXRUi0Jok_ZglflSzMeRrg29zobPsSZXa5JN9AEnoNm5XpAdewKozn_h4/0L3Od4eWd-3OtbBjIR8Xj83e45gLkKphkHQySfa1dNE)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T21:04:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recGQ8aveXnXS7HJX",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "Building H",
+                "Full Name": "Thomas Goetz",
+                "PFP Image": "1558502585058 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/FitB_cFXAqY1IZUB4YpO7Q/UnY1joDxVhT0SLAqX3ipcJ9qBZSA9wXrm6fYZZcVbSQDVwI2AQLfr7NX2_NXEp7WkLRZ81f6l0kYAlZNMP4-6zF-TFzM2Fl4lWcks5Izo2KVYLnmNrWrspaEIAquiHSYlgq-gPgs2PVNL9XOqhvLNQ/CZB292UeY0e3zVq15IiJPLXp2cEiMrPBT-F15XaUu9o)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T21:04:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recLfFPskO1fY8Lwf",
+            "fields": {
+                "Role": "Director of Urban Design & Strategy",
+                "": "",
+                "Organization": "THE LINE at NEOM",
+                "Full Name": "Sarah Fayad",
+                "PFP Image": "1741347689179 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/WcobC-c62j0rV9ajPbPltg/R3lpd4EepjZ5BLWpn8CAFJsZXmoa3rA9vrokWV0glLz3JtubpthpCELDUsimX4RqHvz4Ai2ENlxFwdyAyeU1nipeYXBwqaOMPRMqMi5vgLFFs7TdXVZP7byeKxcFgNIDtI8W0Qj7ln5hiuQVHuEMlA/APEKE4wCMGfZbELYO4ebJb550TSkq-VngqZYF2iJx5c)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T21:04:39Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec03zFT5T10y7i7P",
+            "fields": {
+                "Role": "CEO and Co-Founder",
+                "": "",
+                "Organization": "Irrational Labs",
+                "Full Name": "Kristin Berman",
+                "PFP Image": "1516277913125 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/W2x7j5txee44PAje9ErJ_w/CMxO6_2BkwFmLDWBbNVGuhnEL4XXzHBiQTsZTQqG0Uln8R4wuJtDLXrSrgP3um-6RG1d32v6fqaAr7flx0b0x9XuQmFaYOOUMlG-YueZABH3NFeYS8OTD-BJ1fFzfxF0fgQg4cRLZxcMw4tskzJuSw/YLWzTkh6upp-nRP8bGwADUigLpe-ubFaYM1snglO7zg)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T21:19:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recIo8BGw5ERdxzDE",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Live Near Friends",
+                "Full Name": "Philip Levin",
+                "PFP Image": "1628513695904 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Dd1-PoDt2mzrslcx-ssiow/jdq6ODUtWDWpeCHzkV5dK7oIijIEhq3gcfaXltckHTIdpvnDouYBrLpE8bGIFmSjqtrYsn2XP1fmKq_nMOt8F7KwTsli6kKKwvOaNs4cmxXfnRXYtjAT5CtqyTnkHQooVc2aNhJxQsfkpniKYmjU-w/T2kG3XakXlPYia9mcGoOK9nz3yiKfWVScDXdHp36vk0)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-05-30T21:19:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recyy1Oq1UbhmGwhA",
+            "fields": {
+                "Role": "Co-Founder & Chief of Staff",
+                "": "",
+                "Organization": "Fibernetics",
+                "Full Name": "John Stix ",
+                "PFP Image": "1657736179644 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/8fqX7sFm3i2vcP9VHrQj7Q/zANZPNjUF5lbd3hS8hkvv2u_ELIsbeptrBhuWjKd27ktEheAipOVZqVAP281a2n8IJS93Itacy5usOKzYE6PkpQzyk7ZzVBQY-9qMQqg4-5vTfE1lk6XuuhuhembHv8I00DMpN7oGUd863jMWoPJWg/zStR1zwHSMwGwDZ5tGKZEYFyxtUowb0aCicF8Y76AG8)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-04T16:29:44Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reciUbLNkEXioAhqf",
+            "fields": {
+                "Role": "Founder, CEO",
+                "": "",
+                "Organization": "Heart Leadership Institute Tapuat",
+                "Full Name": "Arnaud Saint-Paul",
+                "PFP Image": "ASP-1000x1000.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/7fUTw-pDxWztfSGQ4uKRsQ/oH-_Mm6PZg-IeV8-UCBPjLYCeF9R2biwoO5DLxZzuJNB54yrCDewbIHia4tBzXa_qBcL_fc6JKQSXEs6G3AiezcA6_8pYrcJ3n1x1KRh6zrH0-cBWeChdG5pipA8drQgJIsaxAvAjxSPc8XrSra8LeTMdLBlwCmZJ7gfDK9haJg/VYqK2o9EtUsxpQnCYOeiEqpfPUu8ryKoBfkNumjHLZI)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-06T22:21:55Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recTLqaa4IxiaQAZy",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Still Ape / Feel Good Games",
+                "Full Name": "Jay Vidyarthi",
+                "PFP Image": "3b8a79d1-1ccb-431f-93f3-b3499f1d89a7.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/G-gbEhbxv4alPObgzhB0mQ/987zr8KJHt1rquIl5TDy2hFHn77vCkYMmOdO1YCvY8DIuytzNdZLjkbIvQjHKv4RlP7JeiHOOG3d6evYz0S3yEUsVlPdLX4AqfYK1GBCecmBc4DHojugcRJiwWYXh9gHwrRAQCHx1mrkfkXxQSsZ9w/8yMYi2b-BaX9O4b0OPEUIr7XqjNlih56jijLLYpo1x4)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recexMwZJq509X1V6",
+            "fields": {
+                "Role": "Founder, President & Chief Connections Officer",
+                "": "",
+                "Organization": "The All Access Group LLC",
+                "Full Name": "Kelli Richards",
+                "PFP Image": "kelliri hards.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/fMTAI_AzD6CYrqT8Zz4BxQ/VeQOiEUHx7zcIi9aciveJel4FTMBqeSDFB1FLSgVKdcnJbQrb3MEeKYZXDhIwNVXE9Vrnz2OLuEMz3qWpJZ1HLMC1C4TXwaOB8n81NcuJcyH6QJaFgVMYoIgLFdsbecoZ1Whlvj-YYEusKPNnH8QjhZ6-pbxbN9NkM9cD-0ATms/8K94ef-VEe-KqJzQdCjuDwIPFXN7FE7o89ojgstqTJY)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recyEhaQSkkdzAu7L",
+            "fields": {
+                "Role": "CEO & Co-Founder",
+                "": "",
+                "Organization": "Humentic",
+                "Full Name": "Jenny Huang ",
+                "PFP Image": "1592308922062 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/DOcoUmNsybK2I77pQECgBw/nRltlW8ODcQnw-g90PHln_WdkCcHarv8vnAlDp97r9W70ruzdE3oqiIXFDG3wzZM4Bzh3qYKfeYjC2Do9EyArVB2g_NPXtKERpBAeqltf0MMO06h8oGJoGBn88lfYRL0WZ_h_NWR0FxBxB4thfhJmg/jZFU6w2Tl2Vfoq5e3GlXwb0fkhcIZQlwaC08poq6zQU)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reczAvDt9tmGy0Z2t",
+            "fields": {
+                "Role": "CEO & Co-Founder",
+                "": "",
+                "Organization": "Tactogen, Inc.",
+                "Full Name": "Matthew Baggott",
+                "PFP Image": "1562951140656 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ErmO-HuAuFMPpGhu9XSUww/-dstvmI6CiOaWEpakUI5sMRqe2TQxkrSEAXLuYRQY_0i7mL0ChHNSxbj9P9pvzUaEHbq5ldtfYllVgeEDVEY5VnkOqOzv48tPmyJKO9EwIWpSyfPmCNOirZSZvvzFoyGYkbh8R1POMkMdOeicUK9RQ/sMTKxSl4uRjGp7m0VIbTHMpMiGxAlZLMlVrR58uvGN4)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recJq4hGQHqdppFtx",
+            "fields": {
+                "Role": "Counsellor & Coach",
+                "": "",
+                "Organization": "Sukhi Bal Coaching",
+                "Full Name": "Sukhi Bal",
+                "PFP Image": "SukhiBal.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/4VzBda9lywqnB5QCkwjDgw/RLDttvvjDaeM7lz_YTwovqqv_BM4csWCn4yv6tkeS0sXd0_VLVqSG394Xzqiiq7x0UKLQRbPGPxG-dwloKUkCsbROREc21a59gUs4lrRab45RWiOHAzBf9Cb6rpG1BbnZ_qwEnzaCuCAHyuX0Zdr5_oF5b8ARFR_R5hBrw3ZsHM/ANhgWLef3HeMosGEaJSp3BRcJ9xtoWCHWePkeXwHZ0E)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-07T21:04:37Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reclxUJHAGltwxIPH",
+            "fields": {
+                "Role": "Co-Founder",
+                "": "",
+                "Organization": "Innrwrks",
+                "Full Name": "Nils von Heijne",
+                "PFP Image": "q.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/JvXmp3KpmgtwJINPLV9C8w/Yno8dsBu_bS7jemjQCT6brkMYMUBrRXoT6VVEnwBWJ9z84trzZ-KQKmP3GbVy0z6CCy5hGvXI3ySkqznYOMCT0aKux8OC7FKBofj6FG2MKBqJKE7KVYU6CG6vYAAWB32V8xzO1YtcLNru2MRUUZvlQ/xjC4uzTubWW-tWYXKALpfD-vYkTIU_1sUtNRqWmQoHo)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-07T21:45:58Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec7P0Nw319H10zOB",
+            "fields": {
+                "Role": "Founder & Managing Partner",
+                "": "",
+                "Organization": "TheFutureCo",
+                "Full Name": "Shen Tong",
+                "PFP Image": "1746147847027 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/7YuZbART9rhzYsBQd0fKAw/T2KC8AYl7qsWjUF8dhhlCwWJOm0ls7agKVdWgU9QdkJ_uiCaORJIMTcUj9stQf3ab9SCbYzIHf0utMIFEzZDTBnz0VOCmiGJrtQ55lVRtboWtf5yM6uYR-Ab7mMCngti5XeBiGJcYidvIDwOQbIsOQ/3fr3rsm-yt5M8fnZqWLkBIj6bmwubO1ML81ApmE8bIU)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-10T23:16:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recd6yA4E27BLOKLU",
+            "fields": {
+                "Role": "Co-founder & President",
+                "": "",
+                "Organization": "Jimini Health",
+                "Full Name": "Mark Jacobstein",
+                "PFP Image": "1585767734524 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/3Sto4Xm_avQBYBB4bwpB5A/o35u2n5e2E0zqLWt_JtcR2PU0mzStWFprbMc_OG-QjSJHNsFfDc84TIcn9kRGwK-rvRI4T23IvgYcW5Bx4Y2b4dHzlo6CQA6J6Ky6zkV2kKfDpme3PT4FzzmSl-vcN7keQms69ITeJ6BoV_eCAwUpw/5pq-XxtCGrK8kYlm9D95S0UNd2AX6-Fi08brYQMirUE)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-10T23:16:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recekG5xraWmSBAjn",
+            "fields": {
+                "Role": "Executive Coach & Consultant",
+                "": "",
+                "Organization": "",
+                "Full Name": "Genoveva La Placa",
+                "PFP Image": "genoeva.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/HVndzu3m_l7xwlZI-t3-Jg/R9Zf0NKZbuO8tMYzaWykD1N6iAV9n1SCyp7B7eOZuaBFmPig80ZxCpHoYDy2B48NmrFAngKXljoXFZALxgFXdlk_J2yuTMrV1hgKC-HGzmArTAAl5OPApsXSDHbqqz92cmMLxHhSYGH19xG8KjXKDUhdTs4iiW9TDOR3HM4Xjao/ggXl9b97o3E25jdhch_oQVPjFOGKEzv0jOiMP433ZnI)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-10T23:16:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recfUvZ3O4neyEC9B",
+            "fields": {
+                "Role": "CEO and Founder",
+                "": "",
+                "Organization": "Moic.co",
+                "Full Name": "Murray Newlands",
+                "PFP Image": "6uEDvkBqhsG34oUS2MZEdBmV1c.jpeg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/fqDcSFPKrffcScdi4bih0Q/JA6zwaI5C804opqvqN8XFna_nMiJ9W-G6f78uKywnMj85KtqUqY7qtVFKKD6FbbQcGQNh_ADz94DtbdtseCq0BP6RZLFvVL8vRe_lAs_r7TTzZFYonXQcJNVypGtXyc30N4aCy9dDkNjOsMLZ6jdxQ/pRy3xi5-FFJ-bm78U7U3CfSMvQ5HrBny07aELOpv6EQ)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-10T23:16:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recLf2xX5qccEOxUv",
+            "fields": {
+                "Role": "Partner",
+                "": "",
+                "Organization": "Tackett Bartlett LLP",
+                "Full Name": "Ben Bartlett",
+                "PFP Image": "1531366513994 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ioOEFXqz4NdWsgP1zBxLyg/kOfwuPJAuAr_gNMCKX07yLfLaUZVR-OA36OMFM5jTT_dILOGCuwGwI6JOgoBYmBLQOXw4PMX_bX3O58RfpmMKRXQ9L-HaKCU_Rs-L6gljBgKTPx-m6XiGDeV8nyqWc4dMgqBVDw3r4A_MGKVRs384g/xhZ93ZCFnuca13Z1g5zbGVzfVKjiuO4Gh0zQrcYc3Og)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-10T23:16:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recP7bLMXcQQP6M15",
+            "fields": {
+                "Role": "Venture Partner",
+                "": "",
+                "Organization": "Coyote Ventures",
+                "Full Name": "Priyanka Vaidya",
+                "PFP Image": "1748897780507 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/y5UCR3A0oBYOJm9G9CQ7DQ/ST36NI0uKWINIzUt5BFov8__po_ZOJxWn9Yd3BRLNoombXaQklY0g1rtqTIG38OSBuTIpEmM8SNVbxb9u9BX-G_fz2ZDQtfCTcYTyD6dj3Pl4OT5M_eGC6RcFaAHJrMgQjxg4QUS2-9PF3GsoqPQuw/uXqjUCjboLOPcqZYjPHOD_owhMxA49l2s0V5uNz6I44)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-10T23:16:13Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recKsdSutb9Ek1LYG",
+            "fields": {
+                "Role": "Co-founder & CEO",
+                "": "",
+                "Organization": "Flourish Science",
+                "Full Name": "Xuan Zhao",
+                "PFP Image": "1628980885700 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/TPwyq49UpDZv3VGiIwc8Tw/ux4IM7zMKN3uE3I0CsfvQF_cSxTwiHgC9ogz8vDa25ET4D6EHxLBVSQ7QKyxGGccm32dh42q8MMotwrXqCRRjXyvjHTyiYWC6AvZMDzm9ubBxsO-5RZSY3Isorv_u6UGub76O99HPUdjv8ePYqIZsA/PDwqtE7puRFYauaOAt1e4myIn7trpcSEJ3LsNtswt8M)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-11T19:24:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQtLUaXQjri2GtV",
+            "fields": {
+                "Role": "Founder, Head of Health & Happiness",
+                "": "",
+                "Organization": "Amplified Future",
+                "Full Name": "Frank Fitzpatrick",
+                "PFP Image": "Screen%20Shot%202021-07-02%20at%203_06_35%20PM.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/T6wIzBrM0NNiPSIy1i9MKQ/iMmW9Ie5vjsGhFxMRu0C2Z4FeKIXaOGwhNydsSmYP6ZPj4TVYPBZ_MyVRZNq3Ru-31dtNjew-9sTDsFMQbCy63zpcJWsuPccOng3itv5VmVfdFKN6MldZMJz90OVtyhN_VKTeGxae5OcrhR7XWPvxg/9E8C9hZ9gMoS_C2755nO7AWuImEbfEKtG4aizjBpcps)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-11T19:24:27Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec78MRxzpxSJhmQM",
+            "fields": {
+                "Role": "Co-founder",
+                "": "",
+                "Organization": "Numadelic Labs",
+                "Full Name": "Joe Hardy",
+                "PFP Image": "1736048733023 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/87LDfpIf7zKKqZUDdUjm6w/Gj-hHk5gecJI1Kvogq_DWR6ALyB3cTkAScVl1C2_3BzqwamsmNxV2K3BVaqAxjo5_Ne4IQ8cPHwmHM8Xw2SXY-6ohKbGFatBRRxDlyD4yrkIYBS1kSzBETmMvo7FjTvGxbtyR7bBfREpn-16in2J-w/Uy4pu-JLym3zKDDQD2uQjKBnRM_Ti3JOj9fODTYis8I)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-11T20:17:48Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recdZ3wb2bGNzKVUT",
+            "fields": {
+                "Role": "Founder & Chairman",
+                "": "",
+                "Organization": "Bodygram Inc.",
+                "Full Name": "Jin Koh",
+                "PFP Image": "1724863409000 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/kvDJFY9n8MFfHi54crC9eQ/N01nV0NoVlnLpa4oc1ynsoRbOGH_o36iJL9UE3mysgzPah-vKHGZuwxu-mKaBOr1EzHLJcVNC-ko5ijNe__Lgqps5s4WQ1r3r4jIT0DveTb5zcFCgAz5WFuUqEBBR3MVwsmmmjQNWdN9hvgxMB_pQg/U755wPdS-dQmpimXc9DhJ7y2SixYR-lFIgoZtHVQ7gY)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-11T20:43:05Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recGnqz2heA537qib",
+            "fields": {
+                "Role": "Chair",
+                "": "",
+                "Organization": "The Consciousness Foundation",
+                "Full Name": "Winslow Strong",
+                "PFP Image": "1530562354078 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/CvcWNfZ0QpMuXYVYPJLNbw/hzitx4utdbLL941D9-WYXTb9y2-MBrn-aPq2jK6hwyU2ftMSP17K4fA6h6v6rVNcCSuSuvuVPwe9bqsLCFkt9gm3TkrEd0aq0-ovsPuBfGsxMFx7zXCa-rOX-hwApqOppvuaGTtWHBSSUp2WMispbg/S983x6q08xMvqAlj4uoix64oTGFj514ftHNlx4VuwFU)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-13T22:04:17Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "reclQRwPpieE0C6PR",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "ZAMBEZI ZERØ",
+                "Full Name": "Bastiaan den Braber",
+                "PFP Image": "Screen Shot 2025-06-16 at 12.15.50 AM.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/-E8RymDLDar7-SSSrhMKyQ/ZOPLQA3eMmIHpislMneo7XXAcOv7xWAK965x6VU_tj6ONnkySp4WS9ktZtVustiVvUA_hzzgA1flGNd6QvM40zd5v0KhQvU8L3HVM9FtLK53OgOMEMTjTtyTyQ0Z5T08FMf6Udsr-NEA1avvlVd1nhDjbSq_WMc78aiGf273kTAReg_Z-KUFUlAGULeEr_4V/sV0X-8FMocZCUWNPs0PhtAeMkN6TguF1aepvBYNKaNE)",
+                "H+T Sort": "4"
+            },
+            "createdTime": "2025-06-15T23:05:11Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recXg9BGGkEewzkrR",
+            "fields": {
+                "Role": "Co-founder & Director",
+                "": "",
+                "Organization": "Flourishing Systems Foundation",
+                "Full Name": "Lauren Hebert ",
+                "PFP Image": "Screen Shot 2025-05-29 at 4.57.39 PM.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/C00RQwaYf2pLBr3Ux2wh9w/CMLsyoqB836UJz62AYiF0TvMR71-wDtCPufwmlnaV5kI2TMYnrr_1VByl-NEHH5QDBCMjVkLDH38IEBbWEBAAx2jtqQuqP9tmdfe__OTnezok8ff7iIM98r1wojnhfy91ByehcojyeVhmg1piC6S7hpqlpHEIPCyqJuQtF0eNGoL1LhPryq8h2pqo2NkzP7t/mdsLVBvdT6dZOF6MwULHw8uE0UGAWgXKi_Wj3Kdt6hw), Lauren Hebert_r1_04E_3704.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/hd_P7jC-wftVwxS4A1ao2w/lo8w-envMPnxkem5FY4qO61T0FrQjeGqRRFHKBT-f08FDUssCmYMVZqdKYwrWKcr6xNyqNl30XuqcAgZea2XehZ1M_aSf41MO7Am7Tkdzm_fjOzK0tJr8ld45zXxnUZ9FYPg2rSHtD8JPo7PQwshUipcOsAkdHDRLQNeoUJpK4IoS12ufWCaoDlMVUjcXKK_/JsIPx6toXF0QkeM0ncx7DwyW0Gkwc0VkFwN8R_OA_ag)",
+                "H+T Sort": "4-1"
+            },
+            "createdTime": "2025-05-29T23:43:51Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec3xaxhW3fXFLN44",
+            "fields": {
+                "Role": "Author",
+                "": "",
+                "Organization": "Myth of Money",
+                "Full Name": "Tatiana Koffman",
+                "PFP Image": "1712439849317 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/C2Xz-Fiiit_lCLMckk_CRQ/o62cntaZYQlEJB9yLBR0DJI_u73YH4n44oCZiWgPoFTkCzzQRzmXDRixZa8D4cQXOwVPmOQ8v1r-VFwJ1bJSDVtDW3jy8pvtywST5ji-5-WcHYILd1qJdOa7ZkyPXXKanH6WZTKWnuweCcOzqURzTg/StGt4d0xGqXYb7P3e7-l5YC7L2ULR3lKj755OiQCupY)",
+                "H+T Sort": "4-1"
+            },
+            "createdTime": "2025-06-02T02:12:36Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec2Pt0Gn7JTGLXlK",
+            "fields": {
+                "Role": "Co-Founder & COO",
+                "": "",
+                "Organization": "Tactogen",
+                "Full Name": "Luke Pustejosky ",
+                "PFP Image": "1531892380515 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/emt9Zbi8SjBjHFb5bIHkuQ/p5wvmvD9MpzGIJd2PAXkXi0aD4Rvoc0j_gv5rj0tzXat2oV3JBXTN7o9gbSzPuiBh8Cvts9r3wKAGN4UosM3wCxL5VHyZCyBHvuwu3mWrVfoB67hs3prJHBcFwPjsjbu0E2pzQC3jDpHCQSmV33zMQ/-DACCASQr4RyZr8573z5wk_3tUh9xSv4YkUji6FLhZQ)",
+                "H+T Sort": "4-1"
+            },
+            "createdTime": "2025-06-03T01:27:34Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recSJsToIsImN0saz",
+            "fields": {
+                "Role": "Chief Revenue Officer",
+                "": "",
+                "Organization": "EVOTEK",
+                "Full Name": "Jason Myers",
+                "PFP Image": "1741149311987 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/RjAkjmR44ynVpsLFPyDyKQ/khBEx5xq_F_0Behfh0gEZvUh9ITjr4OFJVEnUgiY9fQofRNLy6nZikaYZveSDu__g0xQoe07FjvFEK5jCB9zIE_8hu_Ae1HPTrawfiK1J-Q11c6fuEqpuzIiwJeVTQk3ehOPDYvoj4RY-ax3vEkyzQ/3cNIaa_jpIYBLaH9DJTG41j2Puetucozr1-NQdHs8sc)",
+                "H+T Sort": "4-1"
+            },
+            "createdTime": "2025-06-03T01:27:34Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recL7vOI2o9aCuAKB",
+            "fields": {
+                "Role": "Cofounder and COO",
+                "": "",
+                "Organization": "Ignite Tournaments",
+                "Full Name": "Tony Chen",
+                "PFP Image": "tonychen.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/HIwOYBTmITL5ERzT6p91vQ/jBFGRIV_TZtL7DNYCETWpGzIUTFAwkGT9DSa53Tagw9flslzeXhAR_mAw6D_7kFmD3nhYhlO0M5Gh4tFkUiKNRJYKy86PZYZ3UwLe2Vp1e5ir1rMkYS_65XpnoArJpp5UZK6YjIpJeF1MAyC70oMZAU3ASMLUm9qLxKf1Rp2FaA/scCZYZet5FyJ8n5aAIXL8d1pPNX9Cw8QYMv6QTXuYD4)",
+                "H+T Sort": "4-2"
+            },
+            "createdTime": "2025-06-03T01:27:34Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recSxcAG6nQ90wNP1",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Light DAO",
+                "Full Name": "Payam Safa",
+                "PFP Image": "payamsafa.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/AI96auaSVvrPNZUhqyizwg/vEkTLtu28ycKHmNr9aI4jTdA9qUMQu9C7narz_xy_Hb6uZMg5jPskQ0zrexUqOvMBl4esYPJ8vjEdOU4TLBvhEGB4tfYmhTtO-AbbmwiV3SMyzOg85i0HWWXSjjyCtvxiZ1cmbSBpGI_YRceNtC69e5Xd6BzpYSuhtvsMdqKtG0/NYpsf8ALFi__en3yBYwVQOdsdDRv6ruVea3_YL6sh1I)",
+                "H+T Sort": "4-4"
+            },
+            "createdTime": "2025-06-03T01:27:34Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recRmSDyw85BEgUnZ",
+            "fields": {
+                "Role": "Executive Director of Applied AI",
+                "": "",
+                "Organization": "Invisible Technologies",
+                "Full Name": "Lydia Andresen",
+                "PFP Image": "1718972023556.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/LU-_AbwI_km7CZhtyqVEdg/h-V9D9VmC0Fbu9EgF95IbL_wFxPxu1kY_5siYPrl2oCoGwhfGFDmskFyy26XAwPQoKCoTJBJUibeusLLU4SAFxXV2gE_k_rW2BXNMnFyMt5NHL0agoKuFXnD9PlUJksY_47Q84Ys177z0gxhOxxy8z5bBP42QR3aZvbCDwatutk/AXbdJcMTjuc50Tljl6yF9s1pVO6UsIQX9H7QhnA6kHI)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-09T03:10:33Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recYpDszrmVZ1EUnW",
+            "fields": {
+                "Role": "Co-Founder and Artificial Intelligence Ethicist",
+                "": "",
+                "Organization": "Ethical Resolve",
+                "Full Name": "Ben Roome",
+                "PFP Image": "1526666729055.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/b6f3nCFbDEKXKockHhFaGQ/8IGOn-aiAJnMNYTLDt1_sBWBwITJB9L4qlsGUHcU6O4QuBxuS0oe6xcHRsTb2pj7IYZIib9RXQTglQPYBcp8mIiMIRtro9QWKwzpF8NeCfGl_tj2lrSeWBEOFOn-FFZLxmPTBCz4yROC-YmOP6htC5i29QUW3xcH29kCtyOYTCg/aTY1xcWHV3-1tHZeG5jYAyZeF486P7UYP8RP45vTzKk)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-23T06:30:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recbc1rRfG8j3d5LY",
+            "fields": {
+                "Role": "Author",
+                "": "",
+                "Organization": "Building SimCity",
+                "Full Name": "Chaim Gingold",
+                "PFP Image": "chaim.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/I6zzEKcD9kBPSlZ8ecYksg/qpaEJFQaMGS-h97tTCXlBslwLlgUpkWgZ5CEWzZ42x2f3PW9SAcCev5QBEJViR9viPn_6o7R8oxqtfnPF45hgfa6NeCF-b2wpdlMaeO9RpmDBDtM7CGcK3aN4vvsGam12Az3PBXqOpk0erdIoxj3Lg/9bKULxI0sKhRMpWyD4otqawFQmW1KVkZXrh5YvH2A3g)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-23T06:30:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recGV9d3wSGXUX7BR",
+            "fields": {
+                "Role": "Senior Advisor & Executive Coach",
+                "": "",
+                "Organization": "Boston Consulting Group",
+                "Full Name": "Mickey McManus",
+                "PFP Image": "1668189050448.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/lMvXWlGlJJDR4xMSaRBhbA/Xnx7Hs0Q_5Nz3TPGrkXywYQ8IevRo_SqByt8flRCyQgE3t7XaFP5OClkcyrcymVxgzsa16yNJ4Zmqbse5uMvpnXEjidsNjo9cVaazUOBybSKzCG--sggDeS4bM6vJQlqiap-gh0HRhIbZMPQyR7mWO1-FDpTM2dh3P5sM2soy9A/tDrar7zoOTrCp7TCQ2WftVcLKeBV398U6H2RJA8Hz58)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-23T06:30:21Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rectrD074eJ6iaCWc",
+            "fields": {
+                "Role": "Founder & CEO",
+                "": "",
+                "Organization": "Storia",
+                "Full Name": "Dan Jung",
+                "PFP Image": "Screen Shot 2025-05-29 at 5.11.51 PM.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/RGvHZvR8r_vjjWZnKoIzkg/P9fx2NLsEpT7Jkx0xPMC2EX_EYL_6MyxhGG4BQLAty9Cg_zvBz0OeplIEUoIFp7XMobGSXmug52gwugHV2EtYd15cSm21ppYBQLqlZbrBkWBhXcO2tmhUIQj92f3gZqSnnPqyTe0-MeAzUnOJhBSSfB4y8rhZ2cpwL8omMy_0jdREmazmaAxonWZ_KCpgUJc/fkaJQvGBxPfFQ60gXVwsduoFaYhD_22f5VW_UW42c1Q)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-30T00:15:09Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recphUTlndunzH0jr",
+            "fields": {
+                "Role": "Co-founder & CEO",
+                "": "",
+                "Organization": "Amulet",
+                "Full Name": "Katie Joseff",
+                "PFP Image": "Screen Shot 2025-05-29 at 5.32.48 PM.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/IyTKvvZ0JkJO3VJyhXLRCA/12AXj-iBgTLGwdZgLJ0XA1L1YqsFvlCaAtUyTLlT5b0q60Y6wPGHMefOC6WZX5K27u1mXOt_kcQ1bQfJKqh9qR6GFchvqSQDG_U2sm4iz7Y8GmscZjgEk3SBHUCIT2d6izOj700jUoXjiqVnPKUZ0y33KGV9choUaZogYbX8I9-l6UuzyCeiEV1-74e70FFX/_26eEdNHpjulDMujo0rxPBHaClOiz9O78TvzufIHKdE)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-30T00:33:03Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recTyuKnI8YKCGdZ8",
+            "fields": {
+                "Role": "CTO",
+                "": "",
+                "Organization": "Amulet",
+                "Full Name": "Patrick Deegan",
+                "PFP Image": "Screen Shot 2025-05-29 at 5.44.40 PM.png (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/yo1VLlHznEbhTQvXq6yYbA/qDmYgjQuODVcq6fVH5O2mhMy-x9hN0oCOb96nSfVOq6gWibJyk3E76Wfl4SUdX3tRc84y1XviuWTOcIZkrFDbwK-mNHAWuUHadH9cRN9c0dKU00Ikq39TEUsMtX0qdBe-cHv4c9FOZHMwDiBQTdBrkSg0v00W3zMwu9z0aT6PoGmKPpXSlmalEEgJo4i3kZk/4TquZbz2fCuOd8KMmR8BSwRZCO_ckweS3XAF6EPsXWc)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-05-30T00:43:36Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recEwEx5y6KBDOe9S",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Olo Space",
+                "Full Name": "Markus Pesonen",
+                "PFP Image": "1673880279844 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/W1LhhYqMI0ODwy3u2AnSag/tSAts_WTzVCPtVaU7k85KKqW4xL_wNgd2Ov-NT3Ag8RidtHd0jUZrW3gEpf9ba-W8O_dD_kC7zKAbxkwINjro_aJsQTdeVLPCHbmKcO3eQtktwmkM1WFDsM5YC6MoLhya3gv2tY4bylubBReI0g7Zw/qOUBCveMweBIC_14JZMmelaW-O5B4grKld3S89Vxvso)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-09T00:30:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recOm0HlRuV9N8H4S",
+            "fields": {
+                "Role": "Founder",
+                "": "",
+                "Organization": "Karuna",
+                "Full Name": "Janne Kukka",
+                "PFP Image": "1749095160011 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/Zbr0ubeUG6ZaXqiYX4Z7dQ/DvGT4zFqglFRhkNYFsugbT2mGCD0zcxkQPG2taD4EPBHqoJd8GzbyRdZs_shwc6oKica2EGFOwvRRhqbe18uD8ZJUO0ViolAk5-_GgqMtkovrx4ybyOkeTFxdzum8-hg46JFikeJkmmgWFTfc-2XHQ/VO__G1uP0ZzVo5JGmx3jb-RD4L3KXs2Zw070fT_O2xg)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-09T00:30:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recPLQzzbgvG8gmZU",
+            "fields": {
+                "Role": "Facilitator",
+                "": "",
+                "Organization": "Slow Tea",
+                "Full Name": "Adam Yasmin",
+                "PFP Image": "1749153779352 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/OQdCITUvlHErG_HBSAtxZA/Lj4AVdHCzkD6DwEOcrco9dxFrGxsf61t8tCYOBmuDtNfFQh07Wiy2gISEso5RKHYGWdY8eJqC7uwzCWbunCJfJMeGZki-uViOZ5bGagCpA5TpkR7Liqf0xFz_Qh70lRZiLFQiplG-4tZM1kHZQXE4Q/U_I6Ji0wyOkYMU86uCGPY3T5eVF2HrqiAgAFH_mp6lo)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-09T00:30:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recQX8ytR3sTKGYkJ",
+            "fields": {
+                "Role": "Co-founder",
+                "": "",
+                "Organization": "Numadelic Labs",
+                "Full Name": "Gregory Roufa",
+                "PFP Image": "1710948643250 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/jxaJ5-rvxN3sqUk1SKuPeg/gR-MJ7AQh5CSb5sdv7NzhKoK6KrvKhHGTpl_s0tpvtGPGX6TLbakCIOeljTf2S4fZsxsjcXU2BQSxAi3Va65JhRyoG2w8CQ7CP8VblU7qjxo0-fG9EjUw6ogMaSHzLsd8nNjwJRavNQ6Sc4aB8Hjpg/QgYO-Mt8Ib33mGwGjy9QWirKt2YkJqt5kfytG-YYd8A)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-09T00:30:25Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rec68mn0DDTnHSjfs",
+            "fields": {
+                "Role": "Managing Partner",
+                "": "",
+                "Organization": "Gumi Cryptos Capital",
+                "Full Name": "Miko Matsumura",
+                "PFP Image": "Miko.jpg (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/MWZPeD8TLUPk53X2GNIs9Q/KPR0ROTm5it8fFv3L9m1vBaAXDw-6snD5WtCX8nWwgOZ2J-yW96iNyUBa-p1auRrQUfEOqzx6f4EtQKcOMoNTpYY0WI1n53qVKv8Ps0X8EnVKFYbVEgK5dfmvafJTkIDtR_oZ5yM15KkjZQIt-nJrA/1bfb6K_-3ZnZtC44oZOemWJwCyJ0CnvfzcP4zGc8P5M)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-09T19:21:30Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recBP5Rxc8p6eNrcu",
+            "fields": {
+                "Role": "Co-founder, CTO",
+                "": "",
+                "Organization": "Psyrin",
+                "Full Name": "Julianna Olah",
+                "PFP Image": "julispeaker.JPG (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/kNZVlrxHZxByjJLR4mhmyQ/NMWzfl6occgKHLiMq2lo0wkBrfIgGEzUKhmVdsM_BQ64AYD7jOoiF2DL_ZfJWph8AZKXv4YF6e-mi0FY4shyhXT8lXp9RKsOJIrDhd-VnTDRi1wUoytols81R0_xhshlDQ60_uWFNlSo4_ed5F5y3Ub0ZF14PrJIniFX1YzaiiE/ja89Vjp5PRUTX3BYKfldyg-KUuCWDdHyV7_9g4HoJwk)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-11T00:06:57Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recokxLq2BOlYs93g",
+            "fields": {
+                "Role": "Co-Founder and CEO",
+                "": "",
+                "Organization": "Attunement AI ",
+                "Full Name": "Angelia Muller",
+                "PFP Image": "1723148913342 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/ZlZMMOJKaxt3QdLTQguTjQ/20PRyBO52qh7T694wf7TYMaBTw3xbfQX91boP9eRXFaDnyFaIQLMW0uAevYoPMNTjExvABHZ55AqkBGX1fUg3zjyuGSSGVkfdWBYdcx_eL6Z5Sb1cL6rPXTnpVYMB1v9Rk-1-e3uuEW5Imxqwwcfgg/DriWXLGrpxwtqn3ZK9I6Q38Ss3fpQvn-d5n3WFEBCL4)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-12T18:26:26Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "recdTwUHzo6MQd850",
+            "fields": {
+                "Role": "CEO",
+                "": "",
+                "Organization": "Bloom",
+                "Full Name": "David Munir Nabti",
+                "PFP Image": "1517702995546 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/XeQpPbfnHHP5KcrlCaLEjw/NJsjVZmRqOthrQTeya0f4-mL7lqrfN9fIhI2rVIIFPqjO1OFmund5tLQk72GF9e9k8YXh4yBShz0nc74eBiLpSgGXo4sFIsa9AoEgQ6mCbz5_8qsro8ZE_BaC34LmcZgq3O7V3SMTC8y6laj_JnCNQ/Hz-SRNbLgcQDHHapZAh30mUBZE_NrvKUXxfGrOtDW_Q)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-13T18:04:40Z",
+            "table": null,
+            "linkedTables": null
+        },
+        {
+            "id": "rechEXw2kIGiUXQ7s",
+            "fields": {
+                "Role": "Chairman & CIO",
+                "": "",
+                "Organization": "NativelyAI ",
+                "Full Name": "Joseph Spence",
+                "PFP Image": "1731842738620 (https://v5.airtableusercontent.com/v3/u/42/42/1751126400000/SkwnRBO0e-wD5mIvmt7S8w/2q37TCgKGp-JsLgQMZXSXCIrPZHXWWsU6YoXnxgCSq6zVU0sHhKCfObfjvyJ1paQHKPl2nYLj-mn0nNcpQUsEHXfL0KGpmZXem8NLhDm34TZZPpqsh2dGulF_QuWcUe5KY1NFgAfrgXJI7XEx5XVVA/QkbIUzOvsLctFCcAWSHdAHMGrQdGSaEFCS0h6eE33cs)",
+                "H+T Sort": "5"
+            },
+            "createdTime": "2025-06-14T17:28:51Z",
+            "table": null,
+            "linkedTables": null
+        }
+    ],
+    "offset": null
+}

@@ -1,0 +1,177 @@
+[
+    {
+        "position":1,
+        "title":"PURO - Tienda virtual",
+        "link":"https:\/\/zapatillaspuro.com.ar\/?srsltid=AfmBOoqu7Z11SCFR5rI3AWV_evu41LEIp5fPYjJi_bGUXJkjipAuSwgY",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/zapatillaspuro.com.ar\/%3Fsrsltid%3DAfmBOoqu7Z11SCFR5rI3AWV_evu41LEIp5fPYjJi_bGUXJkjipAuSwgY&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIHxAB",
+        "displayed_link":"https:\/\/zapatillaspuro.com.ar",
+        "thumbnail":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684bc202b814eb949a5f9df223edd3060c3a.jpeg",
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684beb94a4bb35e069e03736d0a7a27d495d.png",
+        "snippet":"Zapatillas y Bolsos de colección. ... Mini bandolera Bagui Kats - comprar online. Sin stock. Envío gratis. Agregar ...",
+        "snippet_highlighted_words":[
+            "Zapatillas y Bolsos de colección"
+        ],
+        "rich_snippet":{
+            "bottom":{
+                "extensions":[
+                    "30-day returns"
+                ]
+            }
+        },
+        "source":"PURO - Tienda virtual",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":2,
+        "title":"Solo Deportes - Calzado e indumentaria para el deporte",
+        "link":"https:\/\/www.solodeportes.com.ar\/",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.solodeportes.com.ar\/&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIKxAB",
+        "displayed_link":"https:\/\/www.solodeportes.com.ar",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684b06fde188ac453d665ef5c170e7fa5be3.png",
+        "snippet":"Conoce Solo Deportes! Pagá en cuotas sin interés con tu tarjeta de crédito y recibí tu compra en todo el país o retirala en nuestras 30 sucursales gratis.",
+        "snippet_highlighted_words":null,
+        "rich_snippet":{
+            "bottom":{
+                "extensions":[
+                    "30-day returns"
+                ]
+            }
+        },
+        "source":"Solo Deportes",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":3,
+        "title":"Tienda de deportes en Córdoba",
+        "link":"https:\/\/www.decathlon.es\/es\/store-view\/tienda-de-deportes-cordoba-0070062600626",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.decathlon.es\/es\/store-view\/tienda-de-deportes-cordoba-0070062600626&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIGhAB",
+        "displayed_link":"https:\/\/www.decathlon.es › tienda-...",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684b43c319d15ab56ccdcdcae0217f3872e0.png",
+        "snippet":"Descubre nuestra gama completa de ropa deportiva, calzado deportivo y equipos deportivos en tu tienda Decathlon más cercana. Encontrarás todo el equipo y ...",
+        "snippet_highlighted_words":[
+            "Descubre nuestra gama completa de ropa deportiva, calzado deportivo y equipos deportivos"
+        ],
+        "rich_snippet":null,
+        "source":"Decathlon",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":4,
+        "title":"mulhaus - Córdoba",
+        "link":"https:\/\/www.mulhaus.com.ar\/?srsltid=AfmBOor1V0vJlvMKtdEBF7xY3h_6ve1pmY7XGZdc6nIkbUN37eSX1uXf",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.mulhaus.com.ar\/%3Fsrsltid%3DAfmBOor1V0vJlvMKtdEBF7xY3h_6ve1pmY7XGZdc6nIkbUN37eSX1uXf&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIFhAB",
+        "displayed_link":"https:\/\/www.mulhaus.com.ar",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684b46899a47ef63aecc0c218ada3e7f667a.png",
+        "snippet":"Tienda de zapatos de mujer de cuero, marca Narcisa, con gran reconocimiento a nivel nacional. Contamos con 2 locales en Córdoba y envíos a todo el país.",
+        "snippet_highlighted_words":[
+            "Tienda de zapatos de mujer de cuero, marca Narcisa"
+        ],
+        "rich_snippet":null,
+        "source":"mulhaus",
+        "missing":[
+            "multimarcas"
+        ],
+        "must_include":{
+            "word":"multimarcas",
+            "link":"https:\/\/www.google.com\/search?sca_esv=208df9b37356884f&q=tiendas+de+venta+de+zapatillas+%22multimarcas%22+peque%C3%B1as+en+cordoba&sa=X&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhDm3gJ6BAgnEAE"
+        }
+    },
+    {
+        "position":5,
+        "title":"Zapatillas Originales Por Mayor En Cordoba Capital",
+        "link":"https:\/\/www.tiktok.com\/discover\/zapatillas-originales-por-mayor-en-cordoba-capital",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.tiktok.com\/discover\/zapatillas-originales-por-mayor-en-cordoba-capital&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIJBAB",
+        "displayed_link":"https:\/\/www.tiktok.com › Discover",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684b588ef36257af03627d259ae83cf5b3b9.png",
+        "snippet":"Encuentra zapatillas originales por mayor en Córdoba Capital. Estilo, calidad y precios imperdibles para revender. ¡Visítanos en Belgrano 538!",
+        "snippet_highlighted_words":[
+            "zapatillas",
+            "Córdoba"
+        ],
+        "rich_snippet":null,
+        "source":"TikTok",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":6,
+        "title":"Tienda de deportes y ropa deportiva",
+        "link":"https:\/\/www.elcorteingles.es\/deportes\/",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.elcorteingles.es\/deportes\/&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIExAB",
+        "displayed_link":"https:\/\/www.elcorteingles.es › depor...",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684be6c2722cbf15b905e51a370ca2a2e13d.png",
+        "snippet":"Increíbles productos de Fitness, Running, Fútbol y más. Ropa deportiva de marcas como Adidas o Nike. ¡Compra en la tienda de deportes de El Corte Inglés!",
+        "snippet_highlighted_words":[
+            "Increíbles productos de Fitness, Running, Fútbol y más"
+        ],
+        "rich_snippet":null,
+        "source":"El Corte Inglés",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":7,
+        "title":"Calzado Infantil | Zapatería Infantil Pisamonas",
+        "link":"https:\/\/www.pisamonas.es\/",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.pisamonas.es\/&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQIFBAB",
+        "displayed_link":"https:\/\/www.pisamonas.es",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684bf3be1035b52592c5f7fd5c944d7775d5.png",
+        "snippet":"Calzado infantil de calidad al mejor precio hecho en España. Para bebé, niño, niña y mujer. ✓ Envíos y devoluciones gratis. 【Rebajas Verano.",
+        "snippet_highlighted_words":[
+            "Calzado infantil de calidad al mejor precio hecho en España"
+        ],
+        "rich_snippet":{
+            "bottom":{
+                "extensions":[
+                    "14-day returns"
+                ]
+            }
+        },
+        "source":"Pisamonas",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":8,
+        "title":"Krack: zapatería online | Las mejores rebajas de verano 2025",
+        "link":"https:\/\/www.krackonline.com\/es\/",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.krackonline.com\/es\/&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQINBAB",
+        "displayed_link":"https:\/\/www.krackonline.com › ...",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684bb8a3c2b0a6d229fe7e67d01fad38ca57.png",
+        "snippet":"En Krack seleccionamos, diseñamos y creamos el calzado que te ayude a encontrar tu propio camino. Inspírate en nuestra tienda de zapatos y accesorios online ...",
+        "snippet_highlighted_words":[
+            "En Krack seleccionamos, diseñamos y creamos el calzado que te ayude a encontrar tu propio camino"
+        ],
+        "rich_snippet":null,
+        "source":"Krack",
+        "missing":null,
+        "must_include":null
+    },
+    {
+        "position":9,
+        "title":"Mimo & Co | Ropa y calzado para niñas, niños y bebés",
+        "link":"https:\/\/www.mimo.com.ar\/?srsltid=AfmBOoqSNq12PUQR2yULKleDzhu7xKH77hOuD2asENuhH8JLtI-02ba9",
+        "redirect_link":"https:\/\/www.google.com\/url?sa=t&source=web&rct=j&opi=89978449&url=https:\/\/www.mimo.com.ar\/%3Fsrsltid%3DAfmBOoqSNq12PUQR2yULKleDzhu7xKH77hOuD2asENuhH8JLtI-02ba9&ved=2ahUKEwiTqqqim-iOAxXpzfACHQtQLW04EhAWegQINxAB",
+        "displayed_link":"https:\/\/www.mimo.com.ar",
+        "thumbnail":null,
+        "favicon":"https:\/\/serpapi.com\/searches\/688bf72b10b5cf3505d0f31d\/images\/e5a1483b85736517dfb74eaecfe2684bb27f8a7383033a600c9b0a87c7704543.png",
+        "snippet":"Somos una marca infantil de indumentaria, calzado y accesorios. Desde recién nacidos hasta 12 años. Comprá online o acercate a nuestros locales.",
+        "snippet_highlighted_words":[
+            "Somos una marca infantil de indumentaria, calzado y accesorios"
+        ],
+        "rich_snippet":null,
+        "source":"Mimo & Co",
+        "missing":null,
+        "must_include":null
+    }
+]
