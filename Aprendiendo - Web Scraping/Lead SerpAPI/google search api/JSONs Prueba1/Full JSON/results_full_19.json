@@ -1,0 +1,91 @@
+{
+    "search_metadata": {
+        "id": "688bf72d69a322d9c6a73ede",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/015c71f119080dce/688bf72d69a322d9c6a73ede.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/015c71f119080dce/688bf72d69a322d9c6a73ede.json_with_pixel_position",
+        "created_at": "2025-07-31 23:07:25 UTC",
+        "processed_at": "2025-07-31 23:07:25 UTC",
+        "google_url": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=19&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/015c71f119080dce/688bf72d69a322d9c6a73ede.html",
+        "total_time_taken": 0.97
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "tiendas de venta de zapatillas multimarcas pequeñas en cordoba",
+        "google_domain": "google.com",
+        "start": 19,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "tiendas de venta de zapatillas multimarcas pequeñas en cordoba",
+        "total_results": 16,
+        "page_number": 3,
+        "time_taken_displayed": 0.66,
+        "organic_results_state": "Fully empty"
+    },
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Tiendas de venta de zapatillas multimarcas pequeñas en cordoba online",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba+online&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBEQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba+online&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "Rossetti deportes",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Rossetti+deportes&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBYQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rossetti+deportes&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "Rossetti deportes sucursales",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Rossetti+deportes+sucursales&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBMQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rossetti+deportes+sucursales&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "Henzy",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Henzy&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBQQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Henzy&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "Dexter Zapatillas",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Dexter+Zapatillas&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBUQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dexter+Zapatillas&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "SOLO Deportes",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=SOLO+Deportes&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBIQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=SOLO+Deportes&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "Newsport Córdoba",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Newsport+C%C3%B3rdoba&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECBAQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Newsport+C%C3%B3rdoba&start=19"
+        },
+        {
+            "block_position": 1,
+            "query": "Cero 26",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Cero+26&sa=X&ved=2ahUKEwjQ5v-im-iOAxV1RDABHdB1L4I4ExDVAnoECA8QAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cero+26&start=19"
+        }
+    ],
+    "dmca_messages": {
+        "title": "Notices about Filtered Results",
+        "messages": [
+            {
+                "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 16 already displayed.If you like, you can repeat the search with the omitted results included.",
+                "highlighted_words": [
+                    {
+                        "link": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&sca_esv=208df9b37356884f&filter=0",
+                        "text": "repeat the search with the omitted results included"
+                    }
+                ]
+            }
+        ]
+    }
+}

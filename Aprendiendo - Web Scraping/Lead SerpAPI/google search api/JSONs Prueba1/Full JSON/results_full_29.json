@@ -1,0 +1,132 @@
+{
+    "search_metadata": {
+        "id": "688bf73ec20348c7f53f7234",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f1fc37e4a452c722/688bf73ec20348c7f53f7234.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/f1fc37e4a452c722/688bf73ec20348c7f53f7234.json_with_pixel_position",
+        "created_at": "2025-07-31 23:07:42 UTC",
+        "processed_at": "2025-07-31 23:07:42 UTC",
+        "google_url": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=29&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f1fc37e4a452c722/688bf73ec20348c7f53f7234.html",
+        "total_time_taken": 0.96
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "tiendas de venta de zapatillas multimarcas pequeñas en cordoba",
+        "google_domain": "google.com",
+        "start": 29,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "tiendas de venta de zapatillas multimarcas pequeñas en cordoba",
+        "total_results": 18,
+        "page_number": 4,
+        "time_taken_displayed": 0.48,
+        "organic_results_state": "Fully empty"
+    },
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "Solo Deportes",
+                    "image": "https://serpapi.com/searches/688bf73ec20348c7f53f7234/images/52534b7236d325579613008b0d108735509dbbc40e0410ad73375eef11205e93877eb9ade03649c1.png",
+                    "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Solo+Deportes&stick=H4sIAAAAAAAAAAFfAKD_CDEiDS9nLzExYmJybnBtMzn6AQCwBACiBQ1Tb2xvIERlcG9ydGVz2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAG6CO7uXwAAAA&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRCz2gEoAHoECBMQCg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Solo+Deportes&start=29&stick=H4sIAAAAAAAAAAFfAKD_CDEiDS9nLzExYmJybnBtMzn6AQCwBACiBQ1Tb2xvIERlcG9ydGVz2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAG6CO7uXwAAAA"
+                },
+                {
+                    "name": "Open Sports",
+                    "image": "https://serpapi.com/searches/688bf73ec20348c7f53f7234/images/52534b7236d325579613008b0d108735509dbbc40e0410ad0de4a350b5321e5653e4bc091fbf15af.jpeg",
+                    "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=opensports&stick=H4sIAAAAAAAAAAFcAKP_CDEiDS9nLzExYzN3dnBzMHf6AQCwBACiBQpvcGVuc3BvcnRz2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFK2AInXAAAAA&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRCz2gEoAHoECBMQDw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=opensports&start=29&stick=H4sIAAAAAAAAAAFcAKP_CDEiDS9nLzExYzN3dnBzMHf6AQCwBACiBQpvcGVuc3BvcnRz2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFK2AInXAAAAA"
+                },
+                {
+                    "name": "Dash Deportes",
+                    "image": "https://serpapi.com/searches/688bf73ec20348c7f53f7234/images/52534b7236d325579613008b0d108735509dbbc40e0410ad21ee18e5d3b33d4e77e2f3a97a9f926f.png",
+                    "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=dash+deportes&stick=H4sIAAAAAAAAAAFfAKD_CDEiDS9nLzExZmt5eWNyYzT6AQCwBACiBQ1kYXNoIGRlcG9ydGVz2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEQKsFnXwAAAA&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRCz2gEoAHoECBMQFA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dash+deportes&start=29&stick=H4sIAAAAAAAAAAFfAKD_CDEiDS9nLzExZmt5eWNyYzT6AQCwBACiBQ1kYXNoIGRlcG9ydGVz2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEQKsFnXwAAAA"
+                },
+                {
+                    "name": "Dexter",
+                    "image": "https://serpapi.com/searches/688bf73ec20348c7f53f7234/images/52534b7236d325579613008b0d108735509dbbc40e0410ad122ec3487ffddd9952f3ad1874ce786e.png",
+                    "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=dexter+com+ar&stick=H4sIAAAAAAAAAAFfAKD_CDEiDS9nLzExY2treWZyczT6AQCwBACiBQ1kZXh0ZXIgY29tIGFy2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAHvlDq1XwAAAA&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRCz2gEoAHoECBMQGQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dexter+com+ar&start=29&stick=H4sIAAAAAAAAAAFfAKD_CDEiDS9nLzExY2treWZyczT6AQCwBACiBQ1kZXh0ZXIgY29tIGFy2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAHvlDq1XwAAAA"
+                },
+                {
+                    "name": "Nike Store",
+                    "image": "https://serpapi.com/searches/688bf73ec20348c7f53f7234/images/52534b7236d325579613008b0d108735509dbbc40e0410ad8b605a0c805fd5f2f5a107df61f73aeb.jpeg",
+                    "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Nike+Factory+Store&stick=H4sIAAAAAAAAAOMwVOLRT9c3NEyPt0gqL0j7xciwgYVhEauQX2Z2qoJbYnJJflGlQjCQTL3FJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAO6-Pm5jAAAA&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRCz2gEoAHoECBMQHg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nike+Factory+Store&start=29&stick=H4sIAAAAAAAAAOMwVOLRT9c3NEyPt0gqL0j7xciwgYVhEauQX2Z2qoJbYnJJflGlQjCQTL3FJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZyik5Ret4GAEAO6-Pm5jAAAA"
+                },
+                {
+                    "name": "PUMA",
+                    "image": "https://serpapi.com/searches/688bf73ec20348c7f53f7234/images/52534b7236d325579613008b0d108735509dbbc40e0410ade12c03a99c5017057ce6fba3e257e983.jpeg",
+                    "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=PUMA+Store&stick=H4sIAAAAAAAAAAFbAKT_CDEiDC9nLzFoZmYydnNrZ_oBALAEAKIFClBVTUEgU3RvcmXaBhkAu6KI-QRFvzGxOTOxshbjtwf6R_19ZpipoggWUGVvcGxlIGFsc28gc2VhcmNoIGZvcqgIAWGwgblbAAAA&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRCz2gEoAHoECBMQIw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=PUMA+Store&start=29&stick=H4sIAAAAAAAAAAFbAKT_CDEiDC9nLzFoZmYydnNrZ_oBALAEAKIFClBVTUEgU3RvcmXaBhkAu6KI-QRFvzGxOTOxshbjtwf6R_19ZpipoggWUGVvcGxlIGFsc28gc2VhcmNoIGZvcqgIAWGwgblbAAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Tiendas de venta de zapatillas multimarcas pequeñas en cordoba online",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba+online&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBkQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba+online&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Rossetti deportes",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Rossetti+deportes&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBsQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rossetti+deportes&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Calzados paz villa allende",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Calzados+paz+villa+allende&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBUQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calzados+paz+villa+allende&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Calzados paz La Calera",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Calzados+paz+La+Calera&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBcQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calzados+paz+La+Calera&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Calzado paz",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Calzado+paz&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBoQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calzado+paz&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Calzados paz donato álvarez",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Calzados+paz+donato+%C3%A1lvarez&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBgQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calzados+paz+donato+%C3%A1lvarez&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Calzados paz Unquillo",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Calzados+paz+Unquillo&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBYQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calzados+paz+Unquillo&start=29"
+        },
+        {
+            "block_position": 1,
+            "query": "Calzados Paz salsipuedes",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Calzados+Paz+salsipuedes&sa=X&ved=2ahUKEwi49Yerm-iOAxUeLRAIHeIKEJ84HRDVAnoECBwQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Calzados+Paz+salsipuedes&start=29"
+        }
+    ],
+    "dmca_messages": {
+        "title": "Notices about Filtered Results",
+        "messages": [
+            {
+                "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 18 already displayed.If you like, you can repeat the search with the omitted results included.",
+                "highlighted_words": [
+                    {
+                        "link": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&sca_esv=208df9b37356884f&filter=0",
+                        "text": "repeat the search with the omitted results included"
+                    }
+                ]
+            }
+        ]
+    }
+}

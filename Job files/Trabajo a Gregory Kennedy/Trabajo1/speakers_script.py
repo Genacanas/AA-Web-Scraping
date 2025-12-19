@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import json
 import pandas as pd
 import requests
-#   patmJWBOkywPqsKsx.6ae8dc7a7ea7ac085c231f2eb5b3d4b02d41c93db02fa4c446f49d3e3f09dc90
 
 b = "https://valarie59522.softr.app/v1/datasource/airtable/cdc75747-e8b8-495f-96c5-27f009e90324/d5355337-db49-48bb-a886-4f5721dd38cd/e36fd3ce-da25-441d-84f0-b023973a5d87/2bff462b-d25b-4956-862c-46fe357bb701/data/"
 

@@ -1,0 +1,296 @@
+{
+    "search_metadata": {
+        "id": "688bf7213d3656070a477acb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bd559fe65b664fc8/688bf7213d3656070a477acb.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/bd559fe65b664fc8/688bf7213d3656070a477acb.json_with_pixel_position",
+        "created_at": "2025-07-31 23:07:13 UTC",
+        "processed_at": "2025-07-31 23:07:13 UTC",
+        "google_url": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=12&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/bd559fe65b664fc8/688bf7213d3656070a477acb.html",
+        "total_time_taken": 1.55
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "tiendas de venta de zapatillas multimarcas pequeñas en cordoba",
+        "google_domain": "google.com",
+        "start": 12,
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "tiendas de venta de zapatillas multimarcas pequeñas en cordoba",
+        "total_results": 19,
+        "page_number": 3,
+        "time_taken_displayed": 0.4,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+        {
+            "source": "https://www.tiktok.com/@unlugarcitocba/video/7416477277040430341",
+            "thumbnail": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/fddcf5a2abd09d7e7736f17d9c49ad342940b87987a605019c79acad7319eeb7.jpeg",
+            "original": "https://www.tiktok.com/api/img/?itemId=7416477277040430341&location=0&aid=1988",
+            "title": "Zapatillas de Marca en Córdoba a Precios Impresionantes",
+            "source_name": "TikTok"
+        },
+        {
+            "source": "https://www.instagram.com/reel/DJAgYcWx5gA/",
+            "thumbnail": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/fddcf5a2abd09d7eed1c04196e98f1979dd15273568564c896ce0ba307ae2bed.jpeg",
+            "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3621036517608626176",
+            "title": "Arrancamos con la venta mayorista de zapatillas para toda Córdoba!!  Comunícate por WhatsApp 3515327274 y te pasamos el catálogo mayorista para  que empieces a vender hoy mismo 🚀",
+            "source_name": "Instagram"
+        },
+        {
+            "source": "https://www.tiktok.com/discover/mayorista-de-calzados-en-cordoba-capital-precios",
+            "thumbnail": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/fddcf5a2abd09d7e65a584be407ed9b142fd0362c6c7fa20c483353e64d3316c.jpeg",
+            "original": "https://www.tiktok.com/api/img/?itemId=7514021049646828805&location=0&aid=1988",
+            "title": "Mayorista De Calzados En Cordoba Capital Precios | TikTok",
+            "source_name": "TikTok"
+        },
+        {
+            "source": "https://www.oteros.es/es/tienda/598-c%C3%B3rdoba-(outlet-arc%C3%A1ngel)",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYGz2kWs-5yOto3Kw-pebtNa1c0kAUgpB-zBaLLEl9J2yKDhJEHtgPWY&s",
+            "original": "https://www.oteros.es/img/tiendas/002/IMG-20160530-WA0028-min.jpg",
+            "title": "Oteros",
+            "source_name": "Oteros"
+        },
+        {
+            "source": "https://www.tiktok.com/discover/donde-comprar-base-de-suelas-para-zapatillas-en-cordoba-capital",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjEqUstgl-ueCAakUHshlWTImvtjdCpOuGxsFdL7Wt2s4cTkamPj9lcPM&s",
+            "original": "https://www.tiktok.com/api/img/?itemId=7471454513291873542&location=0&aid=1988",
+            "title": "Donde Comprar Base De Suelas Para Zapatillas En Cordoba ...",
+            "source_name": "TikTok"
+        },
+        {
+            "source": "https://rks.shoes/rks/zapaterias-cordoba",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WllMW8nZRLUN8niKvss5tJBxWX8QOtLqZvh8SjcwbKVz5SkbuytjcYA&s",
+            "original": "https://rks.shoes/img/cms/cordoba/CC%20la%20sierra/FACHADA.jpeg",
+            "title": "Zapaterías RKS en Córdoba - RKS Shoes",
+            "source_name": "RKS"
+        },
+        {
+            "source": "https://www.instagram.com/reel/C5hDhA-xzaR/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDMHdmo8IgZEgKUaPYvelXq50-jnD4oBU_TTNlKYotZsJI-27YE20a3g&s",
+            "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3341967861421127313",
+            "title": "Ofertas en calzado, borcegos y más 😉, •, El local se llama MYM y se  encuentra en San Martín 46 centro de Córdoba 📍, •, Si te sirvió la info no  olviden seguirme para más videitos así 🫶🏻, •, #data ...",
+            "source_name": "Instagram"
+        },
+        {
+            "source": "https://www.instagram.com/reel/DLn2RT6xrpj/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_IYqnztBG__lH0V4t-Ahp1ihfBaAmSzKFK1cJYXkPbxUXnLrn-Tw7lDY&s",
+            "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3668139105646459491",
+            "title": "Todo lo que te gusta, está acá 💯 , ✅Zapatillas, ✅Indumentaria, ✅Botines,  ✅Camisetas, ✅Accesorios, Y más… , 🛒ondasports.com.ar, 📍Sarmiento 70  (Córdoba), 📍San Martín 375 (Córdoba)",
+            "source_name": "Instagram"
+        },
+        {
+            "source": "https://www.oteros.es/es/tienda/522-c%C3%B3rdoba-(el-arc%C3%A1ngel)",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcoYYuMTXvRjDZ7JAT6SFW3CQg4tKuElW2SsNOYXgBb8BfoYhe3VWBr8&s",
+            "original": "https://www.oteros.es/img/tiendas/112/photo5893212107191724980-min.jpg",
+            "title": "Oteros",
+            "source_name": "Oteros"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Chelsea",
+            "link": "https://www.chelsea.com.ar/?srsltid=AfmBOooR1PZj14IYwRqMK9xtvWQsTaHG6-YRCRNkD7oU5pg1s29M8aDl",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.chelsea.com.ar/%3Fsrsltid%3DAfmBOooR1PZj14IYwRqMK9xtvWQsTaHG6-YRCRNkD7oU5pg1s29M8aDl&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIFBAB",
+            "displayed_link": "https://www.chelsea.com.ar",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e87987007f76242054e5a701dcf8fb4fa01.png",
+            "snippet": "Zapatillas Niño adidas Originals Superstar II · Zapatillas Niño adidas Originals Campus 00S · Zapatillas Mujer Puma Cali Court Secret · Zapatillas Mujer Converse ...",
+            "snippet_highlighted_words": [
+                "Zapatillas",
+                "Zapatillas",
+                "Zapatillas",
+                "Zapatillas"
+            ],
+            "source": "chelsea.com.ar"
+        },
+        {
+            "position": 2,
+            "title": "Lolas Córdoba",
+            "link": "https://lolas.online/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lolas.online/&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIFRAB",
+            "displayed_link": "https://lolas.online",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e87ccf5c583081a8e43b5d54a7c822c55f5.png",
+            "snippet": "LOLAS | más que una tienda – un estilo de vida. Si desde su origen siempre fue lo que se conoce por una tienda diferente donde podías encontrar prendas muy ...",
+            "snippet_highlighted_words": [
+                "LOLAS"
+            ],
+            "source": "Lolas Córdoba"
+        },
+        {
+            "position": 3,
+            "title": "MULTIMARCA",
+            "link": "https://www.silbonshop.com/pages/multimarca?srsltid=AfmBOoo9Zk_IO43x14Rm1L6oPE54e2VNWoZrOouLjkLSzEX-XSzEzxYF",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.silbonshop.com/pages/multimarca%3Fsrsltid%3DAfmBOoo9Zk_IO43x14Rm1L6oPE54e2VNWoZrOouLjkLSzEX-XSzEzxYF&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIGBAB",
+            "displayed_link": "https://www.silbonshop.com › pages",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e873d920dca8bfdccbcd1769a724e703fdb.png",
+            "snippet": "Nacida en 2018, nuestra línea infantil traslada el estilo característico de Silbon a los más pequeños, combinando comodidad, sofisticación y calidad en cada ...",
+            "source": "Silbon"
+        },
+        {
+            "position": 4,
+            "title": "Desigual® Oficial · Compra ropa original online #NewDesigual",
+            "link": "https://www.desigual.com/es_ES/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.desigual.com/es_ES/&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIFhAB",
+            "displayed_link": "https://www.desigual.com › es_ES",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e8739bac14e4e707791b6e37fb58a47679f.png",
+            "snippet": "Compra en Desigual ropa de moda para mujer, hombre y niños. ❤ ¡Acumula un 25% de Descuento! ❤ Envío Gratis.",
+            "snippet_highlighted_words": [
+                "Desigual ropa de moda para mujer, hombre y niños"
+            ],
+            "source": "Desigual"
+        },
+        {
+            "position": 5,
+            "title": "Zapatos Amiri Monteria Cordoba",
+            "link": "https://www.tiktok.com/discover/zapatos-amiri-monteria-cordoba",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/discover/zapatos-amiri-monteria-cordoba&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIGRAB",
+            "displayed_link": "https://www.tiktok.com › Discover",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e87e50d5981b54be229385ce02634a8a684.png",
+            "date": "Jul 14, 2025",
+            "snippet": "Encuentra los exclusivos zapatos Amiri en Montería, Córdoba. Perfectos para hombre y disponibles en ventas mayoristas.",
+            "snippet_highlighted_words": [
+                "Encuentra los exclusivos zapatos Amiri en Montería, Córdoba"
+            ],
+            "source": "TikTok"
+        },
+        {
+            "position": 6,
+            "title": "Basyco Jerez tienda de moda",
+            "link": "https://www.basycojerez.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.basycojerez.com/&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIKRAB",
+            "displayed_link": "https://www.basycojerez.com",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e87121e7622dcdf025fea352e1b7d659e9e.png",
+            "snippet": "Tienda moda mujer con ropa de temporada a precios increíbles. Visitarnos ... ZAPATOS · CALCETINES · SOMBREROS Y GORRAS · PAÑUELOS Y PAREOS · CINTURONES · REBAJAS ...",
+            "snippet_highlighted_words": [
+                "Tienda moda mujer con ropa de temporada a precios increíbles"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 27,
+                        "price_to": 67,
+                        "currency": "€"
+                    },
+                    "extensions": [
+                        "€27 to €67"
+                    ]
+                }
+            },
+            "source": "Basyco"
+        },
+        {
+            "position": 7,
+            "title": "Bodega Mayorista De Zapatos Chinu Cordoba",
+            "link": "https://www.tiktok.com/discover/bodega-mayorista-de-zapatos-chinu-cordoba",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tiktok.com/discover/bodega-mayorista-de-zapatos-chinu-cordoba&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQIFxAB",
+            "displayed_link": "https://www.tiktok.com › Discover",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e879670b94e1d10e0869563a269d0116d59.png",
+            "snippet": "Descubre la mejor variedad de calzado y sandalias en nuestra bodega mayorista de Chinú, Córdoba. ¡Visítanos y aprovecha nuestras ofertas!",
+            "snippet_highlighted_words": [
+                "Córdoba"
+            ],
+            "source": "TikTok"
+        },
+        {
+            "position": 8,
+            "title": "Vestidos de fiesta para ser la invitada perfecta",
+            "link": "https://mariquitatrasquila.com/es/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mariquitatrasquila.com/es/&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBAWegQINRAB",
+            "displayed_link": "https://mariquitatrasquila.com › ...",
+            "favicon": "https://serpapi.com/searches/688bf7213d3656070a477acb/images/2195cbbef9127ef5a9e08df208254e87d6b1d9635356b1aa870974355bf6d398.png",
+            "snippet": "Nos especializamos en vestidos de fiesta, creando colecciones propias con diseños exclusivos que reflejan nuestra identidad: prendas pensadas para mujeres ...",
+            "source": "Mariquita Trasquilá"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Tiendas de venta de zapatillas multimarcas pequeñas en cordoba online",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba+online&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECDMQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba+online&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Rossetti deportes",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Rossetti+deportes&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECDIQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rossetti+deportes&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Morrison zapatillas",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Morrison+zapatillas&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECDAQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Morrison+zapatillas&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Cero26 cordoba",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Cero26+cordoba&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECC4QAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cero26+cordoba&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Rossetti deportes sucursales",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Rossetti+deportes+sucursales&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECDEQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rossetti+deportes+sucursales&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Tienda fuencarral",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Tienda+fuencarral&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECC8QAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tienda+fuencarral&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Henzy",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Henzy&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECC0QAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Henzy&start=12"
+        },
+        {
+            "block_position": 1,
+            "query": "Dexter Zapatillas",
+            "link": "https://www.google.com/search?sca_esv=208df9b37356884f&q=Dexter+Zapatillas&sa=X&ved=2ahUKEwi7hOidm-iOAxX1le4BHexULgs4DBDVAnoECCwQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dexter+Zapatillas&start=12"
+        }
+    ],
+    "dmca_messages": {
+        "title": "Notices about Filtered Results",
+        "messages": [
+            {
+                "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 19 already displayed.If you like, you can repeat the search with the omitted results included.",
+                "highlighted_words": [
+                    {
+                        "link": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&sca_esv=208df9b37356884f&filter=0",
+                        "text": "repeat the search with the omitted results included"
+                    }
+                ]
+            }
+        ]
+    },
+    "pagination": {
+        "current": 2,
+        "next": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=20&sourceid=chrome&ie=UTF-8",
+        "previous": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=0&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=0&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&oq=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 2,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=0",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=0",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=20",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=20",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=0",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=tiendas+de+venta+de+zapatillas+multimarcas+peque%C3%B1as+en+cordoba&start=40"
+        }
+    }
+}

@@ -1,0 +1,250 @@
+[
+    {
+        "id_resultado": 1,
+        "seed_id": 2,
+        "seed_title": "BUCCO",
+        "site_root": "https://www.bucco.com.ar/",
+        "source": "home_JS",
+        "source_url": "https://www.bucco.com.ar/",
+        "emails": [
+            "buccotiendaonline@gmail.com"
+        ],
+        "phone": "+54 351 572-2654",
+        "address": "Av. J. M. de Pueyrredón 152, X5000 Córdoba, Argentina"
+    },
+    {
+        "id_resultado": 2,
+        "seed_id": 8,
+        "seed_title": "Calzados Jimenez",
+        "site_root": "https://calzadosjimenez.com.ar/",
+        "source": "contact_HTML",
+        "source_url": "https://calzadosjimenez.com.ar/contacto",
+        "emails": [
+            "info@calzadosjimenez.com.ar"
+        ],
+        "phone": "+54 351 788-1331",
+        "address": "Bernardo O'Higgins 2616, X5000 Córdoba, Argentina"
+    },
+    {
+        "id_resultado": 3,
+        "seed_id": 11,
+        "seed_title": "Pili Yo Quiero",
+        "site_root": "http://www.piliyoquiero.com.ar/",
+        "source": "home_JS",
+        "source_url": "http://www.piliyoquiero.com.ar/",
+        "emails": [
+            "piliyoquieroo@gmail.com"
+        ],
+        "phone": "+54 9 351 517-1920",
+        "address": "San Lorenzo 195, X5000AZK Córdoba, Argentina"
+    },
+    {
+        "id_resultado": 4,
+        "seed_id": 14,
+        "seed_title": "mulhaus",
+        "site_root": "http://www.mulhaus.com.ar/",
+        "source": "home_JS",
+        "source_url": "http://www.mulhaus.com.ar/",
+        "emails": [
+            "info.mulhaus@gmail.com"
+        ]
+    },
+    {
+        "id_resultado": 5,
+        "seed_id": 16,
+        "seed_title": "Nodo Shoes",
+        "site_root": "http://www.nodoshoes.com.ar/",
+        "source": "home_JS",
+        "source_url": "http://www.nodoshoes.com.ar/",
+        "emails": [
+            "nodoshoesmkt@gmail.com"
+        ]
+    },
+    {
+        "id_resultado": 6,
+        "seed_id": 17,
+        "seed_title": "Takones",
+        "site_root": "http://www.takones.com.ar/",
+        "source": "home_JS",
+        "source_url": "http://www.takones.com.ar/",
+        "emails": [
+            "takonesshoes@hotmail.com"
+        ]
+    },
+    {
+        "id_resultado": 7,
+        "seed_id": 21,
+        "seed_title": "La Zapatería, Tienda de Calzados",
+        "site_root": "https://lazapateriatienda.com/",
+        "source": "home_JS",
+        "source_url": "https://lazapateriatienda.com/",
+        "emails": [
+            "info@lazapateriatienda.com"
+        ]
+    },
+    {
+        "id_resultado": 8,
+        "seed_id": 23,
+        "seed_title": "Vía Libre Calzados",
+        "site_root": "http://www.vialibrecalzados.com.ar/",
+        "source": "home_HTML",
+        "source_url": "http://www.vialibrecalzados.com.ar/",
+        "emails": [
+            "info@vialibrecalzados.com.ar"
+        ]
+    },
+    {
+        "id_resultado": 9,
+        "seed_id": 24,
+        "seed_title": "DINO BUTELLI",
+        "site_root": "http://www.dinobutelli.com.ar/",
+        "source": "contact_HTML",
+        "source_url": "http://www.dinobutelli.com.ar/sobre-nosotros",
+        "emails": [
+            "ventas@dinobutelli.com.ar"
+        ]
+    },
+    {
+        "id_resultado": 10,
+        "seed_id": 28,
+        "seed_title": "Simonetta calzados",
+        "site_root": "http://www.simonettacalzados.com/",
+        "source": "home_JS",
+        "source_url": "http://www.simonettacalzados.com/",
+        "emails": [
+            "calzadossimonetta@gmail.com"
+        ]
+    },
+    {
+        "id_resultado": 11,
+        "seed_id": 38,
+        "seed_title": "Catalina Calzados y Accesorios",
+        "site_root": "http://www.catalinacalzados.com.ar/",
+        "source": "home_JS",
+        "source_url": "http://www.catalinacalzados.com.ar/",
+        "emails": [
+            "catalinacalzados@outlook.com.ar"
+        ]
+    },
+    {
+        "id_resultado": 12,
+        "seed_id": 40,
+        "seed_title": "Vajari",
+        "site_root": "http://www.vajari.co/",
+        "source": "home_JS",
+        "source_url": "http://www.vajari.co/",
+        "emails": [
+            "contacto@vajari.co"
+        ]
+    },
+    {
+        "id_resultado": 13,
+        "seed_id": 43,
+        "seed_title": "Via Libre Calzados",
+        "site_root": "https://www.vialibrecalzados.com.ar/",
+        "source": "home_HTML",
+        "source_url": "https://www.vialibrecalzados.com.ar/",
+        "emails": [
+            "info@vialibrecalzados.com.ar"
+        ]
+    },
+    {
+        "id_resultado": 14,
+        "seed_id": 44,
+        "seed_title": "Cespedes Zapatos",
+        "site_root": "https://cespedeszapatos.mitiendanube.com/",
+        "source": "home_JS",
+        "source_url": "https://cespedeszapatos.mitiendanube.com/",
+        "emails": [
+            "info@cespedeszapatos.com.ar"
+        ]
+    },
+    {
+        "id_resultado": 15,
+        "seed_id": 50,
+        "seed_title": "ZAPAS CALZADOS",
+        "site_root": "https://www.facebook.com/zapascalzadoscordoba?ref=hl",
+        "source": "home_JS",
+        "source_url": "https://www.facebook.com/zapascalzadoscordoba?ref=hl",
+        "emails": [
+            "57-6388zapascalzados@gmail.comCerrado"
+        ]
+    },
+    {
+        "id_resultado": 16,
+        "seed_id": 52,
+        "seed_title": "mulhaus Recta",
+        "site_root": "https://www.mulhaus.com.ar/",
+        "source": "home_JS",
+        "source_url": "https://www.mulhaus.com.ar/",
+        "emails": [
+            "info.mulhaus@gmail.com"
+        ]
+    },
+    {
+        "id_resultado": 17,
+        "seed_id": 59,
+        "seed_title": "Calzados Ventosa",
+        "site_root": "http://calzadosventosa.com/",
+        "source": "home_HTML",
+        "source_url": "http://calzadosventosa.com/",
+        "emails": [
+            "info@calzadosventosa.com"
+        ]
+    },
+    {
+        "id_resultado": 18,
+        "seed_id": 60,
+        "seed_title": "Hush Puppies | Zapatos y Zapatillas Cordoba Nuevo Centro",
+        "site_root": "http://www.hushpuppies.com.ar/",
+        "source": "contact_HTML",
+        "source_url": "http://www.hushpuppies.com.ar/contacto.html",
+        "emails": [
+            "consultas4buy@ypf.com"
+        ]
+    },
+    {
+        "id_resultado": 19,
+        "seed_id": 64,
+        "seed_title": "via libre calzados",
+        "site_root": "https://vialibrecalzados.com.ar/",
+        "source": "home_HTML",
+        "source_url": "https://vialibrecalzados.com.ar/",
+        "emails": [
+            "info@vialibrecalzados.com.ar"
+        ]
+    },
+    {
+        "id_resultado": 20,
+        "seed_id": 70,
+        "seed_title": "ZAPSHOP CORDOBA",
+        "site_root": "https://zapshop.es/",
+        "source": "contact_HTML",
+        "source_url": "https://zapshop.es/contacto",
+        "emails": [
+            "yourmail@com.com"
+        ]
+    },
+    {
+        "id_resultado": 21,
+        "seed_id": 95,
+        "seed_title": "Calzados Ventosa",
+        "site_root": "http://www.calzadosventosa.com/",
+        "source": "home_HTML",
+        "source_url": "http://www.calzadosventosa.com/",
+        "emails": [
+            "info@calzadosventosa.com"
+        ]
+    },
+    {
+        "id_resultado": 22,
+        "seed_id": 97,
+        "seed_title": "Cespedes Zapatos",
+        "site_root": "http://cespedeszapatos.com.ar/",
+        "source": "home_JS",
+        "source_url": "http://cespedeszapatos.com.ar/",
+        "emails": [
+            "info@cespedeszapatos.com.ar"
+        ]
+    }
+]

@@ -1,0 +1,2970 @@
+[
+  {
+    "id": 46,
+    "title": "Sangag Calzados",
+    "website_original": "https://www.instagram.com/sangagboots/",
+    "website_normalized": "https://instagram.com/sangagboots/",
+    "social_type": "instagram",
+    "address": "Aguirre 703, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 81,
+    "title": "Claudia Sanchez - Zapatos de novia",
+    "website_original": "https://www.facebook.com/pages/Calzados-Claudia-Sanchez/158185690920394?ref=hl",
+    "website_normalized": "https://facebook.com/pages/Calzados-Claudia-Sanchez/158185690920394",
+    "social_type": "facebook",
+    "address": "Luis María Drago 900, B1642DHF San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 89,
+    "title": "Claude Benard",
+    "website_original": "https://www.facebook.com/ClaudeBenardshoes",
+    "website_normalized": "https://facebook.com/ClaudeBenardshoes",
+    "social_type": "facebook",
+    "address": "Av. Sta. Fe 1579, C1414BMK Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 100,
+    "title": "Strawberry Shoe Store",
+    "website_original": "http://www.facebook.com/strawberryshoestore",
+    "website_normalized": "http://facebook.com/strawberryshoestore",
+    "social_type": "facebook",
+    "address": "C. 3 1343, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 108,
+    "title": "Leblu La Plata",
+    "website_original": "http://www.instagram.com/leblulaplata/",
+    "website_normalized": "http://instagram.com/leblulaplata/",
+    "social_type": "instagram",
+    "address": "C. 9 745, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 119,
+    "title": "Simona calzados",
+    "website_original": "https://www.instagram.com/simonacalzadoss?igsh=MTViaWdvZ2loaWRqOA==",
+    "website_normalized": "https://instagram.com/simonacalzadoss",
+    "social_type": "instagram",
+    "address": "Diagonal 79 514, B1904 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 125,
+    "title": "Grimoldi",
+    "website_original": "https://www.instagram.com/grimoldi.laplata/?hl=es-la",
+    "website_normalized": "https://instagram.com/grimoldi.laplata/",
+    "social_type": "instagram",
+    "address": "Pasaje Rodrigo, Av. 51 489, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 126,
+    "title": "Casa Dica - La Plata",
+    "website_original": "https://instagram.com/casa.dica?igshid=1x3z8xdlzz03s",
+    "website_normalized": "https://instagram.com/casa.dica",
+    "social_type": "instagram",
+    "address": "C. 6 1194, B1904 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 131,
+    "title": "Ramona paz shoes La Plata",
+    "website_original": "http://www.facebook.com/ramonapazshoes",
+    "website_normalized": "http://facebook.com/ramonapazshoes",
+    "social_type": "facebook",
+    "address": "C. 9 42, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 132,
+    "title": "Casa Roguin",
+    "website_original": "https://www.instagram.com/casaroguin/",
+    "website_normalized": "https://instagram.com/casaroguin/",
+    "social_type": "instagram",
+    "address": "C. 2 617, B1902 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 136,
+    "title": "Lady Stork",
+    "website_original": "http://www.facebook.com/ladystorklaplata",
+    "website_normalized": "http://facebook.com/ladystorklaplata",
+    "social_type": "facebook",
+    "address": "C. 8 814, La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 143,
+    "title": "La Cenefa",
+    "website_original": "http://www.facebook.com/lacenefa",
+    "website_normalized": "http://facebook.com/lacenefa",
+    "social_type": "facebook",
+    "address": "Av. 137 1590, Los Hornos, B1910TEP La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 158,
+    "title": "Ache arreglo de calzados /misi",
+    "website_original": "https://instagram.com/h_arreglodecalzados?igshid=NTc4MTIwNjQ2YQ==",
+    "website_normalized": "https://instagram.com/h_arreglodecalzados",
+    "social_type": "instagram",
+    "address": "C. 63 621, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 161,
+    "title": "El pie Feliz",
+    "website_original": "https://www.facebook.com/Piefelizlp/",
+    "website_normalized": "https://facebook.com/Piefelizlp/",
+    "social_type": "facebook",
+    "address": "48 e 7 y 8 Galeria Mayo local 10, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 173,
+    "title": "SO.BRA calzados",
+    "website_original": "http://www.facebook.com/so.bracalzados",
+    "website_normalized": "http://facebook.com/so.bracalzados",
+    "social_type": "facebook",
+    "address": "calle 8 # 774 entre 47 y 48 Local 21, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 175,
+    "title": "Patas y Patitas",
+    "website_original": "http://www.facebook.com/patitas.calzadoinfantil",
+    "website_normalized": "http://facebook.com/patitas.calzadoinfantil",
+    "social_type": "facebook",
+    "address": "Calle 66 2105, Los Hornos, B1910GEG La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 178,
+    "title": "Paula Sans",
+    "website_original": "http://www.facebook.com/paulasans",
+    "website_normalized": "http://facebook.com/paulasans",
+    "social_type": "facebook",
+    "address": "Calle 137 1591, Centro, B1900 Los Hornos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 212,
+    "title": "Giovanna Calzados",
+    "website_original": "http://www.facebook.com/giovannacalzado",
+    "website_normalized": "http://facebook.com/giovannacalzado",
+    "social_type": "facebook",
+    "address": "Peatonal San Martín 2302, B7600GQF Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 214,
+    "title": "El rapido compostura de calzado",
+    "website_original": "https://instagram.com/elrapido_compostura?igshid=OGQ5ZDc2ODk2ZA==",
+    "website_normalized": "https://instagram.com/elrapido_compostura",
+    "social_type": "instagram",
+    "address": "FMC, Av. Fortunato de la Plaza 3379, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 217,
+    "title": "Patagonia Calzados",
+    "website_original": "https://instagram.com/calzados_patagonia?igshid=MDM4ZDc5MmU=",
+    "website_normalized": "https://instagram.com/calzados_patagonia",
+    "social_type": "instagram",
+    "address": "FIN, Alberti 1918, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 230,
+    "title": "Barcino",
+    "website_original": "https://www.instagram.com/barcinomdq/",
+    "website_normalized": "https://instagram.com/barcinomdq/",
+    "social_type": "instagram",
+    "address": "Leandro N Alem 3724, Martín Miguel de Güemes 2863, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 276,
+    "title": "frann e frann pelle da francesca",
+    "website_original": "https://www.instagram.com/frannefrannpelledafrancesca/?hl=es",
+    "website_normalized": "https://instagram.com/frannefrannpelledafrancesca/",
+    "social_type": "instagram",
+    "address": "Catamarca 1685, B7600DKT Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 278,
+    "title": "Imán calzados",
+    "website_original": "https://www.instagram.com/imancalzados/",
+    "website_normalized": "https://instagram.com/imancalzados/",
+    "social_type": "instagram",
+    "address": "Av. Independencia 3499, B7602BOG Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 279,
+    "title": "Mabel Montenegro",
+    "website_original": "https://www.facebook.com/mabel.montenegrocueros",
+    "website_normalized": "https://facebook.com/mabel.montenegrocueros",
+    "social_type": "facebook",
+    "address": "Alberti 2380, B7600FIV Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 306,
+    "title": "Lara Bel showroom de calzados",
+    "website_original": "http://www.facebook.com/laraabeel",
+    "website_normalized": "http://facebook.com/laraabeel",
+    "social_type": "facebook",
+    "address": "C. Luis Harrington 2788, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 313,
+    "title": "Calzados furiosos",
+    "website_original": "https://www.instagram.com/p/CTM9vhCrWM8/?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/p/CTM9vhCrWM8/",
+    "social_type": "instagram",
+    "address": "Drago 75, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 317,
+    "title": "Sueleria Z ( Suc Zuccoli D. y otros SH)",
+    "website_original": "https://www.instagram.com/sueleria_z/",
+    "website_normalized": "https://instagram.com/sueleria_z/",
+    "social_type": "instagram",
+    "address": "FIH, San Martín 318, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 324,
+    "title": "Si Mi Reina Bahía Blanca- Zapatillas - Crocs y Urbanos",
+    "website_original": "https://www.facebook.com/simireinabahiablanca/",
+    "website_normalized": "https://facebook.com/simireinabahiablanca/",
+    "social_type": "facebook",
+    "address": "Zelarrayán 63, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 325,
+    "title": "Daca Calzados",
+    "website_original": "https://instagram.com/daca.calzados?igshid=M2RkZGJiMzhjOQ==",
+    "website_normalized": "https://instagram.com/daca.calzados",
+    "social_type": "instagram",
+    "address": "Alsina 154, B8000IHD Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 338,
+    "title": "Roma shoes y clothes",
+    "website_original": "https://www.instagram.com/roma.shoesnp/?igshid=o966rxia3c3c",
+    "website_normalized": "https://instagram.com/roma.shoesnp/",
+    "social_type": "instagram",
+    "address": "Saavedra 273, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 345,
+    "title": "Atrapando Sueños",
+    "website_original": "https://www.instagram.com/atrapando_bahia/",
+    "website_normalized": "https://instagram.com/atrapando_bahia/",
+    "social_type": "instagram",
+    "address": "Aguado 91, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 351,
+    "title": "Outlet",
+    "website_original": "https://www.facebook.com/bahiablanca.Outlet?mibextid=LQQJ4d",
+    "website_normalized": "https://facebook.com/bahiablanca.Outlet",
+    "social_type": "facebook",
+    "address": "Belgrano 32, B8000 IJB, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 353,
+    "title": "Mitica Showroom",
+    "website_original": "http://www.instagram.com/mitica.showroom",
+    "website_normalized": "http://instagram.com/mitica.showroom",
+    "social_type": "instagram",
+    "address": "Juan Molina 599, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 363,
+    "title": "Kevingston Bahía Blanca",
+    "website_original": "http://www.facebook.com/kevingstonbahiablanca1/",
+    "website_normalized": "http://facebook.com/kevingstonbahiablanca1/",
+    "social_type": "facebook",
+    "address": "Alsina 275, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 381,
+    "title": "Calzados Amalie",
+    "website_original": "https://instagram.com/amaliezapatos?igshid=cbz48hmj3ctq",
+    "website_normalized": "https://instagram.com/amaliezapatos",
+    "social_type": "instagram",
+    "address": "Gral. Acha 3003, B1878 Quilmes Oeste, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 392,
+    "title": "Donnatella Quilmes",
+    "website_original": "https://instagram.com/donnatellaquilmes?igshid=3s4ijo85p8wt",
+    "website_normalized": "https://instagram.com/donnatellaquilmes",
+    "social_type": "instagram",
+    "address": "Almte. Brown 410, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 394,
+    "title": "Calzados la nueva E",
+    "website_original": "https://www.instagram.com/lanuevaezapatos?igsh=MXQyN292cGVyOTV6aA==",
+    "website_normalized": "https://instagram.com/lanuevaezapatos",
+    "social_type": "instagram",
+    "address": "Av. Rivadavia 78, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 405,
+    "title": "Calzados New Chivas",
+    "website_original": "https://www.instagram.com/newchivasquilmes/?hl=es-la",
+    "website_normalized": "https://instagram.com/newchivasquilmes/",
+    "social_type": "instagram",
+    "address": "Av. Rivadavia 56, B1878 KJB, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 412,
+    "title": "Marta G Zapatos",
+    "website_original": "https://instagram.com/martag_zapatos?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/martag_zapatos",
+    "social_type": "instagram",
+    "address": "9 de Julio 55, B1876AXA Bernal Este, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 413,
+    "title": "Nazaria",
+    "website_original": "https://www.facebook.com/Nazaria-Quilmes-984601674887793/?ref=hl",
+    "website_normalized": "https://facebook.com/Nazaria-Quilmes-984601674887793/",
+    "social_type": "facebook",
+    "address": "Av. Rivadavia 192, B1878KJD Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 428,
+    "title": "Delymar",
+    "website_original": "https://www.instagram.com/delymarcalzado?igsh=YjF1Mjgzbmdpd3J4",
+    "website_normalized": "https://instagram.com/delymarcalzado",
+    "social_type": "instagram",
+    "address": "Manuel Acevedo 38, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 429,
+    "title": "Due",
+    "website_original": "https://www.instagram.com/due.zapatos/?hl=es",
+    "website_normalized": "https://instagram.com/due.zapatos/",
+    "social_type": "instagram",
+    "address": "Francisco Narciso de Laprida 164, GALERIA OLIVER LOCAL 21 BIS, B1832HOF Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 433,
+    "title": "Pascuale de Plati and Begs",
+    "website_original": "https://instagram.com/pascualedeplati?igshid=YTQwZjQ0NmI0OA==",
+    "website_normalized": "https://instagram.com/pascualedeplati",
+    "social_type": "instagram",
+    "address": "Av. Colombres 120, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 435,
+    "title": "CALZADOS CLAUDIO",
+    "website_original": "http://www.facebook.com/calzadosclaudio",
+    "website_normalized": "http://facebook.com/calzadosclaudio",
+    "social_type": "facebook",
+    "address": "Av. Adolfo Alsina 1393 Local 3, B1832AHC Buenos Aires, Gran Buenos Aires, Argentina"
+  },
+  {
+    "id": 444,
+    "title": "P's Buenos Aires",
+    "website_original": "https://m.facebook.com/zapateriaps/",
+    "website_normalized": "https://m.facebook.com/zapateriaps/",
+    "social_type": "facebook",
+    "address": "España 142, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 472,
+    "title": "Galería Oliver",
+    "website_original": "https://m.facebook.com/pg/galeriaoliver/about/",
+    "website_normalized": "https://m.facebook.com/pg/galeriaoliver/about/",
+    "social_type": "facebook",
+    "address": "España 62, B1832DFA Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 491,
+    "title": "ANNA Express",
+    "website_original": "https://www.instagram.com/annaexpresslanus",
+    "website_normalized": "https://instagram.com/annaexpresslanus",
+    "social_type": "instagram",
+    "address": "Av. 9 de Julio 1288, B1820KJD Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 497,
+    "title": "Carmela Calzados",
+    "website_original": "http://www.facebook.com/carmelacalzados",
+    "website_normalized": "http://facebook.com/carmelacalzados",
+    "social_type": "facebook",
+    "address": "Av. San Martín 3807, B1824ELE Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 498,
+    "title": "CALZADOS YANNET ZAPATERIA",
+    "website_original": "https://m.facebook.com/LOCALDECALZADOS/?locale2=es_LA",
+    "website_normalized": "https://m.facebook.com/LOCALDECALZADOS/",
+    "social_type": "facebook",
+    "address": "C'nel Delia 1498, B1822AHA Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 511,
+    "title": "Calzados Ebenezer",
+    "website_original": "https://www.facebook.com/yeni.jonh",
+    "website_normalized": "https://facebook.com/yeni.jonh",
+    "social_type": "facebook",
+    "address": "Juan Piñeiro 117, B1826FGU Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 512,
+    "title": "Mery Giu Shoes",
+    "website_original": "https://instagram.com/merygiushoes?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/merygiushoes",
+    "social_type": "instagram",
+    "address": "E. Del Valle Iberlucea 2958, B1824CTN Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 520,
+    "title": "Calzados Fama",
+    "website_original": "https://www.instagram.com/famacalzado/?hl=en",
+    "website_normalized": "https://instagram.com/famacalzado/",
+    "social_type": "instagram",
+    "address": "Av. San Martín 2557, B1826 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 564,
+    "title": "Kaleb Shoes",
+    "website_original": "https://m.facebook.com/profile.php?id=182848282202032&ref=content_filter",
+    "website_normalized": "https://m.facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Av. 9 de Julio 1250, B1820KJD, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 577,
+    "title": "Lunita calzados",
+    "website_original": "http://facebook.com/lunitacalzados",
+    "website_normalized": "http://facebook.com/lunitacalzados",
+    "social_type": "facebook",
+    "address": "Av. Bartolomé Mitre 541, C1870 Avellaneda, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 600,
+    "title": "Maybe Zapatos",
+    "website_original": "https://www.instagram.com/maybe.zapatos",
+    "website_normalized": "https://instagram.com/maybe.zapatos",
+    "social_type": "instagram",
+    "address": "Helguera 345, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 609,
+    "title": "PUEBLA ZAPATOS",
+    "website_original": "https://instagram.com/pueblazapatos_?igshid=MzRlODBiNWFlZA==",
+    "website_normalized": "https://instagram.com/pueblazapatos_",
+    "social_type": "instagram",
+    "address": "Bogotá 2945, C1406 GCC, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 617,
+    "title": "Le Mirta \"Fábrica y distribuidora de zapatos\"",
+    "website_original": "https://linktr.ee/Lemirta?fbclid=PAdGRjcAMkHMBleHRuA2FlbQIxMQABp07jmgUWxbpUAdNwNdJusVgNttOsXY9r1jVOlDP92YRjQQNvtlXGaoObqU5q_aem_Jd8o85iro6z41piawsFTKA",
+    "website_normalized": "https://linktr.ee/Lemirta",
+    "social_type": "bio_link",
+    "address": "Av. Rivadavia 7477 local 10, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 618,
+    "title": "Las Cholas",
+    "website_original": "https://instagram.com/lascholas.flores?igshid=1efld2tp0rdga",
+    "website_normalized": "https://instagram.com/lascholas.flores",
+    "social_type": "instagram",
+    "address": "Av. Avellaneda 3484, C1407EJO Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 619,
+    "title": "Queen Style Calzado",
+    "website_original": "https://www.facebook.com/queenstylecalzado/",
+    "website_normalized": "https://facebook.com/queenstylecalzado/",
+    "social_type": "facebook",
+    "address": "Av. Avellaneda 3348, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 626,
+    "title": "ARACELI CALZADOS",
+    "website_original": "http://www.facebook.com/aracelicueros",
+    "website_normalized": "http://facebook.com/aracelicueros",
+    "social_type": "facebook",
+    "address": "Av. Avellaneda 3807, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 634,
+    "title": "Yoko Calzados",
+    "website_original": "https://www.instagram.com/yokocalzados/",
+    "website_normalized": "https://instagram.com/yokocalzados/",
+    "social_type": "instagram",
+    "address": "Bogotá 2957 Local 10 y 12, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 640,
+    "title": "Calzado MYLEN",
+    "website_original": "https://www.facebook.com/MylenCalzados/",
+    "website_normalized": "https://facebook.com/MylenCalzados/",
+    "social_type": "facebook",
+    "address": "Av. Nazca 358, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 641,
+    "title": "Yeraldine calzados",
+    "website_original": "https://www.facebook.com/yeraldinecalzados.ar/",
+    "website_normalized": "https://facebook.com/yeraldinecalzados.ar/",
+    "social_type": "facebook",
+    "address": "C. Dr. Juan Felipe Aranguren 2921, C1406FXC Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 653,
+    "title": "Calzados Noelia",
+    "website_original": "https://www.facebook.com/groups/396291157864902/?ref=share",
+    "website_normalized": "https://facebook.com/groups/396291157864902/",
+    "social_type": "facebook",
+    "address": "Av. Nazca 34, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 673,
+    "title": "Calzados Acuario",
+    "website_original": "https://instagram.com/calzadosacuariosj?igshid=ZDdkNTZiNTM=",
+    "website_normalized": "https://instagram.com/calzadosacuariosj",
+    "social_type": "instagram",
+    "address": "Dr. Ignacio Arieta 3485, B1754AQI San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 682,
+    "title": "Shana Shoes CALZADOS talles 41 al 45 de dama",
+    "website_original": "https://www.instagram.com/p/Ce1JJEUrT4o/?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/p/Ce1JJEUrT4o/",
+    "social_type": "instagram",
+    "address": "Dr. Ignacio Arieta 1974, B1754APF San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 692,
+    "title": "Anita Moda",
+    "website_original": "https://www.instagram.com/anitamodda/",
+    "website_normalized": "https://instagram.com/anitamodda/",
+    "social_type": "instagram",
+    "address": "Pres. Juan Domingo Perón 2765, B1754 La Matanza, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 750,
+    "title": "Lola Calzados Morón",
+    "website_original": "https://m.facebook.com/Lolacalzadosmoron/",
+    "website_normalized": "https://m.facebook.com/Lolacalzadosmoron/",
+    "social_type": "facebook",
+    "address": "Galería centro, 25 de Mayo 153 Local 58, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 751,
+    "title": "Azurra",
+    "website_original": "https://instagram.com/azurra_wapas?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/azurra_wapas",
+    "social_type": "instagram",
+    "address": "IFD, Belgrano 142 Local 2, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 782,
+    "title": "Jaguar",
+    "website_original": "http://www.facebook.com/zapatillasjaguar",
+    "website_normalized": "http://facebook.com/zapatillasjaguar",
+    "social_type": "facebook",
+    "address": "Belgrano 128, B1708IFD Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 806,
+    "title": "La zapatería outlet",
+    "website_original": "https://www.instagram.com/lazapateria.ar",
+    "website_normalized": "https://instagram.com/lazapateria.ar",
+    "social_type": "instagram",
+    "address": "1712, Av. Rivadavia 20050 local 17, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 833,
+    "title": "MISS MYSTIC SHOES Tienda Online de Zapatos de Moda para la Mujer",
+    "website_original": "https://linktr.ee/missmysticok",
+    "website_normalized": "https://linktr.ee/missmysticok",
+    "social_type": "bio_link",
+    "address": "Marqués de Loreto 2254, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 847,
+    "title": "Calzados DASI",
+    "website_original": "https://www.facebook.com/CalzadosDasi",
+    "website_normalized": "https://facebook.com/CalzadosDasi",
+    "social_type": "facebook",
+    "address": "Av. Hipólito Yrigoyen 701, C1086 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 857,
+    "title": "Finoquietto",
+    "website_original": "https://www.instagram.com/finoquiettozapateria/",
+    "website_normalized": "https://instagram.com/finoquiettozapateria/",
+    "social_type": "instagram",
+    "address": "Agüero 1595, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 862,
+    "title": "ZAPATOS LAVALLE",
+    "website_original": "https://www.facebook.com/shoe.mart.984/",
+    "website_normalized": "https://facebook.com/shoe.mart.984/",
+    "social_type": "facebook",
+    "address": ",C1047AAO, Lavalle 769, Buenos Aires, Argentina"
+  },
+  {
+    "id": 865,
+    "title": "Bottello calzature",
+    "website_original": "https://web.facebook.com/Bottello-Calzature-415858648507260/?_rdc=1&_rdr",
+    "website_normalized": "https://web.facebook.com/Bottello-Calzature-415858648507260/",
+    "social_type": "facebook",
+    "address": "Av. Pueyrredón 1681, C1118AAG Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 872,
+    "title": "Calzados LC",
+    "website_original": "http://www.instagram.com/calzadoslc/",
+    "website_normalized": "http://instagram.com/calzadoslc/",
+    "social_type": "instagram",
+    "address": "Boulevard Rondeau 3269 PBL Rosario Santa Fe AR, Blvd. Rondeau 3263, S2005, Argentina"
+  },
+  {
+    "id": 879,
+    "title": "italiana calzados",
+    "website_original": "https://www.instagram.com/italianacalzados",
+    "website_normalized": "https://instagram.com/italianacalzados",
+    "social_type": "instagram",
+    "address": "Dorrego 1297, S2000DHY Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 880,
+    "title": "Mia Calzados",
+    "website_original": "https://www.facebook.com/MiaCalzados654/",
+    "website_normalized": "https://facebook.com/MiaCalzados654/",
+    "social_type": "facebook",
+    "address": "Av. Alberdi 654, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 910,
+    "title": "La Feria Outlet de Calzados",
+    "website_original": "http://www.facebook.com/laferiaoutlet",
+    "website_normalized": "http://facebook.com/laferiaoutlet",
+    "social_type": "facebook",
+    "address": "JQN, Av. San Martín 5280, S2011 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 922,
+    "title": "Calzados MARIANA",
+    "website_original": "https://www.facebook.com/zapateriamarianacalzado/",
+    "website_normalized": "https://facebook.com/zapateriamarianacalzado/",
+    "social_type": "facebook",
+    "address": "Juan José Paso 5534, S2007AMW Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 924,
+    "title": "CHAROL CALZADOS",
+    "website_original": "https://www.instagram.com/shoes.charol/",
+    "website_normalized": "https://instagram.com/shoes.charol/",
+    "social_type": "instagram",
+    "address": "Italia 982, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 925,
+    "title": "SAN CRISPINO - GINA FERRARI GONDOLINO",
+    "website_original": "https://www.instagram.com/dolcezzacalzados/",
+    "website_normalized": "https://instagram.com/dolcezzacalzados/",
+    "social_type": "instagram",
+    "address": "Mendoza 3895, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 930,
+    "title": "Desilú Calzados",
+    "website_original": "https://www.facebook.com/ZapateriaDesilu/",
+    "website_normalized": "https://facebook.com/ZapateriaDesilu/",
+    "social_type": "facebook",
+    "address": "Av. San Martín 3327, S2001 RYO, Santa Fe, Argentina"
+  },
+  {
+    "id": 941,
+    "title": "Zapatería Veneto",
+    "website_original": "http://www.instagram.com/Veneto.calzadosrosario",
+    "website_normalized": "http://instagram.com/Veneto.calzadosrosario",
+    "social_type": "instagram",
+    "address": "Córdoba 1060, S2000AWN Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 955,
+    "title": "Sirio indumentaria y Calzados",
+    "website_original": "https://www.facebook.com/sirioindumentariaycalzados/",
+    "website_normalized": "https://facebook.com/sirioindumentariaycalzados/",
+    "social_type": "facebook",
+    "address": "Juan José Paso 5705, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "id": 967,
+    "title": "Calzados Marcel",
+    "website_original": "https://www.facebook.com/CalzadosMarecel/?modal=admin_todo_tour",
+    "website_normalized": "https://facebook.com/CalzadosMarecel/",
+    "social_type": "facebook",
+    "address": "Calle Lavalle al 35, M5500 Mendoza, Argentina"
+  },
+  {
+    "id": 976,
+    "title": "Glam Dorrego",
+    "website_original": "https://www.facebook.com/GLAM-Dorrego-259378961218114/",
+    "website_normalized": "https://facebook.com/GLAM-Dorrego-259378961218114/",
+    "social_type": "facebook",
+    "address": "Gral. Espejo 1308, M5519 Dorrego, Mendoza, Argentina"
+  },
+  {
+    "id": 984,
+    "title": "Calzados Camila",
+    "website_original": "https://www.facebook.com/Camila-calzados-104149234612708/",
+    "website_normalized": "https://facebook.com/Camila-calzados-104149234612708/",
+    "social_type": "facebook",
+    "address": "Av. San Martín 1355, M5500 Mendoza, Argentina"
+  },
+  {
+    "id": 987,
+    "title": "Bravin Calzados",
+    "website_original": "https://instagram.com/bc_bravin_calzados?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/bc_bravin_calzados",
+    "social_type": "instagram",
+    "address": "9 de Julio 1493, M5500 Mendoza, Argentina"
+  },
+  {
+    "id": 992,
+    "title": "Scarpe Ricardo",
+    "website_original": "https://www.facebook.com/ScarpeRicardo/",
+    "website_normalized": "https://facebook.com/ScarpeRicardo/",
+    "social_type": "facebook",
+    "address": "Gral. Paz 101, M5500BKP Mendoza, Argentina"
+  },
+  {
+    "id": 1000,
+    "title": "LAS ALBA- PETITE MAISON",
+    "website_original": "https://instagram.com/lasalba_petitemaison?igshid=MzRlODBiNWFlZA==",
+    "website_normalized": "https://instagram.com/lasalba_petitemaison",
+    "social_type": "instagram",
+    "address": "Sarmiento 135, M5500 Mendoza, Argentina"
+  },
+  {
+    "id": 1005,
+    "title": "CLOHES ZAPATERÍA",
+    "website_original": "https://www.facebook.com/clohes.zapatos.75",
+    "website_normalized": "https://facebook.com/clohes.zapatos.75",
+    "social_type": "facebook",
+    "address": "Gral. Julio Argentino Roca 616, M5539 Las Heras, Mendoza, Argentina"
+  },
+  {
+    "id": 1009,
+    "title": "Zapateria Cla-mar",
+    "website_original": "https://www.instagram.com/nmtallerdecalzado.mza?igsh=MWMxanp6Yjh4ejY1cQ==",
+    "website_normalized": "https://instagram.com/nmtallerdecalzado.mza",
+    "social_type": "instagram",
+    "address": "América 2813, M5547 Godoy Cruz, Mendoza, Argentina"
+  },
+  {
+    "id": 1035,
+    "title": "LUMA Calzados",
+    "website_original": "http://www.facebook.com/lumacalzados",
+    "website_normalized": "http://facebook.com/lumacalzados",
+    "social_type": "facebook",
+    "address": "Lavalle, M5501 Godoy Cruz, Mendoza, Argentina"
+  },
+  {
+    "id": 1043,
+    "title": "LAS ALBA- PETITE MAISON",
+    "website_original": "https://instagram.com/lasalba_petitemaison?igshid=MzRlODBiNWFlZA==",
+    "website_normalized": "https://instagram.com/lasalba_petitemaison",
+    "social_type": "instagram",
+    "address": "Av. San Martin Sur, Palmares Open Mall, Local 19, Godoy Cruz, Mendoza, Argentina"
+  },
+  {
+    "id": 1049,
+    "title": "Mary Calzados",
+    "website_original": "http://www.facebook.com/marycalzados",
+    "website_normalized": "http://facebook.com/marycalzados",
+    "social_type": "facebook",
+    "address": "Marcos Paz 1620, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1055,
+    "title": "Ideal Calzados",
+    "website_original": "http://www.facebook.com/idealcalzados1961",
+    "website_normalized": "http://facebook.com/idealcalzados1961",
+    "social_type": "facebook",
+    "address": "Av. República del Líbano 916, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1058,
+    "title": "Anna Express",
+    "website_original": "https://www.facebook.com/annaexpresstucuman/",
+    "website_normalized": "https://facebook.com/annaexpresstucuman/",
+    "social_type": "facebook",
+    "address": "Peatonal Idelfonso de las Muñecas 135, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1063,
+    "title": "Ellas y El Calzados indumentaria y marroquineria",
+    "website_original": "https://www.facebook.com/calzadospormayortucuman/",
+    "website_normalized": "https://facebook.com/calzadospormayortucuman/",
+    "social_type": "facebook",
+    "address": "Av. Ejército del Nte. 714, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1068,
+    "title": "Monticelli Calzados",
+    "website_original": "https://instagram.com/monticelli.tuc?igshid=qunai8lb5h0m",
+    "website_normalized": "https://instagram.com/monticelli.tuc",
+    "social_type": "instagram",
+    "address": "Gral. José de San Martín 753, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1084,
+    "title": "Cuper Calzados",
+    "website_original": "https://www.instagram.com/cuper_calzados/",
+    "website_normalized": "https://instagram.com/cuper_calzados/",
+    "social_type": "instagram",
+    "address": "Av. 24 de Septiembre 360, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1086,
+    "title": "Taller de Calzados Alejandro",
+    "website_original": "https://www.facebook.com/talleralejandro?mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/talleralejandro",
+    "social_type": "facebook",
+    "address": "Lamadrid 3372, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1094,
+    "title": "Zapatillas Eila Tucumán \" GLOW\"",
+    "website_original": "https://www.facebook.com/maximocalzadostucuman/",
+    "website_normalized": "https://facebook.com/maximocalzadostucuman/",
+    "social_type": "facebook",
+    "address": "Buenos Aires 72 Local 38, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1109,
+    "title": "María G",
+    "website_original": "http://www.facebook.com/mariagzapatos",
+    "website_normalized": "http://facebook.com/mariagzapatos",
+    "social_type": "facebook",
+    "address": "Yerba Buena Shopping, Av. Aconquija, T4107 Yerba Buena, Tucumán, Argentina"
+  },
+  {
+    "id": 1112,
+    "title": "ANDREIA",
+    "website_original": "https://www.facebook.com/andreia",
+    "website_normalized": "https://facebook.com/andreia",
+    "social_type": "facebook",
+    "address": "Av. Aconquija 1591 Local 1, T4107 Yerba Buena, Tucumán, Argentina"
+  },
+  {
+    "id": 1116,
+    "title": "Monisima tienda de moda",
+    "website_original": "https://www.facebook.com/monisimatdm/",
+    "website_normalized": "https://facebook.com/monisimatdm/",
+    "social_type": "facebook",
+    "address": "25 de Mayo 799, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "id": 1147,
+    "title": "Adamá Zapatos Salta",
+    "website_original": "http://www.facebook.com/adama.salta",
+    "website_normalized": "http://facebook.com/adama.salta",
+    "social_type": "facebook",
+    "address": "Leguizamón 774, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1172,
+    "title": "Flor Mingo Shoes",
+    "website_original": "https://www.instagram.com/flor_mingo_/",
+    "website_normalized": "https://instagram.com/flor_mingo_/",
+    "social_type": "instagram",
+    "address": "Deán Funes 320, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1184,
+    "title": "Calzados Nona Urquiza",
+    "website_original": "https://www.facebook.com/Nona-Urquiza-650-114429503726922/",
+    "website_normalized": "https://facebook.com/Nona-Urquiza-650-114429503726922/",
+    "social_type": "facebook",
+    "address": "Urquiza 650, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1185,
+    "title": "Don't Mocasines",
+    "website_original": "http://www.facebook.com/dontmocasines",
+    "website_normalized": "http://facebook.com/dontmocasines",
+    "social_type": "facebook",
+    "address": "Zuviria 483, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1188,
+    "title": "Calza Sola Zapatos",
+    "website_original": "https://www.facebook.com/calzasola",
+    "website_normalized": "https://facebook.com/calzasola",
+    "social_type": "facebook",
+    "address": "Ituzaingó 425, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1193,
+    "title": "Córdoba Shoes - Salta",
+    "website_original": "https://www.instagram.com/cordobashoes_/",
+    "website_normalized": "https://instagram.com/cordobashoes_/",
+    "social_type": "instagram",
+    "address": "Alsina 757, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1195,
+    "title": "Loliita calzados",
+    "website_original": "https://www.facebook.com/profile.php?id=100077949741602",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Barrio democracia, mz 52 lt 10, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1198,
+    "title": "Nicole's",
+    "website_original": "http://www.facebook.com/nicoles",
+    "website_normalized": "http://facebook.com/nicoles",
+    "social_type": "facebook",
+    "address": "Alberdi 122, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1227,
+    "title": "Pisando el pasado",
+    "website_original": "https://instagram.com/pisando_el_pasado?igshid=13kltu6i42yhb",
+    "website_normalized": "https://instagram.com/pisando_el_pasado",
+    "social_type": "instagram",
+    "address": "Leguizamón 1308, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1236,
+    "title": "Salta facha",
+    "website_original": "https://www.instagram.com/s.alta.facha?igsh=MW1odjByODFvdG0zbg==",
+    "website_normalized": "https://instagram.com/s.alta.facha",
+    "social_type": "instagram",
+    "address": "Teresa Cadena de Hessling 249, A4400 Salta, Argentina"
+  },
+  {
+    "id": 1249,
+    "title": "Calzados Cabral",
+    "website_original": "https://www.instagram.com/calzadoscabral?igsh=dXIzd2tqM2x1dDJn",
+    "website_normalized": "https://instagram.com/calzadoscabral",
+    "social_type": "instagram",
+    "address": "Oeste, Av. Aristóbulo del Valle 6744, S3002 ESC, Santa Fe, Argentina"
+  },
+  {
+    "id": 1262,
+    "title": "Shoes Express",
+    "website_original": "https://www.facebook.com/Shoes-Express-326288624801552/",
+    "website_normalized": "https://facebook.com/Shoes-Express-326288624801552/",
+    "social_type": "facebook",
+    "address": "San Jerónimo 2238, S3000FRX S3000FPW S3000FPX, Santa Fe, Argentina"
+  },
+  {
+    "id": 1270,
+    "title": "ARACELI Calzados",
+    "website_original": "https://www.instagram.com/calzados_araceli/",
+    "website_normalized": "https://instagram.com/calzados_araceli/",
+    "social_type": "instagram",
+    "address": "Av. Facundo Zuviría 5898 Oeste, S3004LSS Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "id": 1272,
+    "title": "Pao Calzados de Moda",
+    "website_original": "https://www.instagram.com/pao.calzadosdemoda/?r=nametag&fbclid=IwAR2S_CbaEavf1BYaa1HaWPEW5U29h-LQoifmU_3NGZx8lWqH9wKlyQBGyJI",
+    "website_normalized": "https://instagram.com/pao.calzadosdemoda/",
+    "social_type": "instagram",
+    "address": "Barrio San Jerónimo, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "id": 1313,
+    "title": "Chulas santafe",
+    "website_original": "https://instagram.com/chulas_santafe?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/chulas_santafe",
+    "social_type": "instagram",
+    "address": "4 de Enero 1809, S3000 S3000FHT, Santa Fe, Argentina"
+  },
+  {
+    "id": 1314,
+    "title": "Outlet Deportes",
+    "website_original": "https://www.facebook.com/OutletDeportes1",
+    "website_normalized": "https://facebook.com/OutletDeportes1",
+    "social_type": "facebook",
+    "address": "Av. Gdor. Freyre 2335, S3000EPB Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "id": 1319,
+    "title": "Canela Calzados",
+    "website_original": "https://instagram.com/canelacalzadosok?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/canelacalzadosok",
+    "social_type": "instagram",
+    "address": "ARE, Av. 7 de Marzo 1575, S3016 Santo Tomé, Santa Fe, Argentina"
+  },
+  {
+    "id": 1320,
+    "title": "SO•JO Shoes",
+    "website_original": "https://instagram.com/sojo.shoes_?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/sojo.shoes_",
+    "social_type": "instagram",
+    "address": "Pedro Díaz Colodrero 849, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "id": 1326,
+    "title": "Amparo Calzados y accesorios",
+    "website_original": "http://www.facebook.com/Amapro-Calzados-540055003123628/",
+    "website_normalized": "http://facebook.com/Amapro-Calzados-540055003123628/",
+    "social_type": "facebook",
+    "address": "C. Cam. Real Sta. Rosa 2450, S3089 San Jose del Rincon, Santa Fe, Argentina"
+  },
+  {
+    "id": 1332,
+    "title": "Calzados Ducale",
+    "website_original": "https://www.facebook.com/Calzados-Ducale-107822477291243/",
+    "website_normalized": "https://facebook.com/Calzados-Ducale-107822477291243/",
+    "social_type": "facebook",
+    "address": "C. 55 614, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1340,
+    "title": "Alma Mía Pérez Calzados",
+    "website_original": "https://instagram.com/alma_mia_perez?igshid=MTIyMzRjYmRlZg==",
+    "website_normalized": "https://instagram.com/alma_mia_perez",
+    "social_type": "instagram",
+    "address": "Malvinas 1153, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1346,
+    "title": "Zapateria Rodriguez",
+    "website_original": "https://www.instagram.com/zapateriarodrigueznqn/",
+    "website_normalized": "https://instagram.com/zapateriarodrigueznqn/",
+    "social_type": "instagram",
+    "address": "Sarmiento 699, Q8300KUM Neuquén, Argentina"
+  },
+  {
+    "id": 1347,
+    "title": "DELIA BRUSAIN CALZADO",
+    "website_original": "https://www.facebook.com/Delia-Brusain-Calzados-183855928777678/",
+    "website_normalized": "https://facebook.com/Delia-Brusain-Calzados-183855928777678/",
+    "social_type": "facebook",
+    "address": "Juan B. Justo 136, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1348,
+    "title": "Calzados Neuquén",
+    "website_original": "https://www.instagram.com/calzadosneuquen/?hl=es-la",
+    "website_normalized": "https://instagram.com/calzadosneuquen/",
+    "social_type": "instagram",
+    "address": "Bartolomé Mitre 55, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1353,
+    "title": "Change Mujer",
+    "website_original": "http://www.facebook.com/changemujer",
+    "website_normalized": "http://facebook.com/changemujer",
+    "social_type": "facebook",
+    "address": "Av. Coronel Olascoaga 1165 8300, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1355,
+    "title": "Dorotea Calzado",
+    "website_original": "https://www.facebook.com/DoroteaCalzadosNqn/",
+    "website_normalized": "https://facebook.com/DoroteaCalzadosNqn/",
+    "social_type": "facebook",
+    "address": "Gral. Enrique Godoy 381, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1370,
+    "title": "VITTO",
+    "website_original": "https://www.facebook.com/vitto.nqn.zapateria/",
+    "website_normalized": "https://facebook.com/vitto.nqn.zapateria/",
+    "social_type": "facebook",
+    "address": "Antártida Argentina 1111, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1371,
+    "title": "Mistika",
+    "website_original": "https://www.facebook.com/mistika.neuquen/",
+    "website_normalized": "https://facebook.com/mistika.neuquen/",
+    "social_type": "facebook",
+    "address": "Carlos H. Rodríguez 198, Q8302 Q8300HLC, Neuquén, Argentina"
+  },
+  {
+    "id": 1380,
+    "title": "Zapatería Scarpanno",
+    "website_original": "https://www.facebook.com/zapateria.scarpanno?mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/zapateria.scarpanno",
+    "social_type": "facebook",
+    "address": "Las Palomas y, Domingo Matheu M19, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1388,
+    "title": "Donatella Shoes",
+    "website_original": "https://www.instagram.com/donatella.shoesss?igsh=b3kxdjd2ZW80OGh1",
+    "website_normalized": "https://instagram.com/donatella.shoesss",
+    "social_type": "instagram",
+    "address": "Carlos H. Rodríguez, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1396,
+    "title": "NEMESIS",
+    "website_original": "http://www.instagram.com/nemesis.neuquen",
+    "website_normalized": "http://instagram.com/nemesis.neuquen",
+    "social_type": "instagram",
+    "address": "San Martín 614, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1399,
+    "title": "JUSTA OSADIA - Alto Comahue",
+    "website_original": "https://www.instagram.com/justaosadia_nqn/",
+    "website_normalized": "https://instagram.com/justaosadia_nqn/",
+    "social_type": "instagram",
+    "address": "Av. Dr. Ramón 355, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1403,
+    "title": "LK LEKA URBAN SHOE STORE",
+    "website_original": "https://www.instagram.com/lekacalzadourbano.nqn?igsh=YXMxanZ3ejA1Zjc2",
+    "website_normalized": "https://instagram.com/lekacalzadourbano.nqn",
+    "social_type": "instagram",
+    "address": "La Rioja 309, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1414,
+    "title": "Zapatería Leo",
+    "website_original": "https://www.facebook.com/leo.zapateria.52?mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/leo.zapateria.52",
+    "social_type": "facebook",
+    "address": "Combate de San Lorenzo 833, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 1417,
+    "title": "Calzados Venanzi",
+    "website_original": "https://www.facebook.com/calzadosvenanzi",
+    "website_normalized": "https://facebook.com/calzadosvenanzi",
+    "social_type": "facebook",
+    "address": "Colón 1879, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1421,
+    "title": "La Santa Calzados",
+    "website_original": "https://instagram.com/lasantacalzados?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/lasantacalzados",
+    "social_type": "instagram",
+    "address": "Ayacucho 1574, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1423,
+    "title": "Shoes & Bags",
+    "website_original": "https://www.instagram.com/shoesbagsposadas/?hl=es-la",
+    "website_normalized": "https://instagram.com/shoesbagsposadas/",
+    "social_type": "instagram",
+    "address": "Córdoba 2183, N3301JJK Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1427,
+    "title": "New Chivas",
+    "website_original": "http://www.instagram.com/newchivasposadas",
+    "website_normalized": "http://instagram.com/newchivasposadas",
+    "social_type": "instagram",
+    "address": "Ayacucho 1925, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1429,
+    "title": "ALMASHOES",
+    "website_original": "https://instagram.com/almashowroomok?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/almashowroomok",
+    "social_type": "instagram",
+    "address": "San Luis 2425, N3301 Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1434,
+    "title": "Koketas Calzados",
+    "website_original": "https://www.facebook.com/profile.php?id=100089894780759&mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Córdoba 2130, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1436,
+    "title": "Audaz Clothes & Shoes",
+    "website_original": "http://www.facebook.com/audaz.posadas",
+    "website_normalized": "http://facebook.com/audaz.posadas",
+    "social_type": "facebook",
+    "address": "C.31 A 6236, N3300QMO Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1442,
+    "title": "OKARA CALZADOS",
+    "website_original": "https://m.facebook.com/Okara-Calzados-1886292304931154/",
+    "website_normalized": "https://m.facebook.com/Okara-Calzados-1886292304931154/",
+    "social_type": "facebook",
+    "address": "San Lorenzo 351, N3301 Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1467,
+    "title": "Mas-vem Calzados",
+    "website_original": "https://www.facebook.com/masvem/?ref=aymt_homepage_panel",
+    "website_normalized": "https://facebook.com/masvem/",
+    "social_type": "facebook",
+    "address": "Colón 1824, N3301JFR Posadas, Misiones, Argentina"
+  },
+  {
+    "id": 1473,
+    "title": "City Shoes",
+    "website_original": "https://www.instagram.com/cityshoesparana",
+    "website_normalized": "https://instagram.com/cityshoesparana",
+    "social_type": "instagram",
+    "address": "Gral. José de San Martín 693, E3100AAM Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1474,
+    "title": "Calzados Barbaro",
+    "website_original": "https://facebook.com/CalzadosBarbaro",
+    "website_normalized": "https://facebook.com/CalzadosBarbaro",
+    "social_type": "facebook",
+    "address": "Provincias Unidas 607, E3106 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1501,
+    "title": "NOVA Calzados",
+    "website_original": "http://facebook.com/pg/CalzadosNova",
+    "website_normalized": "http://facebook.com/pg/CalzadosNova",
+    "social_type": "facebook",
+    "address": "Casiano Calderón 1626, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1504,
+    "title": "Rin calzados",
+    "website_original": "https://www.instagram.com/rincalzados?igsh=enI1MG5ieGsyaXlr",
+    "website_normalized": "https://instagram.com/rincalzados",
+    "social_type": "instagram",
+    "address": "Francisco Soler N° 1777, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1508,
+    "title": "Enamorada De Mis Calzados (LOCAL 25)",
+    "website_original": "http://www.facebook.com/enamoradademiscalzados",
+    "website_normalized": "http://facebook.com/enamoradademiscalzados",
+    "social_type": "facebook",
+    "address": "25 de Junio 51, E3100FGA Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1517,
+    "title": "Calzados Cynthia y Gabriel",
+    "website_original": "https://www.instagram.com/calzadoscynthia?igsh=cHJwYml0cjF4eTN1",
+    "website_normalized": "https://instagram.com/calzadoscynthia",
+    "social_type": "instagram",
+    "address": "Perú 21, E3100 HMA, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1526,
+    "title": "KIRA",
+    "website_original": "https://instagram.com/kira.shoes1?igshid=MDM4ZDc5MmU=",
+    "website_normalized": "https://instagram.com/kira.shoes1",
+    "social_type": "instagram",
+    "address": "Leandro N. Alem 929, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1532,
+    "title": "REYNA MIA",
+    "website_original": "https://www.facebook.com/reina.madre.3158?mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/reina.madre.3158",
+    "social_type": "facebook",
+    "address": "Juan Garrigó 1471, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 1550,
+    "title": "VICTORIA CALZADOS",
+    "website_original": "https://www.facebook.com/Victoria-Calzados-972243436186561/",
+    "website_normalized": "https://facebook.com/Victoria-Calzados-972243436186561/",
+    "social_type": "facebook",
+    "address": "Juan Domingo Perón 285, H3500 Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1554,
+    "title": "La Reyna de La Zapatilla",
+    "website_original": "https://www.facebook.com/Lareynadelazapatilla",
+    "website_normalized": "https://facebook.com/Lareynadelazapatilla",
+    "social_type": "facebook",
+    "address": "Resistencia Chaco AR, Salta 101, H3500 AWC, Argentina"
+  },
+  {
+    "id": 1560,
+    "title": "Cassandra",
+    "website_original": "https://www.facebook.com/cassandra",
+    "website_normalized": "https://facebook.com/cassandra",
+    "social_type": "facebook",
+    "address": "CBC, Güemes 125, H3500 Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1562,
+    "title": "Luciana Calzados",
+    "website_original": "http://www.facebook.com/lucianacalzados",
+    "website_normalized": "http://facebook.com/lucianacalzados",
+    "social_type": "facebook",
+    "address": "Frondizi 2622, Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1567,
+    "title": "Cassandra",
+    "website_original": "http://www.facebook.com/cassandra",
+    "website_normalized": "http://facebook.com/cassandra",
+    "social_type": "facebook",
+    "address": "Juan Domingo Perón 30, H3500AUB Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1578,
+    "title": "Ambar",
+    "website_original": "http://www.facebook.com/ambarcalzado",
+    "website_normalized": "http://facebook.com/ambarcalzado",
+    "social_type": "facebook",
+    "address": "AVH, Edificio Edison, Arturo Illia 342, H3500AVJ Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1581,
+    "title": "Carola Calzados Mayorista",
+    "website_original": "http://www.facebook.com/carolacalzados.mayorista",
+    "website_normalized": "http://facebook.com/carolacalzados.mayorista",
+    "social_type": "facebook",
+    "address": "Salta 150, H3500AWC Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1582,
+    "title": "La Reyna de la Zapatilla",
+    "website_original": "https://www.facebook.com/Lareynadelazapatilla",
+    "website_normalized": "https://facebook.com/Lareynadelazapatilla",
+    "social_type": "facebook",
+    "address": "Resistencia Chaco AR, Juan Domingo Perón 161, H3500 AUC, Argentina"
+  },
+  {
+    "id": 1588,
+    "title": "Lulu's",
+    "website_original": "http://www.facebook.com/lulustrend",
+    "website_normalized": "http://facebook.com/lulustrend",
+    "social_type": "facebook",
+    "address": "Arturo Illia 385, H3500AVG Resistencia, Chaco, Argentina"
+  },
+  {
+    "id": 1590,
+    "title": "LUDOVICA - ZAPATOS Y CARTERAS",
+    "website_original": "https://www.facebook.com/ludovica.zapatos",
+    "website_normalized": "https://facebook.com/ludovica.zapatos",
+    "social_type": "facebook",
+    "address": "Mendoza 829, W3400CDM Corrientes, Argentina"
+  },
+  {
+    "id": 1595,
+    "title": "Accento",
+    "website_original": "https://www.facebook.com/Accento.Zapateria/",
+    "website_normalized": "https://facebook.com/Accento.Zapateria/",
+    "social_type": "facebook",
+    "address": "Corrientes 944 Local 3, W3400CCL Mendoza, Corrientes, Argentina"
+  },
+  {
+    "id": 1596,
+    "title": "Gualichos",
+    "website_original": "http://www.facebook.com/Gualichos/",
+    "website_normalized": "http://facebook.com/Gualichos/",
+    "social_type": "facebook",
+    "address": "Dr. R. Carrillo 901, W3400 Corrientes, Argentina"
+  },
+  {
+    "id": 1606,
+    "title": "Leather Shoes",
+    "website_original": "https://www.facebook.com/ZapateriaLeatherShoes",
+    "website_normalized": "https://facebook.com/ZapateriaLeatherShoes",
+    "social_type": "facebook",
+    "address": "Junin 1201, W3400 AVY, Corrientes, Argentina"
+  },
+  {
+    "id": 1607,
+    "title": "Adonis shoes & bags",
+    "website_original": "https://www.instagram.com/adonis_shoes.ok?igsh=Nzl6cGx4bDFhOGd0",
+    "website_normalized": "https://instagram.com/adonis_shoes.ok",
+    "social_type": "instagram",
+    "address": "Junin 1732, W3400AWJ Corrientes, Argentina"
+  },
+  {
+    "id": 1608,
+    "title": "La Reyna de la Zapatilla",
+    "website_original": "https://www.facebook.com/Lareynadelazapatilla",
+    "website_normalized": "https://facebook.com/Lareynadelazapatilla",
+    "social_type": "facebook",
+    "address": "Junin 1245, W3400 AVY, Corrientes, Argentina"
+  },
+  {
+    "id": 1621,
+    "title": "Reyero",
+    "website_original": "https://www.facebook.com/ReyeroOnline",
+    "website_normalized": "https://facebook.com/ReyeroOnline",
+    "social_type": "facebook",
+    "address": "Catamarca 723, W3400 Corrientes, Argentina"
+  },
+  {
+    "id": 1623,
+    "title": "Zapateria Valentina",
+    "website_original": "https://www.instagram.com/zapa_teriavalentina/",
+    "website_normalized": "https://instagram.com/zapa_teriavalentina/",
+    "social_type": "instagram",
+    "address": "Av. Regimiento Cazadores Correntinos 3011, W3402 Corrientes, Argentina"
+  },
+  {
+    "id": 1636,
+    "title": "LILI CALZADOS",
+    "website_original": "https://www.facebook.com/Lili-Calzados-100305851488673/",
+    "website_normalized": "https://facebook.com/Lili-Calzados-100305851488673/",
+    "social_type": "facebook",
+    "address": "Av. Raúl Alfonsín 4375, W3402 Corrientes, Argentina"
+  },
+  {
+    "id": 1641,
+    "title": "Grimoldi Corrientes",
+    "website_original": "https://www.instagram.com/grimoldi_ctes_rcia?igsh=MWxpNnA2NWs4NDc4ZQ==",
+    "website_normalized": "https://instagram.com/grimoldi_ctes_rcia",
+    "social_type": "instagram",
+    "address": "Av. Raúl Alfonsín 3525, W3400 Corrientes, Argentina"
+  },
+  {
+    "id": 1663,
+    "title": "taller de calzados y tapicerian virgen de lourdes",
+    "website_original": "https://www.facebook.com/tallervirgendelourdes/",
+    "website_normalized": "https://facebook.com/tallervirgendelourdes/",
+    "social_type": "facebook",
+    "address": "J5400 San Juan, Argentina"
+  },
+  {
+    "id": 1667,
+    "title": "Calzados Verónica",
+    "website_original": "https://www.instagram.com/calzadosveronicasanjuan/",
+    "website_normalized": "https://instagram.com/calzadosveronicasanjuan/",
+    "social_type": "instagram",
+    "address": "Francisco N. Laprida Oeste 180, J5400 Este, San Juan, Argentina"
+  },
+  {
+    "id": 1670,
+    "title": "El Arte Sano",
+    "website_original": "https://www.facebook.com/elartesano159osj",
+    "website_normalized": "https://facebook.com/elartesano159osj",
+    "social_type": "facebook",
+    "address": "Domingo Faustino Sarmiento Sur 50, J5402ECB San Juan, Argentina"
+  },
+  {
+    "id": 1683,
+    "title": "Arlet - Paseo San Juan",
+    "website_original": "https://www.facebook.com/arlet.paseosanjuan",
+    "website_normalized": "https://facebook.com/arlet.paseosanjuan",
+    "social_type": "facebook",
+    "address": "J5400 San Juan, Argentina"
+  },
+  {
+    "id": 1684,
+    "title": "Martinazzo Deportes S.R.L.",
+    "website_original": "https://www.facebook.com/profile.php?id=100090631392759&mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Rivadavia 390, J5402DEH San Juan, Argentina"
+  },
+  {
+    "id": 1692,
+    "title": "New Chivas Calzados",
+    "website_original": "https://www.facebook.com/sanluis.chivas.5",
+    "website_normalized": "https://facebook.com/sanluis.chivas.5",
+    "social_type": "facebook",
+    "address": "San Martín 540, D5702 San Luis, Argentina"
+  },
+  {
+    "id": 1693,
+    "title": "Modal Calzados",
+    "website_original": "https://www.facebook.com/Modal-Calzados-San-Luis-Villa-Mercedes-115997275741738/",
+    "website_normalized": "https://facebook.com/Modal-Calzados-San-Luis-Villa-Mercedes-115997275741738/",
+    "social_type": "facebook",
+    "address": "Pringles 848, D5702 San Luis, Argentina"
+  },
+  {
+    "id": 1696,
+    "title": "Zapatería Chocolate",
+    "website_original": "https://www.facebook.com/Zapater%C3%ADa-Chocolate-115668582389350",
+    "website_normalized": "https://facebook.com/Zapater%C3%ADa-Chocolate-115668582389350",
+    "social_type": "facebook",
+    "address": "San Martín 467, D5700 San Luis, Argentina"
+  },
+  {
+    "id": 1702,
+    "title": "Mafalda calzados",
+    "website_original": "https://www.facebook.com/mafalda.calzados.7",
+    "website_normalized": "https://facebook.com/mafalda.calzados.7",
+    "social_type": "facebook",
+    "address": "San Martín 692, D5700 San Luis, Argentina"
+  },
+  {
+    "id": 1706,
+    "title": "Calzados Centro",
+    "website_original": "https://www.facebook.com/calzados.centro.9",
+    "website_normalized": "https://facebook.com/calzados.centro.9",
+    "social_type": "facebook",
+    "address": "Av. Illia 101, D5700 AVZ, San Luis, Argentina"
+  },
+  {
+    "id": 1707,
+    "title": "Zapatería Cerda",
+    "website_original": "http://www.facebook.com/zapateria-cerda",
+    "website_normalized": "http://facebook.com/zapateria-cerda",
+    "social_type": "facebook",
+    "address": "Av 5 de Mayo & Calle 3, Comercial, 83449 San Luis Río Colorado, Son., México"
+  },
+  {
+    "id": 1708,
+    "title": "Almacen de Suelas San Luis",
+    "website_original": "https://www.instagram.com/almacendesuelas_sanluis/",
+    "website_normalized": "https://instagram.com/almacendesuelas_sanluis/",
+    "social_type": "instagram",
+    "address": "Ayacucho 1175, D5700DDR San Luis, Argentina"
+  },
+  {
+    "id": 1711,
+    "title": "Zapaterías Petit Moro",
+    "website_original": "http://www.facebook.com/petitmorozap",
+    "website_normalized": "http://facebook.com/petitmorozap",
+    "social_type": "facebook",
+    "address": "Calle Miguel Hidalgo 265, Centro Historico, 78000 San Luis Potosí, S.L.P., México"
+  },
+  {
+    "id": 1719,
+    "title": "Calzados El Mago",
+    "website_original": "https://www.facebook.com/elmago.elmago.7712",
+    "website_normalized": "https://facebook.com/elmago.elmago.7712",
+    "social_type": "facebook",
+    "address": "Rivadavia 898, D5700 San Luis, Argentina"
+  },
+  {
+    "id": 1723,
+    "title": "Shoes Center",
+    "website_original": "https://www.instagram.com/shoes.centersl?igsh=bXQ0OWY4YnhjZnAy&utm_source=qr",
+    "website_normalized": "https://instagram.com/shoes.centersl",
+    "social_type": "instagram",
+    "address": "San Martín 860, D5700HVW San Luis, Argentina"
+  },
+  {
+    "id": 1735,
+    "title": "Donna Calzados",
+    "website_original": "https://instagram.com/donna.calzados?igshid=1htkwb69mpnk5",
+    "website_normalized": "https://instagram.com/donna.calzados",
+    "social_type": "instagram",
+    "address": "Absalón Rojas 87, G4200DWH Santiago del Estero, Argentina"
+  },
+  {
+    "id": 1739,
+    "title": "Compulsiva",
+    "website_original": "http://www.facebook.com/Compulsivazapatos/",
+    "website_normalized": "http://facebook.com/Compulsivazapatos/",
+    "social_type": "facebook",
+    "address": "Avellaneda 133, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "id": 1754,
+    "title": "Los Duques del Calzado",
+    "website_original": "https://www.facebook.com/Los-Duques-del-Calzado-102311304689743/",
+    "website_normalized": "https://facebook.com/Los-Duques-del-Calzado-102311304689743/",
+    "social_type": "facebook",
+    "address": "Absalón Rojas 107, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "id": 1755,
+    "title": "Outlet Alvear kids Santiago",
+    "website_original": "https://www.facebook.com/outletalvearkidssantiago",
+    "website_normalized": "https://facebook.com/outletalvearkidssantiago",
+    "social_type": "facebook",
+    "address": "Av. Belgrano Sur 1037, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "id": 1766,
+    "title": "Clara Calzados Unisex",
+    "website_original": "https://www.facebook.com/clari.sandez18",
+    "website_normalized": "https://facebook.com/clari.sandez18",
+    "social_type": "facebook",
+    "address": "Diaguitas, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "id": 1801,
+    "title": "Dotty Calzados",
+    "website_original": "https://www.facebook.com/dottycalzados",
+    "website_normalized": "https://facebook.com/dottycalzados",
+    "social_type": "facebook",
+    "address": "Gral. Lavalle 17, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "id": 1811,
+    "title": "JUJUY SUELAS",
+    "website_original": "https://www.facebook.com/JUJUY%20suelas",
+    "website_normalized": "https://facebook.com/JUJUY%20suelas",
+    "social_type": "facebook",
+    "address": "Campero 320, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "id": 1812,
+    "title": "Outlet by Pinet",
+    "website_original": "https://www.facebook.com/outletbypinet",
+    "website_normalized": "https://facebook.com/outletbypinet",
+    "social_type": "facebook",
+    "address": "Independencia, Gral. Lavalle y, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "id": 1818,
+    "title": "Rockabruja San Salvador de Jujuy \"Skate shop\"",
+    "website_original": "https://www.facebook.com/profile.php?id=100066743327710&mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Gral. Belgrano 595, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "id": 1823,
+    "title": "Calzados sport",
+    "website_original": "https://www.instagram.com/calzados.spoort?igsh=eWpndXdsdnZkNWg1",
+    "website_normalized": "https://instagram.com/calzados.spoort",
+    "social_type": "instagram",
+    "address": "Av. Carlos Undiano 989-999, Y4609 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "id": 1828,
+    "title": "Don Calzado Local 90",
+    "website_original": "https://www.facebook.com/Don-Calzado-105146527883289",
+    "website_normalized": "https://facebook.com/Don-Calzado-105146527883289",
+    "social_type": "facebook",
+    "address": "Escolastico Zegada, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "id": 1835,
+    "title": "Charly",
+    "website_original": "https://www.instagram.com/charlyzapateria?igsh=NnB2N2ZwZmc0a2kz",
+    "website_normalized": "https://instagram.com/charlyzapateria",
+    "social_type": "instagram",
+    "address": "B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1853,
+    "title": "ZISCKA",
+    "website_original": "http://www.facebook.com/zisckabaires",
+    "website_normalized": "http://facebook.com/zisckabaires",
+    "social_type": "facebook",
+    "address": "3 de Febrero 2605, B1678GVB Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1855,
+    "title": "Calzados Pallotta",
+    "website_original": "https://instagram.com/calzadospallotta",
+    "website_normalized": "https://instagram.com/calzadospallotta",
+    "social_type": "instagram",
+    "address": "Av. San Martín 2215, B1678GPL Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1880,
+    "title": "Tropea",
+    "website_original": "https://www.instagram.com/tropeacaseros/",
+    "website_normalized": "https://instagram.com/tropeacaseros/",
+    "social_type": "instagram",
+    "address": "3 de Febrero 2538 B1678GVN, B1678GVN Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1889,
+    "title": "Mielas Store",
+    "website_original": "https://linktr.ee/mielas_store",
+    "website_normalized": "https://linktr.ee/mielas_store",
+    "social_type": "bio_link",
+    "address": "Campo de Mayo 6049, B1682 Villa Bosch, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1894,
+    "title": "Kubala Shoes",
+    "website_original": "http://www.instagram.com/kubala.shoes",
+    "website_normalized": "http://instagram.com/kubala.shoes",
+    "social_type": "instagram",
+    "address": "Lima 3420, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1897,
+    "title": "AY COCA",
+    "website_original": "https://linktr.ee/Ay.coca",
+    "website_normalized": "https://linktr.ee/Ay.coca",
+    "social_type": "bio_link",
+    "address": "3 de Febrero 2607, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1901,
+    "title": "Zapatillería La vía..",
+    "website_original": "https://www.instagram.com/calzados.lavia?igsh=NTcwbDB2MWQzczQ1&utm_source=qr",
+    "website_normalized": "https://instagram.com/calzados.lavia",
+    "social_type": "instagram",
+    "address": "Pres. Juan Domingo Perón 6869, B1683BBA Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1902,
+    "title": "Dorothy Calzados Para La Familia",
+    "website_original": "https://www.facebook.com/Dorothy-calzado-para-la-familia-1227670083995046",
+    "website_normalized": "https://facebook.com/Dorothy-calzado-para-la-familia-1227670083995046",
+    "social_type": "facebook",
+    "address": "B1682AIW, Santos Vega 7520, B1682 Villa Bosch, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1910,
+    "title": "Marta Parret",
+    "website_original": "http://www.facebook.com/marta.parret",
+    "website_normalized": "http://facebook.com/marta.parret",
+    "social_type": "facebook",
+    "address": "Av. Juan Segundo Fernández 226, B1642AMP Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1924,
+    "title": "Calzado La Bomba",
+    "website_original": "https://www.instagram.com/calzados_labomba/",
+    "website_normalized": "https://instagram.com/calzados_labomba/",
+    "social_type": "instagram",
+    "address": "Gral. Manuel Belgrano 33, B1642 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1960,
+    "title": "COMPOSTURA DE CALZADO DAVID",
+    "website_original": "http://www.facebook.com/Compostura-de-Calzado-David-110367803980057",
+    "website_normalized": "http://facebook.com/Compostura-de-Calzado-David-110367803980057",
+    "social_type": "facebook",
+    "address": "Tapiales 1305, B1638 Vicente López, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1968,
+    "title": "Donatta",
+    "website_original": "http://www.facebook.com/donattazapatos",
+    "website_normalized": "http://facebook.com/donattazapatos",
+    "social_type": "facebook",
+    "address": "Av. Maipú 2324, B1636AAQ Vicente López, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 1977,
+    "title": "Aranda Calzados",
+    "website_original": "https://instagram.com/arandacalzados",
+    "website_normalized": "https://instagram.com/arandacalzados",
+    "social_type": "instagram",
+    "address": "Peru, Pedro Guareschi y, B1648 Tigre, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2007,
+    "title": "TIMBO'S",
+    "website_original": "https://www.facebook.com/TIMBOSSHOES/",
+    "website_normalized": "https://facebook.com/TIMBOSSHOES/",
+    "social_type": "facebook",
+    "address": "San Martín 4846, B1653 Villa Ballester, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2022,
+    "title": "Calzados Namun",
+    "website_original": "https://www.facebook.com/namun.smandes.5",
+    "website_normalized": "https://facebook.com/namun.smandes.5",
+    "social_type": "facebook",
+    "address": "av.koessler, Cacique Curruhuinca y, Q8370 San Martín de los Andes, Neuquén, Argentina"
+  },
+  {
+    "id": 2031,
+    "title": "Nuñez Zapateria",
+    "website_original": "https://www.facebook.com/NunezZapateria",
+    "website_normalized": "https://facebook.com/NunezZapateria",
+    "social_type": "facebook",
+    "address": "5 de Mayo Nte. 10-A, Col Centro, 74000 San Martín Texmelucan de Labastida, Pue., México"
+  },
+  {
+    "id": 2035,
+    "title": "Calzados Floa",
+    "website_original": "https://www.instagram.com/calzadosfloa/",
+    "website_normalized": "https://instagram.com/calzadosfloa/",
+    "social_type": "instagram",
+    "address": "Sarmiento 4679, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2042,
+    "title": "Calzados Luna",
+    "website_original": "http://www.facebook.com/calzadosluna",
+    "website_normalized": "http://facebook.com/calzadosluna",
+    "social_type": "facebook",
+    "address": "IOA, Dr. Salvador Sallarés 79, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2083,
+    "title": "Chess",
+    "website_original": "http://www.facebook.com/chessflorenciovarela",
+    "website_normalized": "http://facebook.com/chessflorenciovarela",
+    "social_type": "facebook",
+    "address": "Dr. Salvador Sallarés 226, B1888IOF Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2102,
+    "title": "Calzados La Economica",
+    "website_original": "https://www.facebook.com/laeconomicabera/",
+    "website_normalized": "https://facebook.com/laeconomicabera/",
+    "social_type": "facebook",
+    "address": "C. 148 1235, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2108,
+    "title": "Calzado y compostura Cuellar",
+    "website_original": "https://www.facebook.com/zapateriacompostura.cuellar?locale=es_LA",
+    "website_normalized": "https://facebook.com/zapateriacompostura.cuellar",
+    "social_type": "facebook",
+    "address": "Av. 14 4374, B1884CUR Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2112,
+    "title": "Calzado La Economica",
+    "website_original": "https://www.facebook.com/laeconomicabera",
+    "website_normalized": "https://facebook.com/laeconomicabera",
+    "social_type": "facebook",
+    "address": "C. 15 4662, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2127,
+    "title": "FIDELIA",
+    "website_original": "https://instagram.com/fidelia_berazategui?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/fidelia_berazategui",
+    "social_type": "instagram",
+    "address": "C. 148 1434, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2145,
+    "title": "Calzados Bacú",
+    "website_original": "http://www.facebook.com/calzadosbacu",
+    "website_normalized": "http://facebook.com/calzadosbacu",
+    "social_type": "facebook",
+    "address": "B. Rivadavia 746, B1629AAP Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2158,
+    "title": "Calzados Del Pilar",
+    "website_original": "https://instagram.com/calzadosdelpilar?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr",
+    "website_normalized": "https://instagram.com/calzadosdelpilar",
+    "social_type": "instagram",
+    "address": "Campana 380, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2160,
+    "title": "Alpargatas Ñandú",
+    "website_original": "https://www.facebook.com/Alpargatasnandu.mv",
+    "website_normalized": "https://facebook.com/Alpargatasnandu.mv",
+    "social_type": "facebook",
+    "address": "Antártida Argentina 1083 1629, B1629 Pilar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2177,
+    "title": "MeluSina Calzados y Carteras",
+    "website_original": "https://www.instagram.com/melusina_calzados?igsh=NGNreXY5bnpqMTZi",
+    "website_normalized": "https://instagram.com/melusina_calzados",
+    "social_type": "instagram",
+    "address": "L. M. Drago, ex Directorio 235, Tortuguitas, Argentina"
+  },
+  {
+    "id": 2195,
+    "title": "Lauber Top",
+    "website_original": "https://m.facebook.com/laubertop/",
+    "website_normalized": "https://m.facebook.com/laubertop/",
+    "social_type": "facebook",
+    "address": "Chacabuco 7, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2197,
+    "title": "TIZIANO",
+    "website_original": "https://m.facebook.com/zapateria.tiziano/?locale2=es_LA",
+    "website_normalized": "https://m.facebook.com/zapateria.tiziano/",
+    "social_type": "facebook",
+    "address": "ACC, Bartolomé Mitre 187, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2202,
+    "title": "Gihega ZAPATILLAS IMPORTADAS",
+    "website_original": "https://www.facebook.com/share/1613vTRpc6/",
+    "website_normalized": "https://facebook.com/share/1613vTRpc6/",
+    "social_type": "facebook",
+    "address": "Viamonte 1701, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2207,
+    "title": "RB CALZADOS",
+    "website_original": "https://www.facebook.com/profile.php?id=100094592014388&mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Pellegrini 546, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2224,
+    "title": "Calzados Garcia",
+    "website_original": "https://www.instagram.com/calzados.garcia/",
+    "website_normalized": "https://instagram.com/calzados.garcia/",
+    "social_type": "instagram",
+    "address": "Gral. Rodríguez 739, B7000 Tandil, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2230,
+    "title": "Ester Benitez Calzados",
+    "website_original": "https://www.facebook.com/ester.benitez.9699523",
+    "website_normalized": "https://facebook.com/ester.benitez.9699523",
+    "social_type": "facebook",
+    "address": "25 de Mayo 111, B7000 Tandil, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2234,
+    "title": "Zapatería Pingitore",
+    "website_original": "https://www.instagram.com/zapateriapingitore/profilecard/?igsh=a3Bvb3Jicnl6aTRx",
+    "website_normalized": "https://instagram.com/zapateriapingitore/profilecard/",
+    "social_type": "instagram",
+    "address": "9 de Julio 131, B7000 Tandil, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2253,
+    "title": "Mostaza Calzados",
+    "website_original": "https://www.facebook.com/Mostaza-olavarria-317327779131531",
+    "website_normalized": "https://facebook.com/Mostaza-olavarria-317327779131531",
+    "social_type": "facebook",
+    "address": "Rivadavia 3155, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2259,
+    "title": "R y F Calzados",
+    "website_original": "https://instagram.com/ryfcalzados_?igshid=MmIzYWVlNDQ5Yg==",
+    "website_normalized": "https://instagram.com/ryfcalzados_",
+    "social_type": "instagram",
+    "address": "Necochea 2170, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2263,
+    "title": "Olitto Zapatillas",
+    "website_original": "https://www.instagram.com/olittozapatillasoficial/profilecard/?igsh=MXhwcWdpYWpqczR0ZA==",
+    "website_normalized": "https://instagram.com/olittozapatillasoficial/profilecard/",
+    "social_type": "instagram",
+    "address": "República del Líbano 3636, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2264,
+    "title": "Calzados Carina Vos Te Lo Mereces",
+    "website_original": "https://www.facebook.com/calzadoscarina.vostelomereces/",
+    "website_normalized": "https://facebook.com/calzadoscarina.vostelomereces/",
+    "social_type": "facebook",
+    "address": "España 4575, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2271,
+    "title": "Slice Deportes",
+    "website_original": "http://www.facebook.com/slicedeportes",
+    "website_normalized": "http://facebook.com/slicedeportes",
+    "social_type": "facebook",
+    "address": "Vicente López 2655, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2274,
+    "title": "Matoroal zapatillas",
+    "website_original": "https://www.instagram.com/matoroal_zapatillas/profilecard/?igsh=MWQ0NmxkdTFqN2F2cQ==",
+    "website_normalized": "https://instagram.com/matoroal_zapatillas/profilecard/",
+    "social_type": "instagram",
+    "address": "Av. Colón 1689, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2279,
+    "title": "Polirrubro Miguelo",
+    "website_original": "http://www.facebook.com/polirrubromiguelo",
+    "website_normalized": "http://facebook.com/polirrubromiguelo",
+    "social_type": "facebook",
+    "address": "Hipólito Yrigoyen 1297, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2284,
+    "title": "FOXIE STORE - Prendas Urbanas Oversize Unisex , Femm y calzado importado",
+    "website_original": "https://www.instagram.com/foxie_storee?igsh=MXRjOWFuM3lkbW1kcA==",
+    "website_normalized": "https://instagram.com/foxie_storee",
+    "social_type": "instagram",
+    "address": "Cnel. Suárez 2581, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2292,
+    "title": "El Tranquito",
+    "website_original": "http://www.facebook.com/eltranquito",
+    "website_normalized": "http://facebook.com/eltranquito",
+    "social_type": "facebook",
+    "address": "Hornos 3206, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2295,
+    "title": "Pampero Olavarría",
+    "website_original": "https://www.facebook.com/pampero.olavarria",
+    "website_normalized": "https://facebook.com/pampero.olavarria",
+    "social_type": "facebook",
+    "address": "Belgrano 2825, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2307,
+    "title": "Viancé calzados",
+    "website_original": "https://www.facebook.com/viancecalzados",
+    "website_normalized": "https://facebook.com/viancecalzados",
+    "social_type": "facebook",
+    "address": "Cmte. Acha 170, B6022 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2312,
+    "title": "Calzados Escorpio",
+    "website_original": "https://www.instagram.com/calzadosescorpio_/?hl=es",
+    "website_normalized": "https://instagram.com/calzadosescorpio_/",
+    "social_type": "instagram",
+    "address": "Av. Rivadavia 75, B6022 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2314,
+    "title": "Miliack",
+    "website_original": "http://www.facebook.com/miliack",
+    "website_normalized": "http://facebook.com/miliack",
+    "social_type": "facebook",
+    "address": "Gral. Paz 30, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2316,
+    "title": "Soltate Calzados",
+    "website_original": "https://www.facebook.com/soltatecalzados/",
+    "website_normalized": "https://facebook.com/soltatecalzados/",
+    "social_type": "facebook",
+    "address": "Primera Junta 1, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2323,
+    "title": "Feria de calzados",
+    "website_original": "https://www.instagram.com/feriadejunin/profilecard/?igsh=OTQyODhpeDNkcWwy",
+    "website_normalized": "https://instagram.com/feriadejunin/profilecard/",
+    "social_type": "instagram",
+    "address": "Av. Dr. Benito de Miguel 106, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2337,
+    "title": "Dulce Catalina",
+    "website_original": "http://www.facebook.com/planesblancos",
+    "website_normalized": "http://facebook.com/planesblancos",
+    "social_type": "facebook",
+    "address": "San Luis 181, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2347,
+    "title": "EL DIEZ INDUMENTARIA",
+    "website_original": "https://www.instagram.com/eldiezindumentaria",
+    "website_normalized": "https://instagram.com/eldiezindumentaria",
+    "social_type": "instagram",
+    "address": "Remedios de Escalada de San Martín 23, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2372,
+    "title": "Mokka Shoes",
+    "website_original": "http://www.facebook.com/mokkashoespergamino/",
+    "website_normalized": "http://facebook.com/mokkashoespergamino/",
+    "social_type": "facebook",
+    "address": "Pueyrredón 427, Pergamino, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2374,
+    "title": "Calzados Malvinas",
+    "website_original": "https://www.instagram.com/calzados.malvinas?igsh=MWNnbXN4b3p6M3JkMA==",
+    "website_normalized": "https://instagram.com/calzados.malvinas",
+    "social_type": "instagram",
+    "address": "Av. de Mayo 1057, Pergamino, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2380,
+    "title": "Opcion Z",
+    "website_original": "http://www.facebook.com/opcion.zeta",
+    "website_normalized": "http://facebook.com/opcion.zeta",
+    "social_type": "facebook",
+    "address": "Merced 580, Pergamino, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2385,
+    "title": "Fabrica Calzados Santa Rosa",
+    "website_original": "https://www.facebook.com/santarosa.calzados?mibextid=LQQJ4d",
+    "website_normalized": "https://facebook.com/santarosa.calzados",
+    "social_type": "facebook",
+    "address": "Av. 59 878, B7630 Necochea, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2388,
+    "title": "Dulce Leonna",
+    "website_original": "https://instagram.com/stories/dulceleonna/2186567002022165552?utm_source=ig_story_item_share&igshid=18hzruh0xetbk",
+    "website_normalized": "https://instagram.com/stories/dulceleonna/2186567002022165552",
+    "social_type": "instagram",
+    "address": "C. 61 3000, B7630 Necochea, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2410,
+    "title": "Miranda Estética del Calzado",
+    "website_original": "https://instagram.com/mirandaesteticadelcalzado?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/mirandaesteticadelcalzado",
+    "social_type": "instagram",
+    "address": "68, n2937, B7630 Necochea, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2416,
+    "title": "Tienda Rori Necochea",
+    "website_original": "https://www.facebook.com/Tienda-Rori-Necochea-363670850960253/",
+    "website_normalized": "https://facebook.com/Tienda-Rori-Necochea-363670850960253/",
+    "social_type": "facebook",
+    "address": "Av. 75 1063, B7630 Necochea, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2419,
+    "title": "Lennon Shoes",
+    "website_original": "https://www.instagram.com/lennonshoesneco",
+    "website_normalized": "https://instagram.com/lennonshoesneco",
+    "social_type": "instagram",
+    "address": "C. 83 251, B7632GOJ Necochea, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2422,
+    "title": "MO",
+    "website_original": "https://www.facebook.com/monicaolivera.dg",
+    "website_normalized": "https://facebook.com/monicaolivera.dg",
+    "social_type": "facebook",
+    "address": "Blvd. Lavalle 321, Campana, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2439,
+    "title": "Campana Urbano",
+    "website_original": "https://www.instagram.com/campanaurbano/?hl=es-la",
+    "website_normalized": "https://instagram.com/campanaurbano/",
+    "social_type": "instagram",
+    "address": "Av. Int. Jorge Ruben Varela 1090, B2804 Campana, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2441,
+    "title": "Chicos Traviesos",
+    "website_original": "https://www.facebook.com/Chicos-Traviesos-112953667130961",
+    "website_normalized": "https://facebook.com/Chicos-Traviesos-112953667130961",
+    "social_type": "facebook",
+    "address": "Gral. las Heras 1748, B2804 Campana, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2454,
+    "title": "Ciao meliche",
+    "website_original": "https://www.facebook.com/chao.zapatos.3?mibextid=LQQJ4d",
+    "website_normalized": "https://facebook.com/chao.zapatos.3",
+    "social_type": "facebook",
+    "address": "Hermanos Berengher 239, B2800 Zárate, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2460,
+    "title": "Camel lopez",
+    "website_original": "https://www.facebook.com/camel.lopez.148",
+    "website_normalized": "https://facebook.com/camel.lopez.148",
+    "social_type": "facebook",
+    "address": "C. 8 1540, B2800 Zárate, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2471,
+    "title": "Ortopedia Dynamic",
+    "website_original": "https://www.facebook.com/Ortopedia-Dynamic-104654072223951/",
+    "website_normalized": "https://facebook.com/Ortopedia-Dynamic-104654072223951/",
+    "social_type": "facebook",
+    "address": "Rómulo Noya 1020, B2800 Zárate, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2474,
+    "title": "Franz Action Sports",
+    "website_original": "https://www.facebook.com/franzactionsports/",
+    "website_normalized": "https://facebook.com/franzactionsports/",
+    "social_type": "facebook",
+    "address": "Ituzaingó 735, B2800 Zárate, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2481,
+    "title": "Rouge - Zapateria",
+    "website_original": "https://www.instagram.com/rougeriocuarto/",
+    "website_normalized": "https://instagram.com/rougeriocuarto/",
+    "social_type": "instagram",
+    "address": "DIB, Av. Ldor. Gral. San Martín 10 Local 10 Galería Paseo Jardín Centro, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "id": 2490,
+    "title": "Thunder Calzados",
+    "website_original": "https://m.facebook.com/profile.php?id=100063623947533",
+    "website_normalized": "https://m.facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Rivadavia 211, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "id": 2493,
+    "title": "Calzados Malú",
+    "website_original": "https://m.facebook.com/Calzados-Malu-896326603864573/?ref=bookmarks",
+    "website_normalized": "https://m.facebook.com/Calzados-Malu-896326603864573/",
+    "social_type": "facebook",
+    "address": "Av. Marcelo T. de Alvear 471, X5804FZE Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "id": 2495,
+    "title": "Niker Calzados",
+    "website_original": "https://www.facebook.com/nikercalzados.com.ar/",
+    "website_normalized": "https://facebook.com/nikercalzados.com.ar/",
+    "social_type": "facebook",
+    "address": "Rivadavia 145, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "id": 2509,
+    "title": "Ossira Río Cuarto",
+    "website_original": "https://www.facebook.com/ossira.riocuarto.7",
+    "website_normalized": "https://facebook.com/ossira.riocuarto.7",
+    "social_type": "facebook",
+    "address": "San Martín, esq Mitre 398, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "id": 2522,
+    "title": "Buena Pata",
+    "website_original": "https://m.facebook.com/datupasoconbuenapata",
+    "website_normalized": "https://m.facebook.com/datupasoconbuenapata",
+    "social_type": "facebook",
+    "address": "Onelli 384, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "id": 2525,
+    "title": "Zapatería \"El Taca\"",
+    "website_original": "https://www.facebook.com/pages/category/Footwear-store/Zapater%C3%ADa-El-Taca-105316691218973/",
+    "website_normalized": "https://facebook.com/pages/category/Footwear-store/Zapater%C3%ADa-El-Taca-105316691218973/",
+    "social_type": "facebook",
+    "address": "Almte. Brown 1480, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "id": 2527,
+    "title": "Calzados Mario",
+    "website_original": "https://www.instagram.com/calzadosmario/?hl=es",
+    "website_normalized": "https://instagram.com/calzadosmario/",
+    "social_type": "instagram",
+    "address": "Av. Ángel Gallardo 729, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "id": 2532,
+    "title": "Tiempo II",
+    "website_original": "http://www.facebook.com/zapateriatiempo",
+    "website_normalized": "http://facebook.com/zapateriatiempo",
+    "social_type": "facebook",
+    "address": "Mitre 570, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "id": 2540,
+    "title": "Tutto Carteras",
+    "website_original": "https://linktr.ee/tuttocarteras",
+    "website_normalized": "https://linktr.ee/tuttocarteras",
+    "social_type": "bio_link",
+    "address": "Quaglia 183, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "id": 2562,
+    "title": "Solo para entendidas",
+    "website_original": "https://www.facebook.com/solo.paraentendidas.946",
+    "website_normalized": "https://facebook.com/solo.paraentendidas.946",
+    "social_type": "facebook",
+    "address": "Tte. Manuel Mujica Lainez 10, 9000 Comodoro Rivadavia, Chubut, Argentina"
+  },
+  {
+    "id": 2576,
+    "title": "Calzados Monte Susana",
+    "website_original": "https://www.facebook.com/Calzados-Monte-Susana-GV-697625253697659/",
+    "website_normalized": "https://facebook.com/Calzados-Monte-Susana-GV-697625253697659/",
+    "social_type": "facebook",
+    "address": "Karukinka 519, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2577,
+    "title": "Stella Maris Calzados",
+    "website_original": "https://www.facebook.com/calzados.stellamaris",
+    "website_normalized": "https://facebook.com/calzados.stellamaris",
+    "social_type": "facebook",
+    "address": "Kuanip 753, V9410 BQO, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2581,
+    "title": "Zapateria Fuego Kids",
+    "website_original": "https://www.facebook.com/profile.php?id=100064094046777&locale=es_LA",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Av. San Martín 1049, V9410BFK Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2585,
+    "title": "alquiler decalzado para trekking ushuaia",
+    "website_original": "https://instagram.com/cuatrorefugios",
+    "website_normalized": "https://instagram.com/cuatrorefugios",
+    "social_type": "instagram",
+    "address": "Gdor. Paz 710, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2589,
+    "title": "Vraie General Store",
+    "website_original": "https://www.instagram.com/vraie_generalstore?igsh=MWgybXlzM3hzdmxxaw==",
+    "website_normalized": "https://instagram.com/vraie_generalstore",
+    "social_type": "instagram",
+    "address": "V9410BFF, Av. San Martín 595, V9410 BFF, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2594,
+    "title": "Komp - Makalu Store Ushuaia",
+    "website_original": "https://instagram.com/komp_tribe",
+    "website_normalized": "https://instagram.com/komp_tribe",
+    "social_type": "instagram",
+    "address": "Av. San Martín 272, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2598,
+    "title": "Quijotas",
+    "website_original": "https://www.instagram.com/quijotasush/?hl=es",
+    "website_normalized": "https://instagram.com/quijotasush/",
+    "social_type": "instagram",
+    "address": "Magallanes 1894, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2605,
+    "title": "OUTLET PREMIUM",
+    "website_original": "https://www.instagram.com/outlet_premium_ok/",
+    "website_normalized": "https://instagram.com/outlet_premium_ok/",
+    "social_type": "instagram",
+    "address": "Av. San Martín 528, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2606,
+    "title": "Fulanita de Tal",
+    "website_original": "https://www.facebook.com/fulanitadetalushuaia/",
+    "website_normalized": "https://facebook.com/fulanitadetalushuaia/",
+    "social_type": "facebook",
+    "address": "Av. San Martín 1464, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2610,
+    "title": "Urban Mix",
+    "website_original": "https://www.instagram.com/urbanmixok?igsh=MWtvY2x5c2s2aGlicw==",
+    "website_normalized": "https://instagram.com/urbanmixok",
+    "social_type": "instagram",
+    "address": "Av. San Martín, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2611,
+    "title": "Campamento Base",
+    "website_original": "https://www.instagram.com/campamento_base",
+    "website_normalized": "https://instagram.com/campamento_base",
+    "social_type": "instagram",
+    "address": "Av. San Martín 818, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2613,
+    "title": "Clotha Indumentaria",
+    "website_original": "https://www.instagram.com/clothaindumentaria",
+    "website_normalized": "https://instagram.com/clothaindumentaria",
+    "social_type": "instagram",
+    "address": "Marcos Zar norte 377, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2614,
+    "title": "Zapatería Buena Pata",
+    "website_original": "https://www.facebook.com/pages/category/Footwear-Store/Buena-Pata-Patagonica-R%C3%ADo-Gallegos-479298206146560/",
+    "website_normalized": "https://facebook.com/pages/category/Footwear-Store/Buena-Pata-Patagonica-R%C3%ADo-Gallegos-479298206146560/",
+    "social_type": "facebook",
+    "address": "Av. Pres. Dr. Nestor C. Kirchner 1116, Z9400BAX Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2616,
+    "title": "Emanuel Calzados",
+    "website_original": "https://instagram.com/emastore.rg?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/emastore.rg",
+    "social_type": "instagram",
+    "address": "Av. José de San Martín 630, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2618,
+    "title": "Zapateria Becca's",
+    "website_original": "https://www.facebook.com/104106244411933/posts/104106707745220/?substory_index=0&sfnsn=scwspmo&extid=2yKKQsueInZ3RLKn",
+    "website_normalized": "https://facebook.com/104106244411933/posts/104106707745220/",
+    "social_type": "facebook",
+    "address": "Av. Pres. Dr. Nestor C. Kirchner 1393, Z9400BAM Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2622,
+    "title": "ZAPATERÍA TURQUESA",
+    "website_original": "https://www.facebook.com/turquesa.modafemenina/",
+    "website_normalized": "https://facebook.com/turquesa.modafemenina/",
+    "social_type": "facebook",
+    "address": "Errazuriz 46, Z9400HYB Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2625,
+    "title": "\"Mesures\" Calzados",
+    "website_original": "https://m.facebook.com/mesuresriogallegos/",
+    "website_normalized": "https://m.facebook.com/mesuresriogallegos/",
+    "social_type": "facebook",
+    "address": "Av. Pres. Dr. Nestor C. Kirchner 1289, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2626,
+    "title": "L&G CALZADOS",
+    "website_original": "https://www.facebook.com/profile.php?id=100089276148928&mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2630,
+    "title": "Showroom Margarita Pintos",
+    "website_original": "https://www.facebook.com/mariamargarita.pintos.5?mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/mariamargarita.pintos.5",
+    "social_type": "facebook",
+    "address": "Abuela Parisi 33, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2638,
+    "title": "Rg Valentina",
+    "website_original": "https://www.facebook.com/pame.lopez.188478",
+    "website_normalized": "https://facebook.com/pame.lopez.188478",
+    "social_type": "facebook",
+    "address": "Richieri 626, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2639,
+    "title": "Janna indumentaria",
+    "website_original": "https://www.facebook.com/showroom.ellas.3?mibextid=ZbWKwL",
+    "website_normalized": "https://facebook.com/showroom.ellas.3",
+    "social_type": "facebook",
+    "address": "9400, Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "id": 2645,
+    "title": "ABC CALZADOS - DEPORTES",
+    "website_original": "https://www.instagram.com/abccalzadosdeportes?igsh=NnFqMzZ4azZnNWty",
+    "website_normalized": "https://instagram.com/abccalzadosdeportes",
+    "social_type": "instagram",
+    "address": "Cnel. Suárez 140, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "id": 2646,
+    "title": "JuliSol Calzados",
+    "website_original": "http://www.facebook.com/calzadosjulisol/%20%20%20%20https://instagram.com/calzadosjulisol?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "http://facebook.com/calzadosjulisol/%20%20%20%20https://instagram.com/calzadosjulisol",
+    "social_type": "facebook",
+    "address": "5600, Av. Rodolfo Iselin 155, M5602BRD San Rafael, Mendoza, Argentina"
+  },
+  {
+    "id": 2657,
+    "title": "calzado los trillizos",
+    "website_original": "https://www.facebook.com/zapatillas.lostrillizos",
+    "website_normalized": "https://facebook.com/zapatillas.lostrillizos",
+    "social_type": "facebook",
+    "address": "Cnel. Ricardo Day 223, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "id": 2665,
+    "title": "Liberté",
+    "website_original": "https://instagram.com/liberte.sanrafael?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/liberte.sanrafael",
+    "social_type": "instagram",
+    "address": "C. Yapeyú 2147, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "id": 2700,
+    "title": "DIVINO TEENS",
+    "website_original": "http://www.facebook.com/divino.teens.9",
+    "website_normalized": "http://facebook.com/divino.teens.9",
+    "social_type": "facebook",
+    "address": "Mtro. Joaquín González 146, Q8300 Neuquén, Argentina"
+  },
+  {
+    "id": 2703,
+    "title": "Sporting.pna",
+    "website_original": "https://www.instagram.com/sporting_pna?utm_source=qr&igsh=MTg1OTFqaGI1ZHp5cg==",
+    "website_normalized": "https://instagram.com/sporting_pna",
+    "social_type": "instagram",
+    "address": "E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 2709,
+    "title": "Sneakers Parana",
+    "website_original": "http://www.instagram.com/sneakers.pna",
+    "website_normalized": "http://instagram.com/sneakers.pna",
+    "social_type": "instagram",
+    "address": "Gral. José de San Martín 709, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 2715,
+    "title": "EL IMAN PARANA",
+    "website_original": "https://www.facebook.com/elimanparana",
+    "website_normalized": "https://facebook.com/elimanparana",
+    "social_type": "facebook",
+    "address": "Gualeguaychú 182, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "id": 2722,
+    "title": "Nuevos Aires",
+    "website_original": "http://www.facebook.com/nuevosairescaseros",
+    "website_normalized": "http://facebook.com/nuevosairescaseros",
+    "social_type": "facebook",
+    "address": "GVA, 3 de Febrero 2545, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2723,
+    "title": "AMUNET CALZADOS",
+    "website_original": "https://www.facebook.com/amunetcalzados/",
+    "website_normalized": "https://facebook.com/amunetcalzados/",
+    "social_type": "facebook",
+    "address": "Av. del Libertador 2348, B1678GPZ Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2726,
+    "title": "Abacaxi",
+    "website_original": "https://www.instagram.com/tienda_abacaxi/?hl=es-la",
+    "website_normalized": "https://instagram.com/tienda_abacaxi/",
+    "social_type": "instagram",
+    "address": "3 de Febrero 2631, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2732,
+    "title": "QUIKSILVER ROXY DC RVCA USHUAIA",
+    "website_original": "https://www.instagram.com/quiksilver_roxy_dc_ushuaia?igsh=MWg0azZzaHhwbGExbg==",
+    "website_normalized": "https://instagram.com/quiksilver_roxy_dc_ushuaia",
+    "social_type": "instagram",
+    "address": "Av. San Martín 528, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2738,
+    "title": "La kantuta",
+    "website_original": "https://instagram.com/la_kantutaa?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/la_kantutaa",
+    "social_type": "instagram",
+    "address": "Magallanes 1507, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2739,
+    "title": "Cape Horn",
+    "website_original": "https://www.facebook.com/CapeHornUshuaia/",
+    "website_normalized": "https://facebook.com/CapeHornUshuaia/",
+    "social_type": "facebook",
+    "address": "Av. San Martín 801, V9410 BFI, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2741,
+    "title": "OCN Ushuaia",
+    "website_original": "https://www.instagram.com/ocn_ushuaia/",
+    "website_normalized": "https://instagram.com/ocn_ushuaia/",
+    "social_type": "instagram",
+    "address": "godoy 175, J. M. de Rosas 170, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "id": 2750,
+    "title": "ZAPATOS Michele",
+    "website_original": "https://www.instagram.com/lovepieshoes/",
+    "website_normalized": "https://instagram.com/lovepieshoes/",
+    "social_type": "instagram",
+    "address": "Cnel. Pablo Zufriategui 929, B1714GDM Gran, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2767,
+    "title": "COMPOSTURA DE CALZADO EL GALILEO",
+    "website_original": "https://www.facebook.com/alpargatasgalileo/",
+    "website_normalized": "https://facebook.com/alpargatasgalileo/",
+    "social_type": "facebook",
+    "address": "conjetal, Concejal Nicolás Defilippi 1462, B1714 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2776,
+    "title": "Botas de Circo",
+    "website_original": "https://instagram.com/botasdecirco?igshid=OGQ5ZDc2ODk2ZA==",
+    "website_normalized": "https://instagram.com/botasdecirco",
+    "social_type": "instagram",
+    "address": "Merlo 453, 1712 Castelar, B1712CON Buenos Aires, Argentina"
+  },
+  {
+    "id": 2800,
+    "title": "Fmsk Calzados",
+    "website_original": "https://www.instagram.com/fmsk.calzados?igsh=dGtlYm44OXJ4OGpq",
+    "website_normalized": "https://instagram.com/fmsk.calzados",
+    "social_type": "instagram",
+    "address": "Cañuelas Sur 3537, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2821,
+    "title": "Agripina Calzados",
+    "website_original": "https://www.instagram.com/agripinacalzados/?hl=es",
+    "website_normalized": "https://instagram.com/agripinacalzados/",
+    "social_type": "instagram",
+    "address": "Roque Sáenz Peña 4882, B1665BDB José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2825,
+    "title": "PATOLANDIA",
+    "website_original": "https://www.instagram.com/calzados_patolandia/?hl=es",
+    "website_normalized": "https://instagram.com/calzados_patolandia/",
+    "social_type": "instagram",
+    "address": "Av. Pres. Hipólito Yrigoyen 1873, B1665 José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2827,
+    "title": "Calzados Gema",
+    "website_original": "https://www.instagram.com/calzadosimportadosgema/?igshid=NTA5ZTk1NTc=",
+    "website_normalized": "https://instagram.com/calzadosimportadosgema/",
+    "social_type": "instagram",
+    "address": "Santiago de Compostela 109, 1665 José C. Paz, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2831,
+    "title": "Luna Chiara Outlet Jose C. Paz",
+    "website_original": "http://www.instagram.com/lunachiaraoutletjcp_",
+    "website_normalized": "http://instagram.com/lunachiaraoutletjcp_",
+    "social_type": "instagram",
+    "address": "Av. Pres. Hipólito Yrigoyen 1562, B1665ABP, Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2832,
+    "title": "Calzados Encantos",
+    "website_original": "https://www.facebook.com/Calzadosencantos/",
+    "website_normalized": "https://facebook.com/Calzadosencantos/",
+    "social_type": "facebook",
+    "address": "Boyacá, B1666 José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2839,
+    "title": "Debra Shoes",
+    "website_original": "http://www.facebook.com/debrashoes",
+    "website_normalized": "http://facebook.com/debrashoes",
+    "social_type": "facebook",
+    "address": "José C. Paz 2004, B1665BDF José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2842,
+    "title": "ACHALAY la Nieta",
+    "website_original": "https://www.facebook.com/Achalay-la-Nieta",
+    "website_normalized": "https://facebook.com/Achalay-la-Nieta",
+    "social_type": "facebook",
+    "address": "Av. José Altube 2168, B1665 José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2855,
+    "title": "Zuleyma calzados",
+    "website_original": "https://www.instagram.com/zuleyma_calzados?igsh=azJzYWdqam1hd3Zz",
+    "website_normalized": "https://instagram.com/zuleyma_calzados",
+    "social_type": "instagram",
+    "address": "Galería Paseo de Juan, El Callao, B1615 Malvinas Argentinas, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2862,
+    "title": "Addnice Outlet Los Polvorines",
+    "website_original": "https://www.instagram.com/addnice_polvorines/",
+    "website_normalized": "https://instagram.com/addnice_polvorines/",
+    "social_type": "instagram",
+    "address": "Av. Pres. Juan Domingo Perón 3624, B1613 Los Polvorines, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2864,
+    "title": "(Compostura de calzados)",
+    "website_original": "https://www.facebook.com/Compostura-de-calzados-107262684924550/",
+    "website_normalized": "https://facebook.com/Compostura-de-calzados-107262684924550/",
+    "social_type": "facebook",
+    "address": "Miraflores 2260, B1615CND Grand Bourg, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2873,
+    "title": "Calzados Agostina Escobar",
+    "website_original": "http://facebook.com/calzadosagostinaok",
+    "website_normalized": "http://facebook.com/calzadosagostinaok",
+    "social_type": "facebook",
+    "address": "Rivadavia 500, B1625 Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2879,
+    "title": "Delfino",
+    "website_original": "http://www.facebook.com/delfinocalzados",
+    "website_normalized": "http://facebook.com/delfinocalzados",
+    "social_type": "facebook",
+    "address": "Rivadavia 328, B1625GMH gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2883,
+    "title": "Zapatería Cachito",
+    "website_original": "https://m.facebook.com/profile.php?id=107021174417511&ref=content_filter",
+    "website_normalized": "https://m.facebook.com/profile.php",
+    "social_type": "facebook",
+    "address": "Juan P. Asborno 734, B1625FZP Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2893,
+    "title": "Hannah Shoes",
+    "website_original": "https://www.instagram.com/hannah.shoes_/",
+    "website_normalized": "https://instagram.com/hannah.shoes_/",
+    "social_type": "instagram",
+    "address": "Av. Eugenia Tapia de Cruz 341, B1625 Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2904,
+    "title": "La Fábrica De Zapatos",
+    "website_original": "https://instagram.com/lafabricadezapatos?utm_source=ig_profile_share&igshid=boky6dlihan5",
+    "website_normalized": "https://instagram.com/lafabricadezapatos",
+    "social_type": "instagram",
+    "address": "B6706 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2905,
+    "title": "Ser",
+    "website_original": "http://www.facebook.com/SerLujan",
+    "website_normalized": "http://facebook.com/SerLujan",
+    "social_type": "facebook",
+    "address": "San Martín 365, B6700APG Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2914,
+    "title": "Anaquelitos",
+    "website_original": "https://www.instagram.com/anaquelitosanaquelitos?igsh=aGZmbW5vbHg5OTls",
+    "website_normalized": "https://instagram.com/anaquelitosanaquelitos",
+    "social_type": "instagram",
+    "address": "Rivadavia 933, B6700CKK CKK, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2915,
+    "title": "A tus pies",
+    "website_original": "https://m.facebook.com/Calzadosdamalujan/?ref=bookmarks",
+    "website_normalized": "https://m.facebook.com/Calzadosdamalujan/",
+    "social_type": "facebook",
+    "address": "Colón 1182, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2916,
+    "title": "Clementina Calzados",
+    "website_original": "https://www.instagram.com/clementinacalzados/",
+    "website_normalized": "https://instagram.com/clementinacalzados/",
+    "social_type": "instagram",
+    "address": "San Martín 670, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2928,
+    "title": "Nivel",
+    "website_original": "https://www.facebook.com/Nivellujan/?ref=bookmarks",
+    "website_normalized": "https://facebook.com/Nivellujan/",
+    "social_type": "facebook",
+    "address": "CKM, Rivadavia 1013, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2929,
+    "title": "Nivel Uno",
+    "website_original": "http://www.facebook.com/nivelunolujan",
+    "website_normalized": "http://facebook.com/nivelunolujan",
+    "social_type": "facebook",
+    "address": "Italia 1029, B6700CNM Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2935,
+    "title": "Compostura de calzado y tapicería",
+    "website_original": "https://www.facebook.com/taller.de.calzados.oscar",
+    "website_normalized": "https://facebook.com/taller.de.calzados.oscar",
+    "social_type": "facebook",
+    "address": "Bartolomé Mitre 1477, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2938,
+    "title": "CLOVE",
+    "website_original": "https://www.instagram.com/cloveee__?igsh=MWFzMzI1dGVlMnBi",
+    "website_normalized": "https://instagram.com/cloveee__",
+    "social_type": "instagram",
+    "address": "Rómulo Naón 2295, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2940,
+    "title": "Zapateria y Compostura de Calzados Jorge Luis Dusac",
+    "website_original": "http://www.facebook.com/zapateria.jorgedusac",
+    "website_normalized": "http://facebook.com/zapateria.jorgedusac",
+    "social_type": "facebook",
+    "address": "C. Cornelio Saavedra 135, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2944,
+    "title": "Casa Bilbao",
+    "website_original": "https://www.facebook.com/Casa.Bilbao1/?ref=aymt_homepage_panel",
+    "website_normalized": "https://facebook.com/Casa.Bilbao1/",
+    "social_type": "facebook",
+    "address": "Carlos Pellegrini 1725, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2946,
+    "title": "Club Deportes",
+    "website_original": "https://instagram.com/clubdeportessp?igshid=eebw54jb10eu",
+    "website_normalized": "https://instagram.com/clubdeportessp",
+    "social_type": "instagram",
+    "address": "Bartolomé Mitre 1001, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2947,
+    "title": "Outlet San Pedro",
+    "website_original": "https://www.instagram.com/outlet_san_pedro?igsh=Z2YwM2E4ZjVndzFh&utm_source=qr",
+    "website_normalized": "https://instagram.com/outlet_san_pedro",
+    "social_type": "instagram",
+    "address": "25 de Mayo 1041, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2960,
+    "title": "\"MIS MARGARITAS\" tienda de calzados",
+    "website_original": "https://www.instagram.com/mismargaritas24?igsh=bXBldnZvZW90M3hw",
+    "website_normalized": "https://instagram.com/mismargaritas24",
+    "social_type": "instagram",
+    "address": "C. 10 1389, B6600 Mercedes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2964,
+    "title": "Futbol Puro Mercedes",
+    "website_original": "https://www.instagram.com/futbolpuro.mercedes?igsh=MTVpNnY3OGRpeG9sNg==",
+    "website_normalized": "https://instagram.com/futbolpuro.mercedes",
+    "social_type": "instagram",
+    "address": "C. 22 Bis 3051, B6600 Mercedes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2972,
+    "title": "Takos",
+    "website_original": "https://www.facebook.com/calzadostakos/?ref=bookmarks",
+    "website_normalized": "https://facebook.com/calzadostakos/",
+    "social_type": "facebook",
+    "address": "San Martín 52, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2973,
+    "title": "fatima shoes",
+    "website_original": "https://instagram.com/shoes.fatima?igshid=YmMyMTA2M2Y=",
+    "website_normalized": "https://instagram.com/shoes.fatima",
+    "social_type": "instagram",
+    "address": "Lavalle 91, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2974,
+    "title": "CALZADOS TROTTA",
+    "website_original": "https://www.facebook.com/Calzados-trotta-de-alicia-trotta-844024372471636/",
+    "website_normalized": "https://facebook.com/Calzados-trotta-de-alicia-trotta-844024372471636/",
+    "social_type": "facebook",
+    "address": "Maipú 18, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2990,
+    "title": "Villarino calzados 2",
+    "website_original": "https://www.instagram.com/calzadosvillarino2?igsh=MzZzZ2NvNDZqdncw",
+    "website_normalized": "https://instagram.com/calzadosvillarino2",
+    "social_type": "instagram",
+    "address": "Av. C. Calderón 201, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 2991,
+    "title": "Outlet jaguar chivilcoy",
+    "website_original": "https://www.instagram.com/outletjaguarchivilcoy?igsh=MWkzdTZldTNpOTRieA==",
+    "website_normalized": "https://instagram.com/outletjaguarchivilcoy",
+    "social_type": "instagram",
+    "address": "Moreno 260, Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3004,
+    "title": "PRINCE SHOES",
+    "website_original": "https://instagram.com/_princeshoes?igshid=MzRlODBiNWFlZA==",
+    "website_normalized": "https://instagram.com/_princeshoes",
+    "social_type": "instagram",
+    "address": "Bolívar 41, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3011,
+    "title": "Calzados Siglo XX",
+    "website_original": "https://www.facebook.com/Sigloxx2018/?ref=bookmarks",
+    "website_normalized": "https://facebook.com/Sigloxx2018/",
+    "social_type": "facebook",
+    "address": "Moreno 636, B7300 Azul, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3012,
+    "title": "La Vuelta",
+    "website_original": "https://www.instagram.com/pedrodicataldo?igsh=MWUwZDNtYmtoMThlYg==",
+    "website_normalized": "https://instagram.com/pedrodicataldo",
+    "social_type": "instagram",
+    "address": "Hipólito Yrigoyen 452, B7300 Azul, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3030,
+    "title": "Zapateria Goncalvez de Antonio Goncalvez",
+    "website_original": "https://www.instagram.com/goncalveszapateria",
+    "website_normalized": "https://instagram.com/goncalveszapateria",
+    "social_type": "instagram",
+    "address": "Pellegrini 1990, B6640 Bragado, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3050,
+    "title": "La Palta Shop",
+    "website_original": "https://www.instagram.com/lapaltashopsaladillo?igsh=MW16bXV6ZXU2b3Ewag==",
+    "website_normalized": "https://instagram.com/lapaltashopsaladillo",
+    "social_type": "instagram",
+    "address": "Moreno 3443, B7260 Saladillo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3059,
+    "title": "Mandarine Shoes",
+    "website_original": "https://www.instagram.com/mandarineshoesok?igsh=ejIwdHF5Nmc2MTUy&utm_source=qr",
+    "website_normalized": "https://instagram.com/mandarineshoesok",
+    "social_type": "instagram",
+    "address": "Rivadavia 2364, Saladillo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3063,
+    "title": "Botas la Española",
+    "website_original": "https://www.facebook.com/Botas-La-Espa%C3%B1ola-773269562688916/",
+    "website_normalized": "https://facebook.com/Botas-La-Espa%C3%B1ola-773269562688916/",
+    "social_type": "facebook",
+    "address": "RP2 Km 118.600, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3077,
+    "title": "Pink Chascomús",
+    "website_original": "https://www.instagram.com/pinkchascomus/profilecard/?igsh=MXE3dWo3Y3dxMXNseQ==",
+    "website_normalized": "https://instagram.com/pinkchascomus/profilecard/",
+    "social_type": "instagram",
+    "address": "Libres del Sur 128 local 2, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3079,
+    "title": "Compostura Romano",
+    "website_original": "https://www.instagram.com/taller_de_composturas/?hl=es",
+    "website_normalized": "https://instagram.com/taller_de_composturas/",
+    "social_type": "instagram",
+    "address": "Mazzini 152, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3081,
+    "title": "Cheeky",
+    "website_original": "https://instagram.com/cheekychascomus?utm_medium=copy_link",
+    "website_normalized": "https://instagram.com/cheekychascomus",
+    "social_type": "instagram",
+    "address": "Belgrano 157, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3082,
+    "title": "CULTURA EXTREMA",
+    "website_original": "https://linktr.ee/cultura.extrema",
+    "website_normalized": "https://linktr.ee/cultura.extrema",
+    "social_type": "bio_link",
+    "address": "Libres del Sur 91, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3083,
+    "title": "Artística Cuatrocolores",
+    "website_original": "https://www.instagram.com/cuatrocolores.artistica/?hl=es-la",
+    "website_normalized": "https://instagram.com/cuatrocolores.artistica/",
+    "social_type": "instagram",
+    "address": "Alvear 107, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3087,
+    "title": "Tierra - Arte y Artesanías Argentinas",
+    "website_original": "https://www.facebook.com/TierraArtesaniasChascomus/",
+    "website_normalized": "https://facebook.com/TierraArtesaniasChascomus/",
+    "social_type": "facebook",
+    "address": "Alvear 27, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3103,
+    "title": "Sublime",
+    "website_original": "http://www.facebook.com/sublimezapatos",
+    "website_normalized": "http://facebook.com/sublimezapatos",
+    "social_type": "facebook",
+    "address": "Int. Pedro Whelan 145, B1748FXC Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3104,
+    "title": "Almendra Rodríguez",
+    "website_original": "http://facebook.com/AlmendraRodriguezShoes",
+    "website_normalized": "http://facebook.com/AlmendraRodriguezShoes",
+    "social_type": "facebook",
+    "address": "ADP, Carlos Pellegrini 756, B1748 Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "id": 3127,
+    "title": "Uma OK",
+    "website_original": "https://www.instagram.com/uma.o.k",
+    "website_normalized": "https://instagram.com/uma.o.k",
+    "social_type": "instagram",
+    "address": "Blvd Bernardo de Irigoyen 724, B1748 Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  }
+]

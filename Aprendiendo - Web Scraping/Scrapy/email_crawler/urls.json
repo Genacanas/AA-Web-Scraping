@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "title": "Montella",
+        "phone": "+54 351 248-1234",
+        "website": "http://www.montella.com.ar/",
+        "address": "Deán Funes 299, X5009 Córdoba, Argentina"
+    },
+    {
+        "id": 2,
+        "title": "BUCCO",
+        "phone": "+54 351 572-2654",
+        "website": "https://www.bucco.com.ar/",
+        "address": "Av. J. M. de Pueyrredón 152, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 3,
+        "title": "Batistella Calzados y accesorios",
+        "phone": "+54 351 421-8379",
+        "website": "http://www.calzadosbatistella.com.ar/",
+        "address": "9 de Julio 118, X5000EMD Córdoba, Argentina"
+    },
+    {
+        "id": 4,
+        "title": "Grey's calzados",
+        "phone": "+54 351 372-6310",
+        "website": null,
+        "address": "X5008 Córdoba, Argentina"
+    },
+    {
+        "id": 5,
+        "title": "NICO",
+        "phone": null,
+        "website": "https://www.nicotiendas.com/",
+        "address": "San Martín 126, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 6,
+        "title": "Calzados Jimenez",
+        "phone": "+54 351 788-1331",
+        "website": null,
+        "address": "Av. las Malvinas 2693, X5012 Córdoba, Argentina"
+    },
+    {
+        "id": 7,
+        "title": "Piccadilly By Manolos Calzados",
+        "phone": "+54 351 422-8557",
+        "website": null,
+        "address": "Centro, Chacabuco 297, X5000IIC Córdoba, Argentina"
+    },
+    {
+        "id": 8,
+        "title": "Calzados Jimenez",
+        "phone": "+54 351 788-1331",
+        "website": "https://calzadosjimenez.com.ar/",
+        "address": "Bernardo O'Higgins 2616, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 9,
+        "title": "NICO",
+        "phone": "+54 351 627-8787",
+        "website": "https://www.nicotiendas.com/",
+        "address": "Av. Sagrada Familia 253, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 10,
+        "title": "Rokmos",
+        "phone": null,
+        "website": "http://www.rokmos.com/",
+        "address": "Francisco N de Laprida 51, X5000IJT X5000IJT, Córdoba, Argentina"
+    },
+    {
+        "id": 11,
+        "title": "Pili Yo Quiero",
+        "phone": "+54 9 351 517-1920",
+        "website": "http://www.piliyoquiero.com.ar/",
+        "address": "San Lorenzo 195, X5000AZK Córdoba, Argentina"
+    },
+    {
+        "id": 12,
+        "title": "Montella",
+        "phone": "+54 351 248-1234",
+        "website": "http://www.montella.com.ar/",
+        "address": "25 de Mayo 1011, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 13,
+        "title": "Calzados Alteza",
+        "phone": "+54 351 426-3575",
+        "website": "https://www.facebook.com/people/Alteza-Cordoba-Omar/100018729045500",
+        "address": "Entre Ríos 12, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 14,
+        "title": "mulhaus",
+        "phone": "+54 351 621-5954",
+        "website": "http://www.mulhaus.com.ar/",
+        "address": "Santiago Derqui 69, X5000IMP Córdoba, Argentina"
+    },
+    {
+        "id": 15,
+        "title": "Montella",
+        "phone": "+54 351 248-1234",
+        "website": "http://www.montella.com.ar/",
+        "address": "Ituzaingó 572, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 16,
+        "title": "Nodo Shoes",
+        "phone": "+54 351 423-2454",
+        "website": "http://www.nodoshoes.com.ar/",
+        "address": "9 de Julio 123, X5000EMC Córdoba, Argentina"
+    },
+    {
+        "id": 17,
+        "title": "Takones",
+        "phone": "+54 351 717-5507",
+        "website": "http://www.takones.com.ar/",
+        "address": "Obispo Trejo 160, X5000AAC Córdoba, Argentina"
+    },
+    {
+        "id": 18,
+        "title": "CALZADOS AVENIDA",
+        "phone": "+54 351 263-1490",
+        "website": "https://www.instagram.com/calzadosavenida4707/?hl=es-la",
+        "address": "Av. Fuerza Aérea Argentina 4707, X5010 Córdoba, Argentina"
+    },
+    {
+        "id": 19,
+        "title": "Manda Calzados",
+        "phone": "+54 351 468-1689",
+        "website": "https://www.mandacalzados.com.ar/",
+        "address": "Ituzaingó 1071, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 20,
+        "title": "Calzados Jimenez",
+        "phone": "+54 351 788-1331",
+        "website": "https://calzadosjimenez.com.ar/",
+        "address": "Jacinto de Altolaguirre 2553, X5012 Córdoba, Argentina"
+    },
+    {
+        "id": 21,
+        "title": "La Zapatería, Tienda de Calzados",
+        "phone": "+54 351 343-3018",
+        "website": "https://lazapateriatienda.com/",
+        "address": "Independencia 837, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 22,
+        "title": "Catchalot Zapatería Córdoba | Tienda de zapatos en Córdoba centro",
+        "phone": "+34 957 48 13 19",
+        "website": "https://catchalot.es/es/?utm_source=google&utm_medium=organic&utm_campaign=cordoba",
+        "address": "C. Concepción, 7, Centro, 14008 Córdoba, Spain"
+    },
+    {
+        "id": 23,
+        "title": "Vía Libre Calzados",
+        "phone": "+54 351 503-8089",
+        "website": "http://www.vialibrecalzados.com.ar/",
+        "address": "San Jerónimo 3079, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 24,
+        "title": "DINO BUTELLI",
+        "phone": "+54 351 424-8144",
+        "website": "http://www.dinobutelli.com.ar/",
+        "address": "Rivadavia Centro 98, X5000IPB Córdoba, Provincia de Córdoba, Argentina"
+    },
+    {
+        "id": 25,
+        "title": "FC calzados zapateria femenina talles grandes",
+        "phone": "+54 351 237-4610",
+        "website": "https://incalcordoba.empretienda.com.ar/",
+        "address": "Virgen de la Merced 2425, X5009 GEA, Córdoba, Argentina"
+    },
+    {
+        "id": 26,
+        "title": "Calzados el Tero",
+        "phone": "+54 351 472-1058",
+        "website": null,
+        "address": "Av. Juan B Justo 3058, X5001GXV Córdoba, Argentina"
+    },
+    {
+        "id": 27,
+        "title": "Grimoldi Patio Olmos Shopping",
+        "phone": "+54 351 426-2332",
+        "website": null,
+        "address": "Av. Vélez Sarsfield 361, X5000JJD Córdoba, Argentina"
+    },
+    {
+        "id": 28,
+        "title": "Simonetta calzados",
+        "phone": "+54 351 595-3175",
+        "website": "http://www.simonettacalzados.com/",
+        "address": "Belgrano 896, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 29,
+        "title": "Vía Libre Calzados",
+        "phone": "+54 351 504-6232",
+        "website": "http://www.vialibrecalzados.com.ar/",
+        "address": "Av. Fuerza Aérea Argentina 2936, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 30,
+        "title": "Magia Calzados",
+        "phone": "+54 351 428-1698",
+        "website": null,
+        "address": "9 de Julio 195, X5000EMC Córdoba, Argentina"
+    },
+    {
+        "id": 31,
+        "title": "Piccadilly Cordoba",
+        "phone": null,
+        "website": null,
+        "address": "Av. Colón 135, X5000 EPB, Córdoba, Argentina"
+    },
+    {
+        "id": 32,
+        "title": "Bacanal Calzados",
+        "phone": "+54 351 902-6557",
+        "website": "http://www.facebook.com/calzadosbacanal",
+        "address": "Tucumán 12, Centro, X5000JSB Córdoba, Argentina"
+    },
+    {
+        "id": 33,
+        "title": "Camelinna Zapatos",
+        "phone": "+54 351 592-6308",
+        "website": "http://www.camelinna.com/%20%20buenas%20noches%20soy%20de%20Guillerminacalzadosok%20este%20es%20nuestro%20Inst%20si%20te%20les%20interesa%20trabajar%20cont%C3%A1ctanos%20hacemos%20todo%20cuero%20por%20mayor%201162648490",
+        "address": "Obispo trejo 397, Centro, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 34,
+        "title": "Divina Mujer",
+        "phone": "+54 351 421-1125",
+        "website": "https://www.facebook.com/DivinaMujerCba",
+        "address": "Centro, 9 de Julio 138, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 35,
+        "title": "Calzados Paz",
+        "phone": null,
+        "website": "https://www.instagram.com/pazparatuspies/",
+        "address": "Tte. Gral. Donato Alvarez 9449 Local 6,7,8, X5022IHA Córdoba, Argentina"
+    },
+    {
+        "id": 36,
+        "title": "Minici Calzados",
+        "phone": "+54 9 351 228-9209",
+        "website": "https://www.instagram.com/minicicalzadosok/",
+        "address": "9 de Julio 185, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 37,
+        "title": "Batistella Calzados y accesorios- OUTLET",
+        "phone": "+54 351 421-0428",
+        "website": "http://www.calzadosbatistella.com.ar/",
+        "address": "Deán Funes 277, X5000AAE Córdoba, Argentina"
+    },
+    {
+        "id": 38,
+        "title": "Catalina Calzados y Accesorios",
+        "phone": "+54 9 351 559-5779",
+        "website": "http://www.catalinacalzados.com.ar/",
+        "address": "Av. Ramón Menéndez Pidal, Urca, Menéndez Pidal 4048 Local 3, X5009BAT Córdoba, Argentina"
+    },
+    {
+        "id": 39,
+        "title": "KLHO | KARAMELHO",
+        "phone": "+54 351 460-3869",
+        "website": null,
+        "address": "José Manuel Estrada 30, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 40,
+        "title": "Vajari",
+        "phone": "+54 351 426-4248",
+        "website": "http://www.vajari.co/",
+        "address": "Ituzaingó 585 Loc. 2, X5000IJK Córdoba, Argentina"
+    },
+    {
+        "id": 41,
+        "title": "Vajari",
+        "phone": "+54 351 426-4248",
+        "website": "http://www.vajari.co/",
+        "address": "Ituzaingó 585 Loc. 2, X5000IJK Córdoba, Argentina"
+    },
+    {
+        "id": 42,
+        "title": "zapatos marilen",
+        "phone": "+54 351 614-8345",
+        "website": null,
+        "address": "Av. los Sauces 3424, X5014CNL Córdoba, Argentina"
+    },
+    {
+        "id": 43,
+        "title": "Via Libre Calzados",
+        "phone": "+54 351 503-5929",
+        "website": "https://www.vialibrecalzados.com.ar/",
+        "address": "Av. Leandro N. Alem 3210 1, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 44,
+        "title": "Cespedes Zapatos",
+        "phone": "+54 351 482-0126",
+        "website": "https://cespedeszapatos.mitiendanube.com/",
+        "address": "Av. Recta Martinoli 7258, Argüello, X5021HYV Córdoba, Argentina"
+    },
+    {
+        "id": 45,
+        "title": "Puerto Calzados",
+        "phone": "+54 351 480-3356",
+        "website": null,
+        "address": "Av. Colón 2501, X5003DCJ Córdoba, Argentina"
+    },
+    {
+        "id": 46,
+        "title": "Calzados Luna",
+        "phone": "+54 351 684-9486",
+        "website": "https://www.facebook.com/Calzados-LUNA-1580704585570412/",
+        "address": "Av. Duarte Quirós 1915, X5000 AOD, Córdoba, Argentina"
+    },
+    {
+        "id": 47,
+        "title": "M&M calzados",
+        "phone": "+54 351 427-1373",
+        "website": null,
+        "address": "San Martín 266, X5000IJE Córdoba, Argentina"
+    },
+    {
+        "id": 48,
+        "title": "Via Libre Footwear",
+        "phone": "+54 351 504-8142",
+        "website": "http://www.vialibrecalzados.com.ar/",
+        "address": "Félix Paz 420, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 49,
+        "title": "Grimoldi",
+        "phone": "+54 800-122-6400",
+        "website": "https://www.grimoldi.com/",
+        "address": "9 de Julio 32, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 50,
+        "title": "ZAPAS CALZADOS",
+        "phone": null,
+        "website": "https://www.facebook.com/zapascalzadoscordoba?ref=hl",
+        "address": "Entre Ríos 381, X5022 Córdoba, Argentina"
+    },
+    {
+        "id": 51,
+        "title": "La Casa del Zapatero",
+        "phone": "+54 351 425-0261",
+        "website": null,
+        "address": "Av. Emilio Olmos 401, X5000 EOE, Córdoba, Argentina"
+    },
+    {
+        "id": 52,
+        "title": "mulhaus Recta",
+        "phone": "+54 351 621-5845",
+        "website": "https://www.mulhaus.com.ar/",
+        "address": "Av. Recta Martinolli 6817, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 53,
+        "title": "Factory Shoes",
+        "phone": "+54 351 245-8985",
+        "website": "https://www.facebook.com/calzadospollitocordoba",
+        "address": "Ituzaingó 210, X5000IJF Córdoba, Argentina"
+    },
+    {
+        "id": 54,
+        "title": "Calzados La Rotonda",
+        "phone": "+54 351 461-6871",
+        "website": null,
+        "address": "Av. Dr, Av. Vélez Sarsfield 3384, X5016GDR Córdoba, Argentina"
+    },
+    {
+        "id": 55,
+        "title": "Lola Zapatos",
+        "phone": "+54 351 751-3457",
+        "website": "https://www.facebook.com/lolazapatosok/",
+        "address": "9 de Julio 245, X5022 Córdoba, Argentina"
+    },
+    {
+        "id": 56,
+        "title": "Infinito Calzados",
+        "phone": "+54 351 257-9123",
+        "website": "https://www.instagram.com/infinitocalzados/",
+        "address": "Av. Fuerza Aérea Argentina 2599, X5010 Córdoba, Argentina"
+    },
+    {
+        "id": 57,
+        "title": "Zapatería Sús Calzados - Zapatos Zapatillas x menor. No hacemos envíos.",
+        "phone": "+54 351 252-1394",
+        "website": "http://www.facebook.com/suscalzados",
+        "address": "Juan B. Justo 4600, Villa Azalais Oeste, X5001GYX Córdoba, Argentina"
+    },
+    {
+        "id": 58,
+        "title": "Catchalot Zapatería Córdoba | Tienda de zapatos en CC El Arcángel Córdoba",
+        "phone": "+34 957 75 01 03",
+        "website": "https://catchalot.es/es/?utm_source=google&utm_medium=organic&utm_campaign=cordoba",
+        "address": "Av. del Arcángel, 27, Sureste, 14010 Córdoba, Spain"
+    },
+    {
+        "id": 59,
+        "title": "Calzados Ventosa",
+        "phone": "+34 957 47 10 92",
+        "website": "http://calzadosventosa.com/",
+        "address": "Pl. de Colón, 1, Centro, 14001 Córdoba, Spain"
+    },
+    {
+        "id": 60,
+        "title": "Hush Puppies | Zapatos y Zapatillas Cordoba Nuevo Centro",
+        "phone": "+54 11 3989-3260",
+        "website": "http://www.hushpuppies.com.ar/",
+        "address": "Av. Duarte Quirós 1400, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 61,
+        "title": "Carolina Calzados",
+        "phone": "+54 351 705-9451",
+        "website": null,
+        "address": "Av. Recta Martinolli 7525, X5021 HYL, Córdoba, Argentina"
+    },
+    {
+        "id": 62,
+        "title": "Calzados San Antonio",
+        "phone": "+54 351 425-0449",
+        "website": null,
+        "address": "San Martín 467, X5000IWI Córdoba, Argentina"
+    },
+    {
+        "id": 63,
+        "title": "Via Libre Footwear",
+        "phone": "+54 9 351 443-2666",
+        "website": "http://www.vialibrecalzados.com.ar/",
+        "address": "Tte. Gral. Donato Alvarez 8184 local 1, X5022IFQ Córdoba, Argentina"
+    },
+    {
+        "id": 64,
+        "title": "via libre calzados",
+        "phone": "+54 351 504-6229",
+        "website": "https://vialibrecalzados.com.ar/",
+        "address": "Mariano Fragueiro 3565, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 65,
+        "title": "Calzados Ventosa",
+        "phone": "+34 957 47 10 92",
+        "website": "http://calzadosventosa.com/",
+        "address": "Pl. de Colón, 1, Centro, 14001 Córdoba, Spain"
+    },
+    {
+        "id": 66,
+        "title": "Anca & Co",
+        "phone": "+54 351 570-4128",
+        "website": null,
+        "address": "Patio Olmos Centro, Av. Vélez Sarsfield 361 PB Local 128, X5014AGW Córdoba, Argentina"
+    },
+    {
+        "id": 67,
+        "title": "Zapatería Estylo",
+        "phone": "+52 271 712 0029",
+        "website": null,
+        "address": "Av 1 709, entre Calle 7, Centro, 94500 Córdoba, Ver., Mexico"
+    },
+    {
+        "id": 68,
+        "title": "Vía Libre Calzados",
+        "phone": "+54 351 504-8139",
+        "website": "http://www.vialibrecalzados.com.ar/",
+        "address": "Sta. Ana 4010, X5002DBY Córdoba, Argentina"
+    },
+    {
+        "id": 69,
+        "title": "Conte",
+        "phone": "+54 351 482-3007",
+        "website": null,
+        "address": "Rodríguez del Busto 4086, X5009 Córdoba, Argentina"
+    },
+    {
+        "id": 70,
+        "title": "ZAPSHOP CORDOBA",
+        "phone": "+34 957 36 21 29",
+        "website": "https://zapshop.es/",
+        "address": "C. Concepción, 8, local C, Centro, 14008 Córdoba, Spain"
+    },
+    {
+        "id": 71,
+        "title": "Montana",
+        "phone": "+54 351 422-0100",
+        "website": null,
+        "address": "9 de Julio 241 Local 7 y 8 Galería de la Fontana, Centro, X5000EME Córdoba, Argentina"
+    },
+    {
+        "id": 72,
+        "title": "Juca & Bajitos - Piccadilly CENTER",
+        "phone": "+54 351 426-2625",
+        "website": null,
+        "address": "Av. Juan B Justo 2260, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 73,
+        "title": "Via Libre Footwear",
+        "phone": "+54 351 200-2914",
+        "website": "http://www.vialibrecalzados.com.ar/",
+        "address": "Av San Martín 435, Centro, X5000IWI Malvinas Argentinas, Córdoba, Argentina"
+    },
+    {
+        "id": 74,
+        "title": "Rocco",
+        "phone": "+54 351 422-6472",
+        "website": "https://www.facebook.com/rocco.zapateria/",
+        "address": "Gral. Paz 146 Local 2, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 75,
+        "title": "new style zapatería",
+        "phone": "+54 351 444-4472",
+        "website": null,
+        "address": "Ituzaingó 84, X5000IJB Córdoba, Argentina"
+    },
+    {
+        "id": 76,
+        "title": "Venus Calzados",
+        "phone": "+54 351 425-3655",
+        "website": null,
+        "address": "Av. Colón 315, X5000 EPD, Córdoba, Argentina"
+    },
+    {
+        "id": 77,
+        "title": "Gisel Calzados",
+        "phone": "+54 351 911-5607",
+        "website": null,
+        "address": "27 de Abril 164, X5000AED Córdoba, Argentina"
+    },
+    {
+        "id": 78,
+        "title": "Calzados Victoria",
+        "phone": "+54 351 423-5951",
+        "website": null,
+        "address": "27 de Abril 164, X5000AED Córdoba, Argentina"
+    },
+    {
+        "id": 79,
+        "title": "Calzados Granaderos",
+        "phone": "+54 351 477-1969",
+        "website": null,
+        "address": "Bv. Los Granaderos 2150, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 80,
+        "title": "Calzados Kannes",
+        "phone": "+54 351 424-1775",
+        "website": "https://www.facebook.com/kannescalzados",
+        "address": "Independencia 388, X5000 IUH, Córdoba, Argentina"
+    },
+    {
+        "id": 81,
+        "title": "Zapatería Sus Calzados Zapatos Zapatillas Por menor No hacemos envíos.",
+        "phone": "+54 351 252-1394",
+        "website": null,
+        "address": "Pablo Groussac 4669, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 82,
+        "title": "Ferrarazzo",
+        "phone": "+54 9 351 238-5088",
+        "website": null,
+        "address": "Fèlix Frias 134 Bº General Paz, Còrdoda, X5900 Còrdoba, Córdoba, Argentina"
+    },
+    {
+        "id": 83,
+        "title": "Juan B. Calzados",
+        "phone": "+54 351 426-3199",
+        "website": null,
+        "address": "San Martín 138, X5000IWD Córdoba, Argentina"
+    },
+    {
+        "id": 84,
+        "title": "Strawberry",
+        "phone": "+54 351 551-2905",
+        "website": null,
+        "address": "Obispo Trejo 468, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 85,
+        "title": "Guapa Loca",
+        "phone": "+54 351 421-3301",
+        "website": null,
+        "address": "9 de Julio 37 Local 1 Nuevo Pasaje Muñoz, Centro, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 86,
+        "title": "Timón Calzados sucursal B° Jardin.",
+        "phone": "+54 351 263-9348",
+        "website": "https://www.timoncalzados.com/",
+        "address": "carrefour barrio jardin, Bernardo O'Higgins 3765 local 9, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 87,
+        "title": "Montella",
+        "phone": "+54 351 248-1234",
+        "website": "http://montella.com.ar/",
+        "address": "25 de Mayo 138, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 88,
+        "title": "Calzados Maximo 20.✅ Tienda de ropa y Zapatería en Córdoba.",
+        "phone": "+34 670 21 65 22",
+        "website": "https://maximo20cordoba.com/",
+        "address": "C. Úbeda, 13, Sur, 14013 Córdoba, Spain"
+    },
+    {
+        "id": 89,
+        "title": "Outlet Alvear",
+        "phone": null,
+        "website": "http://www.facebook.com/outletalvear",
+        "address": "Int. Ramón Bautista Mestre 1100, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 90,
+        "title": "Zapaterías Modulor",
+        "phone": "+54 351 697-4444",
+        "website": null,
+        "address": "25 de Mayo 237, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 91,
+        "title": "Zapaterías México",
+        "phone": "+52 271 314 2096",
+        "website": "http://www.zapateriasmexico.com.mx/",
+        "address": "Av 1 514-Número Exterior 517, Centro, 94500 Córdoba, Ver., Mexico"
+    },
+    {
+        "id": 92,
+        "title": "Calzado para mujer FRATTINA calzados",
+        "phone": "+54 351 618-8215",
+        "website": "https://www.instagram.com/calzadosfrattina/",
+        "address": "Independencia 509, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 93,
+        "title": "Paruolo",
+        "phone": "+54 351 420-5046",
+        "website": "http://www.paruolo.com.ar/",
+        "address": "Jose Antonio de Goyechea 2851, X5009CMA Córdoba, Argentina"
+    },
+    {
+        "id": 94,
+        "title": "Punto joven",
+        "phone": "+54 351 421-3311",
+        "website": null,
+        "address": "9 de Julio 19, X5000EMA Córdoba, Argentina"
+    },
+    {
+        "id": 95,
+        "title": "Calzados Ventosa",
+        "phone": "+34 957 43 36 32",
+        "website": "http://www.calzadosventosa.com/",
+        "address": "Av. Virgen de Fátima, 31, BAJO, Levante, 14001 Córdoba, Spain"
+    },
+    {
+        "id": 96,
+        "title": "Zapateria manuel",
+        "phone": "+54 351 662-7322",
+        "website": null,
+        "address": "Av. Recta Martinolli 7683, X5147 Córdoba, Argentina"
+    },
+    {
+        "id": 97,
+        "title": "Cespedes Zapatos",
+        "phone": "+54 351 868-6194",
+        "website": "http://cespedeszapatos.com.ar/",
+        "address": "Av. Rafael Núñez 4378, X5009 Córdoba, Argentina"
+    },
+    {
+        "id": 98,
+        "title": "Batistella - Calzados y accesorios",
+        "phone": null,
+        "website": "https://calzadosbatistella.com.ar/",
+        "address": "Bv Elias Yofre 1031, X5000 Córdoba, Argentina"
+    },
+    {
+        "id": 99,
+        "title": "Zapatería Estylo",
+        "phone": "+52 271 712 0029",
+        "website": null,
+        "address": "Av 1 709, entre Calle 7, Centro, 94500 Córdoba, Ver., Mexico"
+    },
+    {
+        "id": 100,
+        "title": "Calzadoscordobaa",
+        "phone": "+54 351 272-4952",
+        "website": "https://www.instagram.com/calzadoscordobaa?igsh=MXMyZGRnemwxaHZvOA==",
+        "address": "Av. Kelvin, X5020 Córdoba, Argentina"
+    }
+]

@@ -1,0 +1,154 @@
+[
+{
+    "root": "http://www.calzadosbatistella.com.ar/",
+    "page": "https://www.calzadosbatistella.com.ar/",
+    "email": "tiendaonline@calzadosbatistella.com.ar",
+    "source": "home_plain",
+    "seed_id": 3,
+    "seed_title": "Batistella Calzados y accesorios"
+},
+{
+    "root": "http://www.piliyoquiero.com.ar/",
+    "page": "https://www.piliyoquiero.com.ar/",
+    "email": "piliyoquieroo@gmail.com",
+    "source": "home_plain",
+    "seed_id": 11,
+    "seed_title": "Pili Yo Quiero"
+},
+{
+    "root": "http://www.dinobutelli.com.ar/",
+    "page": "https://dinobutelli.com.ar/",
+    "email": "ventas@dinobutelli.com.ar",
+    "source": "home_plain",
+    "seed_id": 24,
+    "seed_title": "DINO BUTELLI"
+},
+{
+    "root": "http://www.montella.com.ar/",
+    "page": "https://montella.com.ar/",
+    "email": "montellacalzados@gmail.com",
+    "source": "home_plain",
+    "seed_id": 1,
+    "seed_title": "Montella"
+},
+{
+    "root": "http://www.takones.com.ar/",
+    "page": "https://www.takones.com.ar/",
+    "email": "takonesshoes@hotmail.com",
+    "source": "home_js",
+    "seed_id": 17,
+    "seed_title": "Takones"
+},
+{
+    "root": "http://www.simonettacalzados.com/",
+    "page": "https://www.simonettacalzados.com/",
+    "email": "calzadossimonetta@gmail.com",
+    "source": "home_js",
+    "seed_id": 28,
+    "seed_title": "Simonetta calzados"
+},
+{
+    "root": "http://www.vajari.co/",
+    "page": "https://www.vajari.co/",
+    "email": "contacto@vajari.co",
+    "source": "home_js",
+    "seed_id": 40,
+    "seed_title": "Vajari"
+},
+{
+    "root": "http://www.catalinacalzados.com.ar/",
+    "page": "https://www.catalinacalzados.com.ar/",
+    "email": "catalinacalzados@outlook.com.ar",
+    "source": "home_js",
+    "seed_id": 38,
+    "seed_title": "Catalina Calzados y Accesorios"
+},
+{
+    "root": "http://calzadosventosa.com/",
+    "page": "https://calzadosventosa.com/",
+    "email": "info@calzadosventosa.com",
+    "source": "home_plain",
+    "seed_id": 59,
+    "seed_title": "Calzados Ventosa"
+},
+{
+    "root": "https://vialibrecalzados.com.ar/",
+    "page": "https://vialibrecalzados.com.ar/",
+    "email": "info@vialibrecalzados.com.ar",
+    "source": "home_plain",
+    "seed_id": 64,
+    "seed_title": "via libre calzados"
+},
+{
+    "root": "http://www.nodoshoes.com.ar/",
+    "page": "https://nodoshoes.com.ar/",
+    "email": "nodoshoesmkt@gmail.com",
+    "source": "home_js",
+    "seed_id": 16,
+    "seed_title": "Nodo Shoes"
+},
+{
+    "root": "https://lazapateriatienda.com/",
+    "page": "https://lazapateriatienda.com/",
+    "email": "info@lazapateriatienda.com",
+    "source": "home_js",
+    "seed_id": 21,
+    "seed_title": "La Zapater\u00eda, Tienda de Calzados"
+},
+{
+    "root": "https://calzadosjimenez.com.ar/",
+    "page": "https://calzadosjimenez.com.ar/contacto/",
+    "email": "info@calzadosjimenez.com.ar",
+    "source": "contact_plain",
+    "seed_id": 8,
+    "seed_title": "Calzados Jimenez"
+},
+{
+    "root": "https://cespedeszapatos.mitiendanube.com/",
+    "page": "https://cespedeszapatos.mitiendanube.com/",
+    "email": "info@cespedeszapatos.com.ar",
+    "source": "home_js",
+    "seed_id": 44,
+    "seed_title": "Cespedes Zapatos"
+},
+{
+    "root": "https://www.mandacalzados.com.ar/",
+    "page": "https://www.mandacalzados.com.ar/contacto/?order_cancellation_without_id=true",
+    "email": "mandacalzadosyaccesorios@gmail.com",
+    "source": "contact_js",
+    "seed_id": 19,
+    "seed_title": "Manda Calzados"
+},
+{
+    "root": "https://www.mandacalzados.com.ar/",
+    "page": "https://www.mandacalzados.com.ar/contacto/",
+    "email": "mandacalzadosyaccesorios@gmail.com",
+    "source": "contact_js",
+    "seed_id": 19,
+    "seed_title": "Manda Calzados"
+},
+{
+    "root": "http://www.calzadosventosa.com/",
+    "page": "https://www.calzadosventosa.com/",
+    "email": "info@calzadosventosa.com",
+    "source": "home_plain",
+    "seed_id": 95,
+    "seed_title": "Calzados Ventosa"
+},
+{
+    "root": "https://maximo20cordoba.com/",
+    "page": "https://maximo20cordoba.com/",
+    "email": "info@maximo20cordoba.com",
+    "source": "home_js",
+    "seed_id": 88,
+    "seed_title": "Calzados Maximo 20.\u2705 Tienda de ropa y Zapater\u00eda en C\u00f3rdoba."
+},
+{
+    "root": "http://cespedeszapatos.com.ar/",
+    "page": "https://www.cespedeszapatos.com.ar/",
+    "email": "info@cespedeszapatos.com.ar",
+    "source": "home_js",
+    "seed_id": 97,
+    "seed_title": "Cespedes Zapatos"
+}
+]

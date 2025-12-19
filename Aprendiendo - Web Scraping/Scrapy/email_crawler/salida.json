@@ -1,0 +1,26 @@
+[
+{
+    "root": "http://www.calzadosbatistella.com.ar/",
+    "page": "https://www.calzadosbatistella.com.ar/",
+    "email": "tiendaonline@calzadosbatistella.com.ar",
+    "source": "home_plain",
+    "seed_id": 3,
+    "seed_title": "Batistella Calzados y accesorios"
+},
+{
+    "root": "http://www.piliyoquiero.com.ar/",
+    "page": "https://www.piliyoquiero.com.ar/",
+    "email": "piliyoquieroo@gmail.com",
+    "source": "home_plain",
+    "seed_id": 11,
+    "seed_title": "Pili Yo Quiero"
+},
+{
+    "root": "http://www.vialibrecalzados.com.ar/",
+    "page": "https://vialibrecalzados.com.ar/",
+    "email": "info@vialibrecalzados.com.ar",
+    "source": "home_plain",
+    "seed_id": 23,
+    "seed_title": "V\u00eda Libre Calzados"
+}
+]

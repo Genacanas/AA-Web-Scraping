@@ -1,0 +1,114 @@
+[
+{
+    "root": "http://www.calzadosbatistella.com.ar/",
+    "page": "https://www.calzadosbatistella.com.ar/",
+    "email": "tiendaonline@calzadosbatistella.com.ar",
+    "source": "home_plain",
+    "seed_id": 3,
+    "seed_title": "Batistella Calzados y accesorios"
+},
+{
+    "root": "http://www.piliyoquiero.com.ar/",
+    "page": "https://www.piliyoquiero.com.ar/",
+    "email": "piliyoquieroo@gmail.com",
+    "source": "home_plain",
+    "seed_id": 11,
+    "seed_title": "Pili Yo Quiero"
+},
+{
+    "root": "http://www.dinobutelli.com.ar/",
+    "page": "https://dinobutelli.com.ar/",
+    "email": "ventas@dinobutelli.com.ar",
+    "source": "home_plain",
+    "seed_id": 24,
+    "seed_title": "DINO BUTELLI"
+},
+{
+    "root": "https://www.facebook.com/DivinaMujerCba",
+    "page": "https://www.facebook.com/DivinaMujerCba",
+    "email": "gastonsabuqui@outlook.com",
+    "source": "home_js",
+    "seed_id": 34,
+    "seed_title": "Divina Mujer"
+},
+{
+    "root": "https://www.facebook.com/zapascalzadoscordoba?ref=hl",
+    "page": "https://www.facebook.com/zapascalzadoscordoba?ref=hl",
+    "email": "zapascalzados@gmail.com",
+    "source": "home_js",
+    "seed_id": 50,
+    "seed_title": "ZAPAS CALZADOS"
+},
+{
+    "root": "https://lazapateriatienda.com/",
+    "page": "https://lazapateriatienda.com/",
+    "email": "info@lazapateriatienda.com",
+    "source": "home_js",
+    "seed_id": 21,
+    "seed_title": "La Zapater\u00eda, Tienda de Calzados"
+},
+{
+    "root": "https://calzadosjimenez.com.ar/",
+    "page": "https://calzadosjimenez.com.ar/contacto/",
+    "email": "info@calzadosjimenez.com.ar",
+    "source": "contact_plain",
+    "seed_id": 8,
+    "seed_title": "Calzados Jimenez"
+},
+{
+    "root": "http://calzadosventosa.com/",
+    "page": "https://calzadosventosa.com/",
+    "email": "info@calzadosventosa.com",
+    "source": "home_plain",
+    "seed_id": 59,
+    "seed_title": "Calzados Ventosa"
+},
+{
+    "root": "https://vialibrecalzados.com.ar/",
+    "page": "https://vialibrecalzados.com.ar/",
+    "email": "info@vialibrecalzados.com.ar",
+    "source": "home_plain",
+    "seed_id": 64,
+    "seed_title": "via libre calzados"
+},
+{
+    "root": "http://www.calzadosventosa.com/",
+    "page": "https://www.calzadosventosa.com/",
+    "email": "info@calzadosventosa.com",
+    "source": "home_plain",
+    "seed_id": 95,
+    "seed_title": "Calzados Ventosa"
+},
+{
+    "root": "https://www.facebook.com/rocco.zapateria/",
+    "page": "https://www.facebook.com/rocco.zapateria/",
+    "email": "roccozapateria@gmail.com",
+    "source": "home_js",
+    "seed_id": 74,
+    "seed_title": "Rocco"
+},
+{
+    "root": "http://www.facebook.com/outletalvear",
+    "page": "https://www.facebook.com/outletalvear",
+    "email": "rrhh@outletalvear.com.ar",
+    "source": "home_js",
+    "seed_id": 89,
+    "seed_title": "Outlet Alvear"
+},
+{
+    "root": "https://maximo20cordoba.com/",
+    "page": "https://maximo20cordoba.com/",
+    "email": "info@maximo20cordoba.com",
+    "source": "home_js",
+    "seed_id": 88,
+    "seed_title": "Calzados Maximo 20.\u2705 Tienda de ropa y Zapater\u00eda en C\u00f3rdoba."
+},
+{
+    "root": "https://www.bucco.com.ar/",
+    "page": "https://www.bucco.com.ar/",
+    "email": "buccotiendaonline@gmail.com",
+    "source": "home_js",
+    "seed_id": 2,
+    "seed_title": "BUCCO"
+}
+]

@@ -1,0 +1,63 @@
+[Running] C:\Users\feliu\AppData\Local\Programs\Python\Python312\python.exe -u "c:\Users\feliu\OneDrive\Documentos\AA-Web-Scraping\Aprendiendo - Web Scraping\Lead SerpAPI\google_maps_api\zap_arg\zap_arg_210_250.py"
+Reintentos detectados en log: 13
+ - Berazategui next_start=60
+ - Florencio Varela next_start=60
+ - Junín next_start=60
+ - Neuquén next_start=80
+ - Olavarría next_start=60
+ - Paraná next_start=80
+ - Río Gallegos next_start=40
+ - San Isidro next_start=60
+ - San Martín next_start=60
+ - San Rafael next_start=40
+ - San Salvador de Jujuy next_start=80
+ - Tres de Febrero (Caseros) next_start=60
+ - Ushuaia next_start=40
+
+Total de tareas armadas: 41 (objetivo 41)
+[ERROR] Berazategui start=60 -> Google hasn't returned any results for this query.
+[OK] Florencio Varela start=60 -> añadidos 4
+[OK] Junín start=60 -> añadidos 5
+[OK] Neuquén start=80 -> añadidos 11
+[ERROR] Olavarría start=60 -> Google hasn't returned any results for this query.
+[OK] Paraná start=80 -> añadidos 20
+[ERROR] Río Gallegos start=40 -> Google hasn't returned any results for this query.
+[ERROR] San Isidro start=60 -> Google hasn't returned any results for this query.
+[ERROR] San Martín start=60 -> Google hasn't returned any results for this query.
+[ERROR] San Rafael start=40 -> Google hasn't returned any results for this query.
+[ERROR] San Salvador de Jujuy start=80 -> Google hasn't returned any results for this query.
+[OK] Tres de Febrero (Caseros) start=60 -> añadidos 6
+[OK] Ushuaia start=40 -> añadidos 15
+[OK] Ituzaingó start=0 -> añadidos 19
+[OK] Ituzaingó start=20 -> añadidos 20
+[OK] Hurlingham start=0 -> añadidos 20
+[OK] Hurlingham start=20 -> añadidos 18
+[OK] José C. Paz start=0 -> añadidos 20
+[OK] José C. Paz start=20 -> añadidos 14
+[OK] Malvinas Argentinas start=0 -> añadidos 18
+[OK] Malvinas Argentinas start=20 -> añadidos 1
+[OK] Escobar start=0 -> añadidos 20
+[OK] Escobar start=20 -> añadidos 7
+[OK] Luján (BA) start=0 -> añadidos 20
+[OK] Luján (BA) start=20 -> añadidos 10
+[OK] San Pedro (BA) start=0 -> añadidos 20
+[ERROR] San Pedro (BA) start=20 -> Google hasn't returned any results for this query.
+[OK] Mercedes (BA) start=0 -> añadidos 19
+[ERROR] Mercedes (BA) start=20 -> Google hasn't returned any results for this query.
+[OK] Chivilcoy start=0 -> añadidos 20
+[OK] Chivilcoy start=20 -> añadidos 20
+[OK] Azul start=0 -> añadidos 20
+[OK] Azul start=20 -> añadidos 1
+[OK] Bragado start=0 -> añadidos 17
+[ERROR] Bragado start=20 -> Google hasn't returned any results for this query.
+[OK] Saladillo start=0 -> añadidos 14
+[ERROR] Saladillo start=20 -> Google hasn't returned any results for this query.
+[OK] Chascomús start=0 -> añadidos 20
+[OK] Chascomús start=20 -> añadidos 18
+[OK] General Rodríguez start=0 -> añadidos 20
+[OK] General Rodríguez start=20 -> añadidos 10
+
+--- Resumen 41 ---
+Requests ejecutadas: 30/41
+Resultados únicos acumulados: 3128
+Guardado en zapaterias_argentina.json

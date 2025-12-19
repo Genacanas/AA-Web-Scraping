@@ -1,0 +1,35 @@
+[
+  {
+    "id_resultado": 1,
+    "seed_id": 70,
+    "seed_title": "ZAPSHOP CORDOBA",
+    "site_root": "https://zapshop.es/",
+    "source": "contact_HTML",
+    "source_url": "https://zapshop.es/contacto",
+    "emails": [
+      "yourmail@com.com"
+    ]
+  },
+  {
+    "id_resultado": 2,
+    "seed_id": 64,
+    "seed_title": "via libre calzados",
+    "site_root": "https://vialibrecalzados.com.ar/",
+    "source": "home_HTML",
+    "source_url": "https://vialibrecalzados.com.ar/",
+    "emails": [
+      "info@vialibrecalzados.com.ar"
+    ]
+  },
+  {
+    "id_resultado": 3,
+    "seed_id": 8,
+    "seed_title": "Calzados Jimenez",
+    "site_root": "https://calzadosjimenez.com.ar/",
+    "source": "contact_JS",
+    "source_url": "https://calzadosjimenez.com.ar/contacto",
+    "emails": [
+      "info@calzadosjimenez.com.ar"
+    ]
+  }
+]

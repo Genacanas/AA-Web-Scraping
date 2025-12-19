@@ -1,0 +1,760 @@
+[
+    {
+        "name": "SEMICONDUCTORS",
+        "url": "",
+        "sub_topics": [
+            {
+                "name": "POWER MODULES",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Bridge Modules",
+                        "url": "https://www.vishay.com/en/modules/bridge-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "POWER MODULES",
+                            "Bridge Modules"
+                        ]
+                    },
+                    {
+                        "name": "Diode Modules",
+                        "url": "https://www.vishay.com/en/modules/diode-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "POWER MODULES",
+                            "Diode Modules"
+                        ]
+                    },
+                    {
+                        "name": "IGBT Modules",
+                        "url": "https://www.vishay.com/en/modules/igbt-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "POWER MODULES",
+                            "IGBT Modules"
+                        ]
+                    },
+                    {
+                        "name": "MOSFET Modules",
+                        "url": "https://www.vishay.com/en/modules/mosfet-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "POWER MODULES",
+                            "MOSFET Modules"
+                        ]
+                    },
+                    {
+                        "name": "Thyristor Modules",
+                        "url": "https://www.vishay.com/en/modules/thyristor-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "POWER MODULES",
+                            "Thyristor Modules"
+                        ]
+                    },
+                    {
+                        "name": "Automotive Modules",
+                        "url": "https://www.vishay.com/en/modules/automotive-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "POWER MODULES",
+                            "Automotive Modules"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "SEMICONDUCTORS",
+                    "POWER MODULES"
+                ]
+            },
+            {
+                "name": "optoelectronics",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Optoelectronics",
+                        "url": "https://www.vishay.com/en/optoelectronics/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Optoelectronics"
+                        ]
+                    },
+                    {
+                        "name": "Optocouplers / Isolators",
+                        "url": "https://www.vishay.com/en/optocouplers/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Optocouplers / Isolators"
+                        ]
+                    },
+                    {
+                        "name": "IR Receivers for Remote Control",
+                        "url": "https://www.vishay.com/en/ir-receiver-modules/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "IR Receivers for Remote Control"
+                        ]
+                    },
+                    {
+                        "name": "Optical Sensors",
+                        "url": "https://www.vishay.com/en/optical-sensors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Optical Sensors"
+                        ]
+                    },
+                    {
+                        "name": "Infrared Emitters",
+                        "url": "https://www.vishay.com/en/ir-emitting-diodes/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Infrared Emitters"
+                        ]
+                    },
+                    {
+                        "name": "Photo Detectors",
+                        "url": "https://www.vishay.com/en/photo-detectors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Photo Detectors"
+                        ]
+                    },
+                    {
+                        "name": "LEDs",
+                        "url": "https://www.vishay.com/en/leds/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "LEDs"
+                        ]
+                    },
+                    {
+                        "name": "Solid-State Relays",
+                        "url": "https://www.vishay.com/en/solid-state-relays/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Solid-State Relays"
+                        ]
+                    },
+                    {
+                        "name": "IRDC Transceivers",
+                        "url": "https://www.vishay.com/en/ir-transceivers/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "IRDC Transceivers"
+                        ]
+                    },
+                    {
+                        "name": "Displays â LCD/TFT/OLED/Touch",
+                        "url": "https://www.vishay.com/en/displays/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "Displays â LCD/TFT/OLED/Touch"
+                        ]
+                    },
+                    {
+                        "name": "7-Segment Displays",
+                        "url": "https://www.vishay.com/en/displays/seven-segment-display/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "optoelectronics",
+                            "7-Segment Displays"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "SEMICONDUCTORS",
+                    "optoelectronics"
+                ]
+            },
+            {
+                "name": "mosfets",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "MOSFETs",
+                        "url": "https://www.vishay.com/en/mosfets/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "mosfets",
+                            "MOSFETs"
+                        ]
+                    },
+                    {
+                        "name": "MOSFETs, Automotive",
+                        "url": "https://www.vishay.com/en/mosfets/automotive-mosfets/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "mosfets",
+                            "MOSFETs, Automotive"
+                        ]
+                    },
+                    {
+                        "name": "Silicon Carbide MaxSiCÂ® MOSFETs",
+                        "url": "https://www.vishay.com/en/mosfets/silicon-carbide-maxsic/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "mosfets",
+                            "Silicon Carbide MaxSiCÂ® MOSFETs"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "SEMICONDUCTORS",
+                    "mosfets"
+                ]
+            },
+            {
+                "name": "IC - POWER AND LINEAR",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Power ICs",
+                        "url": "https://www.vishay.com/en/power-ics/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "IC - POWER AND LINEAR",
+                            "Power ICs"
+                        ]
+                    },
+                    {
+                        "name": "Smart Load Switches",
+                        "url": "https://www.vishay.com/en/power-ics/load-switch/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "IC - POWER AND LINEAR",
+                            "Smart Load Switches"
+                        ]
+                    },
+                    {
+                        "name": "microBUCKÂ® - Voltage Regulator",
+                        "url": "https://www.vishay.com/en/power-ics/integrated-microbuck/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "IC - POWER AND LINEAR",
+                            "microBUCKÂ® - Voltage Regulator"
+                        ]
+                    },
+                    {
+                        "name": "microBRICKÂ® - DC/DC Regulator Module",
+                        "url": "https://www.vishay.com/en/power-ics/integrated-microbrick/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "IC - POWER AND LINEAR",
+                            "microBRICKÂ® - DC/DC Regulator Module"
+                        ]
+                    },
+                    {
+                        "name": "VRPowerÂ® (DrMOS) - Power Stage",
+                        "url": "https://www.vishay.com/en/power-ics/integrated-drmos/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "IC - POWER AND LINEAR",
+                            "VRPowerÂ® (DrMOS) - Power Stage"
+                        ]
+                    },
+                    {
+                        "name": "Analog Switches and Multiplexers",
+                        "url": "https://www.vishay.com/en/analog-switches/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "IC - POWER AND LINEAR",
+                            "Analog Switches and Multiplexers"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "SEMICONDUCTORS",
+                    "IC - POWER AND LINEAR"
+                ]
+            },
+            {
+                "name": "discrete thyristors",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Phase Control Discrete",
+                        "url": "https://www.vishay.com/en/thyristors/phase-control-discrete/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "discrete thyristors",
+                            "Phase Control Discrete"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "SEMICONDUCTORS",
+                    "discrete thyristors"
+                ]
+            },
+            {
+                "name": "diodes and rectifiers",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Diodes and Rectifiers",
+                        "url": "https://www.vishay.com/en/diodes/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "SEMICONDUCTORS",
+                            "diodes and rectifiers",
+                            "Diodes and Rectifiers"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "SEMICONDUCTORS",
+                    "diodes and rectifiers"
+                ]
+            }
+        ],
+        "breadcrumbs": [
+            "SEMICONDUCTORS"
+        ]
+    },
+    {
+        "name": "PASSIVE COMPONENTS",
+        "url": "",
+        "sub_topics": [
+            {
+                "name": "Other components",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Connectors",
+                        "url": "https://www.vishay.com/en/connectors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Connectors"
+                        ]
+                    },
+                    {
+                        "name": "Control Knobs",
+                        "url": "https://www.vishay.com/en/control-knobs/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Control Knobs"
+                        ]
+                    },
+                    {
+                        "name": "Crystals",
+                        "url": "https://www.vishay.com/en/crystals/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Crystals"
+                        ]
+                    },
+                    {
+                        "name": "Displays â LCD/TFT/OLED/Touch",
+                        "url": "https://www.vishay.com/en/displays/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Displays â LCD/TFT/OLED/Touch"
+                        ]
+                    },
+                    {
+                        "name": "Fuses",
+                        "url": "https://www.vishay.com/en/fuses/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Fuses"
+                        ]
+                    },
+                    {
+                        "name": "Hybrids and Substrates",
+                        "url": "https://www.vishay.com/en/hybrids-substrates/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Hybrids and Substrates"
+                        ]
+                    },
+                    {
+                        "name": "Igniters",
+                        "url": "https://www.vishay.com/en/igniters/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Igniters"
+                        ]
+                    },
+                    {
+                        "name": "Oscillators",
+                        "url": "https://www.vishay.com/en/oscillators/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Oscillators"
+                        ]
+                    },
+                    {
+                        "name": "Thermal Management",
+                        "url": "https://www.vishay.com/en/thermal-management/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Other components",
+                            "Thermal Management"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "PASSIVE COMPONENTS",
+                    "Other components"
+                ]
+            },
+            {
+                "name": "sensors",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Position: Contacting Technology",
+                        "url": "https://www.vishay.com/en/sensors/angular-linear-sensors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "sensors",
+                            "Position: Contacting Technology"
+                        ]
+                    },
+                    {
+                        "name": "Position: Non-Contacting",
+                        "url": "https://www.vishay.com/en/sensors/non-contacting-sensors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "sensors",
+                            "Position: Non-Contacting"
+                        ]
+                    },
+                    {
+                        "name": "Temperature",
+                        "url": "https://www.vishay.com/en/sensors/sensors-temperature/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "sensors",
+                            "Temperature"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "PASSIVE COMPONENTS",
+                    "sensors"
+                ]
+            },
+            {
+                "name": "inductors and magnetics",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Inductors",
+                        "url": "https://www.vishay.com/en/inductors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "inductors and magnetics",
+                            "Inductors"
+                        ]
+                    },
+                    {
+                        "name": "Custom Magnetics",
+                        "url": "https://www.vishay.com/en/landingpage/custom-magnetics/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "inductors and magnetics",
+                            "Custom Magnetics"
+                        ]
+                    },
+                    {
+                        "name": "Transformers",
+                        "url": "https://www.vishay.com/en/inductors/transformers/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "inductors and magnetics",
+                            "Transformers"
+                        ]
+                    },
+                    {
+                        "name": "Planar",
+                        "url": "https://www.vishay.com/en/planar/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "inductors and magnetics",
+                            "Planar"
+                        ]
+                    },
+                    {
+                        "name": "Vishay HIREL",
+                        "url": "https://www.vishay.com/en/company/brands/hirelsystems/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "inductors and magnetics",
+                            "Vishay HIREL"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "PASSIVE COMPONENTS",
+                    "inductors and magnetics"
+                ]
+            },
+            {
+                "name": "resistors",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Fixed",
+                        "url": "https://www.vishay.com/en/resistors-fixed/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Fixed"
+                        ]
+                    },
+                    {
+                        "name": "Networks and Arrays",
+                        "url": "https://www.vishay.com/en/networks-and-arrays/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Networks and Arrays"
+                        ]
+                    },
+                    {
+                        "name": "Thermistors",
+                        "url": "https://www.vishay.com/en/thermistors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Thermistors"
+                        ]
+                    },
+                    {
+                        "name": "Varistors",
+                        "url": "https://www.vishay.com/en/varistors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Varistors"
+                        ]
+                    },
+                    {
+                        "name": "Trimmers",
+                        "url": "https://www.vishay.com/en/trimmers/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Trimmers"
+                        ]
+                    },
+                    {
+                        "name": "Rheostats",
+                        "url": "https://www.vishay.com/en/rheostats/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Rheostats"
+                        ]
+                    },
+                    {
+                        "name": "Panel Potentiometers",
+                        "url": "https://www.vishay.com/en/potentiometers/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Panel Potentiometers"
+                        ]
+                    },
+                    {
+                        "name": "Custom Resistors",
+                        "url": "https://www.vishay.com/en/resistors-fixed/custom-capabilities/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "resistors",
+                            "Custom Resistors"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "PASSIVE COMPONENTS",
+                    "resistors"
+                ]
+            },
+            {
+                "name": "Capacitors",
+                "url": "",
+                "sub_topics": [
+                    {
+                        "name": "Capacitors",
+                        "url": "https://www.vishay.com/en/capacitors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Capacitors"
+                        ]
+                    },
+                    {
+                        "name": "Aluminum Electrolytic",
+                        "url": "https://www.vishay.com/en/capacitors/aluminum/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Aluminum Electrolytic"
+                        ]
+                    },
+                    {
+                        "name": "Ceramic",
+                        "url": "https://www.vishay.com/en/capacitors/ceramic/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Ceramic"
+                        ]
+                    },
+                    {
+                        "name": "Energy Storage",
+                        "url": "https://www.vishay.com/en/capacitors/energy-storage/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Energy Storage"
+                        ]
+                    },
+                    {
+                        "name": "Film",
+                        "url": "https://www.vishay.com/en/capacitors/film/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Film"
+                        ]
+                    },
+                    {
+                        "name": "Polymer",
+                        "url": "https://www.vishay.com/en/capacitors/polymer/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Polymer"
+                        ]
+                    },
+                    {
+                        "name": "Power Heavy Current (ESTA)",
+                        "url": "https://www.vishay.com/en/capacitors/power-heavy-current/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Power Heavy Current (ESTA)"
+                        ]
+                    },
+                    {
+                        "name": "Tantalum",
+                        "url": "https://www.vishay.com/en/capacitors/tantalum/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Tantalum"
+                        ]
+                    },
+                    {
+                        "name": "Thin Film",
+                        "url": "https://www.vishay.com/en/capacitors/thin-film/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Thin Film"
+                        ]
+                    },
+                    {
+                        "name": "Custom Capacitors",
+                        "url": "https://www.vishay.com/en/capacitors/custom-capacitors/",
+                        "sub_topics": [],
+                        "breadcrumbs": [
+                            "PASSIVE COMPONENTS",
+                            "Capacitors",
+                            "Custom Capacitors"
+                        ]
+                    }
+                ],
+                "breadcrumbs": [
+                    "PASSIVE COMPONENTS",
+                    "Capacitors"
+                ]
+            }
+        ],
+        "breadcrumbs": [
+            "PASSIVE COMPONENTS"
+        ]
+    }
+]

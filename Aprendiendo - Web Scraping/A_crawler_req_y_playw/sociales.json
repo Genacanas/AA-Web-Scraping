@@ -1,0 +1,121 @@
+[
+  {
+    "id": 13,
+    "title": "Calzados Alteza",
+    "website_original": "https://www.facebook.com/people/Alteza-Cordoba-Omar/100018729045500",
+    "website_normalized": "https://facebook.com/people/Alteza-Cordoba-Omar/100018729045500",
+    "social_type": "facebook"
+  },
+  {
+    "id": 18,
+    "title": "CALZADOS AVENIDA",
+    "website_original": "https://www.instagram.com/calzadosavenida4707/?hl=es-la",
+    "website_normalized": "https://instagram.com/calzadosavenida4707/",
+    "social_type": "instagram"
+  },
+  {
+    "id": 32,
+    "title": "Bacanal Calzados",
+    "website_original": "http://www.facebook.com/calzadosbacanal",
+    "website_normalized": "http://facebook.com/calzadosbacanal",
+    "social_type": "facebook"
+  },
+  {
+    "id": 34,
+    "title": "Divina Mujer",
+    "website_original": "https://www.facebook.com/DivinaMujerCba",
+    "website_normalized": "https://facebook.com/DivinaMujerCba",
+    "social_type": "facebook"
+  },
+  {
+    "id": 35,
+    "title": "Calzados Paz",
+    "website_original": "https://www.instagram.com/pazparatuspies/",
+    "website_normalized": "https://instagram.com/pazparatuspies/",
+    "social_type": "instagram"
+  },
+  {
+    "id": 36,
+    "title": "Minici Calzados",
+    "website_original": "https://www.instagram.com/minicicalzadosok/",
+    "website_normalized": "https://instagram.com/minicicalzadosok/",
+    "social_type": "instagram"
+  },
+  {
+    "id": 46,
+    "title": "Calzados Luna",
+    "website_original": "https://www.facebook.com/Calzados-LUNA-1580704585570412/",
+    "website_normalized": "https://facebook.com/Calzados-LUNA-1580704585570412/",
+    "social_type": "facebook"
+  },
+  {
+    "id": 50,
+    "title": "ZAPAS CALZADOS",
+    "website_original": "https://www.facebook.com/zapascalzadoscordoba?ref=hl",
+    "website_normalized": "https://facebook.com/zapascalzadoscordoba",
+    "social_type": "facebook"
+  },
+  {
+    "id": 53,
+    "title": "Factory Shoes",
+    "website_original": "https://www.facebook.com/calzadospollitocordoba",
+    "website_normalized": "https://facebook.com/calzadospollitocordoba",
+    "social_type": "facebook"
+  },
+  {
+    "id": 55,
+    "title": "Lola Zapatos",
+    "website_original": "https://www.facebook.com/lolazapatosok/",
+    "website_normalized": "https://facebook.com/lolazapatosok/",
+    "social_type": "facebook"
+  },
+  {
+    "id": 56,
+    "title": "Infinito Calzados",
+    "website_original": "https://www.instagram.com/infinitocalzados/",
+    "website_normalized": "https://instagram.com/infinitocalzados/",
+    "social_type": "instagram"
+  },
+  {
+    "id": 57,
+    "title": "Zapatería Sús Calzados - Zapatos Zapatillas x menor. No hacemos envíos.",
+    "website_original": "http://www.facebook.com/suscalzados",
+    "website_normalized": "http://facebook.com/suscalzados",
+    "social_type": "facebook"
+  },
+  {
+    "id": 74,
+    "title": "Rocco",
+    "website_original": "https://www.facebook.com/rocco.zapateria/",
+    "website_normalized": "https://facebook.com/rocco.zapateria/",
+    "social_type": "facebook"
+  },
+  {
+    "id": 80,
+    "title": "Calzados Kannes",
+    "website_original": "https://www.facebook.com/kannescalzados",
+    "website_normalized": "https://facebook.com/kannescalzados",
+    "social_type": "facebook"
+  },
+  {
+    "id": 89,
+    "title": "Outlet Alvear",
+    "website_original": "http://www.facebook.com/outletalvear",
+    "website_normalized": "http://facebook.com/outletalvear",
+    "social_type": "facebook"
+  },
+  {
+    "id": 92,
+    "title": "Calzado para mujer FRATTINA calzados",
+    "website_original": "https://www.instagram.com/calzadosfrattina/",
+    "website_normalized": "https://instagram.com/calzadosfrattina/",
+    "social_type": "instagram"
+  },
+  {
+    "id": 100,
+    "title": "Calzadoscordobaa",
+    "website_original": "https://www.instagram.com/calzadoscordobaa?igsh=MXMyZGRnemwxaHZvOA==",
+    "website_normalized": "https://instagram.com/calzadoscordobaa",
+    "social_type": "instagram"
+  }
+]

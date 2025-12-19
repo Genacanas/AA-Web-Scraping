@@ -1,0 +1,5252 @@
+[
+  {
+    "index": 1,
+    "title": "Briganti",
+    "website": "http://www.briganti.com.ar/",
+    "phone": "+54 11 4326-1549",
+    "address": "Florida 146, C1005AAD Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 2,
+    "title": "OGGI Zapatos",
+    "website": "http://www.oggishoes.com.ar/",
+    "phone": "+54 11 4813-3426",
+    "address": "Av. Sta. Fe 1335, C1059ABH Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 3,
+    "title": "HUMA Calzados Suc. CABA",
+    "website": "http://humacalzados.mitiendanube.com/",
+    "phone": "+54 11 6136-4342",
+    "address": "Av. Corrientes 753, C1043 AAH, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 4,
+    "title": "Zona Shop",
+    "website": "http://www.zonashop.com.ar/",
+    "phone": "+54 11 4825-4172",
+    "address": "Av. Sta. Fe 2065, C1123 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 5,
+    "title": "Calzados Correa",
+    "website": "http://www.calzadoscorrea.com.ar/",
+    "phone": "+54 11 4861-7344",
+    "address": "Mario Bravo 750, C1175ABN Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 6,
+    "title": "Batistella Calzados y Accesorios",
+    "website": "http://www.calzadosbatistella.com.ar/",
+    "phone": "+54 11 4327-2446",
+    "address": "Florida 624, C1005AAN, C1005AAN Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 7,
+    "title": "Carlo",
+    "website": "http://www.carlozapatos.com.ar/",
+    "phone": "+54 11 4813-9223",
+    "address": "Av. Sta. Fe 1702, C1060 ABQ, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 8,
+    "title": "Luz Príncipe",
+    "website": "https://www.luzprincipe.com.ar/",
+    "phone": "+54 11 4893-2410",
+    "address": "Ciudad Autónoma de Buenos Aires AR, Paraguay 782, C1057 AAJ, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 9,
+    "title": "Grimoldi",
+    "website": "https://www.grimoldi.com/",
+    "phone": "+54 11 4508-2244",
+    "address": "Av. Sta. Fe 2422 24, C1123 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 10,
+    "title": "Vittoria Calzados",
+    "website": "https://www.vittoriashop.com/",
+    "phone": "+54 11 3801-0553",
+    "address": "Paso 341, C1046 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 11,
+    "title": "FB/ Zapatería Febo Barrio Norte",
+    "website": "http://www.zapateriafebo.com/",
+    "phone": "+54 11 4830-2230",
+    "address": "Av. Sta. Fe 1641, C1060 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 12,
+    "title": "Zapatería Daz",
+    "website": "http://www.zapateriadaz.com.ar/",
+    "phone": "+54 11 4342-6005",
+    "address": "Av. de Mayo 753, C1084 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 13,
+    "title": "Moreno Calzados",
+    "website": "http://www.morenocalzados.com.ar/",
+    "phone": "+54 11 2275-1405",
+    "address": "KPP, Pedro Calderón de la Barca 736, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 14,
+    "title": "Zapateria Feduard",
+    "website": "https://www.zapateriafeduard.com.ar/",
+    "phone": "+54 11 4381-3318",
+    "address": "Av. Entre Ríos 451, C1079 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 15,
+    "title": "Guido Mocasines",
+    "website": "https://zapateriaguido.com/",
+    "phone": "+54 9 11 2296-3481",
+    "address": "Av. Pres. Manuel Quintana 333, C1014ACD Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 16,
+    "title": "Catalana Shoes",
+    "website": "https://catalanashoes.com/",
+    "phone": "+54 9 11 6432-6483",
+    "address": "Av. Corrientes 2618, C1046 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 17,
+    "title": "Calzados Ferretti",
+    "website": "https://api.whatsapp.com/send/?phone=5491127790335&text=Hola+quiero+sumarme+a+la+comunidad.&type=phone_number&app_absent=0",
+    "phone": "+54 11 2779-0335",
+    "address": "Montevideo 1051, C1019ABU Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 18,
+    "title": "Laloc",
+    "website": "http://www.laloc.com.ar/",
+    "phone": "+54 11 4822-5270",
+    "address": "Av. Sta. Fe 2727, C1425BGC Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 19,
+    "title": "López Taibo - Sucursal Corrientes",
+    "website": "https://www.lopeztaibo.com.ar/",
+    "phone": "+54 11 4328-2132",
+    "address": "Av. Corrientes 350, C1043 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 20,
+    "title": "Elissamburu",
+    "website": "http://elissamburu.com.ar/",
+    "phone": "+54 11 4822-5704",
+    "address": "Av. Sta. Fe 2336, C1123AAS Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 21,
+    "title": "TERÁN",
+    "website": "http://www.teran.com.ar/",
+    "phone": "+54 11 5501-7777",
+    "address": "Thames 1855, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 22,
+    "title": "Zinderella Shoes CALZADOS NUMEROS 40 AL 44",
+    "website": "https://zinderellashoes.com/",
+    "phone": "+54 11 6927-8554",
+    "address": "Cnel. Ramón L. Falcón 2271 Piso 1 “D, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 23,
+    "title": "DORIAN Soho",
+    "website": "https://www.dorianargentina.com/",
+    "phone": "+54 9 11 5333-6334",
+    "address": "El Salvador 4735, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 24,
+    "title": "Boniface",
+    "website": "http://www.boniface.com.ar/",
+    "phone": "+54 11 4383-9547",
+    "address": "San José 559, C1076 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 25,
+    "title": "Calzados Stone Microcentro",
+    "website": "https://articulo.mercadolibre.com.ar/MLA-926145339-zapatillas-sergio-tacchini-con-abrojo-modelo-urbano-livianas-_JM",
+    "phone": "+54 11 5153-4889",
+    "address": "Tacuarí 25, C1071 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 26,
+    "title": "Grimoldi Florida",
+    "website": "https://www.grimoldi.com/sucursal-grimoldi-florida1/",
+    "phone": "+54 11 4394-2405",
+    "address": "Florida 251, B1005 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 27,
+    "title": "Ferraro",
+    "website": "http://www.ferraro.com.ar/",
+    "phone": "+54 11 4822-3397",
+    "address": "Av. Sta. Fe 2300, C1123 AAR, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 28,
+    "title": "Navarro zapatos",
+    "website": "https://zapatosnavarro.com.ar/",
+    "phone": "+54 11 4382-7874",
+    "address": "San José 550, C1076 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 29,
+    "title": "DISTRIBUIDORA LIBRE - Zapatillas Jaguar en Once - Calzados por mayor",
+    "website": "https://distribuidoralibre4.wixsite.com/distribuidora-libre",
+    "phone": "+54 11 3078-3668",
+    "address": "Valentín Gómez 2616, C1046 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 30,
+    "title": "La Feria del Calzado - LFC Shoes",
+    "website": "https://www.laferiadelcalzado.com/",
+    "phone": "+54 11 4865-7312",
+    "address": "Corrientes 2642, Once, 1032 Buenos Aires, Argentina"
+  },
+  {
+    "index": 31,
+    "title": "Calzados Rainbow",
+    "website": "https://zprainbow.jimdo.com/",
+    "phone": "+54 11 4812-8222",
+    "address": "Rodríguez Peña 1529, C1021 ABG, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 32,
+    "title": "Mallorca",
+    "website": "http://www.calzadosmallorca.com.ar/",
+    "phone": "+54 11 5370-8267",
+    "address": "Av. Corrientes 4169, C1195AAA Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 33,
+    "title": "BUSTAMANTE CALZADO",
+    "website": "http://www.bustamantecalzado.com/",
+    "phone": "+54 11 5928-0133",
+    "address": "Av. de Mayo 961, C1084 AAE, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 34,
+    "title": "ASTTON Buenos Aires",
+    "website": "https://shop.asttonbuenosaires.com/",
+    "phone": "+54 11 2808-0478",
+    "address": "Av. Pres. Manuel Quintana 587, C1129AAB Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 35,
+    "title": "Madreselva Tango Shoes",
+    "website": "https://madreselvazapatos.com.ar/",
+    "phone": "+54 9 11 3244-6849",
+    "address": "1, Av. Rivadavia 2031 piso \"1, 1033 Buenos Aires, Argentina"
+  },
+  {
+    "index": 36,
+    "title": "Zapatería Her's",
+    "website": "https://www.zapateriahers.com.ar/",
+    "phone": "+54 11 5782-5607",
+    "address": "Av. Callao 1321, C1023 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 37,
+    "title": "Guido",
+    "website": "http://www.zapateriaguido.com/",
+    "phone": "+54 9 11 2326-9157",
+    "address": "Florida 704, C1005 AAP, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 38,
+    "title": "Vizzano Coqueterias Zapatos",
+    "website": "https://coqueteriaszapatos.com.ar/",
+    "phone": "+54 11 4494-3355",
+    "address": "San Nicolás 352, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 39,
+    "title": "TOSONE - RECOLETA",
+    "website": "http://www.tosoneshop.com/",
+    "phone": "+54 11 4812-6109",
+    "address": "Libertad 1172, C1012 AAX, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 40,
+    "title": "Distribuidora Koruk",
+    "website": "http://distribuidorakoruk.com.ar/",
+    "phone": "+54 11 4952-0297",
+    "address": "Larrea 279, C1030AAE Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 41,
+    "title": "POSCO",
+    "website": "https://www.posco.com.ar/",
+    "phone": "+54 9 11 2494-4915",
+    "address": "Av. Pres. Manuel Quintana 213, C1014ACC Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 42,
+    "title": "BAEZA.",
+    "website": "http://www.baezaba.com.ar/",
+    "phone": "+54 11 3897-1090",
+    "address": "Juncal 1320, C1062 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 43,
+    "title": "Roma Zapatos",
+    "website": "https://romazapatos.com.ar/",
+    "phone": "+54 11 3199-9929",
+    "address": "Av. Cerviño 3707 5c, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 44,
+    "title": "Zapatería Silvia",
+    "website": "https://calzadossilvia.com.ar/",
+    "phone": "+54 11 4822-9109",
+    "address": "Austria 1828, C1425EGD Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 45,
+    "title": "Only Shoes",
+    "website": "http://www.onlyshoes.com.ar/",
+    "phone": "+54 11 5710-8165",
+    "address": "Av. Callao 408, C1022 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 46,
+    "title": "Zapatería Democrata",
+    "website": "http://www.democrata.com.ar/",
+    "phone": "+54 11 4184-0463",
+    "address": "Malabia 1716, C1414 DMJ, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 47,
+    "title": "ALBANY - Palermo Outlet",
+    "website": "http://www.albanyshoes.com/",
+    "phone": "+54 9 11 6765-5300",
+    "address": "Loyola 780, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 48,
+    "title": "C'EST FINI Zapatos",
+    "website": "http://www.cest-fini.com/",
+    "phone": "+54 11 4813-9924",
+    "address": "C1016ACF, Uruguay 1230, C1016ACF Buenos Aires, Argentina"
+  },
+  {
+    "index": 49,
+    "title": "DARCOS Suipacha",
+    "website": "http://www.darcos.com/ar",
+    "phone": "+54 11 2709-3433",
+    "address": "Suipacha 261, C1008 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 50,
+    "title": "REGARDÉ",
+    "website": "http://www.regarde.com.ar/",
+    "phone": "+54 9 11 6755-9732",
+    "address": "Juncal 1302, C1062 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 51,
+    "title": "Calzados Mario",
+    "website": "http://www.calzadosmario.com.ar/",
+    "phone": "+54 11 4813-0717",
+    "address": "Marcelo Torcuato de Alvear 2000, C1122 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 52,
+    "title": "Chao Moods Recoleta",
+    "website": "https://www.chaomoods.com.ar/",
+    "phone": "+54 11 4812-0078",
+    "address": "Uruguay 1233, C1128 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 53,
+    "title": "Calzados Zarpas",
+    "website": "https://listado.mercadolibre.com.ar/_CustId_698551135",
+    "phone": "+54 11 5232-8928",
+    "address": "Suipacha 888, C1008 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 54,
+    "title": "Fiori Calzature Florida",
+    "website": "https://www.fioricalzature.com/",
+    "phone": "+54 9 11 3988-6291",
+    "address": "Florida 511, C1005 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 55,
+    "title": "Paruolo",
+    "website": "http://www.paruolo.com.ar/",
+    "phone": "+54 11 5555-5329",
+    "address": "Galerías Pacífico, San Martín 768 Local 329, C1004 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 56,
+    "title": "Gogo Belforte",
+    "website": "http://www.gogobelforte.com/",
+    "phone": "+54 11 3034-8033",
+    "address": "Av. Jorge Newbery 3823, C1427EGE Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 57,
+    "title": "Mc Shoes",
+    "website": "http://mcshoes.com.ar/",
+    "phone": "+54 11 4322-3380",
+    "address": "Florida 718, C1005AAP Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 58,
+    "title": "Euge y Matu calzados",
+    "website": "https://eugeymatucalzados.wixsite.com/calzado",
+    "phone": "+54 11 2573-8497",
+    "address": "Tucumán 871, C1049AAQ Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 59,
+    "title": "Calzados ARTESANAL de Susana Villarroel - Zapatos de tango - Zapatos para Baile - Tango Shoes",
+    "website": "http://wwwcalzadosartesanal.com.ar/",
+    "phone": "+54 11 3094-0266",
+    "address": "Es un Shwroom, Loyola N° 20, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 60,
+    "title": "Calzados Avenida",
+    "website": "http://www.calzadosavenida.com.ar/",
+    "phone": "+54 221 544-3492",
+    "address": "Av. 13 311, B1902CSG La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 61,
+    "title": "CAREVA CALZADOS",
+    "website": "http://www.careva.com.ar/",
+    "phone": "+54 221 483-9529",
+    "address": "C. 12 1306, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 62,
+    "title": "Aurelius",
+    "website": "https://www.aurelius.com.ar/",
+    "phone": "+54 221 423-8171",
+    "address": "C. 12 1334, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 63,
+    "title": "Zapatería Avenida - Hombres y Mujeres",
+    "website": "https://www.gurugo.com.ar/fichas/zapateria-avenida-hombres-y-mujeres_15785746",
+    "phone": "+54 221 483-3200",
+    "address": "Av. 13 174, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 64,
+    "title": "Glow Urbano",
+    "website": "http://www.glowshoes.com.ar/",
+    "phone": "+54 221 482-8897",
+    "address": "C. 12 1215, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 65,
+    "title": "Class Express",
+    "website": "http://www.classexpress.com.ar/",
+    "phone": "+54 221 421-3514",
+    "address": "C. 12 1255, B1900TKV La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 66,
+    "title": "VIAMO",
+    "website": "http://www.viamo.com/",
+    "phone": "+54 221 422-1567",
+    "address": "C. 9 828, La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 67,
+    "title": "Zapatos Norma",
+    "website": "https://normazapatos.mitiendanube.com/",
+    "phone": "+54 221 483-6191",
+    "address": "C. 8 822, La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 68,
+    "title": "Si me das a elegir..!",
+    "website": "https://simedasaelegirtienda.com.ar/",
+    "phone": null,
+    "address": "Av. 60 783 entre 10 y 11, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 69,
+    "title": "Marsella Calzados",
+    "website": "http://www.marsella.com.ar/",
+    "phone": "+54 221 566-4463",
+    "address": "C. 48 646, B1900 AMZ, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 70,
+    "title": "Michela Zapatos",
+    "website": "http://michelazapatos.com/",
+    "phone": "+54 221 361-7748",
+    "address": "C. 64 1000, B1900BNL La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 71,
+    "title": "San Pretta",
+    "website": "http://www.sanpretta.com/",
+    "phone": "+54 9 221 437-9237",
+    "address": "C. 4 892, B1900BNL La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 72,
+    "title": "Los Dones",
+    "website": "http://www.losdones.com.ar/",
+    "phone": "+54 221 421-1936",
+    "address": "Calle 49, Arenales 676, B1900AQB La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 73,
+    "title": "LAMAGA",
+    "website": "https://lamaga19.mitiendanube.com/?fbclid=PAZXh0bgNhZW0CMTEAAadCpVmmELXxVyi_pd-MkYB4U7FvjZW6SZEszoDDboJ2MjXb6LyrEZgBP2DKKw_aem_d-DsGPqiT3x1ZsvCZXmnwQ",
+    "phone": "+54 221 690-5525",
+    "address": "C. 8 440, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 74,
+    "title": "Mutter Calzados",
+    "website": "https://www.mutter.com.ar/",
+    "phone": "+54 221 641-5253",
+    "address": "Calle 44 n659 Depto ENTRE PISO, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 75,
+    "title": "Zena Outlet Shoes",
+    "website": "http://www.zenaoutletshoes.com/",
+    "phone": "+54 221 690-1945",
+    "address": "Cam. Parque Centenario 2120, B1897EXL Gonnet, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 76,
+    "title": "Class Express",
+    "website": "http://classexpress.com.ar/",
+    "phone": "+54 221 423-6446",
+    "address": "Calle 8 824 entre 48 y 49, B1900THA La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 77,
+    "title": "Pisano calzado",
+    "website": "https://www.pizanocalzados.com/",
+    "phone": "+54 221 424-6675",
+    "address": "C. 57 842, B1900BNH La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 78,
+    "title": "Las Weimann",
+    "website": "https://www.lasweimann.com/",
+    "phone": "+54 9 11 5010-2564",
+    "address": "Calle 13C 253, B1896 La Plata, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 79,
+    "title": "Krun",
+    "website": "https://krunstore.mitiendanube.com/",
+    "phone": "+54 221 421-3489",
+    "address": "C. 48 N°686, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 80,
+    "title": "Ace Deportes",
+    "website": "https://acedeportes.com.ar/",
+    "phone": "+54 221 690-3260",
+    "address": "Av. 13 esquina 40, B1900 La Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 81,
+    "title": "Calzados Manoli",
+    "website": "https://www.calzadosmanoli.com.ar/",
+    "phone": "+54 223 446-2199",
+    "address": "Olavarría 2968 Local 1, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 82,
+    "title": "Las Juanas calzado / ropa Güemes 3140",
+    "website": "http://lasjuanascalzados.com/",
+    "phone": "+54 6550277",
+    "address": "Martín Miguel de Güemes 3140, B7600GNG Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 83,
+    "title": "Compañía Bella Mar del Plata",
+    "website": "https://companiabellamdq.com.ar/",
+    "phone": "+54 223 603-0245",
+    "address": "La Rioja 4456, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 84,
+    "title": "Casa Martino",
+    "website": "https://tiendacasamartino.mitiendanube.com/",
+    "phone": "+54 223 472-8229",
+    "address": "San Juan 2074, B7600BWJ Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 85,
+    "title": "Start Calzados",
+    "website": "https://www.startcalzados.com.ar/",
+    "phone": "+54 223 306-3484",
+    "address": "Rivadavia 2482, B7600GNH Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 86,
+    "title": "Julian Bellini",
+    "website": "http://www.calzadosjulianbellini.com/",
+    "phone": "+54 223 493-0514",
+    "address": "Calle San Martín 3102, Centro, B7600GQV Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 87,
+    "title": "Manoli",
+    "website": "http://www.calzadosmanoli.com.ar/",
+    "phone": "+54 223 494-0692",
+    "address": "GNN Mar del Plata Buenos Aires AR, Rivadavia 2732, B7600, Argentina"
+  },
+  {
+    "index": 88,
+    "title": "NAKER - Calzados",
+    "website": "https://naker.com.ar/",
+    "phone": "+54 223 572-9873",
+    "address": "Rivadavia 2451, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 89,
+    "title": "THEBOX (Zona Güemes)",
+    "website": "http://www.theboxmdp.com.ar/",
+    "phone": null,
+    "address": "Castelli 1385, B7602 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 90,
+    "title": "KDONNA",
+    "website": "https://kdonna.com.ar/?fbclid=PAY2xjawI0I-FleHRuA2FlbQIxMQABph_mZoKW9w-nqYAvRbCcF-kdILqdCkDCpFzQGuPd3ykVAmDZWMd1HGGAeg_aem_zQ8ewacW2fVvtDHye_IWRA",
+    "phone": "+54 223 690-7950",
+    "address": "Costa Azul 4608, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 91,
+    "title": "Sueños y zapatos",
+    "website": "https://suenosyzapatos.mitiendanube.com/",
+    "phone": "+54 223 528-6435",
+    "address": "Av. Libertad 7302, B7604CNJ Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 92,
+    "title": "Michelle Calzados",
+    "website": "https://michellecalzados.mitiendanube.com/productos/",
+    "phone": "+54 223 534-6984",
+    "address": "Martín Miguel de Güemes 2782, B7600TCM Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 93,
+    "title": "Calzados Gravagna",
+    "website": "https://www.gravagna.com.ar/",
+    "phone": "+54 9 223 339-6302",
+    "address": "Shopping los Gallegos, rivadavia 3050, Martín Miguel de Güemes 2649 loc 23 y 24, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 94,
+    "title": "Bettina MdQ",
+    "website": "https://bettinamdq.tiendanegocio.com/",
+    "phone": "+54 223 569-5770",
+    "address": "San Lorenzo 3167, B7600FIF Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 95,
+    "title": "Specialisimo",
+    "website": "http://www.specialisimo.com.ar/",
+    "phone": "+54 9 223 517-1177",
+    "address": "Corrientes GND Mar del Plata Buenos Aires AR, Av. Pedro Luro y, 7600, Argentina"
+  },
+  {
+    "index": 96,
+    "title": "SARKANY",
+    "website": "http://www.rickysarkany.com/",
+    "phone": "+54 11 4702-3449",
+    "address": "EMO, Martín Miguel de Güemes 2759, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 97,
+    "title": "Ash",
+    "website": "http://www.argentinianshoes.com.ar/",
+    "phone": null,
+    "address": "Güemes 2836, Stella Maris, B7602DAB Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 98,
+    "title": "Sienna",
+    "website": "http://siennashoes.mitiendanube.com/",
+    "phone": "+54 223 541-5620",
+    "address": "Garay 1332, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 99,
+    "title": "Urban Cow - Paseo Aldrey",
+    "website": "http://www.urbancowstore.com/",
+    "phone": "+54 223 451-2148",
+    "address": "Sarmiento 2685 1° Piso Local 246, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 100,
+    "title": "VARAHAS",
+    "website": "http://www.varahas.com.ar/",
+    "phone": "+54 223 521-1721",
+    "address": "Rivadavia 2507, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 101,
+    "title": "Casa Luciano ®",
+    "website": "http://www.casalucianomdp.com.ar/",
+    "phone": "+54 223 518-5100",
+    "address": "Catamarca 3202, B7602BQJ Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 102,
+    "title": "Pasitos - Calzado Infantil",
+    "website": "http://calzadospasitos.empretienda.com.ar/",
+    "phone": "+54 223 606-2765",
+    "address": "Alberti 1484, B7600 Mar del Plata, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 103,
+    "title": "Calzados Pons",
+    "website": "https://www.calzadospons.com.ar/",
+    "phone": "+54 291 468-8399",
+    "address": "Córdoba 74, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 104,
+    "title": "Victoria Calzados",
+    "website": "https://victoriacalzados.com.ar/",
+    "phone": "+54 291 427-9880",
+    "address": "Valentín Alsina 247, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 105,
+    "title": "Tiziano",
+    "website": "https://www.zapatosnet.com.ar/",
+    "phone": "+54 291 431-0918",
+    "address": "Alsina 135, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 106,
+    "title": "Grimoldi O´higgins",
+    "website": "http://www.zapatosnet.com.ar/",
+    "phone": "+54 291 431-0918",
+    "address": "O Higgins 83, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 107,
+    "title": "Zapatilandia",
+    "website": "http://www.zapatilandia.com.ar/",
+    "phone": "+54 291 453-3348",
+    "address": "Donado 90, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 108,
+    "title": "Aura shoes",
+    "website": "https://aurashoes2.mitiendanube.com/",
+    "phone": "+54 291 527-0096",
+    "address": "Alsina 184 local 4, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 109,
+    "title": "FRANCA CALZADOS",
+    "website": "https://www.francacalzados.com.ar/",
+    "phone": "+54 291 566-2927",
+    "address": "Av. Santiago Dasso 3787, B8103 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 110,
+    "title": "Lemon Pie Chiclana",
+    "website": "https://zapatosnet.com.ar/",
+    "phone": "+54 291 431-0918",
+    "address": "Chiclana 101, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 111,
+    "title": "COQUETERIAS",
+    "website": "https://coqueteriastuhorma.tiendanegocio.com/",
+    "phone": "+54 291 535-1260",
+    "address": "11 de Abril 84, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 112,
+    "title": "Calzados MORLUA",
+    "website": "http://www.morlua.sed.com.ar/",
+    "phone": null,
+    "address": "Alvarado 700 B8000CJP, B8000CJP Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 113,
+    "title": "ADORADOS",
+    "website": "http://www.adorados.com.ar/",
+    "phone": "+54 291 467-6706",
+    "address": "Caronti 47 local 1, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 114,
+    "title": "Ferreira Sport - Casa Central",
+    "website": "https://www.ferreirasport.com/",
+    "phone": "+54 291 456-2415",
+    "address": "Belgrano 2, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 115,
+    "title": "SHOPPING Yani",
+    "website": "https://calzado-yani.webnode.es/",
+    "phone": "+54 291 481-4097",
+    "address": "Garibaldi 221, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 116,
+    "title": "Vardot Shoes",
+    "website": "http://www.calzadospons.com.ar/",
+    "phone": "+54 9 291 468-8399",
+    "address": "Galería El Castillo, Soler 17, B8000CHB Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 117,
+    "title": "El Principito",
+    "website": "http://elprincipitobahia.mitiendanube.com/",
+    "phone": "+54 291 474-3580",
+    "address": "Brown 85, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 118,
+    "title": "Séptimo",
+    "website": "http://www.septimostore.com/",
+    "phone": "+54 291 455-1342",
+    "address": "Alsina 306, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 119,
+    "title": "Castellanas",
+    "website": "http://www.castellanas.com.ar/",
+    "phone": "+54 11 3812-2652",
+    "address": "Chiclana 227, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 120,
+    "title": "Ferbar",
+    "website": "https://ferbarsrl.com/",
+    "phone": "+54 291 455-5355",
+    "address": "Vicente López 757, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 121,
+    "title": "Muñecas Zapatos Villa Mitre",
+    "website": "https://www.zapatosmunecas.com.ar/",
+    "phone": "+54 291 504-9049",
+    "address": "Castelar 1641, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 122,
+    "title": "Mimo & Co",
+    "website": "http://www.mimo.com.ar/",
+    "phone": "+54 291 456-3585",
+    "address": "Soler 128, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 123,
+    "title": "Matuka Fly Shop",
+    "website": "http://www.matuka.com.ar/",
+    "phone": "+54 291 642-7382",
+    "address": "Florida 730, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 124,
+    "title": "Casa Blanca Co.",
+    "website": "http://www.casablancashowroom.com/",
+    "phone": "+54 291 642-1938",
+    "address": "España 382, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 125,
+    "title": "Socias Home",
+    "website": "http://www.sociaszapatos.com.ar/",
+    "phone": "+54 9 291 535-6906",
+    "address": "San Juan 191, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 126,
+    "title": "Faith Sport",
+    "website": "https://faithsport3.mitiendanube.com/",
+    "phone": "+54 291 535-5218",
+    "address": "Estomba 795, B8000 Bahía Blanca, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 127,
+    "title": "OZETA",
+    "website": "https://shop.ozetazapatos.com/",
+    "phone": "+54 21457315",
+    "address": "Alsina 150, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 128,
+    "title": "MAE Marcela Emi",
+    "website": "https://marcelaemi.com/?utm_source=Quilmes&utm_campaign=GoogleMyBusiness",
+    "phone": "+54 11 4051-8719",
+    "address": "Lavalle 557, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 129,
+    "title": "Cutyla Zapatos",
+    "website": "http://www.cutyla.com.ar/",
+    "phone": "+54 11 4224-3572",
+    "address": "Alsina 458, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 130,
+    "title": "Tania Calzados",
+    "website": "http://taniacalzados.com.ar/",
+    "phone": "+54 11 2276-8939",
+    "address": "Alem 244, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 131,
+    "title": "Augusto Zapateria",
+    "website": "https://augustozapateria.mitiendanube.com/",
+    "phone": "+54 11 6919-7262",
+    "address": "Lavalle 559, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 132,
+    "title": "Calzados Kalzat",
+    "website": "http://www.kalzat.com.ar/",
+    "phone": "+54 9 11 3703-7153",
+    "address": "Av. Rivadavia 231, B1874 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 133,
+    "title": "FH FARINELLA",
+    "website": "http://www.farinella.com.ar/",
+    "phone": "+54 11 3428-8724",
+    "address": "Sarratea 16, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 134,
+    "title": "VACACUBANA",
+    "website": "http://www.vacacubana.com/",
+    "phone": null,
+    "address": "Lavalle 527, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 135,
+    "title": "Kendra",
+    "website": "https://kendra.com.ar/",
+    "phone": null,
+    "address": "Belgrano 115, B1876 Bernal, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 136,
+    "title": "Mark Showroom",
+    "website": "http://www.markshowroom.com/",
+    "phone": "+54 11 6472-0186",
+    "address": "Av. Rivadavia 112 B1878, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 137,
+    "title": "F.E shoes",
+    "website": "https://feshoes.mitiendanube.com/",
+    "phone": null,
+    "address": "Nicolás Videla 265, B1878 Quilmes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 138,
+    "title": "Calzados Solamar Berazategui",
+    "website": "https://www.calzadossolamar.com/",
+    "phone": "+54 9 11 4937-3723",
+    "address": "Av. 14 4802, B1880BFA Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 139,
+    "title": "Urban Dek",
+    "website": "http://www.urbandek.com.ar/",
+    "phone": null,
+    "address": "España 218, B1832DFI Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 140,
+    "title": "Grimoldi",
+    "website": "https://www.grimoldi.com/?utm_medium=organic&utm_source=google&utm_campaign=Google%20maps&utm_content=Grimoldi_LomasdeZamora",
+    "phone": "+54 11 4244-5938",
+    "address": "Av. Meeks 222, B1832IXB Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 141,
+    "title": "HUMA Calzados Suc. Lomas de Zamora",
+    "website": "https://humacalzados.mitiendanube.com/",
+    "phone": "+54 11 5937-9284",
+    "address": "Leandro N. Alem 45, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 142,
+    "title": "Calzados EMILIO",
+    "website": "https://www.calzadosemilio.com.ar/",
+    "phone": "+54 11 4292-5550",
+    "address": "Laprida 257, B1832HOE Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 143,
+    "title": "Via Roma",
+    "website": "http://business.google.com/website/via-roma-zapatos",
+    "phone": "+54 11 4292-3854",
+    "address": "Galería Oliver, Av. Meeks 59 Local 10, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 144,
+    "title": "Costa Casta Calzado",
+    "website": "https://costacasta.com/",
+    "phone": "+54 11 2507-6483",
+    "address": "Av. Hipólito Yrigoyen 8202, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 145,
+    "title": "Luciano Calzature",
+    "website": "https://www.lucianocalzature.com.ar/",
+    "phone": "+54 11 4292-6153",
+    "address": "Laprida 215, B1832HOE Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 146,
+    "title": "Stilo Calzados",
+    "website": "http://www.stilo.com.ar/",
+    "phone": "+54 11 4244-1491",
+    "address": "Av. Hipólito Yrigoyen 8841, B1832BQH Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 147,
+    "title": "Pipele",
+    "website": "https://www.pipele.com/",
+    "phone": "+54 11 2849-5388",
+    "address": "José Ignacio Gorriti 109 B1832DED, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 148,
+    "title": "HollyMollylomitas",
+    "website": "https://hollymollylomitas.tiendanegocio.com/",
+    "phone": "+54 11 5868-2643",
+    "address": "Galería Oliver, España 64 local 29, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 149,
+    "title": "Remolino",
+    "website": "https://www.lomasurbano.com.ar/guia/lista/remolino-lomas-de-zamora/",
+    "phone": "+54 11 4653-4855",
+    "address": "Laprida 202, B1832HOF Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 150,
+    "title": "Giorgio Beneti",
+    "website": "http://www.giorgiobeneti.com/",
+    "phone": "+54 11 7519-0963",
+    "address": "B1832JDB Lomas de Zamora, España 480, B1832JDB Buenos Aires, Argentina"
+  },
+  {
+    "index": 151,
+    "title": "VALTINO CALZADOS",
+    "website": "http://valtino.com.ar/",
+    "phone": "+54 11 5141-7078",
+    "address": "Balcarce 235, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 152,
+    "title": "Lo Mas In Shoes",
+    "website": "https://www.lomasurbano.com.ar/guia/lista/lomas-in-shoes/",
+    "phone": "+54 11 4244-1495",
+    "address": "Laprida 375, B1832HOG Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 153,
+    "title": "Mandarina",
+    "website": "http://www.mandarina.com.ar/",
+    "phone": "+54 11 4244-2787",
+    "address": "Laprida 274, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 154,
+    "title": "FAN CALZADOS",
+    "website": "https://calzadosfan.mercadoshops.com.ar/?preview",
+    "phone": "+54 11 6534-3460",
+    "address": "Laprida 323, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 155,
+    "title": "Joaquina zapatos",
+    "website": "https://www.joaquinazapatos.com.ar/",
+    "phone": "+54 11 6943-8664",
+    "address": "Av. Colombres 451, B1832 Lomas de Zamora, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 156,
+    "title": "Calzados Eduardo",
+    "website": "http://calzadoseduardo.com.ar/",
+    "phone": "+54 11 4202-6530",
+    "address": "Maipú 249, B1828IJE Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 157,
+    "title": "Moon Products",
+    "website": "https://www.lomasurbano.com.ar/guia/lista/moon-products/",
+    "phone": "+54 11 4245-0863",
+    "address": "Laprida 221, B1832 HOE, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 158,
+    "title": "oklahoma calzados",
+    "website": "https://wa.me/c/5491159649261",
+    "phone": "+54 11 5964-9261",
+    "address": "Av. Presbitero Pedro F. Uriarte 978, B1828 Banfield, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 159,
+    "title": "Hey guapa",
+    "website": "https://www.heyguapaok.com.ar/",
+    "phone": "+54 11 3248-7251",
+    "address": "Talcahuano 140, B1828 Banfield, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 160,
+    "title": "Sos Unica",
+    "website": "https://sosunica.com/",
+    "phone": "+54 11 6221-2410",
+    "address": "Av. Adolfo Alsina 562 Piso 4 - Dto 401, B1828 Banfield, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 161,
+    "title": "Giorgio Beneti SRL",
+    "website": "https://www.giorgiobeneti.com/quienes-somos/",
+    "phone": "+54 11 4202-7706",
+    "address": "Manuel Baliña 1245, B1828CVH Banfield, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 162,
+    "title": "Las Boleras",
+    "website": "https://www.lasboleras.com.ar/",
+    "phone": null,
+    "address": "Tte. J. A. Rangugni 2798, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 163,
+    "title": "Mariela Calzados",
+    "website": "https://eshops.mercadolibre.com.ar/MARIELACALZADOS",
+    "phone": "+54 11 6071-2765",
+    "address": "Av. 25 de Mayo 62, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 164,
+    "title": "Puerto Blue",
+    "website": "https://puertoblue.com.ar/",
+    "phone": "+54 11 3931-7834",
+    "address": "Enrique Fernández 2525, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 165,
+    "title": "BYM SHOES",
+    "website": "https://bymshoesmayorista.com.ar/",
+    "phone": "+54 11 3437-0577",
+    "address": "Av. Hipólito Yrigoyen 4667, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 166,
+    "title": "Abraxas Lanus",
+    "website": "http://abraxasbuenoszapatos.com.ar/",
+    "phone": null,
+    "address": "Av. 25 de Mayo 77, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 167,
+    "title": "Calzados Koruk",
+    "website": "https://www.calzadoskoruk.com.ar/",
+    "phone": "+54 9 11 7019-9733",
+    "address": "Av. Hipólito Yrigoyen 5168, B1826 Remedios de Escalada, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 168,
+    "title": "Marcel Calzados",
+    "website": "https://calzadoinfantil.com.ar/",
+    "phone": "+54 11 2468-3851",
+    "address": "Viamonte 2351, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 169,
+    "title": "LADY STORK NEW YORK",
+    "website": "http://www.ladystork.com/",
+    "phone": "+54 11 4241-4237",
+    "address": "Av. 9 de Julio 1109, B1820KJA Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 170,
+    "title": "Calzados Rave",
+    "website": "https://calzadosrave.com/",
+    "phone": "+54 11 4208-5839",
+    "address": "B1824HTH Lanús Oeste Buenos Aires AR, Cnel. Murguiondo 2429, B1824 HTH, Argentina"
+  },
+  {
+    "index": 171,
+    "title": "Pira SRL Fábrica de calzado",
+    "website": "http://www.gowell.com.ar/",
+    "phone": "+54 11 4262-6609",
+    "address": "Manuel Castro 3344, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 172,
+    "title": "Seguridad a tus pies",
+    "website": "https://www.seguridadatuspies.com.ar/",
+    "phone": "+54 11 6085-4047",
+    "address": "Gdor. Gral. Ramón Balcarce 882, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 173,
+    "title": "Lake - Proforce Calzados",
+    "website": "http://www.tiendaproforce.com.ar/",
+    "phone": "+54 11 4247-4848",
+    "address": "Av. Remedios de Escalada de San Martín 524, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 174,
+    "title": "Calzados Daniel's",
+    "website": "https://calzadosdaniels.com.ar/Compartir%20https://www.mercadolibre.com.ar/pagina/calzadosdaniels#from=share_eshop",
+    "phone": "+54 11 4241-2473",
+    "address": "Av. 9 de Julio 1457, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 175,
+    "title": "Jr Boots & Shoes",
+    "website": "https://www.jrbootsandshoes.ar/",
+    "phone": "+54 42479453",
+    "address": "Chaco 551, B1824KWG Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 176,
+    "title": "CANELA",
+    "website": "http://www.canela-shop.com/",
+    "phone": "+54 11 5155-5970",
+    "address": "Dr. A Melo 2995, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 177,
+    "title": "Un Pasito a la Vez",
+    "website": "http://www.unpasitoalavez.com.ar/",
+    "phone": "+54 11 3964-6884",
+    "address": "Av. 25 de Mayo 160, B1824NMB Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 178,
+    "title": "Date el Gusto Mayorista",
+    "website": "https://dateelgustomayorista.com/",
+    "phone": "+54 11 6453-5666",
+    "address": "Castro Barros 1280, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 179,
+    "title": "CALZADOS KYRIOS",
+    "website": "http://www.calzadoskyrios.com.ar/",
+    "phone": "+54 11 2356-1111",
+    "address": "Av. 25 de Mayo 1993, B1824NPF Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 180,
+    "title": "Lanusita Calzados",
+    "website": "http://lanusitacalzados.com/",
+    "phone": "+54 9 11 3875-8544",
+    "address": "1824, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 181,
+    "title": "Con kalma shoes",
+    "website": "https://www.kalmashoes.com.ar/",
+    "phone": "+54 11 6695-1343",
+    "address": "Gobernador Felipe Llavallol 174, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 182,
+    "title": "Zapatillas Brasileras 🇧🇷",
+    "website": "https://chat.whatsapp.com/BcnLpXyIkNUFOHOT6Rgzk0",
+    "phone": "+54 11 3334-8268",
+    "address": "Marco Avellaneda 4408, C1824 Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 183,
+    "title": "L'SPORT city",
+    "website": "https://www.sportcity.com.ar/",
+    "phone": "+54 11 4240-0544",
+    "address": "Av. 25 de Mayo 308, B1824NMK Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 184,
+    "title": "Chelsea Sneakers House",
+    "website": "http://www.chelsea.com.ar/",
+    "phone": "+54 11 4249-9011",
+    "address": "Av. 9 de Julio 1.143, B1824 Lanús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 185,
+    "title": "TANKERS",
+    "website": "http://www.tankers.com.ar/",
+    "phone": "+54 9 11 3448-1662",
+    "address": "Av. Pres. Raúl Alfonsín 934, B1824 Gerli, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 186,
+    "title": "Calzados Moovic",
+    "website": "https://calzadosmoovic.mercadoshops.com.ar/",
+    "phone": "+54 11 4222-8051",
+    "address": "Av. Bartolomé Mitre 860, B1870 Avellaneda, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 187,
+    "title": "FLASH CALZADOS",
+    "website": "http://www.flashcalzados.com.ar/",
+    "phone": "+54 11 4085-5536",
+    "address": "Av. Bartolomé Mitre 1143, C1870 Avellaneda, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 188,
+    "title": "Cueros Gonzalez",
+    "website": "http://www.cuerosgonzalez.com.ar/",
+    "phone": "+54 11 3060-3407",
+    "address": "Av. Hipólito Yrigoyen 830, B1870 Avellaneda, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 189,
+    "title": "Calzados susy",
+    "website": "http://www.calzadossusy.com.ar/",
+    "phone": "+54 11 4205-3668",
+    "address": "GFI, Av. Bartolomé Mitre 3087, B1872 Avellaneda, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 190,
+    "title": "Timothea Zapatos",
+    "website": "http://timothea.com.ar/",
+    "phone": "+54 11 4222-9119",
+    "address": "Av. Bartolomé Mitre 1029, B1870AAK Gran Buenos Aires, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 191,
+    "title": "Chiczone Shoes",
+    "website": "https://chiczone.mitiendanube.com/",
+    "phone": null,
+    "address": "Gral. Venancio Flores 3071 Local 29, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 192,
+    "title": "CITADINA zapatos y carteras",
+    "website": "http://www.citadina.com.ar/",
+    "phone": "+54 9 11 3424-0261",
+    "address": "Cnel. Brandsen 1854, C1287 Crucecita, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 193,
+    "title": "Tosone Fábrica",
+    "website": "http://www.tosonezapatos.com.ar/",
+    "phone": "+54 11 4632-2166",
+    "address": "Av. Avellaneda 1683, C1406FYB Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 194,
+    "title": "KANDIL",
+    "website": "https://kandil.com.ar/",
+    "phone": "+54 11 2326-1408",
+    "address": "Av. Avellaneda 2901, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 195,
+    "title": "Agustinahuergazapatos",
+    "website": "https://agustinahuergazapatos.com.ar/",
+    "phone": "+54 11 6031-7041",
+    "address": "9 de Julio 38 B1870CWB, B1870CWB Avellaneda, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 196,
+    "title": "SARKANY",
+    "website": "https://www.rickysarkany.com/",
+    "phone": "+54 45433606",
+    "address": "Local 225/226 Alto Avellaneda Shopping Buenos Aires AR, Gral. Güemes 897, B1873 BOG, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 197,
+    "title": "Ball One",
+    "website": "http://ballonesrl.com/",
+    "phone": "+54 11 4205-5183",
+    "address": "Cnel. Brandsen 1854, B1870 Avellaneda, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 198,
+    "title": "Calzados Cuenca - Distribuidora zapatillas Jaguar por mayor en Flores -",
+    "website": "http://calzadoscuenca.com/",
+    "phone": "+54 11 4637-5039",
+    "address": "Bacacay 3287, 1401 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 199,
+    "title": "Anastasia Shoes",
+    "website": "http://anastasiashoes.mercadoshops.com.ar/",
+    "phone": "+54 11 6223-9180",
+    "address": "Av. Avellaneda 2865, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 200,
+    "title": "Cletas Shoes",
+    "website": "https://www.cletas.ar/",
+    "phone": "+54 11 2393-5842",
+    "address": "Cuenca 575, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 201,
+    "title": "Vita Bella",
+    "website": "http://www.vita-shoes.com/",
+    "phone": "+54 9 11 3668-4825",
+    "address": "Argerich 573, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 202,
+    "title": "Lady Comfort",
+    "website": "https://www.ladycomfort.com.ar/",
+    "phone": "+54 11 4204-0117",
+    "address": "Coronel Brandsen 1726- Avellaneda, B1870 Crucecita, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 203,
+    "title": "Malena Buenos Aires",
+    "website": "https://www.malenabuenosaires.com.ar/",
+    "phone": "+54 11 3793-8817",
+    "address": "Argerich 559, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 204,
+    "title": "C•ZARO",
+    "website": "http://c-zaro.com/",
+    "phone": "+54 11 6667-7070",
+    "address": null
+  },
+  {
+    "index": 205,
+    "title": "Aldana Calzados",
+    "website": "https://www.aldanacalzados.com.ar/",
+    "phone": "+54 9 11 6570-2662",
+    "address": "Argerich 596, C1406AMH Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 206,
+    "title": "Le Mirta \"Fábrica y distribuidora de zapatos\"",
+    "website": "https://linktr.ee/Lemirta?fbclid=PAdGRjcAMkHMBleHRuA2FlbQIxMQABp07jmgUWxbpUAdNwNdJusVgNttOsXY9r1jVOlDP92YRjQQNvtlXGaoObqU5q_aem_Jd8o85iro6z41piawsFTKA",
+    "phone": "+54 11 6480-5784",
+    "address": "Av. Rivadavia 7477 local 10, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 207,
+    "title": "A & Z CALZADOS",
+    "website": "https://sites.google.com/view/ayzcalzado/p%C3%A1gina-principal",
+    "phone": null,
+    "address": "Joaquín V. González 407, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 208,
+    "title": "MEET ME SHOES",
+    "website": "http://www.meetmeshoes.com/",
+    "phone": "+54 11 7078-0258",
+    "address": "Helguera 663, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 209,
+    "title": "Nöle Store",
+    "website": "https://www.mercadolibre.com.ar/pagina/nolecalzados_16#from=share_eshop",
+    "phone": "+54 11 3335-8280",
+    "address": "Primera Junta 3477, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 210,
+    "title": "Bandida shoes",
+    "website": "https://www.bandidashoes.com.ar/",
+    "phone": "+54 11 2507-2405",
+    "address": "ARG, Argerich 578, C1406 C1406ARG, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 211,
+    "title": "Calzados Valdemar",
+    "website": "http://www.calzadosvaldemar.com/",
+    "phone": "+54 11 2744-0958",
+    "address": "Galeria del Norte, Campana 358 local 4 y 6, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 212,
+    "title": "Azar Calzados",
+    "website": "https://azarcalzados.mercadoshops.com.ar/",
+    "phone": "+54 11 4613-8832",
+    "address": "Av. Nazca 47, C1406AIA Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 213,
+    "title": "LOLA en Barracas",
+    "website": "https://lolaenbarracas.com.ar/",
+    "phone": "+54 11 2737-8997",
+    "address": "Av. Montes de Oca 1013, C1288 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 214,
+    "title": "La Fábrica de Zapatillas",
+    "website": "http://www.lafabricadezapatillas.com.ar/",
+    "phone": "+54 11 6852-3162",
+    "address": "Helguera 392, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 215,
+    "title": "SCARPY calzados",
+    "website": "http://www.scarpy.com.ar/",
+    "phone": "+54 11 6431-0100",
+    "address": "Av. Regimiento de Patricios 712, 1143 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 216,
+    "title": "Nike Alto Avellaneda Shopping",
+    "website": "http://m.nike.com/ar/es_la/",
+    "phone": "+54 11 4265-4501",
+    "address": "Guemes 897 (Local 897 42654501, B1873 Avellaneda, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 217,
+    "title": "Kandil",
+    "website": "http://www.kandil.com.ar/",
+    "phone": "+54 11 2326-1408",
+    "address": "Av. Nazca 594, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 218,
+    "title": "Mía bella",
+    "website": "https://www.miabella.com.ar/",
+    "phone": null,
+    "address": "Emilio Lamarca 678, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 219,
+    "title": "Tops zapatos",
+    "website": "http://www.tops.com.ar/",
+    "phone": null,
+    "address": "Argerich 539, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 220,
+    "title": "Mica Shoes",
+    "website": "https://micashoesok.mitiendanube.com/",
+    "phone": "+54 11 2380-1549",
+    "address": "Galeria Shopping, Av. Nazca 544 Local 15, C1406 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 221,
+    "title": "Cuero de toro",
+    "website": "https://www.cuerodetoro.com.ar/",
+    "phone": "+54 11 2819-4292",
+    "address": "Parque Avellaneda, Gregorio de Laferrère 4627, C1407 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 222,
+    "title": "Distribuidora de Calzados Lecika",
+    "website": "http://www.calzadoslecika.com.ar/",
+    "phone": "+54 11 4952-2344",
+    "address": "Av. Hipólito Yrigoyen 2600, C1090 ABB, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 223,
+    "title": "Puma Store",
+    "website": "https://global.puma.com/es-ar/",
+    "phone": "+54 11 4204-9447",
+    "address": "Gral. Güemes 897, B1873BOC Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 224,
+    "title": "Lucía Diaz Shoes",
+    "website": "https://ldzshoes.shop/",
+    "phone": "+54 11 4445-7566",
+    "address": "Gurruchaga 1524, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 225,
+    "title": "GZ Golazo Shoes",
+    "website": "https://www.gzshoes.com.ar/",
+    "phone": "+54 9 11 2391-6621",
+    "address": "AQH San Justo AR, Dr. Ignacio Arieta 3374, B1754, Argentina"
+  },
+  {
+    "index": 226,
+    "title": "Melus Calzados",
+    "website": "https://www.meluscalzados.com.ar/",
+    "phone": "+54 11 3849-2140",
+    "address": "Av. Dr. Ignacio Arieta 3389, B1754AQL Buenos Aires AR, 1754 San Justo, Gran Buenos Aires, Argentina"
+  },
+  {
+    "index": 227,
+    "title": "Bárbara Calzados",
+    "website": "https://www.calzadosbarbara.com.ar/",
+    "phone": "+54 44843636",
+    "address": "Dr. Ignacio Arieta 3266, B1754AQF San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 228,
+    "title": "Giuliana Buenos Aires",
+    "website": "https://giulianabsas.com.ar/",
+    "phone": "+54 11 4484-0175",
+    "address": "Dr. Ignacio Arieta 3208, B1754AQF San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 229,
+    "title": "Lucart Zapatos",
+    "website": "http://www.lucartzapatos.com.ar/",
+    "phone": "+54 11 4441-2686",
+    "address": "Dr. Ignacio Arieta 3214, B1754AQF Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 230,
+    "title": "Dera Shoes",
+    "website": "http://www.derashoes.com/",
+    "phone": "+54 11 6998-0051",
+    "address": "Esnaola 3647, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 231,
+    "title": "Calzados nomy",
+    "website": "https://www.nomyshoes.com.ar/",
+    "phone": "+54 11 3431-7371",
+    "address": "Dr. Ignacio Arieta 3116, B1754AQD Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 232,
+    "title": "Melus Calzados 2",
+    "website": "http://meluscalzados.com.ar/",
+    "phone": "+54 21286138",
+    "address": "Dr. Ignacio Arieta 3235, B1754AQE San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 233,
+    "title": "Crocs",
+    "website": "http://www.crocs.com.ar/",
+    "phone": null,
+    "address": "Av. Brig. Gral. Juan Manuel de Rosas 3910, B7118 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 234,
+    "title": "Pulqui Marketplace",
+    "website": "https://www.pulqui.com.ar/",
+    "phone": "+54 9 11 2818-0173",
+    "address": "Av. Monseñor Bufano 2357, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 235,
+    "title": "Glam Weststore",
+    "website": "https://glamweststore.mitiendanube.com/",
+    "phone": "+54 9 11 5560-5317",
+    "address": "Dr. Ignacio Arieta, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 236,
+    "title": "Calzados Ifratelli",
+    "website": "https://calzadosifratelli3.mitiendanube.com/",
+    "phone": "+54 11 3606-7495",
+    "address": "Av. Gral. San Martín 2836, B1752AAT Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 237,
+    "title": "DASH",
+    "website": "http://www.tiendadash.com.ar/",
+    "phone": null,
+    "address": "Dr. Ignacio Arieta 3155, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 238,
+    "title": "Bross",
+    "website": "http://www.bross.com.ar/",
+    "phone": "+54 11 6238-0238",
+    "address": "San Justo Shopping, Brig. General Juan Manuel de Rosas 3910 Loc. 47, B1754FUX La Matanza, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 239,
+    "title": "Bragué Calzados",
+    "website": "http://www.braguecalzados.com.ar/",
+    "phone": "+54 11 5782-7695",
+    "address": "Argentina 2319, B1704 Ramos Mejía, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 240,
+    "title": "Fabrica de calzados Victorian",
+    "website": "http://victorian.mercadoshops.com.ar/",
+    "phone": "+54 11 3417-7686",
+    "address": "Matheu 824, B1752 Lomas del Mirador, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 241,
+    "title": "Casablanca Zapatos",
+    "website": "http://www.casablancazapatos.com.ar/",
+    "phone": "+54 3498 42-7406",
+    "address": "AGE, 9 de Julio 2225, S3040 San Justo, Santa Fe, Argentina"
+  },
+  {
+    "index": 242,
+    "title": "PRANA Zapatos",
+    "website": "http://www.calzadosprana.com.ar/",
+    "phone": "+54 11 5484-3661",
+    "address": "Mármol 1205 1213, B1704 Ramos Mejía, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 243,
+    "title": "Fábrica Productos Panda",
+    "website": "http://www.productospanda.com.ar/",
+    "phone": "+54 9 11 3170-7427",
+    "address": "Monseñor José Francisco Marcón 3774, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 244,
+    "title": "Melicas",
+    "website": "https://www.melicaslat.com.ar/",
+    "phone": "+54 11 4441-3171",
+    "address": "CYK, Bermejo 2492, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 245,
+    "title": "Solo Deportes",
+    "website": "http://www.solodeportes.com.ar/",
+    "phone": "+54 800-222-7656",
+    "address": "Dr. Ignacio Arieta 3365, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 246,
+    "title": "Stock Center",
+    "website": "http://www.stockcenter.com.ar/",
+    "phone": "+54 11 5697-4378",
+    "address": "Rivera Indarte 3386, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 247,
+    "title": "San Justo Shopping",
+    "website": "http://www.sanjustoshopping.com.ar/",
+    "phone": "+54 11 2225-3890",
+    "address": "Av. Brig. Gral. Juan Manuel de Rosas 3910, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 248,
+    "title": "Barbetta Deportes, Sucursal 1",
+    "website": "http://www.barbettadeportes.com.ar/",
+    "phone": "+54 11 3004-9296",
+    "address": "Dr. Ignacio Arieta 3593, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 249,
+    "title": "Forleden San Justo",
+    "website": "https://www.forleden.com.ar/",
+    "phone": "+54 810-666-7767",
+    "address": "Dr. Ignacio Arieta 3128, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 250,
+    "title": "Sportline",
+    "website": "http://www.sportline.com.ar/",
+    "phone": null,
+    "address": "Av. Pres. Dr. Arturo Umberto Illia 2740, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 251,
+    "title": "Grid",
+    "website": "http://www.grid.com.ar/",
+    "phone": "+54 11 4480-2911",
+    "address": "Av. Brig. Gral. Juan Manuel de Rosas 3910, B1754FUX San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 252,
+    "title": "Luna Chiara Outlet",
+    "website": "http://www.lunachiara.com.ar/",
+    "phone": "+54 11 4236-7039",
+    "address": "Carlos Pellegrini 847, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 253,
+    "title": "MAGALI SHOES & BAGS",
+    "website": "http://www.magalishoes.com.ar/",
+    "phone": "+54 11 4627-7124",
+    "address": "EFO, Local 1, Almte. Guillermo Brown 871, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 254,
+    "title": "Calzados chuekos",
+    "website": "http://calzadoschuekos.mitiendanube.com/",
+    "phone": "+54 46296834",
+    "address": "Belgrano 124, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 255,
+    "title": "MALAIKA Calzados y Marroquinería",
+    "website": "https://eshops.mercadolibre.com.ar/calzadosmalaika",
+    "phone": "+54 11 4584-8504",
+    "address": "25 de Mayo 245 Entre Alte. Brown, Ntra Sra del Buen Viaje y, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 256,
+    "title": "BRANDY SHOES",
+    "website": "https://brandyshoes.com.ar/",
+    "phone": "+54 11 4483-3108",
+    "address": "EFP, Almte. Guillermo Brown 828, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 257,
+    "title": "Manet Calzados y Carteras. Local 47/48",
+    "website": "http://manetshoes.com.ar/",
+    "phone": null,
+    "address": "belgrano 138 galeria centro, Local 47, B1708JAC Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 258,
+    "title": "Top Calzados",
+    "website": "http://topcalzadosmoron.mercadoshops.com.ar/",
+    "phone": "+54 11 3842-3335",
+    "address": "Pres. Domingo Faustino Sarmiento 845, B1708EKQ Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 259,
+    "title": "PUNTO Y LINEA",
+    "website": "https://puntoylinea.mercadoshops.com.ar/",
+    "phone": "+54 11 4489-2020",
+    "address": "Belgrano 114, B1708IFD Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 260,
+    "title": "San Crispino moron",
+    "website": "https://www.sancrispinomoron.com.ar/",
+    "phone": "+54 11 3931-6161",
+    "address": "EFM Moron Buenos Aires AR, Almte. Guillermo Brown 709, B1708, Argentina"
+  },
+  {
+    "index": 261,
+    "title": "Al Costo Calzado - Local Moron",
+    "website": "http://www.alcostocalzado.com/",
+    "phone": "+54 11 6454-1566",
+    "address": "9 de Julio 132, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 262,
+    "title": "Al Costo Calzado - Estacion Plaza",
+    "website": "https://www.alcostocalzado.com/",
+    "phone": "+54 11 6454-1566",
+    "address": "Bernardo Schvarzberg 780, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 263,
+    "title": "CALZADOS LAZIO",
+    "website": "https://calzadoslazio.mitiendanube.com/",
+    "phone": "+54 11 2461-1825",
+    "address": "Almte. Guillermo Brown 681, B1708EFK Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 264,
+    "title": "Marta Sixto - Calzados",
+    "website": "https://www.martasixto.com/",
+    "phone": "+54 11 6063-2273",
+    "address": "25 de Mayo 231, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 265,
+    "title": "Calzados Blanco S.L.",
+    "website": "https://calzadosblanco.com/",
+    "phone": "+34 954 85 28 49",
+    "address": "Av. del Pantano, 91, 41530 Morón de la Frontera, Sevilla, España"
+  },
+  {
+    "index": 266,
+    "title": "Industrias Sucre S. A.",
+    "website": "http://www.industriassucre.com.ar/",
+    "phone": "+54 11 4628-4869",
+    "address": "Bernardo de Irigoyen 650, B1712 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 267,
+    "title": "Remolino",
+    "website": "https://remolinosa.com/",
+    "phone": null,
+    "address": "25 de Mayo 69, B1708JAA JAA, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 268,
+    "title": "Funny store",
+    "website": "http://www.funnystore.com.ar/",
+    "phone": "+54 11 4090-8644",
+    "address": "Galeria Paseo Jardin, Almte. Guillermo Brown 871, B1708 EFP, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 269,
+    "title": "La Leopolda",
+    "website": "https://www.laleopolda.com/",
+    "phone": "+54 11 7078-0373",
+    "address": "Carlos Casares 1162, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 270,
+    "title": "Calzados Chuekos",
+    "website": "https://calzadoschuekos.mitiendanube.com/",
+    "phone": "+54 11 4483-3085",
+    "address": "25 de Mayo 171, B1708JAC Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 271,
+    "title": "Las Medusas",
+    "website": "https://ommshop.com.ar/",
+    "phone": "+54 11 4489-5008",
+    "address": "Gdor. Inocencio Arias 2525, B1712 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 272,
+    "title": "Venneri SHOES & BAGS",
+    "website": "http://www.vennerishoes.com.ar/",
+    "phone": "+54 11 4629-0077",
+    "address": "CDD, Gdor. Inocencio Arias 2398, B1712 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 273,
+    "title": "Tascani",
+    "website": "http://www.tascani.com.ar/",
+    "phone": "+54 11 4829-7168",
+    "address": "Plaza Oeste Shopping, Blvd. Juan Manuel de Rosas 658, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 274,
+    "title": "BTE - Bendita Tu Eres",
+    "website": "http://www.benditatueres.com.ar/",
+    "phone": "+54 11 5935-3664",
+    "address": "CDE Castelar AR, Gdor. Inocencio Arias 2445, B1712, Argentina"
+  },
+  {
+    "index": 275,
+    "title": "OMM",
+    "website": "http://www.ommshop.com.ar/",
+    "phone": "+54 11 5905-6823",
+    "address": "Nicolas Avellaneda 978, Gdor. Inocencio Arias 2525, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 276,
+    "title": "Antigua Tienda La Rosa",
+    "website": "http://www.tiendalarosa.com.ar/",
+    "phone": "+54 11 4627-0887",
+    "address": "9 de Julio 143, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 277,
+    "title": "LAS ROXY",
+    "website": "https://www.lasroxy.com/",
+    "phone": "+54 9 11 6193-6086",
+    "address": "Paysandú 2462 Oficina 20, B1714 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 278,
+    "title": "Las Vicas",
+    "website": "http://www.lasvicas.com.ar/",
+    "phone": "+54 11 4489-4084",
+    "address": "B1712JLF, Carlos Casares 1006, B1712JLF Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 279,
+    "title": "Small Planet Discount Suc. Moron",
+    "website": "http://www.smallplanet.com.ar/",
+    "phone": "+54 11 4489-4254",
+    "address": "Gral. Machado 704, B1708EOD Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 280,
+    "title": "Dexter",
+    "website": "https://www.dexter.com.ar/",
+    "phone": "+54 11 5703-7972",
+    "address": "Boulevard, Cañada de Juan Ruiz 700, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 281,
+    "title": "Punto Deportivo",
+    "website": "http://www.puntodeportivo.com.ar/",
+    "phone": "+54 11 4483-2371",
+    "address": "JDC, 9 de Julio 117, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 282,
+    "title": "Zapatería Isabela",
+    "website": "https://isabelacalzados.mitiendanube.com/",
+    "phone": "+54 11 4629-5166",
+    "address": "Carlos Casares 904, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 283,
+    "title": "Distribuidora Maraio",
+    "website": "https://distribuidoramaraio.mitiendanube.com/",
+    "phone": "+54 11 2452-8252",
+    "address": "Av. Pres. Perón 2762, B1706 Haedo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 284,
+    "title": "riminimoroncalzados",
+    "website": "https://riminimoron.mitiendanube.com/",
+    "phone": null,
+    "address": "Carlos Casares, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 285,
+    "title": "MISS MYSTIC SHOES Tienda Online de Zapatos de Moda para la Mujer",
+    "website": "https://linktr.ee/missmysticok",
+    "phone": "+54 11 2683-3048",
+    "address": "Marqués de Loreto 2254, B1712 Castelar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 286,
+    "title": "AC 65 SHOES",
+    "website": "https://ac65shoes.empretienda.com.ar/",
+    "phone": "+54 11 4627-5444",
+    "address": "JLD Castelar Buenos Aires AR, Carlos Casares 910, B1712, Argentina"
+  },
+  {
+    "index": 287,
+    "title": "Woker",
+    "website": "https://www.wokerbysporting.com.ar/",
+    "phone": null,
+    "address": "Shopping Plaza Oeste, Blvd. Juan Manuel de Rosas 658, B1708 Morón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 288,
+    "title": "Zapateria Voce Piccadilly",
+    "website": "https://www.vocezapateria.com.ar/",
+    "phone": "+54 11 4773-9169",
+    "address": "Av. Sta. Fe 4501, C1425BHH Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 289,
+    "title": "Miye Collazzo",
+    "website": "http://www.miye.com.ar/",
+    "phone": "+54 11 4892-8929",
+    "address": "Av. San Juan 432, C1147 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 290,
+    "title": "LeHoi Zapatos",
+    "website": "http://www.lehoi.com.ar/",
+    "phone": "+54 11 3574-4469",
+    "address": "Jerónimo Salguero 1843, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 291,
+    "title": "Calzados Los Angelitos",
+    "website": "http://www.losangelitos.com.ar/",
+    "phone": "+54 9 11 2258-6032",
+    "address": "Bonpland 1862, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 292,
+    "title": "OGGI Zapatería - Mujer",
+    "website": "https://www.oggizapateria.com.ar/",
+    "phone": "+54 11 4706-1888",
+    "address": "Av. Cabildo 1582, C1426ABO Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 293,
+    "title": "Baccarat zapatos",
+    "website": "http://www.zapatosbaccarat.com.ar/",
+    "phone": "+54 11 2273-9823",
+    "address": "Av. Entre Ríos 594, C1079 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 294,
+    "title": "Calzados Riobamba",
+    "website": "https://calzadosriobamba.mercadoshops.com.ar/",
+    "phone": "+54 11 5496-6434",
+    "address": "Riobamba 370, C1025ABH Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 295,
+    "title": "Le Loup",
+    "website": "http://www.leloupshoes.com/ar",
+    "phone": "+54 11 7180-6560",
+    "address": "Cabello 3650 PB A, 1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 296,
+    "title": "Zapatería Mudra",
+    "website": "http://www.mudracalzados.com/",
+    "phone": "+54 11 7369-8301",
+    "address": "Av. de Mayo 1260 Local 2, C1085 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 297,
+    "title": "DONNÉ Shoes",
+    "website": "http://www.donne.com.ar/",
+    "phone": null,
+    "address": "Armenia 1780, C1414 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 298,
+    "title": "López Taibo - Sucursal Alvear",
+    "website": "https://lopeztaibo.com.ar/",
+    "phone": "+54 9 11 3396-1897",
+    "address": "Av. Alvear 1902, C1129 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 299,
+    "title": "Entile",
+    "website": "http://www.calzadosentile.com/",
+    "phone": "+54 11 4811-0579",
+    "address": "Ciudad Autónoma de Buenos Aires AR, Av. Callao 1369, C1023 AAG, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 300,
+    "title": "Clara Barcelo (Recoleta)",
+    "website": "https://www.clarabarcelo.com/",
+    "phone": "+54 11 4813-3040",
+    "address": "Juncal 1213, C1062 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 301,
+    "title": "Azucar Calzados",
+    "website": "http://www.azucarcalzados.com.ar/",
+    "phone": "+54 11 5218-3333",
+    "address": "Av. Corrientes 2036, C1045 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 302,
+    "title": "Fausto Buenos Aires",
+    "website": "https://faustobuenosaires.com/",
+    "phone": "+54 11 6248-4242",
+    "address": "Güemes 4747, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 303,
+    "title": "Tienda de Calzados",
+    "website": "http://www.tiendadecalzados.com.ar/",
+    "phone": "+54 11 4502-7590",
+    "address": "Cuenca 3418, C1417 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 304,
+    "title": "Calzados Once",
+    "website": "https://calzadosonce.mercadoshops.com.ar/",
+    "phone": "+54 11 4863-6129",
+    "address": "Av. Pueyrredón 357, C1032ABD Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 305,
+    "title": "Zapatillas Puro",
+    "website": "https://www.zapatillaspuro.com.ar/",
+    "phone": "+54 11 4827-5806",
+    "address": "Av. Sta. Fe 2037, C1123 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 306,
+    "title": "Ponzo Zapatos",
+    "website": "https://ponzo.com.ar/",
+    "phone": "+54 11 7507-3917",
+    "address": "Av. Sta. Fe 1493, C1060ABA Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 307,
+    "title": "Mary & Joe",
+    "website": "http://www.maryjoe.com.ar/",
+    "phone": "+54 11 4511-9370",
+    "address": "Av. Sta. Fe 2380, C1123 AAS, Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 308,
+    "title": "Marta Sixto",
+    "website": "http://www.martasixto.com/",
+    "phone": "+54 11 4813-1300",
+    "address": "Av. Sta. Fe 1420, C1060 Cdad. Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "index": 309,
+    "title": "Borsalino Calzados",
+    "website": "https://calzadosborsalino.com/",
+    "phone": "+54 341 449-7773",
+    "address": "Av. San Martín 1031, S2000PCL Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 310,
+    "title": "OUTLET Calzate Rosario",
+    "website": "https://calzaterosario.miempretienda.com/",
+    "phone": "+54 9 341 271-0219",
+    "address": "Mitre 1645, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 311,
+    "title": "Piccadilly & Vizzano Rosario :: EZ Shoes",
+    "website": "https://www.ezshoes.com.ar/",
+    "phone": "+54 341 579-1565",
+    "address": "Galería Corner Mall, Rioja 1378 Local 7, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 312,
+    "title": "Calzados Marrox",
+    "website": "https://calzadosmarrox.com.ar/",
+    "phone": "+54 341 377-4093",
+    "address": "Molina 1936, S2005 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 313,
+    "title": "Tienda de Tacones",
+    "website": "https://www.tiendadetacones.com.ar/",
+    "phone": "+54 341 324-2092",
+    "address": "Blvd. Oroño 302, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 314,
+    "title": "Uls Store",
+    "website": "http://www.uls-store.com/",
+    "phone": "+54 9 341 619-6104",
+    "address": "Pres. Roca 944, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 315,
+    "title": "Quadrato",
+    "website": "http://www.quadrato.com.ar/",
+    "phone": "+54 341 324-0633",
+    "address": "Córdoba 1509, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 316,
+    "title": "Paris distribuidora",
+    "website": "http://www.parisdistribuidoraok.com.ar/",
+    "phone": "+54 341 753-3682",
+    "address": "Dorrego 984, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 317,
+    "title": "Calzados Naren",
+    "website": "https://www.calzadosnaren.com.ar/",
+    "phone": "+54 341 463-0510",
+    "address": "CAB, Arijon 1681, S2011 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 318,
+    "title": "Compañía de Zapatos",
+    "website": "http://www.companiadezapatos.com.ar/",
+    "phone": "+54 9 341 250-6060",
+    "address": "José C. Paz 1990, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 319,
+    "title": "Santana Shoes Argentina",
+    "website": "http://www.santanashoes.com.ar/",
+    "phone": null,
+    "address": "Sarmiento 859 Planta Alta, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 320,
+    "title": "REGIA SHOP ZAPATOS",
+    "website": "http://www.regiashop.com/",
+    "phone": "+54 9 341 368-9941",
+    "address": "San Juan 1702, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 321,
+    "title": "Humanic",
+    "website": "http://humanic.com.ar/",
+    "phone": "+54 341 447-7007",
+    "address": "AXB, Córdoba 1714, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 322,
+    "title": "escalfe",
+    "website": "http://www.escalfedesigns.com/",
+    "phone": "+54 341 756-0017",
+    "address": "Balcarce 744 Planta Alta, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 323,
+    "title": "Latina",
+    "website": "https://latinacalzados.mitiendanube.com/",
+    "phone": "+54 341 260-8131",
+    "address": "Av. Ntra Sra del Rosario 292, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 324,
+    "title": "Sisters",
+    "website": "https://www.sisters.com.ar/",
+    "phone": "+54 9 341 316-6971",
+    "address": "Mariano Moreno 43, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 325,
+    "title": "LUZNIKA",
+    "website": "http://www.luznika.com.ar/",
+    "phone": "+54 341 614-0446",
+    "address": "San Lorenzo 2036, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 326,
+    "title": "VYA STORE",
+    "website": "http://www.vyastore.com.ar/",
+    "phone": "+54 341 514-3542",
+    "address": "Av. San Martín 5430, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 327,
+    "title": "San Loui's",
+    "website": "https://san-louis.negocio.site/",
+    "phone": "+54 341 839-8632",
+    "address": "San Luis 1160, S2000BBP Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 328,
+    "title": "PURO ROSARIO",
+    "website": "https://www.purorosario.com.ar/",
+    "phone": "+54 341 242-6488",
+    "address": "Dorrego 559, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 329,
+    "title": "Stylo buenos aires",
+    "website": "http://www.stylobuenosaires.com.ar/",
+    "phone": "+54 341 327-5417",
+    "address": "Cordoba 2368 y Mendoza 4054 Negocio de zapatos de mujer e indumentaria de mujer 2000, Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 330,
+    "title": "Elda La Fratta",
+    "website": "http://www.eldalafratta.com/",
+    "phone": null,
+    "address": "Shopping Paso del Bosque, Rioja 1758, Mendoza 4342, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 331,
+    "title": "Pegada - Local Exclusivo",
+    "website": "https://www.pegadarosario.com.ar/",
+    "phone": null,
+    "address": "Entre Ríos 812 local 5, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 332,
+    "title": "Borsalino Calzados",
+    "website": "http://www.calzadosborsalino.com/",
+    "phone": "+54 341 435-8140",
+    "address": "S2002PCL, Av Mendoza 3766, S2002PCL Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 333,
+    "title": "PACO SANZ",
+    "website": "https://www.pacosanz.com.ar/",
+    "phone": "+54 341 355-7692",
+    "address": "Pres. Roca 368, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 334,
+    "title": "Calzados Claudio Lunghi",
+    "website": "http://www.calzadoslunghi.com.ar/",
+    "phone": "+54 341 586-7663",
+    "address": "Darregueira 1271, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 335,
+    "title": "MARIA PE SHOES",
+    "website": "http://www.maria-pe.com/",
+    "phone": "+54 341 229-6867",
+    "address": "Sta Fe 1509, S2000ATW Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 336,
+    "title": "Comfort Point",
+    "website": "http://www.comfortpoint.com.ar/",
+    "phone": "+54 341 679-2874",
+    "address": "Maipú 1710, S2000FSB Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 337,
+    "title": "Tamango Sport",
+    "website": "http://www.tamangosport.com.ar/",
+    "phone": "+54 341 455-6305",
+    "address": "PBX, Blvd. Rondeau 3160, S2005 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 338,
+    "title": "El Emporio de la Zapatilla",
+    "website": "https://elemporiodelazapatilla.com/",
+    "phone": "+54 341 466-0455",
+    "address": "PCN, Mendoza 3898, S2002 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 339,
+    "title": "The Bag & Belt",
+    "website": "https://thebagbelt.com/",
+    "phone": "+54 341 439-1434",
+    "address": "Alto Rosario, Rosario, Santa Fe, 2000, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 340,
+    "title": "Moon Calzados",
+    "website": "https://mooncalzados3.mitiendanube.com/?fbclid=IwY2xjawH0avZleHRuA2FlbQIxMQABHeH9VlPDajmokPELl93n8DGUaU1jHPwmuPxafRasm5Uu-9W3dSYzq_nsMw_aem_flT3vRTBhURZQOFnNzlTzw",
+    "phone": "+54 341 215-1315",
+    "address": "Vélez Sársfield 490, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 341,
+    "title": "Rimón Cassis e Hijos",
+    "website": "http://www.rimoncassis.com.ar/",
+    "phone": "+54 341 431-3121",
+    "address": "Bv. Avellaneda 2141 Oeste, S2003IVE Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 342,
+    "title": "The Bag & Belt",
+    "website": "http://www.thebagbelt.com/",
+    "phone": "+54 341 448-0828",
+    "address": "Córdoba 1617, S2000 AWY, Santa Fe, Argentina"
+  },
+  {
+    "index": 343,
+    "title": "AINES Shoes",
+    "website": "http://www.aines.com.ar/",
+    "phone": "+54 9 341 692-9273",
+    "address": "Pres. Roca 922, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 344,
+    "title": "CoolSport sucursal Pte Perón",
+    "website": "http://www.coolsport.com.ar/",
+    "phone": "+54 9 341 562-7657",
+    "address": "Av. Pres. Perón 3552, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 345,
+    "title": "Tiara",
+    "website": "https://tiarazapatos.mitiendanube.com/",
+    "phone": "+54 341 447-6757",
+    "address": "Galería del Paseo, Av. San Martín 855 Local 8 y 4, S2000CJK Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 346,
+    "title": "Ana York Shoes | Pte Roca 821",
+    "website": "https://www.anayork.com.ar/",
+    "phone": "+54 341 297-2798",
+    "address": "Pres. Roca 821, S2000CXQ Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 347,
+    "title": "Ringo Store Paso del Bosque",
+    "website": "http://www.ringostore.ar/",
+    "phone": "+54 341 559-7323",
+    "address": "Paso del Bosque, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 348,
+    "title": "Prato Zapatos",
+    "website": "http://pratozapatos.com.ar/",
+    "phone": "+54 341 682-1861",
+    "address": "Carrefour Hipermercado, Circunvalación, S2000 Rosario, Santa Fe, Argentina"
+  },
+  {
+    "index": 349,
+    "title": "CALZADOS SALAMONE Calle Córdoba",
+    "website": "https://www.calzadossalamone.com/",
+    "phone": "+54 261 434-0020",
+    "address": "Córdoba 69, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 350,
+    "title": "Og Calzados",
+    "website": "http://ogcalzados.com/",
+    "phone": "+54 261 429-8585",
+    "address": "Av. Colón 304, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 351,
+    "title": "Via Victoria - Zapatos",
+    "website": "http://www.viavictoriazapatos.com.ar/",
+    "phone": "+54 261 429-7770",
+    "address": "Tercera Sección Capital, Av. San Martín 1437, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 352,
+    "title": "Renno Calzados",
+    "website": "http://www.rennocalzados.com.ar/",
+    "phone": "+54 261 569-3625",
+    "address": "Arístides Villanueva 362, M5519 Mendoza, Argentina"
+  },
+  {
+    "index": 353,
+    "title": "Madras Calzados",
+    "website": "http://www.madrascalzados.com/",
+    "phone": "+54 9 261 615-9095",
+    "address": "Av. Las Heras 86, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 354,
+    "title": "Guapa Loca",
+    "website": "https://lovershoes.mitiendanube.com/",
+    "phone": "+54 261 425-4455",
+    "address": "Av. San Martín 1543, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 355,
+    "title": "Calzados Jose Luis",
+    "website": "https://www.calzadosjoseluis.com.ar/",
+    "phone": "+54 261 438-1221",
+    "address": "Gral. Paz 60, M5502BKR Mendoza, Argentina"
+  },
+  {
+    "index": 356,
+    "title": "Alonso Shoes",
+    "website": "https://www.alonsoshoes.com/",
+    "phone": "+54 261 536-9606",
+    "address": "Martínez de Rozas 744, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 357,
+    "title": "A S Distribuidora Mayorista de Calzados",
+    "website": "https://asdistribuidora.com/",
+    "phone": "+54 261 423-1952",
+    "address": "San Juan 1650, M5500AGH Mendoza, Argentina"
+  },
+  {
+    "index": 358,
+    "title": "Vallejo Calzados",
+    "website": "https://www.vallejocalzados.com.ar/",
+    "phone": "+54 3865 45-5203",
+    "address": "Av. San Martín 1567, M5500ABC M5500ABC, Mendoza, Argentina"
+  },
+  {
+    "index": 359,
+    "title": "La Mía Borssetta",
+    "website": "http://www.lamiaborsetta.com.ar/",
+    "phone": "+54 261 429-5733",
+    "address": "Rivadavia 184, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 360,
+    "title": "Gipsy Calzados",
+    "website": "https://gipsycalzados.com.ar/",
+    "phone": "+54 261 633-8090",
+    "address": "Cervantes 1236, M5501 Mendoza, Argentina"
+  },
+  {
+    "index": 361,
+    "title": "GHILARDI",
+    "website": "https://www.ghilardi.com.ar/",
+    "phone": "+54 261 369-1479",
+    "address": "Av. San Martín 1021, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 362,
+    "title": "GHILARDI Factory Outlet",
+    "website": "http://www.ghilardi.com.ar/",
+    "phone": null,
+    "address": "Av. Colón 291, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 363,
+    "title": "Mixt deportes y zapatería",
+    "website": "https://www.mixt.com.ar/",
+    "phone": "+54 9 261 667-9481",
+    "address": "RP50 334, M5529 Rodeo del Medio, Mendoza, Argentina"
+  },
+  {
+    "index": 364,
+    "title": "Batistella Calzados y Accesorios",
+    "website": "https://calzadosbatistella.com.ar/",
+    "phone": null,
+    "address": "Av. de Acceso Este 3280, M5521 Guaymallén, Mendoza, Argentina"
+  },
+  {
+    "index": 365,
+    "title": "Frendy Mayorista",
+    "website": "https://www.frendymayorista.com.ar/",
+    "phone": "+54 261 551-6501",
+    "address": "Salta 2560, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 366,
+    "title": "Isabella zapatos",
+    "website": "https://isabellazapatos.empretienda.com.ar/",
+    "phone": null,
+    "address": "Moldes 1023, M5521 Guaymallén, Mendoza, Argentina"
+  },
+  {
+    "index": 367,
+    "title": "Heben Guaymallén",
+    "website": "http://www.heben.com.ar/",
+    "phone": "+54 261 611-2929",
+    "address": "Av. de Acceso Este 3820, M5521ANB Mendoza, Argentina"
+  },
+  {
+    "index": 368,
+    "title": "Grimoldi",
+    "website": "https://www.grimoldi.com/?utm_medium=organic&utm_source=google&utm_campaign=Google%20maps&utm_content=Grimoldi_PortalLosAndes",
+    "phone": "+54 261 458-0010",
+    "address": "Portal Los Andes, Balcarce 897, M5501 Godoy Cruz, Mendoza, Argentina"
+  },
+  {
+    "index": 369,
+    "title": "Lady Stork - Storkman Palmares",
+    "website": "https://www.ladystork.com/",
+    "phone": "+54 261 348-1280",
+    "address": "Palmares, Av. San Martín Sur 2875, M5505 Godoy Cruz, Mendoza, Argentina"
+  },
+  {
+    "index": 370,
+    "title": "CALZADOS NICOLAS",
+    "website": "https://www.calzadosnicolas.com.ar/",
+    "phone": null,
+    "address": "San Martín 226, M5515 Maipú, Mendoza, Argentina"
+  },
+  {
+    "index": 371,
+    "title": "Lady Stork | Storkman • Mendoza Plaza Shopping",
+    "website": "https://www.ladystork.com.ar/",
+    "phone": "+54 261 449-0118",
+    "address": "Mendoza Plaza Shopping, M5519, Mendoza, Argentina"
+  },
+  {
+    "index": 372,
+    "title": "RIF Calzados",
+    "website": "https://rifcalzados.com.ar/",
+    "phone": "+54 261 618-6339",
+    "address": "Severo del Castillo 5095, M5527 Corralitos, Mendoza, Argentina"
+  },
+  {
+    "index": 373,
+    "title": "Vaypol Casa de Deportes",
+    "website": "https://www.vaypol.com.ar/",
+    "phone": "+54 9 261 429-6483",
+    "address": "Av. San Martín 1390, M5500 Mendoza, Argentina"
+  },
+  {
+    "index": 374,
+    "title": "EL TAMANGO",
+    "website": "https://cutt.ly/9nRljUJ",
+    "phone": "+54 381 422-4665",
+    "address": "Av. 24 de Septiembre 754, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 375,
+    "title": "IARA CALZADOS",
+    "website": "http://www.iaracalzados.com.ar/",
+    "phone": "+54 381 422-2763",
+    "address": "Ildefonso de las Muñecas 70 y, Pcia de Mendoza 536, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 376,
+    "title": "Vallejo Calzados",
+    "website": "https://tienda.mercadolibre.com.ar/calzados-vallejo",
+    "phone": "+54 381 421-6667",
+    "address": "Pcia de Mendoza 681, T4146 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 377,
+    "title": "La Negrita Calzados",
+    "website": "http://www.lanegritacalzados.com.ar/",
+    "phone": "+54 381 539-0380",
+    "address": "Av. Manuel Belgrano 3841, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 378,
+    "title": "kools sucursal tucuman",
+    "website": "http://www.kools.com.ar/",
+    "phone": "+54 381 430-2868",
+    "address": "Ildefonso de las Muñecas 55, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 379,
+    "title": "Cintas Calzados",
+    "website": "http://www.cintascalzados.com.ar/",
+    "phone": null,
+    "address": "Maipú 211, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 380,
+    "title": "Demati Showroom",
+    "website": "http://www.demati.com.ar/",
+    "phone": "+54 381 675-3177",
+    "address": "25 de Mayo 590 P. Alta, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 381,
+    "title": "Maverick Zapatillas",
+    "website": "http://maverickshopar.mitiendanube.com/",
+    "phone": "+54 381 616-5460",
+    "address": "Buenos Aires 575 6E, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 382,
+    "title": "Kavak Deportes",
+    "website": "https://kavak.com.ar/",
+    "phone": "+54 381 505-0398",
+    "address": "Av. Colón 333, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 383,
+    "title": "Marcantonio Deportes",
+    "website": "http://www.marcantoniodeportes.com.ar/",
+    "phone": "+54 381 430-2829",
+    "address": "Av. 24 de Septiembre 169, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 384,
+    "title": "VIAMO",
+    "website": "https://www.viamo.com/",
+    "phone": "+54 11 3470-3348",
+    "address": "Av. Fermín, Cariola 42, Yerba Buena, Tucumán, Argentina"
+  },
+  {
+    "index": 385,
+    "title": "Principes & Princesas",
+    "website": "http://www.xn--prncipesyprincesas-iyb.com.ar/",
+    "phone": "+54 9 381 399-8847",
+    "address": "Av. Manuel Belgrano 3874, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 386,
+    "title": "Lucciano Augusto",
+    "website": "https://luccianoaugusto.com.ar/",
+    "phone": "+54 381 367-4802",
+    "address": "25 de Mayo 464, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 387,
+    "title": "Cocoreta",
+    "website": "https://www.cocoreta.com.ar/",
+    "phone": null,
+    "address": "Pcia de Corrientes 336, T4000EBH San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 388,
+    "title": "Manuela Otero",
+    "website": "http://www.manuelaotero.com.ar/",
+    "phone": "+54 381 422-4019",
+    "address": "Laprida 648, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 389,
+    "title": "Lobo H",
+    "website": "http://lobocalzados.shop/",
+    "phone": "+54 381 421-5240",
+    "address": "Batalla de Ayacucho 94, T4000 San Miguel de Tucumán, Tucumán, Argentina"
+  },
+  {
+    "index": 390,
+    "title": "Bonaire Calzados",
+    "website": "https://bonaireshop.com/",
+    "phone": "+54 9 387 444-7249",
+    "address": "Pueyrredón 1022, A4400 Salta, Argentina"
+  },
+  {
+    "index": 391,
+    "title": "Passarela",
+    "website": "http://www.passarelasaltacalzados.com.ar/",
+    "phone": "+54 387 243-4419",
+    "address": "Alvarado 802, A4400 Salta, Argentina"
+  },
+  {
+    "index": 392,
+    "title": "Clap!",
+    "website": "https://clapcalzados.shop/",
+    "phone": "+54 387 615-1525",
+    "address": "España 145, A4400 Salta, Argentina"
+  },
+  {
+    "index": 393,
+    "title": "Batistella Calzados y Accesorios",
+    "website": "http://www.batistella.com.ar/",
+    "phone": "+54 387 431-5841",
+    "address": "Alberdi 189, A4400 Salta, Argentina"
+  },
+  {
+    "index": 394,
+    "title": "Perri Jose - Fabrica de Botas Salteñas",
+    "website": "http://www.xn--fabricadebotassalteas-ubc.com/",
+    "phone": "+54 387 423-3969",
+    "address": "Alberdi 1020, A4400 Salta, Argentina"
+  },
+  {
+    "index": 395,
+    "title": "Calzados Abdenur",
+    "website": "http://www.abdenur.com.ar/",
+    "phone": "+54 387 421-3878",
+    "address": "La Florida 106, A4400 Salta, Argentina"
+  },
+  {
+    "index": 396,
+    "title": "Calzados Cataleya",
+    "website": "http://www.cataleyacalzados.com.ar/",
+    "phone": "+54 387 408-4970",
+    "address": "25 de Mayo 324, A4400 Salta, Argentina"
+  },
+  {
+    "index": 397,
+    "title": "Calzados Lino",
+    "website": "http://www.calzadoslino.com.ar/",
+    "phone": "+54 387 585-5978",
+    "address": "Corrientes 380, A4400 Salta, Argentina"
+  },
+  {
+    "index": 398,
+    "title": "Estefanía Rodríguez",
+    "website": "https://ershoesok.com.ar/",
+    "phone": "+54 387 458-9355",
+    "address": "Av. Entre Ríos 736, A4400 Salta, Argentina"
+  },
+  {
+    "index": 399,
+    "title": "Novus",
+    "website": "http://novuscalzados.com.ar/",
+    "phone": "+54 387 431-5341",
+    "address": "Caseros 653, A4400 Salta, Argentina"
+  },
+  {
+    "index": 400,
+    "title": "OTHERWISE BIKINIS Y ZAPATOS",
+    "website": "https://www.otherwise.com.ar/",
+    "phone": "+54 9 387 619-7899",
+    "address": "Gral. Savio 1094, A4400 Salta, Argentina"
+  },
+  {
+    "index": 401,
+    "title": "Batistella Calzados",
+    "website": "https://calzadosbatistella.com.ar/shop/",
+    "phone": "+54 387 245-0283",
+    "address": "Paseo Salta, Av. Tavella, Av. Ex Combatientes de Malvinas y Local 330, A4400 Salta, Argentina"
+  },
+  {
+    "index": 402,
+    "title": "VIAMO",
+    "website": "http://viamo.com/",
+    "phone": "+54 387 421-1014",
+    "address": "Av. Sarmiento 1061, A4400 Salta, Argentina"
+  },
+  {
+    "index": 403,
+    "title": "Giuliano Damas",
+    "website": "https://www.giulianoshop.com.ar/",
+    "phone": "+54 387 243-5314",
+    "address": "Alvarado 824, A4400 Salta, Argentina"
+  },
+  {
+    "index": 404,
+    "title": "Agustino Shoes & Bags",
+    "website": "https://www.agustinoshoes.com/",
+    "phone": "+54 387 431-8546",
+    "address": "Galería El Palacio, Bartolomé Mitre 37 Local 28, A4400 Salta, Argentina"
+  },
+  {
+    "index": 405,
+    "title": "Bardock",
+    "website": "http://bardock.com.ar/",
+    "phone": "+54 387 541-6405",
+    "address": "O' Higgins 157, A4400 Salta, Argentina"
+  },
+  {
+    "index": 406,
+    "title": "Tinaz",
+    "website": "https://www.tinaz.com.ar/",
+    "phone": "+54 387 502-0409",
+    "address": "Vicente López 1147, A4400 Salta, Argentina"
+  },
+  {
+    "index": 407,
+    "title": "Divinas Boutique",
+    "website": "https://divinashop.com.ar/",
+    "phone": "+54 387 458-0338",
+    "address": "Esteco 340, A4400 Salta, Argentina"
+  },
+  {
+    "index": 408,
+    "title": "Antonella Calzados",
+    "website": "https://www.antonellacalzados.com.ar/",
+    "phone": "+54 342 453-7642",
+    "address": "Bv. Pellegrini 2223, S3000ABA Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 409,
+    "title": "MAHRA",
+    "website": "https://www.mahra.com.ar/",
+    "phone": null,
+    "address": "San Martín 2814, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 410,
+    "title": "Gretel Zapatos Indumentaria",
+    "website": "http://www.gretel.com.ar/",
+    "phone": "+54 342 588-3242",
+    "address": "Belgrano 3472, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 411,
+    "title": "Bucanero",
+    "website": "https://www.bucaneroshop.com.ar/",
+    "phone": "+54 342 455-0396",
+    "address": "Mendoza 2699, S3000 CHE, Santa Fe, Argentina"
+  },
+  {
+    "index": 412,
+    "title": "SAGUR",
+    "website": "http://www.sagur.com.ar/",
+    "phone": "+54 342 483-1402",
+    "address": "San Martín 2110, S3000FRV Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 413,
+    "title": "Sacco Mujer",
+    "website": "http://www.saccomujer.com/",
+    "phone": "+54 342 457-2320",
+    "address": "Blvd. Gálvez 1133, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 414,
+    "title": "Bucanero Aristobulo",
+    "website": "http://www.bucaneroshop.com.ar/",
+    "phone": "+54 342 469-5548",
+    "address": "Av. Aristóbulo del Valle 6698, S3004 FSZ, Santa Fe, Argentina"
+  },
+  {
+    "index": 415,
+    "title": "CHIQUIS Calzados para Chicos",
+    "website": "http://www.chiquis.com.ar/",
+    "phone": "+54 9 342 405-8253",
+    "address": "Marcial Candioti 3699, Maipú 3000, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 416,
+    "title": "Praga zapatos",
+    "website": "http://www.pragazapaterias.com.ar/",
+    "phone": "+54 342 456-3630",
+    "address": "San Martín 2278, S3004CVB Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 417,
+    "title": "Praga Zapatos",
+    "website": "https://www.pragazapaterias.com.ar/",
+    "phone": "+54 342 460-0424",
+    "address": "Av. Aristóbulo del Valle 6432, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 418,
+    "title": "Timbos",
+    "website": "https://timbospatones.com.ar/",
+    "phone": "+54 342 481-0457",
+    "address": "San Martín 2801, S3000FSI Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 419,
+    "title": "Olinda En Las Nubes",
+    "website": "https://www.olindaenlasnubes.com.ar/",
+    "phone": "+54 342 483-1520",
+    "address": "La Rioja 2640, S3000 BXI, Santa Fe, Argentina"
+  },
+  {
+    "index": 420,
+    "title": "Amarena Calzature",
+    "website": "http://www.amarena.com.ar/",
+    "phone": "+54 342 456-4962",
+    "address": "San Martín 2945, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 421,
+    "title": "Canela Calzados",
+    "website": "http://www.canelacalzados.com.ar/",
+    "phone": "+54 342 449-3983",
+    "address": "Lisandro de la Torre 2659, S3000CPG Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 422,
+    "title": "Calzados López",
+    "website": "http://www.calzadoslopez.com.ar/",
+    "phone": "+54 342 448-5652",
+    "address": "Salta 2898, S3000CMJ Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 423,
+    "title": "YouShoes",
+    "website": "https://www.youshoes.com.ar/",
+    "phone": "+54 9 342 446-0312",
+    "address": "San Jerónimo 3042, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 424,
+    "title": "PETIT CALZADOS",
+    "website": "https://petitcalzados.com/",
+    "phone": "+54 9 342 584-2398",
+    "address": "Alberdi 2357, S3016 Santo Tomé, Santa Fe, Argentina"
+  },
+  {
+    "index": 425,
+    "title": "Centro Santa Fe",
+    "website": "https://centrosantafe.com.mx/",
+    "phone": "+52 55 3003 4300",
+    "address": "Vasco de Quiroga 3800, Santa Fe, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de México, CDMX, México"
+  },
+  {
+    "index": 426,
+    "title": "Marity Calzados",
+    "website": "http://calzadosmarity.empretienda.com.ar/",
+    "phone": "+54 3496 50-6871",
+    "address": "Belgrano 2598, S3080FRX Esperanza, Santa Fe, Argentina"
+  },
+  {
+    "index": 427,
+    "title": "Sport Life",
+    "website": "https://website--596188321781608927748-shoestore.negocio.site/?utm_source=gmb&utm_medium=referral",
+    "phone": "+54 342 483-2372",
+    "address": "25 de Mayo 2025, Esquina, almte BrownS3016, Santo Tomé, Santa Fe, Argentina"
+  },
+  {
+    "index": 428,
+    "title": "Canela Calzados",
+    "website": "https://canelacalzados.com.ar/",
+    "phone": "+54 342 449-3983",
+    "address": "Av. Aristóbulo del Valle 5923, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 429,
+    "title": "Ambar Shoes",
+    "website": "https://ambarshoes.empretienda.com.ar/",
+    "phone": null,
+    "address": "Av. 7 de Marzo 1874, S3016 Santo Tomé, Santa Fe, Argentina"
+  },
+  {
+    "index": 430,
+    "title": "Zapatillas Regina",
+    "website": "https://reginasf.com/",
+    "phone": "+54 9 342 626-5284",
+    "address": "San Martín 3045, S3000 Santa Fe de la Vera Cruz, Santa Fe, Argentina"
+  },
+  {
+    "index": 431,
+    "title": "PASITOS calzados",
+    "website": "https://www.pasitoscalzados.com.ar/",
+    "phone": "+54 342 526-3905",
+    "address": "Chile , entre Entre Ríos, Mendoza y Local 3, S3017 Sauce Viejo, Santa Fe, Argentina"
+  },
+  {
+    "index": 432,
+    "title": "Unica's calzados",
+    "website": "https://unicascalzados.mitiendanube.com/",
+    "phone": "+54 299 529-7507",
+    "address": "Hipólito Yrigoyen 277, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 433,
+    "title": "La Madrileña",
+    "website": "https://www.tienda.lamadrilena.com.ar/",
+    "phone": "+54 810-220-3300",
+    "address": "Bartolomé Mitre 35, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 434,
+    "title": "4 Ases Calzados",
+    "website": "https://wa.me/542994765763",
+    "phone": "+54 299 442-4915",
+    "address": "Zona Centro, Ministro Amancio Alcorta 47, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 435,
+    "title": "Albertina",
+    "website": "http://www.albertinashoes.com.ar/",
+    "phone": "+54 9 299 329-3348",
+    "address": "Juan Bautista Alberdi 110, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 436,
+    "title": "Casa Ferracioli (Casa Central - Calle Río Negro)",
+    "website": "http://www.ferracioli.com.ar/",
+    "phone": "+54 299 442-2426",
+    "address": "Río Negro 226, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 437,
+    "title": "Calzados Neuquén",
+    "website": "https://m.me/calzadonqn",
+    "phone": "+54 9 299 595-0552",
+    "address": "Dr. Luis Ramón 5337, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 438,
+    "title": "Beerseba",
+    "website": "http://www.beerseba.com.ar/",
+    "phone": "+54 299 529-4589",
+    "address": "Mtro. Joaquín González 8, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 439,
+    "title": "Calzados Batistella",
+    "website": "https://www.calzadosbatistella.com.ar/",
+    "phone": null,
+    "address": "Ministro Amancio Alcorta 35, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 440,
+    "title": "TRIP STORE",
+    "website": "https://www.tripstore.com.ar/",
+    "phone": "+54 223 527-4160",
+    "address": "Av. Dr. Ramón 399-439, Neuquén, Argentina"
+  },
+  {
+    "index": 441,
+    "title": "Petits amours",
+    "website": "https://petits-amours.negocio.site/?utm_source=googlemybusiness&utm_medium=referral",
+    "phone": "+54 299 576-6917",
+    "address": "Lago Nonthue 2319, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 442,
+    "title": "Paruolo",
+    "website": "https://www.paruolo.com.ar/",
+    "phone": "+54 299 434-0348",
+    "address": "Neuquén, Argentina"
+  },
+  {
+    "index": 443,
+    "title": "Vans Portal Patagonia Shopping",
+    "website": "https://www.vans.com.ar/?utm_medium=organic&utm_source=google_maps&utm_campaign=google_maps",
+    "phone": "+54 11 2303-0430",
+    "address": "Juan Julián Lastra 2400 Local 1051, Planta Baja, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 444,
+    "title": "Dinastía",
+    "website": "https://www.dinastia.com.ar/",
+    "phone": "+54 299 596-7578",
+    "address": "República de Italia 4495, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 445,
+    "title": "Le Utthe",
+    "website": "http://www.leutthe.com/",
+    "phone": "+54 299 448-3554",
+    "address": "Avenida Argentina 42, Q8300 Neuquén, Argentina"
+  },
+  {
+    "index": 446,
+    "title": "PORTA SANTA",
+    "website": "https://portaasanta.mitiendanube.com/",
+    "phone": "+54 9 376 457-0569",
+    "address": "San Lorenzo 1779, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "index": 447,
+    "title": "Megaton",
+    "website": "http://www.mercadolibre.com.ar/pagina/megaton",
+    "phone": "+54 376 429-1122",
+    "address": "Av. Bartolomé Mitre 2140, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "index": 448,
+    "title": "Deidamia zapatos e indumentaria",
+    "website": "https://deidamia3.mitiendanube.com/",
+    "phone": "+54 376 501-6170",
+    "address": "25 de Mayo 2126, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "index": 449,
+    "title": "HONOLULU Talles Reales",
+    "website": "http://www.honolulutallesreales.com.ar/",
+    "phone": "+54 376 418-1900",
+    "address": "Rivadavia 2271, N3300 Posadas, Misiones, Argentina"
+  },
+  {
+    "index": 450,
+    "title": "Beter Deportes y Calzados Centro",
+    "website": "http://www.beterstore.com/",
+    "phone": "+54 343 436-2982",
+    "address": "Av. P. Zanni 2008, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 451,
+    "title": "DEAR - calzados parana",
+    "website": "http://www.dearshoes.com.ar/",
+    "phone": "+54 343 695-9233",
+    "address": "La Paz 52, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 452,
+    "title": "LASMARCHE",
+    "website": "https://lasmarche.com/",
+    "phone": null,
+    "address": "México 396, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 453,
+    "title": "PEEPERS",
+    "website": "https://www.peepers.com.ar/",
+    "phone": "+54 343 611-9540",
+    "address": "Cervantes 203, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 454,
+    "title": "Prūne",
+    "website": "https://pruneparana.mitiendanube.com/",
+    "phone": "+54 343 422-2898",
+    "address": "Cervantes 26, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 455,
+    "title": "Burkina Tienda",
+    "website": "https://www.burkinatienda.com.ar/",
+    "phone": "+54 343 420-5482",
+    "address": "Cervantes 32, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 456,
+    "title": "MARVEL Distribuciones",
+    "website": "https://marvel7.mitiendanube.com/",
+    "phone": "+54 343 440-8894",
+    "address": "Tratado del Cuadrilátero 1354, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 457,
+    "title": "Red SPORT",
+    "website": "https://www.redsportonline.com.ar/?utm_source=googlesearch&utm_medium=organic",
+    "phone": "+54 342 521-3549",
+    "address": "Av. Almafuerte 1597, E3102QFG Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 458,
+    "title": "El Mago",
+    "website": "https://www.tiendaelmago.com/",
+    "phone": "+54 343 423-3805",
+    "address": "Gral. José de San Martín 1177, E3100 AAW, Entre Ríos, Argentina"
+  },
+  {
+    "index": 459,
+    "title": "Pampashop",
+    "website": "https://www.pampashop.com.ar/",
+    "phone": null,
+    "address": "Arturo Illia 238, H3500AVF Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 460,
+    "title": "FyL Calzados",
+    "website": "https://fylcalzados.com.ar/",
+    "phone": "+54 9 362 462-9427",
+    "address": "Av. Alberdi 1099, H3500 Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 461,
+    "title": "Grimoldi",
+    "website": "http://www.grimoldi.com/locales",
+    "phone": "+54 9 362 472-0490",
+    "address": "Güemes 339, H3500CBH Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 462,
+    "title": "Cellini Calzados",
+    "website": "https://www.cellinicalzados.com.ar/",
+    "phone": null,
+    "address": "AVD, Arturo Illia 116, H3500AVD Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 463,
+    "title": "Pisa Pisuela",
+    "website": "https://www.pisapisuelajr.com.ar/",
+    "phone": null,
+    "address": "Sta María de Oro 292, H3500BKF Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 464,
+    "title": "Mousse House Cool",
+    "website": "http://www.moussecalzados.com.ar/",
+    "phone": "+54 362 481-9748",
+    "address": "Av. Alberdi 135, H3500 Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 465,
+    "title": "RALLYS",
+    "website": "http://www.rallys.com.ar/",
+    "phone": "+54 362 442-2190",
+    "address": "Pasaje Dr. Arturo H. Illia 25, H3504IBA Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 466,
+    "title": "Bizarro",
+    "website": "http://www.bizarrostore.com/",
+    "phone": null,
+    "address": "Güemes 199, H3500 Resistencia, Chaco, Argentina"
+  },
+  {
+    "index": 467,
+    "title": "Cuando Sea Grande Calzados",
+    "website": "http://cuandoseagrandekids.com.ar/",
+    "phone": "+54 362 544-2834",
+    "address": "H3500CDD Resistencia, Carlos Pellegrini 138, H3500 CDD, Chaco, Argentina"
+  },
+  {
+    "index": 468,
+    "title": "Alucinna Corrientes. Suc. Catamarca",
+    "website": "https://www.alucinna.com.ar/",
+    "phone": "+54 379 532-2200",
+    "address": "Catamarca 685, W3400 Corrientes, Argentina"
+  },
+  {
+    "index": 469,
+    "title": "Santa Odisea Calzados",
+    "website": "https://www.santaodisea.com.ar/",
+    "phone": "+54 379 442-8734",
+    "address": "9 de Julio 1569, W3400 AZA, Corrientes, Argentina"
+  },
+  {
+    "index": 470,
+    "title": "Rs Calzado",
+    "website": "https://rscalzado.mitiendanube.com/",
+    "phone": "+54 379 487-5636",
+    "address": "Hipólito Yrigoyen 2077, W3400 Corrientes, Argentina"
+  },
+  {
+    "index": 471,
+    "title": "Pucci",
+    "website": "https://puccizapateria.mitiendanube.com/",
+    "phone": "+54 379 446-3784",
+    "address": "Junin 1262, W3400 AVZ, Corrientes, Argentina"
+  },
+  {
+    "index": 472,
+    "title": "Todo Calzados",
+    "website": "https://www.todocalzados.com.ar/",
+    "phone": "+54 379 558-5229",
+    "address": "San Juan 1163, W3400 Corrientes, Argentina"
+  },
+  {
+    "index": 473,
+    "title": "Centenario Shopping",
+    "website": "http://www.centenarioshopping.com.ar/",
+    "phone": null,
+    "address": "Av. Raúl Alfonsín 3525, W3410 HIM, Corrientes, Argentina"
+  },
+  {
+    "index": 474,
+    "title": "Continente Calzados",
+    "website": "https://www.continentecalzados.com.ar/",
+    "phone": "+54 264 583-6768",
+    "address": "Rivadavia 120 San Juan 120, J5400DEE San Juan San Juan AR, J5400DEE Rivadavia, Argentina"
+  },
+  {
+    "index": 475,
+    "title": "Calzados Alberto",
+    "website": "http://www.calzadosalberto.com/",
+    "phone": "+54 264 422-8378",
+    "address": "Pcia de Tucuman 55, J5400 Ciudad, San Juan, Argentina"
+  },
+  {
+    "index": 476,
+    "title": "Calzados Alberto",
+    "website": "https://www.calzadosalberto.com/",
+    "phone": "+54 264 420-2549",
+    "address": "Gral Mariano Acha Sur 176, J5400 Ciudad, San Juan, Argentina"
+  },
+  {
+    "index": 477,
+    "title": "ROLDAN CALZADOS",
+    "website": "http://roldancalzados.com/",
+    "phone": "+54 264 462-9236",
+    "address": "Ramón y Cajal Nte. 277, J5402EGK San Juan, Argentina"
+  },
+  {
+    "index": 478,
+    "title": "Vallejo Calzados",
+    "website": "http://www.vallejocalzados.com.ar/",
+    "phone": "+54 264 421-5320",
+    "address": "Francisco N. Laprida Este 202, J5402DIF San Juan, Argentina"
+  },
+  {
+    "index": 479,
+    "title": "Cloe Shoes",
+    "website": "http://www.cloe.com.ar/",
+    "phone": "+54 264 444-8818",
+    "address": "Rivadavia este 138 Sacalabrini Ortiz y Circunvalación, Centro Comercial Libertad, Local 11, J5400 San Juan, Argentina"
+  },
+  {
+    "index": 480,
+    "title": "Bertas",
+    "website": "http://www.bertas.com.ar/",
+    "phone": "+54 264 574-5487",
+    "address": "Alto del Bono Shopping, Av. José Ignacio de la Roza Oeste 2100 Local 22 y 23, J5400 San Juan, Argentina"
+  },
+  {
+    "index": 481,
+    "title": "Finish Line",
+    "website": "https://www.finishline.com/?utm_source=googlemybusiness&utm_medium=organic",
+    "phone": "+1 787-759-2673",
+    "address": "1000 The Mall of San Juan Blvd, San Juan, 00924, Puerto Rico"
+  },
+  {
+    "index": 482,
+    "title": "Grimoldi",
+    "website": "https://www.grimoldi.com/?utm_medium=organic&utm_source=google&utm_campaign=Google%20maps&utm_content=Grimoldi_SanLuis_Franquicia",
+    "phone": "+54 266 443-1618",
+    "address": "Belgrano 878, D5700 San Luis, Argentina"
+  },
+  {
+    "index": 483,
+    "title": "Zapatería Safari",
+    "website": "https://zapateriasafari.com/",
+    "phone": "+52 444 812 4522",
+    "address": "Julián de Los Reyes 405, Centro Historico, 78000 San Luis Potosí, S.L.P., México"
+  },
+  {
+    "index": 484,
+    "title": "Huellas del sur",
+    "website": "https://huellasdelsur.empretienda.com.ar/",
+    "phone": null,
+    "address": "Arturo capdevilla mza i casa 3. B El Hornero, 5700 San Luis, Argentina"
+  },
+  {
+    "index": 485,
+    "title": "Zapaterías Hector",
+    "website": "http://zapateriashectorslp.com/",
+    "phone": "+52 444 452 1817",
+    "address": "Mariano Hidalgo 275, colonia Centro, 78000 San Luis Potosí, S.L.P., México"
+  },
+  {
+    "index": 486,
+    "title": "Zapateria Safari Pozos",
+    "website": "http://www.zapateriasafari.com/",
+    "phone": "+52 444 166 0945",
+    "address": "Carretera Mexico, Calle Centerario Villa de Pozos 4971, 78421 San Luis Potosí, S.L.P., México"
+  },
+  {
+    "index": 487,
+    "title": "Modal Calzados",
+    "website": "http://modalshop.com.ar/",
+    "phone": null,
+    "address": "San Martín 641, D5702 San Luis, Argentina"
+  },
+  {
+    "index": 488,
+    "title": "Samper Calzados",
+    "website": "http://www.sampercalzados.com.ar/",
+    "phone": "+54 2657 43-5713",
+    "address": "Pedernera 363, D5730 Villa Mercedes, San Luis, Argentina"
+  },
+  {
+    "index": 489,
+    "title": "Dash Deportes",
+    "website": "https://www.tiendadash.com.ar/",
+    "phone": "+54 266 444-4942",
+    "address": "Av. del Fundador 1450, D5700 San Luis, Argentina"
+  },
+  {
+    "index": 490,
+    "title": "Shoes Capitana.ab",
+    "website": "https://shoescapitanaab.empretienda.com.ar/",
+    "phone": "+54 266 464-9860",
+    "address": "Maipú 692, D5700 San Luis, Argentina"
+  },
+  {
+    "index": 491,
+    "title": "Tailu Bags & co zapateria",
+    "website": "http://tailubags.mitiendanube.com/",
+    "phone": "+54 266 421-2940",
+    "address": "Belgrano 893, D5700 San Luis, Argentina"
+  },
+  {
+    "index": 492,
+    "title": "Guapa Loca",
+    "website": "http://lovershoes.mitiendanube.com/",
+    "phone": "+54 385 422-6580",
+    "address": "Absalón Rojas 58, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "index": 493,
+    "title": "Calzados Tiempo Libre - Bonito Pie",
+    "website": "http://bonitopie.com/",
+    "phone": "+54 385 421-3637",
+    "address": "Pellegrini 284, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "index": 494,
+    "title": "NICO",
+    "website": "http://www.nicotiendas.com/",
+    "phone": "+54 351 627-8787",
+    "address": "Peatonal Tucumán 245, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "index": 495,
+    "title": "Anadekiev",
+    "website": "https://www.anadekiev.com.ar/",
+    "phone": "+54 385 419-5909",
+    "address": "C. Juncal 587, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "index": 496,
+    "title": "Grimoldi",
+    "website": "https://www.grimoldi.com/?utm_medium=organic&utm_source=google&utm_campaign=Google%20maps&utm_content=Grimoldi_SantiagodelEstero_Franquicia",
+    "phone": null,
+    "address": "Avellaneda 84, G4200 La Banda, Santiago del Estero, Argentina"
+  },
+  {
+    "index": 497,
+    "title": "Da Rocha's calzados",
+    "website": "https://darochas.mitiendanube.com/",
+    "phone": null,
+    "address": "Dr. Ernesto Ezequiel Leyría, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "index": 498,
+    "title": "Sporting",
+    "website": "https://www.sporting.com.ar/",
+    "phone": "+54 385 421-1857",
+    "address": "Peatonal Tucumán 1, G4200 Santiago del Estero, Argentina"
+  },
+  {
+    "index": 499,
+    "title": "Tamango Calzados",
+    "website": "http://www.tamangocalzados.com.ar/",
+    "phone": "+54 388 521-5504",
+    "address": "Gral. Güemes 1002, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 500,
+    "title": "Sofi Calzados",
+    "website": "http://www.soficalzados.com.ar/",
+    "phone": "+54 9 388 479-9549",
+    "address": "Gral. Belgrano 874, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 501,
+    "title": "Yandi Calzados",
+    "website": "https://yandideportes.mercadoshops.com.ar/",
+    "phone": "+54 388 423-7070",
+    "address": "Gral. Lavalle 239 Local 1, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 502,
+    "title": "Cintas Calzados",
+    "website": "http://cintascalzados.com.ar/",
+    "phone": null,
+    "address": "Gral. Belgrano 893, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 503,
+    "title": "ViaBellaShoes",
+    "website": "http://www.viabellashoes.com.ar/",
+    "phone": "+54 388 497-0771",
+    "address": "Gral. Balcarce 375, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 504,
+    "title": "Wafira",
+    "website": "https://wafira.com.ar/",
+    "phone": "+54 9 388 465-6757",
+    "address": "Gral. Balcarce 450, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 505,
+    "title": "Cintas Calzados",
+    "website": "https://www.cintascalzados.com.ar/",
+    "phone": null,
+    "address": "Gral. Belgrano 815, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 506,
+    "title": "MAX DEPORTES",
+    "website": "https://www.maxdeportes.com.ar/",
+    "phone": "+54 388 422-3335",
+    "address": "Gral. Belgrano 801, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 507,
+    "title": "Adidas Jujuy",
+    "website": "https://www.adidas.com.ar/storefinder#/storeID/AR486504/",
+    "phone": "+54 388 460-9359",
+    "address": "Gral. Necochea 237, Y4602 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 508,
+    "title": "Topper",
+    "website": "http://www.topper.com.ar/",
+    "phone": "+54 388 422-7544",
+    "address": "ABI, Gral. Belgrano 563, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 509,
+    "title": "MAX DEPORTES",
+    "website": "http://www.maxdeportes.com.ar/",
+    "phone": "+54 388 409-7732",
+    "address": "Gral. Necochea 211, Y4600 San Salvador de Jujuy, Jujuy, Argentina"
+  },
+  {
+    "index": 510,
+    "title": "Distribuidora Eap",
+    "website": "https://piggipig.mitiendanube.com/",
+    "phone": "+54 11 5493-0026",
+    "address": "Gral. Mansilla 675, B1752 Ramos Mejía, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 511,
+    "title": "adidas Store San Justo",
+    "website": "https://go.adidas.com/ihha/11c0ab86",
+    "phone": null,
+    "address": "Dr. Ignacio Arieta 3250, B1754 San Justo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 512,
+    "title": "Atomik",
+    "website": "http://www.atomik.com.ar/",
+    "phone": "+54 11 4480-2854",
+    "address": "Buenos Aires AR, Av. Brig. Gral. Juan Manuel de Rosas 3910, B1754 FUX, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 513,
+    "title": "Veltri",
+    "website": "https://www.veltrishoes.com.ar/",
+    "phone": "+54 11 5185-2190",
+    "address": "Justo José de Urquiza 4760, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 514,
+    "title": "Calzados Miguel Ángel",
+    "website": "https://calzadosmiguelangel.empretienda.com.ar/",
+    "phone": "+54 9 11 4401-6230",
+    "address": "Av. San Martín 2295, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 515,
+    "title": "Mistral Calzados",
+    "website": "https://www.mistralcalzados.com.ar/",
+    "phone": "+54 9 11 7363-7688",
+    "address": "Potosí 2178, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 516,
+    "title": "Giuliana",
+    "website": "http://www.giulianabsas.com.ar/",
+    "phone": null,
+    "address": "Justo José de Urquiza 4821, Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 517,
+    "title": "tops shoes 86",
+    "website": "https://topsshoes86.mitiendanube.com/",
+    "phone": "+54 11 5103-8208",
+    "address": "Av. Mitre 4030, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 518,
+    "title": "Jamaica",
+    "website": "https://www.todojamaica.com.ar/",
+    "phone": "+54 9 11 2455-0328",
+    "address": "Luis María Campos 4652, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 519,
+    "title": "Crinac",
+    "website": "http://crinac.com.ar/",
+    "phone": "+54 11 5958-4358",
+    "address": "Potosí 2178, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 520,
+    "title": "Ortopedia BotasWalkerFull Caseros",
+    "website": "https://wa.me/5491159976634?text=Hola!%20Me%20contacto%20a%20trav%C3%A9s%20de%20gmaps%20de%20botaswalkerfull.com%20(Suc.%20Caseros)",
+    "phone": "+54 11 5997-6634",
+    "address": "AEA, Justo José de Urquiza 4543, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 521,
+    "title": "Los Angeles Sport Store",
+    "website": "https://www.kilkers.com/",
+    "phone": "+54 11 4734-4101",
+    "address": "3 de Febrero 2696, B1678GVO Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 522,
+    "title": "Calzados Lihuen",
+    "website": "https://www.calzados-lihuen.com.ar/",
+    "phone": "+54 11 2391-2219",
+    "address": "San Lorenzo 1818, B1682 Martín Coronado, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 523,
+    "title": "Symmanleu Seguridad Industrial",
+    "website": "http://www.symmanleu.com.ar/",
+    "phone": "+54 11 4750-3274",
+    "address": "Ntra Sra de la Merced 4483, B1678GPK Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 524,
+    "title": "Mielas Store",
+    "website": "https://linktr.ee/mielas_store",
+    "phone": "+54 11 6901-0213",
+    "address": "Campo de Mayo 6049, B1682 Villa Bosch, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 525,
+    "title": "Los Vascos SH",
+    "website": "http://www.losvascoscaseros.com/",
+    "phone": "+54 11 4750-2160",
+    "address": "3 de Febrero 2977, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 526,
+    "title": "ZEUS DEPORTES",
+    "website": "http://www.zeusdeportes.com.ar/",
+    "phone": "+54 11 4844-4629",
+    "address": "Manuel Quintana 1002, B1682CCN Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 527,
+    "title": "AY COCA",
+    "website": "https://linktr.ee/Ay.coca",
+    "phone": "+54 21981058",
+    "address": "3 de Febrero 2607, B1678 Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 528,
+    "title": "Othorlife Ortopedia",
+    "website": "http://www.othorlife.com/",
+    "phone": "+54 11 4750-6550",
+    "address": "Dr. Amadeo Sabattini 4671 local 2, B1678CQE Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 529,
+    "title": "Rockea Shoes",
+    "website": "http://www.rockeashoes.com.ar/",
+    "phone": "+54 11 3073-2996",
+    "address": "El Payador 5550, B1682 Gran buenos aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 530,
+    "title": "Monakia",
+    "website": "https://monakiazapatos.com/",
+    "phone": "+54 11 7879-0001",
+    "address": "Av. Centenario 478, B1642 Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 531,
+    "title": "TANNA DE ALMA zapateria",
+    "website": "https://www.tannadealma.com.ar/",
+    "phone": "+54 11 4742-5617",
+    "address": "9 de Julio 320, B1642 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 532,
+    "title": "SACHA SHOES",
+    "website": "http://www.sachashoes.com.ar/",
+    "phone": "+54 11 4742-1579",
+    "address": "Gral. Manuel Belgrano 118, B1642 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 533,
+    "title": "La Calesita",
+    "website": "https://calzadoslacalesita.mitiendanube.com/",
+    "phone": "+54 11 4742-5126",
+    "address": "9 de Julio 368, B1642 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 534,
+    "title": "Bruno Manetti",
+    "website": "http://www.brunomanetti.com.ar/",
+    "phone": "+54 11 4211-2521",
+    "address": "Gral. Manuel Belgrano 197, B1642 DJD, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 535,
+    "title": "Rauch Zapatos",
+    "website": "http://www.rauchzapatos.com.ar/",
+    "phone": "+54 11 6616-5291",
+    "address": "Domingo Savio 3085, B1642FUF San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 536,
+    "title": "BORJA Shoes | San Isidro",
+    "website": "https://www.borja.com.ar/",
+    "phone": "+54 11 2256-0074",
+    "address": "Obispo Terrero 2992, B1662 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 537,
+    "title": "Margie Franzini Shoes San Isidro",
+    "website": "http://www.margiefranzini.com/",
+    "phone": "+54 11 4765-5702",
+    "address": "Av. Juan Segundo Fernández 98, B1642AMN San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 538,
+    "title": "zapatería the alamo",
+    "website": "https://thealamozapateria.mitiendanube.com/",
+    "phone": "+54 9 11 2854-3197",
+    "address": "Francisco Berra 3015, B1642 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 539,
+    "title": "Estocolmo and Co.",
+    "website": "http://www.estocolmoandco.com/",
+    "phone": "+54 11 3309-0784",
+    "address": "Esquina Segundo Fernandez, Obispo Terrero 3015, B1642 Lomas de San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 540,
+    "title": "Bajo tus pies",
+    "website": "https://bajotuspies.mitiendanube.com/productos/",
+    "phone": "+54 47981544",
+    "address": "Sebastián Elcano 794, B1641 Acassuso, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 541,
+    "title": "BADGAL",
+    "website": "http://www.badgal.com.ar/",
+    "phone": "+54 11 7363-9301",
+    "address": "Gral. Manuel Belgrano 313 Timbre 507, B1642 San Isidro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 542,
+    "title": "Woodland",
+    "website": "http://www.woodland-store.com.ar/",
+    "phone": "+54 11 4717-6133",
+    "address": "Vélez Sársfield 3135, B1640 Martínez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 543,
+    "title": "Punto Rojas",
+    "website": "https://www.puntorojas.com.ar/",
+    "phone": "+54 11 5027-7315",
+    "address": null
+  },
+  {
+    "index": 544,
+    "title": "López Bolognino Calzados & Love María Bonita",
+    "website": "http://www.lovemariabonita.com.ar/",
+    "phone": "+54 11 2357-8623",
+    "address": "Arenales 1730, B1602 Florida, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 545,
+    "title": "Doblele",
+    "website": "https://www.doble-ele.net/",
+    "phone": null,
+    "address": "Tapiales 1301, B1638 Vicente López, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 546,
+    "title": "Calzados Carun",
+    "website": "https://calzadoscarun.mercadoshops.com.ar/",
+    "phone": "+54 11 4791-2860",
+    "address": "Av. Maipú 269, B1638AAC Vicente López, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 547,
+    "title": "Zapateria boutique Altas de Olivos - Atlas calzados de cuero del 35 al 44",
+    "website": "https://www.altasdeolivos.com.ar/",
+    "phone": "+54 11 4176-8437",
+    "address": "Av. Maipú 2812, B1636AAV Olivos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 548,
+    "title": "Zapateria EL RAYO - compostura de calzado",
+    "website": "https://api.whatsapp.com/send?phone=5491171350879",
+    "phone": "+54 11 7135-0879",
+    "address": "Pres. Hipólito Yrigoyen 1879, B1602BPE Florida, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 549,
+    "title": "GREIT’S",
+    "website": "http://www.calzadosgreits.com/web-sucursales",
+    "phone": "+54 11 4731-1234",
+    "address": "Av. Cazón 1539, B1648 Tigre, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 550,
+    "title": "Loira colegial",
+    "website": "https://www.loiracolegial.com.ar/",
+    "phone": "+54 11 2396-6312",
+    "address": "Barrio Los Ombúes, Av. de los Bosques 1730, B1648 Tigre, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 551,
+    "title": "Calzados Gladys",
+    "website": "http://calzadogladys.webcindario.com/",
+    "phone": "+54 11 5989-7001",
+    "address": "Belgrano 3842, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 552,
+    "title": "ALITA CALZADOS SAN MARTIN",
+    "website": "http://www.alita.com.ar/",
+    "phone": "+54 11 4755-5601",
+    "address": "Tucumán 2116, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 553,
+    "title": "Della Signoria S.R.L.",
+    "website": "http://www.dellasignoria.com.ar/",
+    "phone": "+54 11 7721-7509",
+    "address": "Av. Iturraspe 888, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 554,
+    "title": "SB SHUBOX",
+    "website": "https://www.shubox.com.ar/",
+    "phone": "+54 11 4839-0660",
+    "address": "Belgrano 3499, B1650ANM Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 555,
+    "title": "Isabel paula",
+    "website": "http://dellasignoria.com.ar/",
+    "phone": "+54 11 4752-9121",
+    "address": "Dr. Ramón Carrillo 2500, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 556,
+    "title": "Zapatillas Toy",
+    "website": "https://www.toy.com.ar/",
+    "phone": "+54 11 4045-0605",
+    "address": "Cabildo 4645, B1650 Villa Juan Martín de Pueyrredón, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 557,
+    "title": "IMPSHOES",
+    "website": "https://impshoes.misitiosimple.online/tienda",
+    "phone": "+54 11 5052-3339",
+    "address": "Av. 101 Dr. Ricardo Balbín 2354, B1653 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 558,
+    "title": "Moov",
+    "website": "https://www.moov.com.ar/",
+    "phone": "+54 11 5798-9470",
+    "address": "Belgrano 3461, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 559,
+    "title": "Unpar SRL",
+    "website": "http://www.unpar.com.ar/",
+    "phone": "+54 11 6663-7541",
+    "address": "E.C. Villegas 2709, B1651 Villa Parque San Lorenzo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 560,
+    "title": "ALITA VILLA BALLESTER (Nos mudamos a Tucumán 2116, San Martín)",
+    "website": "https://www.alita.com.ar/",
+    "phone": "+54 11 7733-3530",
+    "address": "Córdoba 4567, B1653 Villa Ballester, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 561,
+    "title": "BARRIO LATINO SPORTS",
+    "website": "http://www.barriolatino.online/",
+    "phone": "+54 11 4755-9076",
+    "address": "Belgrano 3185, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 562,
+    "title": "Tiara Zapatos",
+    "website": "https://tiarazapatos.com.ar/contacto/",
+    "phone": "+54 341 448-4160",
+    "address": "Bartolomé Mitre 843, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 563,
+    "title": "The Brand Store",
+    "website": "http://www.thebrandstore.com.ar/",
+    "phone": "+54 11 4755-2926",
+    "address": "Belgrano 3606, B1650CBJ San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 564,
+    "title": "Tropea",
+    "website": "https://tropea.com.ar/",
+    "phone": "+54 9 11 4752-7380",
+    "address": "Belgrano 3386, B1650 San Martín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 565,
+    "title": "Calzados Sakura",
+    "website": "http://www.calzadossakura.com.ar/",
+    "phone": "+54 11 6899-7950",
+    "address": "Dr. Nicolás Boccuzzi 172, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 566,
+    "title": "My Sweet Love",
+    "website": "https://www.gurugo.com.ar/fichas/my-sweet-love_17036626",
+    "phone": "+54 11 3687-6695",
+    "address": "Humaitá 2059, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 567,
+    "title": "47 Street Florencio Varela",
+    "website": "http://www.47street.com.ar/",
+    "phone": null,
+    "address": "Dr. Salvador Sallarés 209, B1888IOE Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 568,
+    "title": "Deport Show",
+    "website": "https://deportshow.com.ar/",
+    "phone": "+54 11 6965-3150",
+    "address": "Bernardo de Monteagudo 3255, B1888ENW Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 569,
+    "title": "Quebientequeda",
+    "website": "https://www.quebientequeda.com.ar/",
+    "phone": "+54 11 3398-6705",
+    "address": "Benito Quinquela Martín 1589, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 570,
+    "title": "Big Bang Deportes",
+    "website": "http://www.bigbangdeportes.com.ar/",
+    "phone": "+54 11 4355-7969",
+    "address": "Dr. Nicolás Boccuzzi 240, B1888 Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 571,
+    "title": "Mega Sports",
+    "website": "https://www.megasports.com.ar/",
+    "phone": "+54 11 4287-1147",
+    "address": "Bernardo de Monteagudo 3015, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 572,
+    "title": "Mega Sports",
+    "website": "http://www.megasports.com.ar/",
+    "phone": "+54 11 4255-2222",
+    "address": "Bernardo de Monteagudo 3301, B1888ENY Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 573,
+    "title": "Kokeshi indumentaria",
+    "website": "http://www.kokeshivarela.com.ar/",
+    "phone": "+54 11 2874-1811",
+    "address": "Dr. Nicolás Boccuzzi 189, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 574,
+    "title": "MAGHER VARELA",
+    "website": "http://www.magher.com.ar/",
+    "phone": "+54 11 3054-3348",
+    "address": "Bartolomé Mitre 150, B1888IQD Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 575,
+    "title": "Vía Cosenza - Varela",
+    "website": "http://viacosenza.com.ar/",
+    "phone": "+54 11 4237-3431",
+    "address": "España 2978, B1888DDX Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 576,
+    "title": "Kevingston",
+    "website": "http://www.kevingston.com/",
+    "phone": "+54 11 4355-2734",
+    "address": "Bartolomé Mitre 128, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 577,
+    "title": "Rever Pass",
+    "website": "http://www.reverpass.com/",
+    "phone": "+54 11 4287-9233",
+    "address": "IQC, Bartolomé Mitre 110, B1888 Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 578,
+    "title": "Calzados Silvana Berazategui",
+    "website": "https://silvanaemarket.mercadoshops.com.ar/",
+    "phone": "+54 11 4226-2671",
+    "address": "Av. 14 4724, B1880BFO Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 579,
+    "title": "Wainmayer Sport & Shoes",
+    "website": "https://www.wainmayer.com.ar/",
+    "phone": "+54 11 4256-2663",
+    "address": "CUT, Av. Rigolleau 4552, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 580,
+    "title": "MBA MediumBsAs - Berazategui",
+    "website": "https://www.mediumbsas.com.ar/",
+    "phone": "+54 11 4406-3044",
+    "address": "Calle 148 1356, B1880DSB Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 581,
+    "title": "Class Express",
+    "website": "https://www.classexpress.com.ar/",
+    "phone": "+54 11 4256-1292",
+    "address": "Av. 14 N° 4968, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 582,
+    "title": "Laura Zapatillas",
+    "website": "https://laurazapatillas.com.ar/",
+    "phone": "+54 11 2882-1757",
+    "address": "Av. 14 4687, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 583,
+    "title": "BALCAZAR - Calzado de Autora",
+    "website": "https://www.balcazar.com.ar/",
+    "phone": "+54 11 6144-9741",
+    "address": "C. 156 2286, B1880EPJ Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 584,
+    "title": "Glock",
+    "website": "http://glockstorebegui.mitiendanube.com/",
+    "phone": "+54 11 6703-8045",
+    "address": "C. 150 1380, B1880DRX Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 585,
+    "title": "Benito Sport",
+    "website": "https://benitosport.com.ar/",
+    "phone": "+54 11 4216-0790",
+    "address": "Av. 14 Pres. Juan Domingo Perón 4828, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 586,
+    "title": "LA AZOTEA",
+    "website": "https://www.laazoteaonline.com.ar/",
+    "phone": "+54 11 2741-0992",
+    "address": "C. 149 1531, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 587,
+    "title": "Ortopedia Berazategui Ortoprotec",
+    "website": "http://www.berazateguiortoprotec.com.ar/",
+    "phone": "+54 9 11 2387-8196",
+    "address": "C. 11 N°4368 e 143 y 144, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 588,
+    "title": "On Sports",
+    "website": "https://www.onsports.com.ar/",
+    "phone": "+54 11 6990-3099",
+    "address": "Av. 14 4967, B1880 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 589,
+    "title": "PÍCAROS",
+    "website": "https://guiatodoberazategui.com.ar/picaros/",
+    "phone": "+54 11 6404-0603",
+    "address": "Av. 21 824, B1884 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 590,
+    "title": "JJDeportes - Berazategui",
+    "website": "https://www.jjdeportes.com.ar/",
+    "phone": "+54 11 3549-0530",
+    "address": "Av. 14 4719, B1880 Berazategui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 591,
+    "title": "Lola Reí Shoes",
+    "website": "http://www.lolarei.com.ar/",
+    "phone": "+54 11 2476-8620",
+    "address": "B. Rivadavia 431, B1629AAI Pilar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 592,
+    "title": "Zapatilleria La Economica",
+    "website": "https://www.mercadolibre.com.ar/pagina/laeconomica",
+    "phone": "+54 230 443-1973",
+    "address": "Pedro Lagrave 269, B1629HGE Pilar Centro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 593,
+    "title": "GEMA ZAPATOS",
+    "website": "https://www.gemazapatos.com.ar/",
+    "phone": null,
+    "address": "COLECTORA ESTE 1629 KM 50.5, 1407 Pilar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 594,
+    "title": "Asia Pilar Shoes",
+    "website": "https://www.asiapilarshoes.com.ar/",
+    "phone": "+54 11 6334-9204",
+    "address": "B1629 Pilar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 595,
+    "title": "Siib Store Ortopedia Pilar Camino Hospital Austral (Cruce de Derqui)",
+    "website": "https://www.siibstore.mitiendanube.com/",
+    "phone": "+54 11 2831-7047",
+    "address": "Av. Pres. Juan Domingo Peron 870, C1629 Pres. Derqui, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 596,
+    "title": "Morozapatos",
+    "website": "https://zapatospilar.mercadoshops.com.ar/",
+    "phone": "+54 11 3499-1920",
+    "address": ". Panamericana km 42,5 Bajada office parck, 1669 Del Viso, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 597,
+    "title": "Puli.D Shoes",
+    "website": "http://www.pulidshoes.com/",
+    "phone": "+54 9 11 5334-7433",
+    "address": "Colectora Este Panamericana S/N Km. 44, B1669 Del Viso, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 598,
+    "title": "Crocs",
+    "website": "https://www.crocs.com.ar/",
+    "phone": "+54 230 466-4735",
+    "address": "Las Magnolias 754 Local 1201, B1629 Pilar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 599,
+    "title": "GRIMOLDI",
+    "website": "https://www.grimoldi.com/sucursal-grimoldi-san-nicolas/",
+    "phone": "+54 336 445-3377",
+    "address": "ACC, Bartolomé Mitre 165, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 600,
+    "title": "Zapatería Pablo´s",
+    "website": "http://pablos4.mitiendanube.com/",
+    "phone": "+54 341 547-5165",
+    "address": "Bartolomé Mitre 250, B2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 601,
+    "title": "Hera SN",
+    "website": "https://herasn.com.ar/",
+    "phone": null,
+    "address": "Almafuerte 1231, C2900 San Nicolás de Los Arroyos, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 602,
+    "title": "Bendito Pie - Calzado - Indumentaria - Accesorios",
+    "website": "http://www.benditopie.com/",
+    "phone": "+54 249 442-2839",
+    "address": "Pinto 885, B7000GHQ Tandil, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 603,
+    "title": "La Rocket",
+    "website": "http://www.larocket.com.ar/",
+    "phone": "+54 2284 47-4850",
+    "address": "Vicente López 3046, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 604,
+    "title": "La Finestra",
+    "website": "http://www.lafinestra.ar/",
+    "phone": "+54 2284 41-1247",
+    "address": "Sgto. Cabral 2786, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 605,
+    "title": "La Finestra Clásico",
+    "website": "http://www.lafinestracalzados.com.ar/",
+    "phone": "+54 2284 41-1247",
+    "address": "Rivadavia 3197, B7400CUQ Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 606,
+    "title": "Tosco",
+    "website": "https://toscoalmacendemoda.mitiendanube.com/",
+    "phone": "+54 2284 62-0258",
+    "address": "Gral. Paz 2776, B7400KOV Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 607,
+    "title": "Calzados \"El Caminante\"",
+    "website": "http://fb.me/elcaminantecalzados",
+    "phone": null,
+    "address": "Alsina 4026, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 608,
+    "title": "Trip Store Olavarría",
+    "website": "http://www.tripstore.com.ar/",
+    "phone": "+54 2284 41-9033",
+    "address": "Vicente López 3003, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 609,
+    "title": "Cuer&Pel Plus",
+    "website": "http://campobase.store/",
+    "phone": "+54 2284 33-3845",
+    "address": "Necochea 2799, B7400 Olavarría, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 610,
+    "title": "Calzados Manon",
+    "website": "https://www.manon.com.ar/",
+    "phone": "+54 236 451-2298",
+    "address": "Av. Roque Sáenz Peña 109, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 611,
+    "title": "De Pueblo",
+    "website": "https://www.depueblotiendaonline.com/",
+    "phone": "+54 236 445-7101",
+    "address": "Gral. Paz 126, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 612,
+    "title": "Calzalindo Junin",
+    "website": "http://calzalindo.com.ar/",
+    "phone": "+54 9 236 428-8238",
+    "address": "Av. San Martín 466, B6022 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 613,
+    "title": "Antonia",
+    "website": "http://www.enlodeantonia.com.ar/",
+    "phone": "+54 236 463-5503",
+    "address": "Gandini 94, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 614,
+    "title": "Elisabeta Store",
+    "website": "https://elisabetastore.tiendanegocio.com/",
+    "phone": "+54 236 468-3170",
+    "address": "Bolivia 22, C6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 615,
+    "title": "Sj caterpillar",
+    "website": "http://sjcaterpillar.empretienda.com.ar/",
+    "phone": "+54 236 433-8406",
+    "address": "Cichero 713, C6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 616,
+    "title": "VT calzados e indumentaria",
+    "website": "http://www.calzadoseindumentaria.com/",
+    "phone": "+54 236 470-6098",
+    "address": "Tucumán 1023, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 617,
+    "title": "MARIA GABRIELA | JUNIN",
+    "website": "http://mariagabrielastore.empretienda.com.ar/",
+    "phone": null,
+    "address": "Av. Roque Sáenz Peña 291, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 618,
+    "title": "Las Ramonas Junín",
+    "website": "https://lasramonas9.mitiendanube.com/",
+    "phone": "+54 236 444-6654",
+    "address": "Gral. Paz 182, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 619,
+    "title": "Calzados Joalino",
+    "website": "https://joalinocalzados.mitiendanube.com/",
+    "phone": "+54 2477 41-3385",
+    "address": "Av. de Mayo 473, B2700 Pergamino, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 620,
+    "title": "Matilde Tienda de Zapatos",
+    "website": "https://matildetiendadezapatos.mitiendanube.com/",
+    "phone": "+54 9 11 5464-4524",
+    "address": "Bartolomé Mitre 717, B2700 Pergamino, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 621,
+    "title": "Beatriz Di Fonzo, BDF Hecho en Necochea .",
+    "website": "https://beatrizdifonzo.mitiendanube.com/",
+    "phone": "+54 2262 47-4237",
+    "address": "38 3132, B7630 Necochea, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 622,
+    "title": "Alma femenina",
+    "website": "https://almafemenina3.mitiendanube.com/",
+    "phone": "+54 3489 63-8941",
+    "address": "Av. Ameghino 1260, B2804 Campana, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 623,
+    "title": "Marializza CALZADO",
+    "website": "https://www.marializza.com.ar/",
+    "phone": "+54 3489 48-3708",
+    "address": "M. Becerra 825, Campana, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 624,
+    "title": "Abracadabra",
+    "website": "https://abracadabraboutiquee.mitiendanube.com/",
+    "phone": "+54 3487 43-2910",
+    "address": "Independencia 999, B2800JIO Zárate, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 625,
+    "title": "Ferreterías Indufer S.A.",
+    "website": "https://indufersa.com.ar/",
+    "phone": "+54 3487 44-6120",
+    "address": "Dr. Félix Pagola 290, B2800 Zárate, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 626,
+    "title": "BATUK",
+    "website": "http://batukjeans.com.ar/",
+    "phone": "+54 3487 44-8126",
+    "address": "AQF Zarate Buenos Aires AR, Independencia 799, B2800, Argentina"
+  },
+  {
+    "index": 627,
+    "title": "Tate Calzados",
+    "website": "http://www.tate.com.ar/",
+    "phone": "+54 358 614-0000",
+    "address": "Rivadavia 107, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 628,
+    "title": "NADESKA Calzado",
+    "website": "https://nadeskacalzado.empretienda.com.ar/",
+    "phone": "+54 3571 35-5827",
+    "address": "Gral. Paz 913, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 629,
+    "title": "Aym calzados",
+    "website": "https://aymcalzadosok.empretienda.com.ar/?fbclid=PAAaa3yuqMHTC2c977Dc71aMZxFCT6ks1VOFsOwtr2DG-pKRppiYnUB1xaUW0",
+    "phone": null,
+    "address": "Pcia de la Rioja 358, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 630,
+    "title": "Babilonia Calzados",
+    "website": "http://conven.com.ar/babiloniacalzados",
+    "phone": "+54 9 358 600-0247",
+    "address": "Mitre 588, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 631,
+    "title": "Salvatore",
+    "website": "https://www.salvatoreshoes.com/",
+    "phone": "+54 358 412-2952",
+    "address": "Constitución 934, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 632,
+    "title": "MIZAH",
+    "website": "http://www.mizahonline.com.ar/",
+    "phone": "+54 358 548-8841",
+    "address": "Rivadavia 57, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 633,
+    "title": "Paseo Ribera Shopping",
+    "website": "https://www.paseodelaribera.com.ar/",
+    "phone": "+54 358 464-3679",
+    "address": "X5800AAA, Sobremonte 80, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 634,
+    "title": "Claudia Arias",
+    "website": "http://www.claudiaarias.com.ar/",
+    "phone": "+54 9 358 436-3503",
+    "address": "Sobremonte 863, X5800 Río Cuarto, Córdoba, Argentina"
+  },
+  {
+    "index": 635,
+    "title": "Tito Calzados",
+    "website": "http://www.titocalzados.com.ar/",
+    "phone": "+54 294 442-2427",
+    "address": "Francisco Pascasio Moreno 426, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 636,
+    "title": "Mia Calzados",
+    "website": "https://www.calzadosmia.com/",
+    "phone": "+54 9 294 460-1158",
+    "address": "Onelli 755, Onelli 459, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 637,
+    "title": "Kura Bariloche",
+    "website": "https://www.kura.com.ar/",
+    "phone": null,
+    "address": "San Martín 74, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 638,
+    "title": "Pepe Bidart",
+    "website": "http://www.pepebidart.com.ar/",
+    "phone": "+54 294 442-8727",
+    "address": "Onelli 775, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 639,
+    "title": "Montagne",
+    "website": "http://www.montagne.com.ar/",
+    "phone": "+54 294 443-1009",
+    "address": "Mitre 60, R8400AHB San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 640,
+    "title": "PRIMOR Showroom Rauch Zapatos & Saltan Pepa Jeans",
+    "website": "https://primorbariloche.mitiendanube.com/",
+    "phone": null,
+    "address": null
+  },
+  {
+    "index": 641,
+    "title": "Tutto Carteras",
+    "website": "https://linktr.ee/tuttocarteras",
+    "phone": "+54 294 445-6631",
+    "address": "Quaglia 183, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 642,
+    "title": "Shopping Patagonia",
+    "website": "http://www.shoppingpatagonia.com.ar/",
+    "phone": "+54 294 443-3267",
+    "address": "Onelli 447, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 643,
+    "title": "Total Sport - Nike y Adidas",
+    "website": "http://www.totalsport.com.ar/",
+    "phone": "+54 294 443-9988",
+    "address": "Mitre 458, R8400 San Carlos de Bariloche, Río Negro, Argentina"
+  },
+  {
+    "index": 644,
+    "title": "Lady Stork | Stork Man Comodoro Rivadavia",
+    "website": "https://www.patagoniashoes.com.ar/",
+    "phone": "+54 297 446-2826",
+    "address": "25 de Mayo 815, U9000 Comodoro Rivadavia, Chubut, Argentina"
+  },
+  {
+    "index": 645,
+    "title": "Annette Boutique",
+    "website": "https://annette2.mitiendanube.com/",
+    "phone": "+54 297 417-3803",
+    "address": "Av. Polonia 495, U9000 Comodoro Rivadavia, Chubut, Argentina"
+  },
+  {
+    "index": 646,
+    "title": "La Madrileña",
+    "website": "http://www.xn--lamadrilea-19a.com.ar/",
+    "phone": "+54 810-220-3300",
+    "address": "San Martín 331, U9000AIG Comodoro Rivadavia, Chubut, Argentina"
+  },
+  {
+    "index": 647,
+    "title": "Zapateria - Dasha todo Dama",
+    "website": "https://sites.google.com/view/dasha-todo-dama",
+    "phone": "+54 9 297 419-1115",
+    "address": null
+  },
+  {
+    "index": 648,
+    "title": "@Achycalzadosymas",
+    "website": "http://achycalzadosymas.com/",
+    "phone": "+54 297 460-2255",
+    "address": "Andrés Minoli 2038, U9000 Comodoro Rivadavia, Chubut, Argentina"
+  },
+  {
+    "index": 649,
+    "title": "Milcositas",
+    "website": "http://www.milcositas.com/",
+    "phone": "+54 2901 50-1440",
+    "address": "Consultar dirección, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 650,
+    "title": "Popper Store",
+    "website": "http://www.popper-store.com/",
+    "phone": "+54 2901 42-2244",
+    "address": "BFU, Av. San Martín 740, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 651,
+    "title": "Duty Free Shop Atlántico Sur",
+    "website": "http://www.dutyfreeshopatlanticosur.com/",
+    "phone": "+54 2901 42-1298",
+    "address": "Av. San Martín 627, V9410BFG Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 652,
+    "title": "Jumping Rental Ushuaia",
+    "website": "http://www.jumpingushuaia.com/",
+    "phone": "+54 2901 51-5165",
+    "address": "9 de Julio 146, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 653,
+    "title": "Nitro",
+    "website": "https://nitroush.com/",
+    "phone": "+54 2901 43-4742",
+    "address": "V9410BFK, Av. San Martín 1051, V9410 BFK, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 654,
+    "title": "Monte Olivia Souvenir",
+    "website": "http://www.monteolivia.com/",
+    "phone": "+54 2901 43-0706",
+    "address": "San Martin 499, y, Lasserre V9410JRA, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 655,
+    "title": "Paseo del Fuego Shopping",
+    "website": "http://www.paseodelfuego.com.ar/",
+    "phone": "+54 2901 44-2600",
+    "address": "Perito Francisco Moreno 1460, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 656,
+    "title": "Pilusa | Zapatos de diseño",
+    "website": "https://www.soypilusa.com/",
+    "phone": "+54 2966 24-3017",
+    "address": "Rawson 108, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "index": 657,
+    "title": "Patio Central",
+    "website": "https://www.patiocentral.com.ar/",
+    "phone": "+54 9 2966 62-8876",
+    "address": "Av. Pres. Dr. Nestor C. Kirchner 968, Z9400BAV Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "index": 658,
+    "title": "acmirg",
+    "website": "https://acmirg-shoestore.negocio.site/?utm_source=gmb&utm_medium=referral",
+    "phone": "+54 2966 59-8468",
+    "address": "Corrientes 595, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "index": 659,
+    "title": "CARDON Río Gallegos",
+    "website": "http://www.cardon.com.ar/",
+    "phone": "+54 2966 42-3685",
+    "address": "Av Presidente Néstor C. Kirchner 870, Z9400BAU Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "index": 660,
+    "title": "Bazar&Cía -- Bazar en Río Gallegos",
+    "website": "http://www.bazarycia.com/",
+    "phone": "+54 9 2966 53-3906",
+    "address": "25 de Mayo 44, Z9400 Río Gallegos, Santa Cruz, Argentina"
+  },
+  {
+    "index": 661,
+    "title": "Calzados Los Gallegos",
+    "website": "http://www.calzadoslosgallegos.com.ar/",
+    "phone": "+54 260 408-8248",
+    "address": "Av. Gral. José de San Martín 54, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "index": 662,
+    "title": "Le Bottier",
+    "website": "http://lebottierzapatos.empretienda.com.ar/",
+    "phone": "+54 260 457-8262",
+    "address": "Av. Gral. José de San Martín 193, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "index": 663,
+    "title": "Calzados Los Gallegos Sucursal Balloffet y Santa Fe",
+    "website": "https://www.calzadoslosgallegos.com.ar/",
+    "phone": "+54 260 481-0897",
+    "address": "Av. Ing. Julio Balloffet 402, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "index": 664,
+    "title": "GusMar(calzados)",
+    "website": "https://www.gusmarcalzados.com.ar/",
+    "phone": "+54 260 409-7720",
+    "address": "San Lorenzo 199, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "index": 665,
+    "title": "Merlina Shop",
+    "website": "https://merlinashop.mitiendanube.com/",
+    "phone": "+54 260 405-1088",
+    "address": "El Pehuenche 1672, M5600 San Rafael, Mendoza, Argentina"
+  },
+  {
+    "index": 666,
+    "title": "Las Papianas",
+    "website": "https://papianas.com.ar/",
+    "phone": "+54 11 6062-2994",
+    "address": "Bartolomé Mitre 230, B1888IQF Florencio Varela, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 667,
+    "title": "Tuyen Junin",
+    "website": "https://tuyen.com.ar/",
+    "phone": null,
+    "address": "Remedios de Escalada de San Martín 48, B6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 668,
+    "title": "Ortopedia - Cirugia Viamonte",
+    "website": "https://www.ortopediaviamonte.com.ar/main.htm",
+    "phone": "+54 236 444-6522",
+    "address": "Francia 15, B6022 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 669,
+    "title": "Zimp junin",
+    "website": "https://zapasimportadasjunin.mitiendanube.com/",
+    "phone": "+54 236 467-7975",
+    "address": "Remedios de Escalada de San Martín 37, C6000 Junín, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 670,
+    "title": "Croma",
+    "website": "http://www.cromashop.com.ar/",
+    "phone": "+54 299 442-6642",
+    "address": "Perito Moreno y Río Negro, Paseo del Sol - Local 2, Q8300BEB Neuquén, Argentina"
+  },
+  {
+    "index": 671,
+    "title": "Feets - Alto Comahue Shopping (Neuquen)",
+    "website": "https://feets.ar/",
+    "phone": "+54 11 3077-2941",
+    "address": "Av. Dr. Ramón 355, Q8302 Neuquén, Argentina"
+  },
+  {
+    "index": 672,
+    "title": "PARANÁ GUANTES",
+    "website": "http://www.paranaguantes.com.ar/",
+    "phone": "+54 343 434-0897",
+    "address": "QFG, Av. Almafuerte 1561, E3102 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 673,
+    "title": "My Sandy - Modas Urbanas: 👢",
+    "website": "http://www.mysandy.com.ar/",
+    "phone": "+54 343 431-2364",
+    "address": "J J, Gral Justo José de Urquiza 1062, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 674,
+    "title": "Gitana Plus Size - Peatonal Paraná",
+    "website": "http://www.gitanaplussize.com/",
+    "phone": "+54 343 443-6982",
+    "address": "Gral. José de San Martín 857, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 675,
+    "title": "One Street Paraná",
+    "website": "https://onestreet2.mitiendanube.com/productos/?sort_by=created-descending",
+    "phone": "+54 343 455-9599",
+    "address": "Sta. Fe 174, E3100 Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "index": 676,
+    "title": "Narrow",
+    "website": "http://www.narrowjeans.com/",
+    "phone": "+54 11 4750-0337",
+    "address": "3 de Feb/647 2760, 3 de Febrero 2748, B1678GVP Caseros, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 677,
+    "title": "Ramos Generales El Almacén",
+    "website": "http://www.ramosgeneralesush.com.ar/",
+    "phone": "+54 2901 42-4317",
+    "address": "Av. Maipú 749, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 678,
+    "title": "Lucciano's Ushuaia",
+    "website": "https://www.luccianos.net/",
+    "phone": null,
+    "address": "Perito Francisco Moreno 1460, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 679,
+    "title": "ABC Deportes",
+    "website": "http://www.abcdeportes.com.ar/",
+    "phone": "+54 2901 42-2051",
+    "address": "Av. San Martín 387, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 680,
+    "title": "Dr Snow Rental Ski, Outdoor & Antarctic Gear Ushuaia",
+    "website": "https://www.drsnowrental.com/",
+    "phone": "+54 2901 54-7669",
+    "address": "Gdor. Deloqui 737, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 681,
+    "title": "Proveedora Industrial SRL",
+    "website": "http://www.proveedora.com.ar/",
+    "phone": "+54 2901 46-9606",
+    "address": "BDT, Gdor. Deloqui 942, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 682,
+    "title": "Laguna Negra Chocolates Artesanales",
+    "website": "http://www.lagunanegra.com.ar/",
+    "phone": "+54 9 2901 41-7597",
+    "address": "Av. San Martín 513, V9410 Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "index": 683,
+    "title": "Calzados Dany",
+    "website": "https://danycalzados.ar/",
+    "phone": "+54 11 5064-8366",
+    "address": "Cnel. Brandsen 2343, B1714 KZU, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 684,
+    "title": "Morin Store",
+    "website": "https://www.morinstore.com.ar/",
+    "phone": "+54 11 6440-4662",
+    "address": "Martín Fierro 3250, West Side, Leloir Plaza 3 Oficina 307, B1714 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 685,
+    "title": "Malsu",
+    "website": "https://malsu.com.ar/",
+    "phone": "+54 11 6902-0024",
+    "address": "Suboficial Perdomo 2048, B1714 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 686,
+    "title": "Matokee",
+    "website": "https://matokee.mitiendanube.com/",
+    "phone": "+54 11 6803-2328",
+    "address": "GEA, Peatonal Eva Perón 885, B1714 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 687,
+    "title": "Baby Delf",
+    "website": "https://dtfimpresionesargentinas.mitiendanube.com/",
+    "phone": "+54 11 7148-0073",
+    "address": "Av. Int. Carlos Ratti 3807, B1714 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 688,
+    "title": "Tiburtina",
+    "website": "https://www.tiburtina.com.ar/",
+    "phone": "+54 11 2271-4413",
+    "address": "República del Salvador 2284, B1714 IMD, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 689,
+    "title": "Mugato-BsAs",
+    "website": "http://www.mugatobsas.com.ar/",
+    "phone": "+54 11 3229-1898",
+    "address": "Del Pretal 390, B1713 Ituzaingó, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 690,
+    "title": "Telma calzados",
+    "website": "https://telmacalzados.mitiendanube.com/",
+    "phone": "+54 11 5015-3143",
+    "address": "Italia 1202, B1718FTN San Antonio de Padua, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 691,
+    "title": "Di Nizo Zapatos",
+    "website": "http://www.dinizo.com.ar/",
+    "phone": "+54 11 2315-9391",
+    "address": "Roma 85, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 692,
+    "title": "Le Scarpe Calzados",
+    "website": "https://www.lescarpecalzados.com.ar/",
+    "phone": null,
+    "address": "Arturo Jauretche 1441, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 693,
+    "title": "Candy Zapatos",
+    "website": "http://www.candyzapatos.com.ar/",
+    "phone": "+54 44521642",
+    "address": "Arturo Jauretche 1050, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 694,
+    "title": "CALZADOS Morocco",
+    "website": "http://www.moroccocalzados.com.ar/",
+    "phone": "+54 11 4452-4715",
+    "address": "Arturo Jauretche 941, B1686FCA Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 695,
+    "title": "Fábrica de Calzados Paolo",
+    "website": "http://www.calzadospaolo.com/",
+    "phone": "+54 11 4662-8435",
+    "address": "Gral. Toribio de Luzuriaga 1123, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 696,
+    "title": "Pasionaria Tienda de Zapatos",
+    "website": "https://pasionaria.com.ar/",
+    "phone": "+54 11 5504-2770",
+    "address": "Gibraltar 2317, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 697,
+    "title": "Chiarini",
+    "website": "http://ginatacalzados.com/",
+    "phone": "+54 11 7721-9075",
+    "address": "Arturo Jauretche 1001 Local 19, B1686FCD Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 698,
+    "title": "Casa Fagliano",
+    "website": "http://www.casafagliano.com/",
+    "phone": "+54 11 4665-0128",
+    "address": "Tambo Nuevo 1449, B1686EOU Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 699,
+    "title": "Valfer - Borceguies y bordados",
+    "website": "http://www.valfer.com.ar/",
+    "phone": "+54 11 5610-6134",
+    "address": "Francisco de Gurruchaga 1235, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 700,
+    "title": "Darc Cuir",
+    "website": "http://www.darccuir-yatay.com.ar/",
+    "phone": "+54 11 6569-1369",
+    "address": "José Garibaldi 2574, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 701,
+    "title": "Invaders Shoes",
+    "website": "https://treinta.shop/invadersshoes",
+    "phone": "+54 11 2855-2082",
+    "address": "Guardia Vieja 939, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 702,
+    "title": "Desatarse",
+    "website": "http://desatarse.mercadoshops.com.ar/",
+    "phone": "+54 11 5468-9931",
+    "address": "Tte. Gral. Julio Argentino Roca 1333, B1686 Hurlingham, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 703,
+    "title": "Calzados Salvador",
+    "website": "https://www.calzadossalvador.com/",
+    "phone": "+54 2320 42-4437",
+    "address": "Av. Pres. Hipólito Yrigoyen 1781, B1666 José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 704,
+    "title": "Factory Deportivo Jose C. Paz",
+    "website": "http://www.factorydeportivo.com.ar/",
+    "phone": "+54 2320 43-6545",
+    "address": "José C. Paz 1788, B1665BCF Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 705,
+    "title": "Cira Zapatos",
+    "website": "https://cirazapatos.com.ar/",
+    "phone": "+54 9 11 3095-5508",
+    "address": "Granaderos A Caballo 4847, B1665 José C. Paz, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 706,
+    "title": "CALZADOS ELIMAR",
+    "website": "http://calzados-elimar.com.ar/",
+    "phone": "+54 9 11 5053-4681",
+    "address": "Patricias Mendocinas 602, B1615 Ingeniero Pablo Nogués, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 707,
+    "title": "Mega Calzados",
+    "website": "https://megacalzados.com.ar/",
+    "phone": "+54 2320 43-7085",
+    "address": "Zuviría 5001, B1665 GKC, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 708,
+    "title": "Calzados Caruso",
+    "website": "http://www.calzadoscaruso.com/",
+    "phone": "+54 11 6061-3888",
+    "address": "Av. Pte. J. D. Perón 1388, B1663GHP Gran Buenos Aires, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 709,
+    "title": "J Leonardi Calzados",
+    "website": "http://jleonardi.com.ar/",
+    "phone": "+54 348 442-0785",
+    "address": "GMG, Rivadavia 369, B1625 Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 710,
+    "title": "Giovanni Move",
+    "website": "https://giovannimove.mercadoshops.com.ar/",
+    "phone": "+54 11 6665-9249",
+    "address": "Rivadavia 561, B1625 Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 711,
+    "title": "Delfos Deportes",
+    "website": "https://delfosdeportes.mitiendanube.com/productos/",
+    "phone": "+54 348 442-0455",
+    "address": "Rivadavia 543, B1625GMK Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 712,
+    "title": "ESTILO B",
+    "website": "https://estiloboficial.mitiendanube.com/?utm_source=titanpush&utm_medium=linkpage&utm_campaign=-web",
+    "phone": "+54 9 11 4095-1997",
+    "address": "Av. Eugenia Tapia de Cruz 972, B1625 Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 713,
+    "title": "Maloli Skate Shop",
+    "website": "https://malolishop2.mitiendanube.com/",
+    "phone": "+54 348 440-6587",
+    "address": "Colón 491, B1625 Belén de Escobar, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 714,
+    "title": "Calzados Miguel Angel",
+    "website": "https://www.calzadosmiguelangel.com.ar/",
+    "phone": "+54 2323 42-0493",
+    "address": "San Martín 451, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 715,
+    "title": "Calzados Lujandro - Lujan",
+    "website": "http://www.lujandro.com/",
+    "phone": "+54 2323 42-3112",
+    "address": "CKM, Rivadavia 1039, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 716,
+    "title": "Calzados sur Lujan",
+    "website": "https://calzadossuronline.mitiendanube.com/",
+    "phone": "+54 2323 21-1973",
+    "address": "Colón 1089, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 717,
+    "title": "María María",
+    "website": "http://mariamaria.empretienda.com.ar/",
+    "phone": "+54 2323 20-2337",
+    "address": "San Martín 323, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 718,
+    "title": "La Purita",
+    "website": "http://www.lapurita.com.ar/",
+    "phone": "+54 2323 20-1568",
+    "address": "San Martín 364, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 719,
+    "title": "Lelé Shoes & Bags",
+    "website": "http://www.leleshoes.com.ar/",
+    "phone": "+54 11 6208-6147",
+    "address": "Colón 1037, B6700CRM Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 720,
+    "title": "Momentoswateques",
+    "website": "http://nhtcok.empretienda.com.ar/",
+    "phone": "+54 11 6799-3533",
+    "address": "Evaristo Carriego 1002, B6700 Luján, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 721,
+    "title": "Leonetti",
+    "website": "http://www.leonetti.com.ar/",
+    "phone": "+54 2323 42-0645",
+    "address": "San Martín 999/983, B6700 APS, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 722,
+    "title": "Bumka Shoes",
+    "website": "https://www.bumka.com.ar/",
+    "phone": "+54 3329 59-8398",
+    "address": "Carlos Pellegrini 920, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 723,
+    "title": "Open Sports",
+    "website": "http://www.opensports.com.ar/",
+    "phone": "+54 3329 43-0461",
+    "address": "Bartolomé Mitre 868, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 724,
+    "title": "Pampero",
+    "website": "http://pampero.com.ar/",
+    "phone": null,
+    "address": "Bartolomé Mitre 1700, B2930 San Pedro, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 725,
+    "title": "Morr",
+    "website": "http://www.morrzapatos.com.ar/",
+    "phone": "+54 2324 42-6036",
+    "address": "C. 24 622, B6600 Mercedes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 726,
+    "title": "Java Calzados",
+    "website": "https://javacalzados.com.ar/",
+    "phone": "+54 2324 52-9315",
+    "address": "C. 27 586 Local 1, B6600 Mercedes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 727,
+    "title": "Peperina Moda",
+    "website": "https://peperina.com/",
+    "phone": "+54 9 2324 46-8586",
+    "address": "C. 25 535, B6600 Mercedes, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 728,
+    "title": "DONNA CALZADOS",
+    "website": "https://www.donnacalzados.com.ar/",
+    "phone": null,
+    "address": "Moreno 70, Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 729,
+    "title": "DE PUEBLO",
+    "website": "http://www.depueblotiendaonline.com/",
+    "phone": "+54 2346 36-0244",
+    "address": "Vicente López 30, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 730,
+    "title": "Carla lettieri SHOES",
+    "website": "https://www.carlalettierishoes.com.ar/",
+    "phone": "+54 2346 51-7597",
+    "address": "Cerrillo de la Averia 710, B6620 Chivilcoy, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 731,
+    "title": "Calzados Ro",
+    "website": "https://www.calzadosro.com.ar/",
+    "phone": "+54 9 2281 50-8523",
+    "address": "Corrientes 100, B7300 Azul, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 732,
+    "title": "Vera Calzados",
+    "website": "https://veracalzados.mitiendanube.com/",
+    "phone": "+54 2281 52-1511",
+    "address": "Libertad 1114, B7300 Azul, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 733,
+    "title": "Chiroqueta",
+    "website": "https://chiroqueta.empretienda.com.ar/",
+    "phone": "+54 2281 40-3910",
+    "address": "San Martín 630, B7300 Azul, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 734,
+    "title": "Amsterdam Cool Shoes",
+    "website": "https://amsterdamcoolshoes.com.ar/",
+    "phone": null,
+    "address": "San Martín 536, B7300 Azul, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 735,
+    "title": "Calzado Florencia",
+    "website": "https://calzadoflorencia.mitiendanube.com/",
+    "phone": "+54 2342 43-1313",
+    "address": "Brown 15, B6640 Bragado, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 736,
+    "title": "Tacos",
+    "website": "https://www.tacosshoes.com.ar/",
+    "phone": "+54 2342 44-6066",
+    "address": "Pellegrini 1319, B6640 Bragado, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 737,
+    "title": "SOFIA BASICS",
+    "website": "http://www.sofiabasics.com.ar/",
+    "phone": "+54 2342 53-4097",
+    "address": "Pellegrini 1644, B6640 Bragado, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 738,
+    "title": "Distrinando",
+    "website": "http://www.distrinando.com.ar/",
+    "phone": "+54 2344 45-0303",
+    "address": "Ruta 205Km 179,600, Saladillo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 739,
+    "title": "Star Deportes",
+    "website": "http://www.stardeportes.com/",
+    "phone": "+54 2345 45-2649",
+    "address": "Ruta 205 km 182, B7260 Saladillo, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 740,
+    "title": "RUFINA SHOES AND BAGS",
+    "website": "http://www.rufinashoesandbags.com/",
+    "phone": "+54 9 2241 57-7014",
+    "address": "Libres del Sur 87, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 741,
+    "title": "CULTURA EXTREMA",
+    "website": "https://linktr.ee/cultura.extrema",
+    "phone": "+54 2241 61-9900",
+    "address": "Libres del Sur 91, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 742,
+    "title": "Only You Chascomus",
+    "website": "http://www.onlyyou.ar/",
+    "phone": "+54 11 3934-8777",
+    "address": "Belgrano 198, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 743,
+    "title": "Dis-Fresh Helados",
+    "website": "http://heladosfresh.com.ar/",
+    "phone": "+54 2241 42-5220",
+    "address": "Libres del Sur 220, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 744,
+    "title": "Cotillon la Plata",
+    "website": "http://www.cotillonlaplata.com.ar/",
+    "phone": "+54 2241 43-0305",
+    "address": "Av. Lastra 417, B7130 Chascomús, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 745,
+    "title": "Calzados Sur",
+    "website": "https://calzadossuronline.com.ar/?ref=admin_header",
+    "phone": "+54 237 484-0794",
+    "address": "Av. San Martín, 2 de Abril &, B1748 Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 746,
+    "title": "Cross the line",
+    "website": "http://www.crosstheline.com.ar/",
+    "phone": "+54 11 5701-7105",
+    "address": "1748, Av. España 126, Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 747,
+    "title": "Zapatillas B-ivan",
+    "website": "https://ortiz10700730.mitiendanube.com/productos/ivan-zapatillas2/",
+    "phone": "+54 11 6631-5460",
+    "address": "Sgto. Cabral 132 Local 5, B1748 Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 748,
+    "title": ".",
+    "website": "https://loszapatosdelanegra.mitiendanube.com/",
+    "phone": "+54 9 11 4089-6971",
+    "address": "Country Terravista, Colectora Norte Acceso Oeste , km 47, Lote 41, C1748 Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 749,
+    "title": "ElZapatero.com.ar",
+    "website": "http://www.elzapatero.com.ar/",
+    "phone": "+54 9 11 4419-0640",
+    "address": "Oficina y ShowRoom, Colectora Sur Acceso Oeste 4170, B1748 Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  },
+  {
+    "index": 750,
+    "title": "Fadi",
+    "website": "https://www.fadi.com.ar/",
+    "phone": "+54 237 484-2000",
+    "address": "Balcarce 148, B1748MMD Gral. Rodríguez, Provincia de Buenos Aires, Argentina"
+  }
+]

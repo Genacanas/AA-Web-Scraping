@@ -1,0 +1,866 @@
+[
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "2",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "324284",
+        "image": "https://media.falabella.com/sodimacCO/324284/public",
+        "name": "Cerradura Electronica Tarjeta YMF30",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1247900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/324284/cerradura-electronica-tarjeta-ymf30/324284/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "662809",
+        "image": "https://media.falabella.com/sodimacCO/662809/public",
+        "name": "Cerradura Digital Yale Conexión a Wifi Ydm60 Kit",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1522900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/662809/cerradura-digital-yale-conexion-a-wifi-ydm60-kit/662809/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Domoticol"
+        },
+        "sku": "3003063",
+        "image": "https://media.falabella.com/sodimacCO/3003063/public",
+        "name": "Cerradura Digital Inteligente de Alta Seguridad Ilock Ls008 Con Apertura Por Wifi. Huella. Tarjeta. Clave de Acceso y Llave.",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "999900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3003063/cerradura-digital-inteligente-de-alta-seguridad-ilock-ls008-con-apertura-por-wifi-huella-tarjeta-clave-de-acceso-y-llave/3003063/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "700734",
+        "image": "https://media.falabella.com/sodimacCO/700734/public",
+        "name": "Cerradura Digital Tpsh Slim 3D",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1369900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/700734/cerradura-digital-tpsh-slim-3d/700734/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "583991",
+        "image": "https://media.falabella.com/sodimacCO/583991/public",
+        "name": "Cerrojo Digital Yale Real Living Con Manija De Apertura",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "802900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/583991/cerrojo-digital-yale-real-living-con-manija-de-apertura/583991/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Hexa"
+        },
+        "sku": "3006906",
+        "image": "https://media.falabella.com/sodimacCO/3006906/public",
+        "name": "Cerradura Smart Digital con Cámara y Batería de Litio Hxc-16 Set X 4 Unidades",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "2447900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3006305/cerradura-smart-digital-con-camara-y-bateria-de-litio-hxc-16-set-x-4-unidades/3006906/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.3333",
+            "reviewCount": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Mh Security Locks"
+        },
+        "sku": "732983",
+        "image": "https://media.falabella.com/sodimacCO/732983/public",
+        "name": "Cerradura Digital Principal Hc321 Plus",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "679900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/732983/cerradura-digital-principal-hc321-plus/732983/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "3005920",
+        "image": "https://media.falabella.com/sodimacCO/3005920/public",
+        "name": "Cerradura Digital Colors 5 mod Apertura Gris",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "399900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3005920/cerradura-digital-colors-5-mod-apertura-gris/3005920/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "594350",
+        "image": "https://media.falabella.com/sodimacCO/594350/public",
+        "name": "Cerradura Digital Ysd100 60mm Yale",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1123900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/594350/cerradura-digital-ysd100-60mm-yale/594350/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "307982",
+        "image": "https://media.falabella.com/sodimacCO/307982/public",
+        "name": "Cerradura Digital Biométrica manija Ymf40",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "2305500",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/307982/cerradura-digital-biometrica-manija-ymf40/307982/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4",
+            "reviewCount": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Vta +"
+        },
+        "sku": "776578",
+        "image": "https://media.falabella.com/sodimacCO/776578/public",
+        "name": "Cerradura Inteligente 5 Modos Apertura Xenon 37Cm",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "539900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/776578/cerradura-inteligente-5-modos-apertura-xenon-37cm/776578/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "707935",
+        "image": "https://media.falabella.com/sodimacCO/707935/public",
+        "name": "Cerradura Yale Digital Ymc420 W + Kit Yale Connect.",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1349900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/707935/cerradura-yale-digital-ymc420-w-kit-yale-connect/707935/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.3333",
+            "reviewCount": "6",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "542577",
+        "image": "https://media.falabella.com/sodimacCO/542577/public",
+        "name": "Cerradura Digital 5 Aperturas Tpsh260 Tps",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "834900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/542577/cerradura-digital-5-aperturas-tpsh260-tps/542577/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Vta +"
+        },
+        "sku": "686314",
+        "image": "https://media.falabella.com/sodimacCO/686314/public",
+        "name": "Cerradura Inteligente Con Reconocimiento Facial 3D Hexa 6 modos De Apertura Vta",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1199900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/686314/cerradura-inteligente-con-reconocimiento-facial-3d-hexa-6-modos-de-apertura-vta/686314/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Mh Security Locks"
+        },
+        "sku": "732984",
+        "image": "https://media.falabella.com/sodimacCO/732984/public",
+        "name": "Cerradura Digital Reconocimiento Facial Hc721 Plus",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1139900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/732984/cerradura-digital-reconocimiento-facial-hc721-plus/732984/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "328525",
+        "image": "https://media.falabella.com/sodimacCO/328525/public",
+        "name": "Kit Cerradura Digital Ymf 40 + Yale Connect Hub",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "2218900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/328525/kit-cerradura-digital-ymf-40-yale-connect-hub/328525/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Zerrutti"
+        },
+        "sku": "545092",
+        "image": "https://media.falabella.com/sodimacCO/545092/public",
+        "name": "Cerradura Digital Inteligente Negra/Silver 8010",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1115900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/545092/cerradura-digital-inteligente-negra-silver-8010/545092/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Elite"
+        },
+        "sku": "3026070",
+        "image": "https://media.falabella.com/sodimacCO/3026070/public",
+        "name": "Cerradura Inteligente Elite Sl2000l para Puertas de Hasta 6cm de Ancho.",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "216900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3026070/cerradura-inteligente-elite-sl2000l-para-puertas-de-hasta-6cm-de-ancho/3026070/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Ezviz"
+        },
+        "sku": "738938",
+        "image": "https://media.falabella.com/sodimacCO/738938/public",
+        "name": "Cerradura De Seguridad Inteligente Wifi Ezviz Dl03",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "289900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/738938/cerradura-de-seguridad-inteligente-wifi-ezviz-dl03/738938/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Zerrutti"
+        },
+        "sku": "545098",
+        "image": "https://media.falabella.com/sodimacCO/545098/public",
+        "name": "Cerradura Digital Inteligente Negra 8030",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1203900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/545098/cerradura-digital-inteligente-negra-8030/545098/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4",
+            "reviewCount": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "566164",
+        "image": "https://media.falabella.com/sodimacCO/566164/public",
+        "name": "Cerradura Digital Huella Tarjeta Rfd Tpsh720Plus",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "974900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/566164/cerradura-digital-huella-tarjeta-rfd-tpsh720plus/566164/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "328522",
+        "image": "https://media.falabella.com/sodimacCO/328522/public",
+        "name": "Kit Yale Connect+ Cerrojo Digital Living",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1034900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/328522/kit-yale-connect-cerrojo-digital-living/328522/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "590357",
+        "image": "https://media.falabella.com/sodimacCO/590357/public",
+        "name": "Cerrojo Digital Yale Connect Assure 256",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "879900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/590357/cerrojo-digital-yale-connect-assure-256/590357/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "667507",
+        "image": "https://media.falabella.com/sodimacCO/667507/public",
+        "name": "Cerradura Electronica Tpsh230 Plus",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "499900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/667507/cerradura-electronica-tpsh230-plus/667507/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Vta +"
+        },
+        "sku": "776390",
+        "image": "https://media.falabella.com/sodimacCO/776390/public",
+        "name": "Cerradura Inteligente Con Camara Hd Vertex 3- Video Portero-Mirilla Digital Y  Pantalla Vta",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "699900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/776390/cerradura-inteligente-con-camara-hd-vertex-3-video-portero-mirilla-digital-y-pantalla-vta/776390/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "3.75",
+            "reviewCount": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "580351",
+        "image": "https://media.falabella.com/sodimacCO/580351/public",
+        "name": "Manija Digital Biometrica Bari Negro Yale",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "389900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/580351/manija-digital-biometrica-bari-negro-yale/580351/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Vta +"
+        },
+        "sku": "726120",
+        "image": "https://media.falabella.com/sodimacCO/726120/public",
+        "name": "Cerradura Inteligente Wifi multiapertura xerux 3",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "599900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/726120/cerradura-inteligente-wifi-multiapertura-xerux-3/726120/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Mh Security Locks"
+        },
+        "sku": "630307",
+        "image": "https://media.falabella.com/sodimacCO/630307/public",
+        "name": "Cerradura Con Manija Camara Mha",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1099900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/630307/cerradura-con-manija-camara-mha/630307/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Elite"
+        },
+        "sku": "699793",
+        "image": "https://media.falabella.com/sodimacCO/699793/public",
+        "name": "Cerradura Inteligente Elite Sl5500l",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "559900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/699793/cerradura-inteligente-elite-sl5500l/699793/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Vta +"
+        },
+        "sku": "776577",
+        "image": "https://media.falabella.com/sodimacCO/776577/public",
+        "name": "Cerradura Inteligente Reconocimiento Facial Hexa 2 Vta",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "929900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/776577/cerradura-inteligente-reconocimiento-facial-hexa-2-vta/776577/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "3005917",
+        "image": "https://media.falabella.com/sodimacCO/3005917/public",
+        "name": "Cerradura Digital Aura 6 modos Apertura Negro",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1599900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3005917/cerradura-digital-aura-6-modos-apertura-negro/3005917/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Smartlock"
+        },
+        "sku": "3025457",
+        "image": "https://media.falabella.com/sodimacCO/3025457/public",
+        "name": "Cerradura Digital De Sobreponer 5 Aperts",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "489900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3025457/cerradura-digital-de-sobreponer-5-aperts/3025457/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Mh Security Locks"
+        },
+        "sku": "3022780",
+        "image": "https://media.falabella.com/sodimacCO/3022780/public",
+        "name": "Cerradura Digital de Manija M&h Ibiza",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "498900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3022780/cerradura-digital-de-manija-myh-ibiza/3022780/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Hexa"
+        },
+        "sku": "3014477",
+        "image": "https://media.falabella.com/sodimacCO/3014477/public",
+        "name": "Cerradura Smart Inteligente para Puerta Batiente Negra",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "264900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3014477/cerradura-smart-inteligente-para-puerta-batiente-negra/3014477/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "548742",
+        "image": "https://media.falabella.com/sodimacCO/548742/public",
+        "name": "Cerradura Yf67 Mueble Digital",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "129900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/548742/cerradura-yf67-mueble-digital/548742/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Hexa"
+        },
+        "sku": "798525",
+        "image": "https://media.falabella.com/sodimacCO/798525/public",
+        "name": "Cerrojo Bluetooth Con Sensor de Huella",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "299900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/798525/cerrojo-bluetooth-con-sensor-de-huella/798525/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "328524",
+        "image": "https://media.falabella.com/sodimacCO/328524/public",
+        "name": "Kit Yale Connect + Cerradura Digital Ymf 30",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1437900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/328524/kit-yale-connect-cerradura-digital-ymf-30/328524/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Zerrutti"
+        },
+        "sku": "606966",
+        "image": "https://media.falabella.com/sodimacCO/606966/public",
+        "name": "Cerradura Digital Inteligente Negra",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1236900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/606966/cerradura-digital-inteligente-negra/606966/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "Vta"
+        },
+        "sku": "614030",
+        "image": "https://media.falabella.com/sodimacCO/614030/public",
+        "name": "Cerradura Inteligente Para Puertas De Seguridad Radixmultiapertura Vta+",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "929900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/614030/cerradura-inteligente-para-puertas-de-seguridad-radixmultiapertura-vta/614030/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "reviewCount": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "Hexa"
+        },
+        "sku": "3006311",
+        "image": "https://media.falabella.com/sodimacCO/3006311/public",
+        "name": "Cerradura Smart Digital con Batería de Litio Hxc-15 Set X 5 Unidades",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "2014900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/3006306/cerradura-smart-digital-con-bateria-de-litio-hxc-15-set-x-5-unidades/3006311/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "662804",
+        "image": "https://media.falabella.com/sodimacCO/662804/public",
+        "name": "Cerrojo Digital Yale Manija Ydl120 Plateado",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "599900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/662804/cerrojo-digital-yale-manija-ydl120-plateado/662804/"
+        }
+    },
+    {
+        "@type": "Product",
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "662808",
+        "image": "https://media.falabella.com/sodimacCO/662808/public",
+        "name": "Cerradura Digital Yale Ydm60 60mm",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "1202900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/662808/cerradura-digital-yale-ydm60-60mm/662808/"
+        }
+    },
+    {
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.5",
+            "reviewCount": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "brand": {
+            "@type": "brand",
+            "name": "YALE"
+        },
+        "sku": "545374",
+        "image": "https://media.falabella.com/sodimacCO/545374/public",
+        "name": "Cerrojo Digital Yale Ydd120",
+        "offers": {
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "499900",
+            "priceCurrency": "COP",
+            "url": "/homecenter-co/product/545374/cerrojo-digital-yale-ydd120/545374/"
+        }
+    }
+]
